@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="theme-color" content="#e8743b">
+<title>へぇ英語 ─ 英語ぎらいのための基礎トレ</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <div class="top"><span class="brand">へぇ英語</span><span id="streak"></span></div>
+
+  <h1>英語ぎらいでも、<br>「へぇ！」で読める。</h1>
+  <p class="lead">まずは単語。そして、英文を「切って」読むコツ。毎日、約8分。</p>
+
+  <h3>今日のメニュー</h3>
+  <div class="menu">
+    <a class="card" href="tango.html" id="m1">
+      <span class="num" id="n1">1</span>
+      <span class="body"><b>今日の10語</b><span class="muted small" id="s1">見る → 聞く → 4択 → 例文。約5分。</span></span>
+      <span class="go">›</span>
+    </a>
+    <a class="card" href="kiru.html" id="m2">
+      <span class="num" id="n2">2</span>
+      <span class="body"><b>切る練習</b><span class="muted small" id="s2">「へぇ」な英文を1題。約3分。</span></span>
+      <span class="go">›</span>
+    </a>
+  </div>
+
+  <h3>これから追加</h3>
+  <div class="menu">
+    <div class="card soon"><span class="num">診</span><span class="body"><b>診断</b><span class="muted small">どのレベルの単語から始めるか、チェック。</span></span></div>
+    <div class="card soon"><span class="num">骨</span><span class="body"><b>文の骨組み</b><span class="muted small">品詞・文型。切るために必要な部品。</span></span></div>
+    <div class="card soon"><span class="num">共</span><span class="body"><b>共通テスト形式</b><span class="muted small">短い問題。リスニングも後で追加。</span></span></div>
+  </div>
+
+  <p class="footer">進み具合は、この端末（このブラウザ）の中に保存されます。<br>ログインは要りません。別の端末には引き継がれません。</p>
+</div>
+
+<script src="common.js"></script>
+<script>
+(function () {
+  var E = window.Eigo, t = E.dayNum();
+  var tg = E.load('eigo_tango_v1', { words: {}, doneDay: null });
+  var kr = E.load('eigo_kiru_v1', { done: {}, days: {} });
+
+  var s = E.getStreak();
+  if (s.streak > 0) {
+    document.getElementById('streak').innerHTML = '<span class="streak">🔥 ' + s.streak + '日つづいてるよ</span>';
+  }
+
+  var learned = Object.keys(tg.words || {}).length;
+  if (tg.doneDay === t) {
+    document.getElementById('n1').className = 'num done';
+    document.getElementById('n1').textContent = '✓';
+    document.getElementById('s1').textContent = '今日の分は達成！ これまでに ' + learned + ' 語を学習。';
+  } else if (learned > 0) {
+    document.getElementById('s1').textContent = '復習＋新しい10語。これまでに ' + learned + ' 語を学習。';
+  }
+
+  var todayList = (kr.days && kr.days[t]) || [];
+  if (todayList.length > 0) {
+    document.getElementById('n2').className = 'num done';
+    document.getElementById('n2').textContent = '✓';
+    document.getElementById('s2').textContent = '今日は ' + todayList.length + ' 題クリア！ もう1題いく？';
+  }
+})();
+</script>
+</body>
+</html>

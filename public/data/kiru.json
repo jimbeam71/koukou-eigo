@@ -1,0 +1,158 @@
+{
+  "version": 1,
+  "note": "切る練習の題。en=英文（半角スペース区切りで単語になる）。chunks=意味のかたまり（to=そのかたまりの最後の単語の番号。0始まり）。req=必ず切るべき場所（その単語の後ろ）。parens=前置詞句の範囲[始め,終わり]（L2のみ）。role: S主語 V動詞 O目的語 C補語 M修飾。",
+  "items": [
+    {
+      "id": "k1-01", "level": 1, "genre": "雑学", "title": "タコの心臓は3つ（しかも血は青い）",
+      "en": "An octopus has three hearts and blue blood.",
+      "chunks": [
+        {"to": 1, "role": "S", "ja": "タコは"},
+        {"to": 2, "role": "V", "ja": "持っている"},
+        {"to": 7, "role": "O", "ja": "3つの心臓と青い血を"}
+      ],
+      "req": [1, 2], "parens": [],
+      "jaFull": "タコには心臓が3つあり、血は青い。",
+      "summary": "タコの心臓は3つ。血が青いのは、銅をふくむ成分で酸素を運んでいるから。",
+      "notes": [["octopus", "タコ"], ["blood", "血"]]
+    },
+    {
+      "id": "k1-02", "level": 1, "genre": "心理", "title": "覚えやすいのは『最初と最後』",
+      "en": "We remember the first and the last things best.",
+      "chunks": [
+        {"to": 0, "role": "S", "ja": "私たちは"},
+        {"to": 1, "role": "V", "ja": "覚えている"},
+        {"to": 7, "role": "O", "ja": "最初と最後のことを"},
+        {"to": 8, "role": "M", "ja": "いちばんよく"}
+      ],
+      "req": [0, 1], "parens": [],
+      "jaFull": "人は、最初と最後のことをいちばんよく覚えている。",
+      "summary": "ひとまとまりの内容では、最初と最後が記憶に残りやすい。暗記は『真ん中』を多めに復習しよう。",
+      "notes": [["best", "いちばんよく"]]
+    },
+    {
+      "id": "k1-03", "level": 1, "genre": "お金", "title": "値段は『100gあたり』で比べる",
+      "en": "Smart shoppers check the price per 100 grams.",
+      "chunks": [
+        {"to": 1, "role": "S", "ja": "賢い買い物客は"},
+        {"to": 2, "role": "V", "ja": "確認する"},
+        {"to": 7, "role": "O", "ja": "100グラムあたりの値段を"}
+      ],
+      "req": [1, 2], "parens": [],
+      "jaFull": "賢い買い物客は、100グラムあたりの値段を確認する。",
+      "summary": "『お得な大容量』でも、100gあたりで比べると高いことがある。棚の小さな表示を見てみよう。",
+      "notes": [["per", "〜あたり"], ["gram", "グラム"]]
+    },
+    {
+      "id": "k1-04", "level": 1, "genre": "裏技", "title": "血のしみは『お湯』より『水』",
+      "en": "Cold water removes blood stains better than hot water.",
+      "chunks": [
+        {"to": 1, "role": "S", "ja": "冷たい水は"},
+        {"to": 2, "role": "V", "ja": "落とす"},
+        {"to": 4, "role": "O", "ja": "血のしみを"},
+        {"to": 8, "role": "M", "ja": "お湯よりもよく"}
+      ],
+      "req": [1, 2], "parens": [],
+      "jaFull": "血のしみは、お湯よりも冷たい水のほうがよく落ちる。",
+      "summary": "血のようなタンパク質のよごれは、お湯だと固まって落ちにくい。まず冷たい水で洗おう。",
+      "notes": [["remove", "取り除く"], ["stain", "しみ"]]
+    },
+    {
+      "id": "k1-05", "level": 1, "genre": "小話", "title": "テスト前日の部屋は、なぜかきれい",
+      "en": "My room became very clean the night before the test.",
+      "chunks": [
+        {"to": 1, "role": "S", "ja": "私の部屋は"},
+        {"to": 2, "role": "V", "ja": "なった"},
+        {"to": 4, "role": "C", "ja": "とてもきれいに"},
+        {"to": 9, "role": "M", "ja": "テストの前の晩に"}
+      ],
+      "req": [1, 2], "parens": [],
+      "jaFull": "テストの前の晩に、私の部屋はとてもきれいになった。",
+      "summary": "やるべきことから逃げたいとき、なぜか別のことがはかどる。みんなあるある。",
+      "notes": [["become", "〜になる"], ["clean", "きれいな"]]
+    },
+
+    {
+      "id": "k2-01", "level": 2, "genre": "雑学", "title": "ハチミツはなかなか腐らない",
+      "en": "Honey in a closed jar can stay good for many years.",
+      "chunks": [
+        {"to": 4, "role": "S", "ja": "ふたをした瓶の中のハチミツは"},
+        {"to": 6, "role": "V", "ja": "いられる"},
+        {"to": 7, "role": "C", "ja": "良い状態で"},
+        {"to": 10, "role": "M", "ja": "何年も"}
+      ],
+      "req": [4, 6], "parens": [[1, 4], [8, 10]],
+      "jaFull": "ふたをした瓶に入ったハチミツは、何年も良い状態でいられる。",
+      "summary": "ハチミツは水分がとても少なく、菌が増えにくい。だから長持ちする（固まっても食べられる）。",
+      "notes": [["closed", "閉じた"], ["jar", "びん"], ["stay", "〜のままでいる"]]
+    },
+    {
+      "id": "k2-02", "level": 2, "genre": "裏技", "title": "忘れ物は『ドアのメモ』でふせぐ",
+      "en": "A note on the door helps you remember your umbrella.",
+      "chunks": [
+        {"to": 4, "role": "S", "ja": "ドアのメモは"},
+        {"to": 5, "role": "V", "ja": "助けてくれる"},
+        {"to": 6, "role": "O", "ja": "あなたが"},
+        {"to": 9, "role": "C", "ja": "傘を思い出すのを"}
+      ],
+      "req": [4, 5], "parens": [[2, 4]],
+      "jaFull": "ドアのメモがあれば、傘のことを思い出せる。",
+      "summary": "出かける直前に必ず目に入る場所にメモを貼ると、忘れ物が減る。",
+      "notes": [["note", "メモ"], ["umbrella", "傘"]]
+    },
+    {
+      "id": "k2-03", "level": 2, "genre": "お金", "title": "『無料』のあとに、お金がかかる",
+      "en": "A free trial of a service can turn into a monthly payment.",
+      "chunks": [
+        {"to": 5, "role": "S", "ja": "サービスの無料体験は"},
+        {"to": 7, "role": "V", "ja": "なりうる"},
+        {"to": 11, "role": "M", "ja": "毎月の支払いに"}
+      ],
+      "req": [5, 7], "parens": [[3, 5], [8, 11]],
+      "jaFull": "サービスの無料体験は、毎月の支払いに変わることがある。",
+      "summary": "『無料』のあと、自動で有料になるものがある。始める日に、やめる日をカレンダーに入れておこう。",
+      "notes": [["trial", "お試し"], ["service", "サービス"], ["monthly", "毎月の"], ["payment", "支払い"]]
+    },
+    {
+      "id": "k2-04", "level": 2, "genre": "心理", "title": "迷ったら『真ん中』を選びがち",
+      "en": "On a menu, people often choose the middle one of three prices.",
+      "chunks": [
+        {"to": 2, "role": "M", "ja": "メニューでは"},
+        {"to": 3, "role": "S", "ja": "人は"},
+        {"to": 5, "role": "V", "ja": "よく選ぶ"},
+        {"to": 11, "role": "O", "ja": "3つの値段の真ん中のものを"}
+      ],
+      "req": [3, 5], "parens": [[0, 2], [9, 11]],
+      "jaFull": "メニューでは、人は3つの値段の真ん中をよく選ぶ。",
+      "summary": "松・竹・梅のように3つ並ぶと、真ん中が選ばれやすい。お店はこの傾向を使って値段を並べることがある。",
+      "notes": [["menu", "メニュー"], ["middle", "真ん中の"]]
+    },
+    {
+      "id": "k2-05", "level": 2, "genre": "雑学", "title": "金星は『1日』が『1年』より長い",
+      "en": "A day on Venus is longer than a year on Venus.",
+      "chunks": [
+        {"to": 3, "role": "S", "ja": "金星の1日は"},
+        {"to": 4, "role": "V", "ja": "〜だ"},
+        {"to": 5, "role": "C", "ja": "もっと長い"},
+        {"to": 10, "role": "M", "ja": "金星の1年よりも"}
+      ],
+      "req": [3, 4], "parens": [[2, 3], [9, 10]],
+      "jaFull": "金星では、1日のほうが1年より長い。",
+      "summary": "金星が1回自転する時間は約243日。太陽のまわりを1周するのは約225日。だから『1日』のほうが長い。",
+      "notes": [["Venus", "金星"], ["longer", "もっと長い"]]
+    },
+    {
+      "id": "k2-06", "level": 2, "genre": "小話", "title": "夜の脳は『黒歴史』を再生する",
+      "en": "At night, my brain remembers every embarrassing thing from my school days.",
+      "chunks": [
+        {"to": 1, "role": "M", "ja": "夜になると"},
+        {"to": 3, "role": "S", "ja": "私の脳は"},
+        {"to": 4, "role": "V", "ja": "思い出す"},
+        {"to": 11, "role": "O", "ja": "学生時代の恥ずかしいことを全部"}
+      ],
+      "req": [3, 4], "parens": [[0, 1], [8, 11]],
+      "jaFull": "夜になると、私の脳は学生時代の恥ずかしい出来事を全部思い出す。",
+      "summary": "寝る前に昔の恥ずかしい記憶がよみがえる夜は、だれにでもあるある。",
+      "notes": [["brain", "脳"], ["embarrassing", "恥ずかしい"]]
+    }
+  ]
+}
