@@ -17,4 +17,4 @@ have.forEach(h => forms(h).forEach(f => covered.add(f)));
 const list = fs.readFileSync(path.join(__dirname, 'wordmap.txt'), 'utf8').split('\n').map(s => s.trim()).filter(Boolean).slice(0, N);
 const left = list.filter(w => !covered.has(w));
 console.log('上位' + list.length + '語のうち、カバー済み ' + (list.length - left.length) + ' 語 / 未カバー ' + left.length + ' 語');
-console.log('未カバー（頻度順・先頭200）:\n' + left.slice(0, 200).join(' '));
+console.log('未カバー（頻度順・先頭200）:\n' + left.slice(0, +(process.argv[3]||200)).join(' '));
