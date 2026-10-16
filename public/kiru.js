@@ -5,7 +5,7 @@
   var KEY = 'eigo_kiru_v1';
   var ROLE = { S: '主語', V: '動詞', O: '目的語', C: '補語', M: '修飾' };
   var GENRES = ['雑学', '裏技', 'お金', '心理', '小話'];
-  var LEVEL_NAME = { 1: '主語と動詞を見つける', 2: '前置詞句をくくる' };
+  var LEVEL_NAME = { 1: '主語と動詞を見つける', 2: '前置詞句をくくる', 3: '不定詞・分詞・関係詞' };
   var app = document.getElementById('app');
 
   var items = [], st = E.load(KEY, { done: {}, days: {} });
@@ -58,7 +58,7 @@
     var h = '';
     // レベル切替
     h += '<div class="tabs">';
-    [1, 2].forEach(function (lv) {
+    [1, 2, 3].forEach(function (lv) {
       var all = items.filter(function (it) { return it.level === lv; });
       var ok = all.filter(function (it) { return st.done[it.id] && st.done[it.id].ok; }).length;
       h += '<button class="tab' + (lv === level ? ' on' : '') + '" data-lv="' + lv + '">L' + lv +
@@ -108,7 +108,11 @@
     if (it.level === 1) {
       h += '<p class="inst">英文を「主語（S）」と「動詞（V）」で切ろう。切りたい場所の<b>手前の単語</b>をタップすると <b>/</b> が入るよ。まちがえたら、同じ単語をもう一度タップで消える。「↩ 1つ戻す」でも戻せるよ。</p>';
     } else {
-      h += '<p class="inst">①「前置詞のかたまり」を <b>( )</b> でくくる（はじめの単語→おわりの単語をタップ）。②主語のあと・動詞のあとに <b>/</b> を入れる。まちがえたら「↩ 1つ戻す」。</p>';
+      if (it.level === 3) {
+        h += '<p class="inst">①「前置詞のかたまり」を <b>( )</b> でくくる（はじめの単語→おわりの単語をタップ）。②主語のあと・動詞のあとに <b>/</b> を入れる。③さらに、<b>to＋動詞</b>・<b>〜ing</b>・<b>〜ed</b>・<b>who / that</b>・<b>that節</b> が始まる<b>手前</b>にも <b>/</b> を入れよう。まちがえたら「↩ 1つ戻す」。</p>';
+      } else {
+        h += '<p class="inst">①「前置詞のかたまり」を <b>( )</b> でくくる（はじめの単語→おわりの単語をタップ）。②主語のあと・動詞のあとに <b>/</b> を入れる。まちがえたら「↩ 1つ戻す」。</p>';
+      }
       h += '<div class="modes"><button class="mode' + (mode === 'cut' ? ' on' : '') + '" data-m="cut">／ を入れる</button>' +
            '<button class="mode' + (mode === 'paren' ? ' on' : '') + '" data-m="paren">( ) でくくる</button></div>';
     }
@@ -314,8 +318,11 @@
       h += '</ul>';
     }
 
-    if (it.level === 2) {
+    if (it.level >= 2 && it.parens.length) {
       h += '<div class="box"><b class="t">骨組み（( ) の中をはずすと…）</b>' + skeleton(it) + '</div>';
+    }
+    if (it.point) {
+      h += '<div class="box point"><b class="t">✂ 切るポイント</b>' + esc(it.point) + '</div>';
     }
     h += '<div class="box"><b class="t">直読直解（前から順に）</b>' +
          it.chunks.map(function (c) { return esc(c.ja); }).join(' ／ ') +

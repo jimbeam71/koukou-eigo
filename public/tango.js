@@ -33,8 +33,14 @@
       .sort(function (a, b) { return S.words[a.id].due - S.words[b.id].due; })
       .map(function (w) { return w.id; });
   }
+  // 診断で「ほぼ知ってる」と分かったレベル（pref.later）の新しい語は、ほかのレベルのあとに出す
+  function laterLv() { return (pref && pref.later && pref.later.length) ? pref.later : []; }
   function freshIds() {
-    return WORDS.filter(function (w) { return !S.words[w.id]; }).slice(0, per()).map(function (w) { return w.id; });
+    var later = laterLv();
+    var all = WORDS.filter(function (w) { return !S.words[w.id]; });
+    var first = all.filter(function (w) { return later.indexOf(w.level) < 0; });
+    var rest = all.filter(function (w) { return later.indexOf(w.level) >= 0; });
+    return first.concat(rest).slice(0, per()).map(function (w) { return w.id; });
   }
 
   // ---------- スタート画面 ----------
@@ -66,6 +72,9 @@
       h += '</div>';
       h += '<button class="btn primary block" id="go">' + (done ? 'もう' + per() + '語やる' : 'スタート') + '</button>';
     }
+    if (laterLv().length) {
+      h += '<div class="laternote">診断の結果、「' + laterLv().map(function (l) { return LV[l]; }).join('」「') + '」の新しい語は後回し中。<button id="unlater">元に戻す</button></div>';
+    }
     h += '<div class="row gap-top"><button class="btn sm" id="auto">発音を自動で再生：' + (pref.auto ? 'ON' : 'OFF') + '</button></div>';
     h += '<p class="small muted" style="margin-top:10px">パソコンなら、キーの 1〜4 で選択、Enter で次へ進めるよ。音が出ないときは、音量とマナーモードを確認してね。</p>';
     h += '</div>';
@@ -80,6 +89,8 @@
         pref.per = parseInt(this.getAttribute('data-per'), 10); E.save(KEY_PREF, pref); renderStart();
       };
     }
+    var ul = document.getElementById('unlater');
+    if (ul) ul.onclick = function () { pref.later = []; E.save(KEY_PREF, pref); renderStart(); };
     document.getElementById('auto').onclick = function () {
       pref.auto = !pref.auto; E.save(KEY_PREF, pref); renderStart();
     };

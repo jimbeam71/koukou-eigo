@@ -33,8 +33,11 @@ kiru.items.forEach(it => {
   it.parens.forEach(p => { if (!ranges.some(r => p[0] >= r[0] && p[1] <= r[1])) errs.push(it.id + ' parenがchunkをまたぐ'); if (p[1] >= n) errs.push(it.id + ' paren範囲外'); });
   if (it.level === 1 && it.parens.length) errs.push(it.id + ' L1にparen');
   if (it.level === 2 && !it.parens.length) errs.push(it.id + ' L2にparenなし');
+  if (![1, 2, 3].includes(it.level)) errs.push(it.id + ' levelが不正');
+  if (it.level === 3 && !it.point) errs.push(it.id + ' L3にpoint（切るポイント）なし');
+  if (it.level === 3 && it.req.length < 3) errs.push(it.id + ' L3はreqが3つ以上（S・V＋新しい部品の前）');
   [''].concat(it.chunks.map((c, i) => '_' + i)).forEach(s => { if (!fs.existsSync(base + 'audio/k/' + it.id + s + '.mp3')) errs.push('音声なし audio/k/' + it.id + s + '.mp3'); });
 });
-console.log('切る練習', kiru.items.length, '題  level別', [1, 2].map(l => kiru.items.filter(i => i.level === l).length));
+console.log('切る練習', kiru.items.length, '題  level別', [1, 2, 3].map(l => kiru.items.filter(i => i.level === l).length));
 console.log(errs.length ? 'ERRORS:\n' + errs.join('\n') : 'ALL OK');
 process.exit(errs.length ? 1 : 0);
