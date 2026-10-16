@@ -65,6 +65,8 @@
            '<small>' + LEVEL_NAME[lv] + ' (' + ok + '/' + all.length + ')</small></button>';
     });
     h += '</div>';
+    // L2・L3：なぜ ( ) でくくるのか（はじめに説明）
+    if (level >= 2) h += whyHtml();
     // ジャンル
     h += '<div class="chips"><button class="chip' + (genre === 'all' ? ' on' : '') + '" data-g="all">すべて</button>';
     GENRES.forEach(function (g) {
@@ -92,7 +94,20 @@
     if (it) { checked ? bindResult(it) : bindWork(it); }
   }
 
+  function whyHtml() {
+    var open = !st.hideWhy;
+    var h = '<details class="why" id="why"' + (open ? ' open' : '') + '><summary>💡 なぜ ( ) でくくるの？</summary>';
+    h += '<p><b>前置詞のかたまり</b>（in / on / at / of / for / with など ＋ 名詞）は、「どこで・いつ・何の」を足す<b>飾り</b>。文の中心（主語S・動詞V）ではないんだ。</p>';
+    h += '<p>だから <b>( ) でくくって消すと、文の骨組みだけが残る</b>。長い文でも、「主語はどこまで？ 動詞はどれ？」がすぐ見つかるよ。</p>';
+    h += '<div class="box"><b class="t">れい</b>Honey in a closed jar can stay good for many years.<br>→ くくる：Honey <b>( in a closed jar )</b> can stay good <b>( for many years )</b>.<br>→ 骨組み：<b>Honey can stay good.</b>（ハチミツは 良いままでいられる）</div>';
+    if (level === 3) h += '<p>L3では、さらに <b>to＋動詞・〜ing・〜ed・who / that・that節</b> が始まる手前で切る。これも「名詞をあとから説明するかたまり」を見つけるための切り方だよ。</p>';
+    h += '</details>';
+    return h;
+  }
+
   function bindTop() {
+    var wy = document.getElementById('why');
+    if (wy) wy.addEventListener('toggle', function () { st.hideWhy = !wy.open; saveSt(); });
     var q = function (sel, fn) {
       var els = app.querySelectorAll(sel);
       for (var i = 0; i < els.length; i++) els[i].onclick = fn;

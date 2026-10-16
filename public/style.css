@@ -165,3 +165,8 @@ p{margin:0 0 10px}
 .dk{background:transparent;border:0;color:var(--muted);font:inherit;font-size:14px;text-decoration:underline;cursor:pointer;padding:12px;min-height:44px;width:100%}
 .laternote{background:var(--teal-soft);border-radius:12px;padding:10px 12px;font-size:13px;margin:10px 0}
 .laternote button{font:inherit;font-size:13px;color:var(--teal);background:transparent;border:0;text-decoration:underline;cursor:pointer;padding:4px}
+
+.why{background:var(--teal-soft);border-radius:14px;padding:10px 14px;margin:8px 0;font-size:14px}
+.why summary{font-weight:800;cursor:pointer;min-height:32px}
+.why p{margin:8px 0}
+.why .box{background:var(--card)}
