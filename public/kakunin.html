@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>へぇ英語 ─ 確認用一覧</title>
+<link rel="stylesheet" href="style.css">
+<style>
+.tabs2{display:flex;gap:8px;margin:12px 0}
+.tabs2 button,.flt button{font:inherit;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:8px 14px;cursor:pointer}
+.tabs2 button.on,.flt button.on{background:var(--accent-soft);border-color:var(--accent);font-weight:700}
+.flt{display:flex;flex-wrap:wrap;gap:6px;margin:0 0 12px}
+.it{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px 14px;margin:10px 0}
+.it .en{font-size:20px;font-weight:800}
+.it .ja{font-weight:700}
+.it .sm{font-size:14px;color:var(--muted)}
+.it .ex{margin-top:6px}
+.it .pl{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:8px;padding:4px 10px;margin-right:6px;cursor:pointer}
+.tag{display:inline-block;font-size:12px;border:1px solid var(--line);border-radius:999px;padding:0 8px;margin-left:6px;color:var(--muted)}
+.sent{font-size:18px;line-height:2}
+.sl{color:var(--accent);font-weight:800;margin:0 4px}
+.sl.o{color:var(--muted);font-weight:400}
+.pr{color:var(--teal);font-weight:800}
+.more{width:100%;font:inherit;padding:12px;border-radius:12px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer;margin:10px 0}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="top"><a href="index.html">← トップへ</a><span class="brand">確認用一覧</span></div>
+  <h1>全部を、ぱらぱら見る</h1>
+  <p class="lead">解かなくても、どの単語・どの題も直接見られます。作った内容のチェック用ページです（学習記録には影響しません）。</p>
+  <div class="tabs2"><button id="tW" class="on">単語</button><button id="tK">切る練習</button></div>
+  <div class="flt" id="flt"></div>
+  <div id="list"></div>
+</div>
+<script>
+(function(){
+  var W=[],K=[],mode='w',fw='new',fk='3',shown=0,PAGE=40,cur=null,au=null;
+  function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c];});}
+  function play(f,say){ try{ if(au) au.pause(); au=new Audio(f); au.play().catch(function(){}); }catch(e){} }
+  var LV={1:'中学基本',2:'高校基本',3:'共通テスト'};
+  Promise.all([fetch('data/tango.json').then(function(r){return r.json();}),fetch('data/kiru.json').then(function(r){return r.json();})]).then(function(r){
+    W=r[0].words;K=r[1].items;draw();
+  });
+  function filters(){
+    var f=document.getElementById('flt'),h='';
+    function b(id,label,on){return '<button data-f="'+id+'" class="'+(on?'on':'')+'">'+label+'</button>';}
+    if(mode==='w'){
+      h+=b('new','新しい100語（w801〜）',fw==='new')+b('all','すべて',fw==='all')+b('1','中学基本',fw==='1')+b('2','高校基本',fw==='2')+b('3','共通テスト',fw==='3');
+    }else{
+      h+=b('1','L1',fk==='1')+b('2','L2',fk==='2')+b('3','L3',fk==='3')+b('new','新しい30題',fk==='new')+b('all','すべて',fk==='all');
+    }
+    f.innerHTML=h;
+    Array.prototype.forEach.call(f.querySelectorAll('button'),function(x){x.onclick=function(){ if(mode==='w') fw=x.getAttribute('data-f'); else fk=x.getAttribute('data-f'); shown=0; draw(); };});
+  }
+  function list(){
+    if(mode==='w') return W.filter(function(w){ var n=parseInt(w.id.slice(1),10); return fw==='all'||(fw==='new'&&n>=801)||String(w.level)===fw; });
+    return K.filter(function(k){ if(fk==='all') return true; if(fk==='new'){ var n=parseInt(k.id.slice(3),10); return (k.level===2&&n>=23)||(k.level===3&&n>=9); } return String(k.level)===fk; });
+  }
+  function wHtml(w){
+    return '<div class="it"><span class="en">'+esc(w.en)+'</span><span class="tag">'+esc(w.pos)+'</span><span class="tag">'+LV[w.level]+'</span><span class="tag">'+w.id+'</span>'+
+      '<div class="ja">'+esc(w.ja)+'</div><div class="ex">'+esc(w.ex)+'<div class="sm">'+esc(w.exJa)+'</div></div>'+
+      '<div class="sm" style="margin:4px 0 6px">💡 '+esc(w.tip)+'</div>'+
+      '<button class="pl" data-a="audio/w/'+w.id+'.mp3">▶ 単語</button><button class="pl" data-a="audio/w/'+w.id+'x.mp3">▶ 例文</button></div>';
+  }
+  function kHtml(k){
+    var toks=k.en.split(' '),req={},ends={};
+    k.req.forEach(function(i){req[i]=1;});
+    k.chunks.forEach(function(c){ends[c.to]=1;});
+    var h='';
+    toks.forEach(function(t,i){
+      k.parens.forEach(function(p){ if(p[0]===i) h+='<span class="pr">(</span>'; });
+      h+=esc(t);
+      k.parens.forEach(function(p){ if(p[1]===i) h+='<span class="pr">)</span>'; });
+      if(i<toks.length-1){ h+= req[i]?'<span class="sl">/</span>':(ends[i]?'<span class="sl o">/</span>':' '); }
+    });
+    return '<div class="it"><b>'+esc(k.title)+'</b><span class="tag">L'+k.level+'</span><span class="tag">'+esc(k.genre)+'</span><span class="tag">'+k.id+'</span>'+
+      '<div class="sent">'+h+'</div><div class="sm">（濃い / は必ず切る場所、うすい / は切ってもよい場所、( ) は前置詞のかたまり）</div>'+
+      '<div class="ja">'+esc(k.jaFull)+'</div><div class="sm">'+esc(k.summary)+'</div>'+
+      (k.point?'<div class="sm" style="margin-top:4px">✂ '+esc(k.point)+'</div>':'')+
+      '<div class="sm" style="margin-top:4px">'+k.chunks.map(function(c){return esc(c.role)+'：'+esc(c.ja);}).join('　')+'</div>'+
+      '<div style="margin-top:6px"><button class="pl" data-a="audio/k/'+k.id+'.mp3">▶ 全文</button></div></div>';
+  }
+  function draw(){
+    filters();
+    var L=list(),box=document.getElementById('list');
+    var end=Math.min(L.length,shown+PAGE);
+    if(shown===0) box.innerHTML='<p class="muted">'+L.length+(mode==='w'?' 語':' 題')+'</p>';
+    var h='';
+    for(var i=shown;i<end;i++) h+=mode==='w'?wHtml(L[i]):kHtml(L[i]);
+    var old=box.querySelector('.more'); if(old) old.remove();
+    box.insertAdjacentHTML('beforeend',h);
+    shown=end;
+    if(shown<L.length){ var m=document.createElement('button'); m.className='more'; m.textContent='もっと見る（残り '+(L.length-shown)+'）'; m.onclick=draw; box.appendChild(m); }
+    Array.prototype.forEach.call(box.querySelectorAll('.pl:not([data-b])'),function(b){ b.setAttribute('data-b','1'); b.onclick=function(){ play(b.getAttribute('data-a')); }; });
+  }
+  document.getElementById('tW').onclick=function(){ mode='w'; shown=0; this.className='on'; document.getElementById('tK').className=''; draw(); };
+  document.getElementById('tK').onclick=function(){ mode='k'; shown=0; this.className='on'; document.getElementById('tW').className=''; draw(); };
+})();
+</script>
+</body>
+</html>
