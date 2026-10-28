@@ -46,7 +46,7 @@
     var f=document.getElementById('flt'),h='';
     function b(id,label,on){return '<button data-f="'+id+'" class="'+(on?'on':'')+'">'+label+'</button>';}
     if(mode==='w'){
-      h+=b('new','新しい100語（w801〜）',fw==='new')+b('all','すべて',fw==='all')+b('1','中学基本',fw==='1')+b('2','高校基本',fw==='2')+b('3','共通テスト',fw==='3');
+      h+=b('new','新しい100語（w901〜）',fw==='new')+b('all','すべて',fw==='all')+b('1','中学基本',fw==='1')+b('2','高校基本',fw==='2')+b('3','共通テスト',fw==='3');
     }else{
       h+=b('1','L1',fk==='1')+b('2','L2',fk==='2')+b('3','L3',fk==='3')+b('new','新しい30題',fk==='new')+b('all','すべて',fk==='all');
     }
@@ -54,7 +54,7 @@
     Array.prototype.forEach.call(f.querySelectorAll('button'),function(x){x.onclick=function(){ if(mode==='w') fw=x.getAttribute('data-f'); else fk=x.getAttribute('data-f'); shown=0; draw(); };});
   }
   function list(){
-    if(mode==='w') return W.filter(function(w){ var n=parseInt(w.id.slice(1),10); return fw==='all'||(fw==='new'&&n>=801)||String(w.level)===fw; });
+    if(mode==='w') return W.filter(function(w){ var n=parseInt(w.id.slice(1),10); return fw==='all'||(fw==='new'&&n>=901)||String(w.level)===fw; });
     return K.filter(function(k){ if(fk==='all') return true; if(fk==='new'){ var n=parseInt(k.id.slice(3),10); return (k.level===2&&n>=23)||(k.level===3&&n>=9); } return String(k.level)===fk; });
   }
   function wHtml(w){
