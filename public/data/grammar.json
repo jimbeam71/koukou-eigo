@@ -1,192 +1,324 @@
 {
- "version": 1,
+ "version": 2,
  "units": [
   {
    "id": "g01",
-   "title": "現在完了",
+   "title": "現在完了・過去完了",
    "tags": [
     "定期テスト",
     "共通テスト"
    ],
-   "one": "「過去にあったこと」が「今」とつながっているときに使う。形は have/has＋過去分詞。",
+   "one": "過去から今までのつながりを表す形。現在完了は have/has＋過去分詞、過去完了は had＋過去分詞（「その時より前」）。",
    "sections": [
     {
-     "h": "形と意味",
-     "p": "**have（三単現は has）＋過去分詞**。\n過去形は「その時の話」で終わるが、現在完了は「今どうなっているか」まで伝える。\n否定は have not（haven't）、疑問は Have you ～?",
+     "h": "現在完了の3用法",
+     "p": "形は **have/has＋過去分詞**。「過去の出来事」ではなく「今の状態」を言う形。\n**完了・結果**（もう～した）：just / already / yet / now\n**経験**（～したことがある）：ever / never / before / once / twice / ～ times / so far\n**継続**（ずっと～している）：for ～ / since ～ / How long ～? / all day / recently",
      "ex": [
       {
-       "en": "I have lost my key.",
-       "ja": "私はカギをなくした。（だから今、持っていない）"
+       "en": "I have been waiting for you for an hour, and my coffee has gone cold.",
+       "ja": "1時間もあなたを待っていて、コーヒーはさめてしまった。"
       },
       {
-       "en": "I lost my key.",
-       "ja": "私はカギをなくした。（今あるかは不明）"
+       "en": "Prices have risen sharply since the new tax was introduced.",
+       "ja": "新しい税が導入されてから、物価は急に上がった。（since＋過去形の文）"
+      },
+      {
+       "en": "Have you ever been late for your own birthday party?",
+       "ja": "自分の誕生日パーティーに遅刻したことはある？"
       }
      ]
     },
     {
-     "h": "3つの用法",
-     "p": "**① 完了・結果**：「もう～した」。just / already / yet といっしょに。\n**② 経験**：「～したことがある」。ever / never / before / ～ times といっしょに。\n**③ 継続**：「ずっと～している」。for ～（期間）/ since ～（起点）といっしょに。",
+     "h": "現在完了進行形",
+     "p": "形は **have/has been＋～ing**。「ずっと～し続けている」と、動作が続いていることを強調する。\n**know / like / belong / resemble などの状態動詞は進行形にできない**ので、普通の現在完了にする。\n動作が終わっていても、「その結果が今見える」ときに使うことがある（Why are your eyes red? — I have been crying.）。",
      "ex": [
       {
-       "en": "I have already eaten your pudding.",
-       "ja": "あなたのプリンは、もう食べてしまった。（完了）"
+       "en": "She has been studying since morning, so her brain is now soup.",
+       "ja": "彼女は朝から勉強し続けていて、頭の中はもうスープ状態だ。"
       },
       {
-       "en": "Have you ever seen a cat open a door?",
-       "ja": "ネコがドアを開けるのを見たことがある？（経験）"
-      },
-      {
-       "en": "My brother has been in the bath for an hour.",
-       "ja": "弟は1時間、おふろに入りっぱなしだ。（継続）"
+       "en": "I have known him since we were in elementary school.",
+       "ja": "彼とは小学生のときからの知り合いだ。（know は進行形にしない）"
       }
      ]
     },
     {
-     "h": "いっしょに使えない語",
-     "p": "**yesterday / last week / ～ ago / when（いつ？）** のように「過去のはっきりした時」を表す語は、現在完了とは使えない。この場合は過去形にする。",
+     "h": "よく出る定型表現",
+     "p": "**It is [has been] ＋期間＋ since ～**：～してから…になる\n**This is the first time (that) ＋ S ＋ have p.p.**：～するのは初めてだ（the second time ～ なども同じ）\n**have been to ～ / have gone to ～**：行ったことがある・行ってきた／行ってしまった（今いない）\n**現在完了と使えない語**：yesterday / last ～ / ～ ago / just now / then / When ～?（いつ？）→ 過去形にする。",
      "ex": [
       {
-       "en": "I finished my homework two hours ago.",
-       "ja": "2時間前に宿題を終えた。（ago があるので過去形）"
+       "en": "It has been three years since I started learning the drums.",
+       "ja": "ドラムを習い始めて3年になる。"
       },
       {
-       "en": "When did you break the vase?",
-       "ja": "いつ花びんを割ったの？（When は過去形）"
+       "en": "This is the first time I have seen a cat solve a puzzle.",
+       "ja": "ネコがパズルを解くのを見るのは、初めてだ。"
+      },
+      {
+       "en": "I met her three years ago, but I have not forgotten her laugh.",
+       "ja": "3年前に彼女に会ったが、笑い声は忘れていない。（ago があるので前半は過去形）"
+      }
+     ]
+    },
+    {
+     "h": "過去完了（had＋過去分詞）",
+     "p": "「過去のある時点」までの完了・経験・継続や、その時点より**さらに前**の出来事（大過去）を表す。\nWhen / By the time ～（過去形）で、「そのときにはもう～していた」の形でよく出る。",
+     "ex": [
+      {
+       "en": "By the time we got to the station, the last train had already left.",
+       "ja": "駅に着くまでに、最終電車はもう出てしまっていた。"
+      },
+      {
+       "en": "I found out that someone had eaten my cake.",
+       "ja": "誰かが私のケーキを食べてしまっていたことに気づいた。"
       }
      ]
     }
    ],
    "traps": [
     {
-     "t": "have been to と have gone to",
-     "body": "**have been to ～**＝行ったことがある／行ってきた。\n**have gone to ～**＝行ってしまった（今ここにいない）。\n例：He has gone to Osaka.（彼は大阪へ行ってしまい、今いない）"
+     "t": "過去形と現在完了のちがい",
+     "body": "I lived in Kyoto for ten years.（今は住んでいない可能性が高い）\nI have lived in Kyoto for ten years.（今も住んでいる）\n過去形は「その時の話」、現在完了は「今とのつながり」。"
     },
     {
-     "t": "for と since",
-     "body": "**for＋期間**（for ten years）／**since＋起点**（since 2015, since I was a child）。\n「いつから？」は since、「どのくらい？」は for。"
+     "t": "have been to と have gone to",
+     "body": "He has been to Osaka.（行ったことがある／行ってきた）\nHe has gone to Osaka.（行ってしまい、今ここにいない）\n「行ったことがある？」は Have you been to ～? と言い、gone は使わない。"
+    },
+    {
+     "t": "for と since の文法",
+     "body": "for＋期間（for ten years）／since＋起点（since 2015）。\nsince のあとに文が来るときは、**since ＋ 過去形の文**（主節は現在完了）。"
     }
    ],
-   "quiz": [
+   "drill": [
     {
-     "k": "定期",
-     "q": "I have ( ) this movie three times.",
+     "q": "現在完了の形はどれか。",
      "o": [
-      "see",
-      "saw",
-      "seen",
-      "seeing"
-     ],
-     "a": 2,
-     "w": "have のあとは過去分詞。see - saw - seen。three times は経験の合図。"
-    },
-    {
-     "k": "共通",
-     "q": "He ( ) in Osaka since 2015.",
-     "o": [
-      "lives",
-      "lived",
-      "has lived",
-      "is living"
-     ],
-     "a": 2,
-     "w": "since 2015（2015年から）は継続。has lived。"
-    },
-    {
-     "k": "定期",
-     "q": "I ( ) my homework yesterday.",
-     "o": [
-      "have finished",
-      "finished",
-      "have been finishing",
-      "will finish"
-     ],
-     "a": 1,
-     "w": "yesterday は過去のはっきりした時。現在完了は使えず、過去形。"
-    },
-    {
-     "k": "定期",
-     "q": "Have you ( ) eaten natto?",
-     "o": [
-      "ever",
-      "yet",
-      "already",
-      "just"
+      "have/has＋過去分詞",
+      "have/has＋原形",
+      "be動詞＋過去分詞",
+      "had＋過去分詞"
      ],
      "a": 0,
-     "w": "「今までに～したことがある？」は ever。経験の疑問文で使う。"
+     "w": "現在完了＝have/has＋過去分詞。had＋過去分詞は過去完了。"
     },
     {
-     "k": "共通",
-     "q": "My brother has ( ) to Hawaii. He isn't here now.",
+     "q": "現在完了進行形の形はどれか。",
      "o": [
-      "been",
+      "have/has been＋～ing",
+      "have/has＋～ing",
+      "have/has＋過去分詞",
+      "had been＋過去分詞"
+     ],
+     "a": 0,
+     "w": "現在完了進行形＝have/has been＋～ing。"
+    },
+    {
+     "q": "I have ( ) this novel twice.（read を適切な形に）",
+     "f": [
+      "read"
+     ],
+     "w": "read の過去分詞は read（つづりは同じで発音は「レッド」）。"
+    },
+    {
+     "q": "He has ( ) to Osaka, so he is not here now.（go を適切な形に）",
+     "f": [
+      "gone"
+     ],
+     "w": "「行ってしまい、今いない」は has gone to。"
+    },
+    {
+     "q": "I have ( ) to Osaka twice.（「行ったことがある」）",
+     "f": [
+      "been"
+     ],
+     "w": "経験は have been to。"
+    },
+    {
+     "q": "She has lived here ( ) 2010.",
+     "f": [
+      "since"
+     ],
+     "w": "2010（起点）なので since。"
+    },
+    {
+     "q": "We have been friends ( ) ten years.",
+     "f": [
+      "for"
+     ],
+     "w": "ten years（期間）なので for。"
+    },
+    {
+     "q": "次のうち、現在完了と**いっしょに使えない**語はどれか。",
+     "o": [
+      "ago",
+      "ever",
+      "yet",
+      "recently"
+     ],
+     "a": 0,
+     "w": "ago は過去のはっきりした時を表すので、現在完了とは使えない。"
+    },
+    {
+     "q": "次のうち、「継続」を表す文に合う語はどれか。",
+     "o": [
+      "since",
+      "ever",
+      "just",
+      "yet"
+     ],
+     "a": 0,
+     "w": "since（～から）・for（～の間）は継続の合図。"
+    },
+    {
+     "q": "It is ten years ( ) I came to Japan.",
+     "f": [
+      "since"
+     ],
+     "w": "It is ＋期間＋ since ～ の型。"
+    },
+    {
+     "q": "This is the first time I ( ) eaten durian.（適語1語）",
+     "f": [
+      "have"
+     ],
+     "w": "This is the first time ～ のあとは現在完了。have eaten。"
+    },
+    {
+     "q": "When I got there, the movie ( ) already started.（過去完了にする）",
+     "f": [
+      "had"
+     ],
+     "w": "「着いたとき、もう始まっていた」は過去完了＝had＋過去分詞。"
+    },
+    {
+     "q": "次のうち、**誤っている**文はどれか。",
+     "o": [
+      "I have been knowing him for years.",
+      "I have known him for years.",
+      "I have been waiting for an hour.",
+      "It has been raining since noon."
+     ],
+     "a": 0,
+     "w": "know は状態動詞なので進行形にできない。I have known him が正しい。"
+    },
+    {
+     "q": "How long ( ) you been studying English?（適語1語）",
+     "f": [
+      "have"
+     ],
+     "w": "How long ～? は継続をたずねる。現在完了進行形 have you been studying。"
+    }
+   ],
+   "test": [
+    {
+     "q": "Mr. Tanaka ( ) in this town for over thirty years, and he still enjoys the morning market.",
+     "o": [
+      "lived",
+      "has lived",
+      "had lived",
+      "is living"
+     ],
+     "a": 1,
+     "w": "for over thirty years は「今まで」の継続。現在完了 has lived。lived だと今は住んでいない含みになる。"
+    },
+    {
+     "q": "I ( ) Kyoto three times so far, and I want to go again.",
+     "o": [
+      "have visited",
+      "visited",
+      "had visited",
+      "was visiting"
+     ],
+     "a": 0,
+     "w": "so far（今までに）は経験の合図。現在完了 have visited。"
+    },
+    {
+     "q": "日本に来て2年になる。\nに合う英文はどれか。",
+     "o": [
+      "It has been two years since I came to Japan.",
+      "It is two years since I have come to Japan.",
+      "I have been in Japan since two years.",
+      "I came to Japan two years ago since."
+     ],
+     "a": 0,
+     "w": "It has been ＋期間＋ since ＋ 過去形の文。since の後ろは過去形で、期間には for か since のどちらかだけを使う。"
+    },
+    {
+     "q": "A: Is Emi still in the library?\nB: No, she has ( ) home.",
+     "o": [
       "gone",
+      "been",
       "went",
       "going"
      ],
-     "a": 1,
-     "w": "「行ってしまった（今いない）」は has gone to。been to は「行ったことがある」。"
+     "a": 0,
+     "w": "「帰ってしまい、今いない」は has gone。"
     },
     {
-     "k": "定期",
-     "q": "She has been sick ( ) last Monday.",
+     "q": "次のうち、文法的に正しい文はどれか。",
      "o": [
-      "for",
+      "I have seen him yesterday.",
+      "When have you finished your homework?",
+      "I have been to the museum last week.",
+      "I have never eaten such a delicious cake."
+     ],
+     "a": 3,
+     "w": "yesterday / When / last week は現在完了と使えない。never は経験を表し、4が正しい。"
+    },
+    {
+     "q": "By the time we got to the cinema, the movie ( ).",
+     "o": [
+      "started",
+      "has started",
+      "had started",
+      "was starting"
+     ],
+     "a": 2,
+     "w": "By the time ～（過去形）のときには、「もう始まっていた」＝過去完了 had started。"
+    },
+    {
+     "q": "This is the first time I ( ) such a beautiful sunset.",
+     "o": [
+      "see",
+      "saw",
+      "have seen",
+      "had seen"
+     ],
+     "a": 2,
+     "w": "This is the first time ～ のあとは現在完了 have seen。"
+    },
+    {
+     "q": "My sister ( ) for the exam since last month, so she looks very tired.",
+     "o": [
+      "studies",
+      "has been studying",
+      "studied",
+      "had studied"
+     ],
+     "a": 1,
+     "w": "since last month と、続いている動作を強調する現在完了進行形 has been studying。"
+    },
+    {
+     "q": "Ken: I haven't seen Ms. Brown ( ) she moved to Canada.\nAya: Me neither.",
+     "o": [
       "since",
-      "during",
-      "from"
-     ],
-     "a": 1,
-     "w": "last Monday は起点なので since。期間（three days）なら for。"
-    },
-    {
-     "k": "定期",
-     "q": "The train has ( ) left.",
-     "o": [
-      "already",
-      "ever",
-      "ago",
-      "yesterday"
+      "when",
+      "for",
+      "after"
      ],
      "a": 0,
-     "w": "「もう出てしまった」は already。ago と yesterday は現在完了と使えない。"
+     "w": "「～してから（ずっと）」は since ＋ 過去形の文。for のあとは期間（名詞）。"
     },
     {
-     "k": "定期",
-     "q": "I haven't finished my report ( ).",
+     "q": "When I got home, I realized I ( ) my phone at the cafe.",
      "o": [
-      "already",
-      "yet",
-      "ever",
-      "since"
+      "left",
+      "have left",
+      "had left",
+      "was leaving"
      ],
-     "a": 1,
-     "w": "否定文の「まだ（～ない）」は yet。already は主に肯定文。"
-    },
-    {
-     "k": "共通",
-     "q": "How long ( ) lived here?",
-     "o": [
-      "have you",
-      "did you",
-      "are you",
-      "do you"
-     ],
-     "a": 0,
-     "w": "How long ～? で期間をたずねる文は、現在完了の継続。Have you lived here?"
-    },
-    {
-     "k": "共通",
-     "q": "次のうち、正しい文はどれか。",
-     "o": [
-      "When have you visited Kyoto?",
-      "When did you visit Kyoto?",
-      "When do you visited Kyoto?",
-      "When have you visit Kyoto?"
-     ],
-     "a": 1,
-     "w": "When（いつ）は過去のはっきりした時をたずねるので、現在完了は使えない。When did you visit ～?"
+     "a": 2,
+     "w": "realized（過去）より前の出来事なので、過去完了 had left。"
     }
    ]
   },
@@ -197,394 +329,644 @@
     "定期テスト",
     "共通テスト"
    ],
-   "one": "「～される」を表す形。be動詞＋過去分詞で、「だれがしたか」より「何がされたか」を言いたいときに使う。",
+   "one": "「～される」を表す形（be＋過去分詞）。時制・助動詞・準動詞・熟語表現まで、形で作れるようにする。",
    "sections": [
     {
-     "h": "形と作り方",
-     "p": "**be動詞＋過去分詞（＋by ～）**。\n能動態の目的語を主語にして、動詞を be＋過去分詞に変え、主語を by ～ にする。\n「だれがしたか」が分かりきっているときや不明なときは、by ～ を省く。",
+     "h": "時制・助動詞・準動詞の受動態",
+     "p": "**現在** am/is/are＋p.p.　**過去** was/were＋p.p.　**未来** will be＋p.p.\n**現在完了** have/has been＋p.p.　**進行形** am/is/are **being** ＋p.p.\n**助動詞** can/must/may be＋p.p.　**不定詞** to be＋p.p.　**動名詞** being＋p.p.",
      "ex": [
       {
-       "en": "My sister ate the last cookie.",
-       "ja": "姉が最後のクッキーを食べた。（能動態）"
+       "en": "The old bridge is being rebuilt, so the whole town is taking a detour.",
+       "ja": "古い橋は建て替えられている最中なので、町中が遠回りしている。"
       },
       {
-       "en": "The last cookie was eaten by my sister.",
-       "ja": "最後のクッキーは、姉に食べられた。（受動態）"
+       "en": "This report must be finished by noon.",
+       "ja": "このレポートは、正午までに終えなければならない。"
       },
       {
-       "en": "English is spoken in many countries.",
-       "ja": "英語は多くの国で話されている。（by ～ を省いた形）"
+       "en": "I hate being laughed at when I sing.",
+       "ja": "歌っているときに笑われるのはきらいだ。"
       }
      ]
     },
     {
-     "h": "時制と助動詞",
-     "p": "be動詞を変えると時制が変わる。\n現在：is made／過去：was made／未来：will be made\n現在完了：has been made／進行：is being made\n助動詞のあとは **be＋過去分詞**（can be seen, must be done）。",
+     "h": "目的語が2つ・補語をとる動詞の受動態",
+     "p": "**SVOO**：どちらの目的語も主語にできる。\nHe gave me a book. → I was given a book by him. / A book was given (to) me by him.\n**SVOC**：We call him Ken. → He is called Ken (by us).\n**使役・知覚動詞**は、受動態になると原形が **to 不定詞** に変わる。\nmake → be made **to** do／see → be seen **to** do（hear も同じ）。let は受動態にせず、be allowed to を使う。",
      "ex": [
       {
-       "en": "My bike is being repaired now.",
-       "ja": "私の自転車は、今修理されている。"
+       "en": "We were given too much homework over the weekend.",
+       "ja": "私たちは、週末にたくさんの宿題を出された。"
       },
       {
-       "en": "The homework must be finished by Friday.",
-       "ja": "宿題は、金曜までに終わらせなければならない。"
+       "en": "The boy was made to clean the bathroom after he had drawn on the wall.",
+       "ja": "その男の子は、壁に落書きしたあと、おふろ掃除をさせられた。"
       },
       {
-       "en": "This room has not been cleaned since Monday.",
-       "ja": "この部屋は、月曜から掃除されていない。"
+       "en": "A man was seen to enter the shop just before the alarm went off.",
+       "ja": "警報が鳴る直前に、男が店に入るのが見られた。"
       }
      ]
     },
     {
-     "h": "by 以外を使う受動態",
-     "p": "感情や状態を表す受動態は、by 以外の前置詞をとることが多い。\n**be surprised at ～**（～に驚く）／**be interested in ～**（～に興味がある）／**be covered with ～**（～でおおわれている）／**be known to ～**（～に知られている）／**be made of ～**（～でできている）",
+     "h": "群動詞の受動態",
+     "p": "〈動詞＋前置詞/副詞〉は1つの動詞として扱い、**前置詞を落とさない**。\nlaugh at → **be laughed at**／look after → **be looked after**／take care of → **be taken care of**\nspeak to → be spoken to／look up to → be looked up to（尊敬される）／run over → be run over（ひかれる）／talk about → be talked about",
      "ex": [
       {
-       "en": "Mt. Fuji is covered with snow in winter.",
-       "ja": "冬、富士山は雪でおおわれる。"
+       "en": "The injured dog was taken care of by the whole neighborhood.",
+       "ja": "けがをした犬は、近所みんなで世話をされた。"
       },
       {
-       "en": "Everyone was surprised at the news.",
-       "ja": "みんな、そのニュースに驚いた。"
+       "en": "My grandfather is looked up to by everyone in the village.",
+       "ja": "祖父は村のみんなから尊敬されている。"
+      }
+     ]
+    },
+    {
+     "h": "by 以外の前置詞をとる表現",
+     "p": "**be surprised at**（～に驚く）／**be interested in**（～に興味がある）／**be covered with**（～でおおわれる）／**be filled with**（～でいっぱい）\n**be satisfied with**（～に満足）／**be pleased with**（～に喜ぶ）／**be married to**（～と結婚している）／**be engaged in**（～に従事）\n**be known to**（～に知られている：人）／**be known for**（～で有名：理由）／**be known as**（～として知られる：資格）\n**be made of**（材料が見える）／**be made from**（原料が変化）／**be involved in**（～に巻き込まれる）",
+     "ex": [
+      {
+       "en": "Kyoto is known to tourists all over the world, and known for its temples.",
+       "ja": "京都は世界中の観光客に知られていて、お寺で有名だ。"
+      },
+      {
+       "en": "Cheese is made from milk, but this chair is made of wood.",
+       "ja": "チーズは牛乳から作られるが、このいすは木でできている。"
+      }
+     ]
+    },
+    {
+     "h": "It is said that ～ / S is said to ～",
+     "p": "People say that he is rich.\n→ **It is said that** he is rich.\n→ **He is said to** be rich.\nsay / believe / think / report / expect などで使える。文末の to 不定詞は、述語より前のことなら **to have p.p.** にする（He is said to have been rich.）。",
+     "ex": [
+      {
+       "en": "It is said that sleeping cats can hear a snack bag from three rooms away.",
+       "ja": "寝ているネコは、3部屋先のおやつの袋の音も聞こえると言われている。"
+      },
+      {
+       "en": "The company is expected to announce a new product next month.",
+       "ja": "その会社は、来月新製品を発表すると予想されている。"
       }
      ]
     }
    ],
    "traps": [
     {
-     "t": "句動詞は1つの動詞として扱う",
-     "body": "laugh at ～（～を笑う）→ **be laughed at by ～**。\n前置詞を落とさないこと。look after → be looked after、take care of → be taken care of も同じ。"
+     "t": "受動態にできない動詞",
+     "body": "**状態を表す動詞**（have「持っている」／resemble／lack／fit／suit）は受動態にしない。\n**自動詞**（happen／occur／appear／belong／arrive）も目的語がないので受動態にできない。\n×The accident was happened. → ○The accident happened."
     },
     {
-     "t": "made of と made from",
-     "body": "**be made of ～**：材料が見てすぐ分かる（The desk is made of wood.）。\n**be made from ～**：原料が変化して分からない（Wine is made from grapes.）。"
+     "t": "known to / for / as の使い分け",
+     "body": "known **to** ＋人（人に知られている）／known **for** ＋理由・特徴（～で有名）／known **as** ＋資格（～として知られている）。"
+    },
+    {
+     "t": "by ～ を省くとき",
+     "body": "行為者が一般の人・不明・重要でないときは by ～ を書かない。\n日本語に引っぱられず、「行為者を言う必要があるか」で決める。"
     }
    ],
-   "quiz": [
+   "drill": [
     {
-     "k": "定期",
-     "q": "This cake ( ) by my sister.",
+     "q": "進行形の受動態の形はどれか。",
      "o": [
-      "made",
-      "was made",
-      "is making",
-      "was making"
+      "be動詞＋being＋過去分詞",
+      "be動詞＋been＋過去分詞",
+      "have＋being＋過去分詞",
+      "be動詞＋過去分詞＋ing"
      ],
-     "a": 1,
-     "w": "「作られた」なので過去の受動態。was made。"
+     "a": 0,
+     "w": "進行形の受動態＝be being＋過去分詞。 e.g. is being repaired（修理されている最中）。"
     },
     {
-     "k": "定期",
-     "q": "English ( ) in many countries.",
-     "o": [
-      "speaks",
-      "is spoken",
-      "spoke",
-      "is speaking"
+     "q": "The bridge is ( ) rebuilt now.（適語1語）",
+     "f": [
+      "being"
      ],
-     "a": 1,
-     "w": "「話されている」は受動態。is spoken。"
+     "w": "進行形の受動態は be being p.p.。"
     },
     {
-     "k": "定期",
-     "q": "The window ( ) yesterday.",
-     "o": [
-      "broke",
-      "was broken",
-      "has broke",
-      "is breaking"
+     "q": "The room has ( ) cleaned.（適語1語）",
+     "f": [
+      "been"
      ],
-     "a": 1,
-     "w": "窓は「割られた」側。was broken。"
+     "w": "現在完了の受動態は have/has been p.p.。"
     },
     {
-     "k": "定期",
-     "q": "The homework must ( ) by Friday.",
-     "o": [
-      "finish",
-      "be finished",
-      "finished",
-      "be finishing"
+     "q": "This work must ( ) finished by noon.（適語1語）",
+     "f": [
+      "be"
      ],
-     "a": 1,
-     "w": "助動詞 must のあとは be＋過去分詞。"
+     "w": "助動詞のあとは be＋過去分詞。"
     },
     {
-     "k": "共通",
-     "q": "My bike ( ) now.（今修理されている）",
-     "o": [
-      "is repaired",
-      "is being repaired",
-      "was repaired",
-      "has repaired"
+     "q": "I hate ( ) laughed at.（適語1語）",
+     "f": [
+      "being"
      ],
-     "a": 1,
-     "w": "進行中の受動態は is being＋過去分詞。"
+     "w": "動名詞の受動態は being＋過去分詞。"
     },
     {
-     "k": "定期",
-     "q": "Mt. Fuji is covered ( ) snow in winter.",
-     "o": [
-      "by",
-      "with",
-      "from",
+     "q": "He was made ( ) clean the room.（適語1語）",
+     "f": [
       "to"
      ],
+     "w": "使役動詞 make の受動態では、原形が to 不定詞になる。"
+    },
+    {
+     "q": "次のうち、受動態にできない動詞はどれか。",
+     "o": [
+      "resemble",
+      "love",
+      "break",
+      "write"
+     ],
+     "a": 0,
+     "w": "resemble（似ている）は状態を表す動詞なので、受動態にしない。"
+    },
+    {
+     "q": "Mt. Fuji is covered ( ) snow.",
+     "f": [
+      "with"
+     ],
+     "w": "be covered with ～。"
+    },
+    {
+     "q": "I'm interested ( ) history.",
+     "f": [
+      "in"
+     ],
+     "w": "be interested in ～。"
+    },
+    {
+     "q": "He is known ( ) a great doctor.（資格）",
+     "f": [
+      "as"
+     ],
+     "w": "「～として知られている」＝be known as ～。"
+    },
+    {
+     "q": "This town is known ( ) its hot springs.（理由・特徴）",
+     "f": [
+      "for"
+     ],
+     "w": "「～で有名」＝be known for ～。"
+    },
+    {
+     "q": "She is married ( ) a pilot.",
+     "f": [
+      "to"
+     ],
+     "w": "be married to ～。with は誤り。"
+    },
+    {
+     "q": "Wine is made ( ) grapes.（原料が変化する）",
+     "f": [
+      "from"
+     ],
+     "w": "原料が変化して見えないときは be made from ～。"
+    },
+    {
+     "q": "People say that he is rich. = He is ( ) to be rich.（適語1語）",
+     "f": [
+      "said"
+     ],
+     "w": "He is said to be ～。 It is said that ～ とも書ける。"
+    },
+    {
+     "q": "We call him Ken. → He ( ) Ken by us.（適語2語）",
+     "f": [
+      "is called"
+     ],
+     "w": "SVOC の受動態。He is called Ken."
+    }
+   ],
+   "test": [
+    {
+     "q": "The old bridge ( ) now, so we have to take a detour.",
+     "o": [
+      "is repairing",
+      "is being repaired",
+      "has repaired",
+      "is repaired"
+     ],
      "a": 1,
-     "w": "be covered with ～（～でおおわれる）の決まった形。"
+     "w": "「修理されている最中」は進行形の受動態 is being repaired。"
     },
     {
-     "k": "定期",
-     "q": "Everyone was surprised ( ) the news.",
+     "q": "Tom ( ) to clean the bathroom by his mother.",
      "o": [
-      "at",
-      "of",
-      "for",
-      "from"
+      "was made",
+      "made",
+      "was let",
+      "let"
      ],
      "a": 0,
-     "w": "be surprised at ～（～に驚く）。"
+     "w": "make の受動態は be made to do。let は受動態にできない。"
     },
     {
-     "k": "定期",
-     "q": "This song is known ( ) young people.",
+     "q": "The dog was run ( ) by a car, but luckily it was not hurt.",
      "o": [
-      "to",
-      "at",
-      "in",
-      "from"
-     ],
-     "a": 0,
-     "w": "be known to ～（～に知られている）。"
-    },
-    {
-     "k": "共通",
-     "q": "He was laughed ( ) by his classmates.",
-     "o": [
-      "at",
-      "to",
+      "over",
       "on",
-      "of"
+      "at",
+      "up"
      ],
      "a": 0,
-     "w": "laugh at ～ をまとめて受動態にする。was laughed at by ～。"
+     "w": "run over ～（～をひく）の受動態 be run over。"
     },
     {
-     "k": "定期",
-     "q": "Everyone loves her. → She ( ) by everyone.",
+     "q": "This medicine is known ( ) a cure for the common cold.",
      "o": [
-      "loves",
-      "is loved",
-      "loved",
-      "is loving"
+      "as",
+      "to",
+      "for",
+      "with"
+     ],
+     "a": 0,
+     "w": "資格・立場を表す be known as ～（～として知られている）。"
+    },
+    {
+     "q": "It is said that the company will move to Osaka. = The company ( ) to move to Osaka.",
+     "o": [
+      "says",
+      "is said",
+      "is saying",
+      "said"
      ],
      "a": 1,
-     "w": "目的語 her を主語 She にして、loves を is loved に変える。"
+     "w": "It is said that ～ ＝ S is said to ～。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "My father is resembled by me.",
+      "I was given a nice present by my uncle.",
+      "The accident was happened last night.",
+      "A car is belonged to him."
+     ],
+     "a": 1,
+     "w": "resemble・happen・belong は受動態にならない。SVOO の give は、人を主語にして受動態にできる。"
+    },
+    {
+     "q": "Mr. Brown is ( ) by all his students.",
+     "o": [
+      "looked up to",
+      "looked up",
+      "looked after to",
+      "looked at"
+     ],
+     "a": 0,
+     "w": "look up to ～（尊敬する）。群動詞の受動態は前置詞を落とさない。"
+    },
+    {
+     "q": "The box was filled ( ) old photographs.",
+     "o": [
+      "with",
+      "by",
+      "of",
+      "in"
+     ],
+     "a": 0,
+     "w": "be filled with ～（～でいっぱい）。"
+    },
+    {
+     "q": "I don't like ( ) spoken to by strangers.",
+     "o": [
+      "to be",
+      "being",
+      "to being",
+      "be"
+     ],
+     "a": 1,
+     "w": "like のあとの動名詞の受動態＝being＋過去分詞。"
+    },
+    {
+     "q": "Her wallet ( ) on the train yesterday.",
+     "o": [
+      "stole",
+      "was stolen",
+      "has stolen",
+      "was stealing"
+     ],
+     "a": 1,
+     "w": "財布は「盗まれた」側。過去の受動態 was stolen。"
     }
    ]
   },
   {
    "id": "g03",
-   "title": "関係代名詞",
+   "title": "関係詞",
    "tags": [
     "定期テスト",
     "共通テスト"
    ],
-   "one": "名詞のうしろにつけて、その名詞を説明する文をつなぐ「接着剤」。人なら who、物なら which、どちらも that が使える。",
+   "one": "名詞のうしろにつけて、その名詞を説明する文をつなぐ語。代名詞のはたらき（who/which/that/whose）と、副詞のはたらき（where/when/why/how）がある。",
    "sections": [
     {
-     "h": "はたらき",
-     "p": "2つの文を、共通する名詞でつなぐ。\n名詞（先行詞）のすぐうしろに置いて、「どんな人／物か」を説明する。\nI have a friend. ＋ He can speak five languages. → I have a friend **who** can speak five languages.",
+     "h": "関係代名詞：格と先行詞",
+     "p": "後ろの文に「名詞が欠けている」ときに使う。\n**主格**（後ろに動詞）：人 who／物 which／どちらも that\n**目的格**（後ろに S＋V）：人 who(m)／物 which／that（省略できる）\n**所有格**（後ろに名詞）：whose\n動詞は**先行詞に一致**させる。",
      "ex": [
       {
-       "en": "I have a friend who can speak five languages.",
-       "ja": "私には、5か国語を話せる友だちがいる。"
+       "en": "I have a friend who can fall asleep anywhere, even during a fire drill.",
+       "ja": "どこでも、避難訓練の最中でも眠れる友だちがいる。"
       },
       {
-       "en": "This is the book which I bought yesterday.",
-       "ja": "これは、私が昨日買った本だ。"
+       "en": "The movie I saw last night was so boring that I counted the ceiling tiles.",
+       "ja": "昨夜見た映画は退屈で、天井のタイルを数えていた。（目的格の省略）"
+      },
+      {
+       "en": "She is a singer whose voice makes dogs howl in harmony.",
+       "ja": "彼女は、声を聞くと犬がハモって遠吠えする歌手だ。"
       }
      ]
     },
     {
-     "h": "主格・所有格・目的格",
-     "p": "**主格**（あとに動詞が来る）：人 who／物 which／どちらも that\n**所有格**（あとに名詞が来る）：whose\n**目的格**（あとに「主語＋動詞」が来る）：人 who(m)／物 which／that。目的格は **省略できる**。",
+     "h": "前置詞＋関係代名詞",
+     "p": "前置詞は関係代名詞の**直前**に置くことも、**文末に残す**こともできる。\nThis is the house **in which** I was born. ＝ This is the house **which** I was born **in**.\n前置詞を直前に置くと、人は whom、物は which を使い、**that は使えない**。\n文末に残す形なら who / that や省略もできる。",
      "ex": [
       {
-       "en": "The man who lives next door is a chef.",
-       "ja": "隣に住んでいる男性は、シェフだ。（主格）"
+       "en": "The hotel at which we stayed had a view of a parking lot.",
+       "ja": "私たちが泊まったホテルは、駐車場の景色だった。"
       },
       {
-       "en": "The girl whose bag is red is my sister.",
-       "ja": "かばんが赤い女の子は、私の姉だ。（所有格）"
-      },
-      {
-       "en": "The movie I saw last night was great.",
-       "ja": "昨夜見た映画は、最高だった。（目的格の省略）"
+       "en": "The woman with whom I talked at the party turned out to be my boss.",
+       "ja": "パーティーで話した女性は、私の上司だった。"
       }
      ]
     },
     {
-     "h": "what は特別",
-     "p": "**what＝the thing(s) which**（～こと／～もの）。先行詞をふくんでいるので、前に名詞を置かない。\nWhat you said made me happy.（あなたの言ったことで、うれしくなった。）",
+     "h": "関係副詞 where / when / why / how",
+     "p": "後ろの文が**完全な文**（名詞が欠けていない）のときは、関係副詞。\n**where**（場所）／**when**（時）／**why**（理由）／**how**（方法・先行詞 the way とは同時に使えない）\nThis is the town **where** I grew up. ＝ This is the town **in which** I grew up.",
      "ex": [
       {
-       "en": "What my dad cooked looked like a rock.",
-       "ja": "父が作ったものは、石のように見えた。"
+       "en": "This is the town where I grew up, and where I got lost five times.",
+       "ja": "ここは私が育った町で、5回迷子になった町でもある。"
       },
       {
-       "en": "I don't understand what you mean.",
-       "ja": "あなたの言いたいことが分からない。"
+       "en": "That is the reason why I never lend my umbrella.",
+       "ja": "それが、かさを決して貸さない理由だ。"
+      },
+      {
+       "en": "I remember the day when the teacher forgot her own name.",
+       "ja": "先生が自分の名前を忘れた日のことを覚えている。"
+      }
+     ]
+    },
+    {
+     "h": "非制限用法・what・複合関係詞",
+     "p": "**非制限用法**（, which ～）：コンマをつけて、補足的に説明する。**that は使えない**。前文全体を先行詞にもできる。\n**what**＝the thing(s) which（～こと）。先行詞を含むので、前に名詞を置かない。\n**複合関係詞**：whoever（～する人は誰でも）／whatever（何でも）／whichever（どちらでも）。",
+     "ex": [
+      {
+       "en": "He said nothing, which made her even angrier.",
+       "ja": "彼は何も言わず、それが彼女をさらに怒らせた。（前文全体が先行詞）"
+      },
+      {
+       "en": "Whoever finishes first gets the last piece of cake.",
+       "ja": "最初に食べ終えた人は誰でも、最後のケーキをもらえる。"
+      },
+      {
+       "en": "What I need most right now is a nap.",
+       "ja": "今いちばん必要なのは昼寝だ。"
       }
      ]
     }
    ],
    "traps": [
     {
-     "t": "主格は省略できない",
-     "body": "あとが「動詞」なら主格。省略できない。\nあとが「主語＋動詞」なら目的格。省略できる。\n見分け方：関係代名詞のすぐあとに動詞が来るかどうか。"
+     "t": "関係代名詞か関係副詞か",
+     "body": "関係詞のあとの文を見る。\n**名詞が欠けた不完全な文** → 関係代名詞（who / which / that）\n**S・V・O がそろった完全な文** → 関係副詞（where / when / why / how）\n例：the house **which** I bought（bought の目的語がない）／the house **where** I live（live の目的語は不要で完全）。"
     },
     {
-     "t": "動詞は先行詞に合わせる",
-     "body": "The boys who **are** playing soccer ～ のように、関係代名詞のあとの動詞は先行詞に一致させる。\n先行詞が複数なら are、三人称単数なら is / plays など。"
+     "t": "that が使えない場面",
+     "body": "①前置詞の直後（in that は不可）　②非制限用法（コンマの後）。\nまた、先行詞に **all / the only / the same / the first / 最上級** があるときや、人と物が両方のときは that が好まれる。"
     },
     {
-     "t": "that を使うことが多い場合",
-     "body": "先行詞に all / the only / the first / 最上級 がつくときや、人と物の両方のときは that が好まれる。\nThis is all that I have.（持っているのはこれだけだ。）"
+     "t": "the reason why / the way how",
+     "body": "the reason と why は片方を省略できる（理由は聞く側にわかる）。\n**the way how は誤り**。the way / how / the way in which のどれか1つにする。"
     }
    ],
-   "quiz": [
+   "drill": [
     {
-     "k": "定期",
-     "q": "I have a friend ( ) can speak five languages.",
-     "o": [
-      "who",
-      "which",
-      "whose",
-      "what"
-     ],
-     "a": 0,
-     "w": "先行詞は人（a friend）で、あとに動詞 can。主格の who。"
-    },
-    {
-     "k": "定期",
-     "q": "This is the book ( ) I bought yesterday.",
-     "o": [
-      "who",
-      "which",
-      "whose",
-      "what"
-     ],
-     "a": 1,
-     "w": "先行詞は物（the book）。目的格の which。（省略もできる）"
-    },
-    {
-     "k": "定期",
-     "q": "The girl ( ) bag is red is my sister.",
-     "o": [
-      "who",
-      "which",
-      "whose",
-      "what"
-     ],
-     "a": 2,
-     "w": "「その子のかばん」と所有を表すので whose。あとに名詞が続く。"
-    },
-    {
-     "k": "共通",
-     "q": "( ) he said made me happy.",
-     "o": [
-      "What",
-      "Which",
-      "Who",
-      "That"
-     ],
-     "a": 0,
-     "w": "前に先行詞がなく「～こと」の意味なので what。"
-    },
-    {
-     "k": "定期",
      "q": "The man ( ) lives next door is a chef.",
-     "o": [
+     "f": [
       "who",
-      "whom",
-      "whose",
+      "that"
+     ],
+     "w": "先行詞は人で、後ろは動詞。主格 who（that も可）。"
+    },
+    {
+     "q": "The book ( ) cover is red is mine.",
+     "f": [
+      "whose"
+     ],
+     "w": "「その本の表紙」と所有を表す。whose＋名詞。"
+    },
+    {
+     "q": "This is the house ( ) I was born.（関係副詞）",
+     "f": [
+      "where"
+     ],
+     "w": "後ろが完全な文。場所なので where。"
+    },
+    {
+     "q": "This is the house in ( ) I was born.",
+     "f": [
       "which"
      ],
-     "a": 0,
-     "w": "あとに動詞 lives が続くので主格。人なら who。whom は目的格。"
+     "w": "前置詞の直後は which（that は不可）。"
     },
     {
-     "k": "共通",
-     "q": "関係代名詞を省略できる文はどれか。",
+     "q": "The reason ( ) he quit is unknown.",
+     "f": [
+      "why"
+     ],
+     "w": "理由を表す関係副詞 why。"
+    },
+    {
+     "q": "I remember the day ( ) we first met.",
+     "f": [
+      "when"
+     ],
+     "w": "時を表す関係副詞 when。"
+    },
+    {
+     "q": "He passed the exam, ( ) surprised everyone.",
+     "f": [
+      "which"
+     ],
+     "w": "コンマのあとは非制限用法。前文全体を指す which（that は不可）。"
+    },
+    {
+     "q": "関係副詞を使うのは、後ろの文がどんな形のときか。",
      "o": [
-      "I know the man who lives here.",
-      "This is the song I like best.",
-      "She has a dog which barks loudly.",
-      "I met a girl who speaks French."
+      "名詞が欠けた不完全な文",
+      "S・V・O などがそろった完全な文",
+      "動詞が欠けた文",
+      "必ず過去形の文"
      ],
      "a": 1,
-     "w": "2番は song のあとに I like（主語＋動詞）が続く目的格なので省略できる。ほかは主格。"
+     "w": "後ろが完全な文なら関係副詞、名詞が欠けていれば関係代名詞。"
     },
     {
-     "k": "共通",
-     "q": "This is all ( ) I have.",
-     "o": [
-      "that",
-      "which",
-      "what",
-      "who"
-     ],
-     "a": 0,
-     "w": "先行詞に all がつくときは that が好まれる。what だと all と重なってしまう。"
-    },
-    {
-     "k": "定期",
-     "q": "The boys who ( ) playing soccer are my classmates.",
-     "o": [
-      "is",
-      "are",
-      "was",
-      "be"
-     ],
-     "a": 1,
-     "w": "先行詞 The boys は複数。関係代名詞のあとの動詞も are。"
-    },
-    {
-     "k": "共通",
-     "q": "I lost the pen ( ) my grandfather gave me.",
+     "q": "非制限用法（コンマのあと）で**使えない**関係代名詞はどれか。",
      "o": [
       "who",
-      "what",
       "which",
+      "that",
       "whose"
      ],
      "a": 2,
-     "w": "先行詞は物（the pen）で、あとに「主語＋動詞」。目的格の which。"
+     "w": "that は非制限用法では使えない。"
     },
     {
-     "k": "定期",
-     "q": "That is the house ( ) roof is blue.",
+     "q": "前置詞の**直後**に置けないものはどれか。",
      "o": [
-      "who",
-      "whose",
+      "whom",
       "which",
+      "that",
+      "whose"
+     ],
+     "a": 2,
+     "w": "前置詞の直後に that は置けない。in which / with whom の形にする。"
+    },
+    {
+     "q": "( ) you said made me happy.（～こと）",
+     "f": [
       "what"
      ],
-     "a": 1,
-     "w": "「その家の屋根」と所有を表すので whose。"
+     "w": "先行詞なしで「～こと」。What（文頭なので大文字でもよい）。"
     },
     {
-     "k": "定期",
-     "q": "I don't understand ( ) you mean.",
+     "q": "This is all ( ) I have.",
+     "f": [
+      "that"
+     ],
+     "w": "先行詞に all がつくときは that が好まれる。"
+    },
+    {
+     "q": "Please give it to ( ) wants it.（～する人は誰でも）",
+     "f": [
+      "whoever"
+     ],
+     "w": "複合関係詞 whoever＝anyone who。"
+    },
+    {
+     "q": "I'll do ( ) you ask.（何でも）",
+     "f": [
+      "whatever"
+     ],
+     "w": "whatever＝anything that。"
+    }
+   ],
+   "test": [
+    {
+     "q": "This is the town ( ) my grandfather was born and grew up.",
      "o": [
+      "which",
+      "where",
       "what",
+      "whose"
+     ],
+     "a": 1,
+     "w": "後ろが完全な文で、場所を表すので関係副詞 where。"
+    },
+    {
+     "q": "The hotel ( ) we stayed at last summer was very comfortable.",
+     "o": [
+      "where",
+      "which",
+      "at which",
+      "in which"
+     ],
+     "a": 1,
+     "w": "at が文末に残っているので、関係代名詞 which（that も可）。"
+    },
+    {
+     "q": "She has two sons, ( ) are doctors.",
+     "o": [
+      "who",
       "that",
+      "whom",
+      "whose"
+     ],
+     "a": 0,
+     "w": "コンマがあるので非制限用法。主格で人なので who。that は使えない。"
+    },
+    {
+     "q": "He said nothing, ( ) made her even angrier.",
+     "o": [
+      "that",
+      "what",
       "which",
       "who"
      ],
+     "a": 2,
+     "w": "前文全体を指す非制限用法の which。"
+    },
+    {
+     "q": "The woman with ( ) I talked at the party was a famous writer.",
+     "o": [
+      "who",
+      "that",
+      "whom",
+      "which"
+     ],
+     "a": 2,
+     "w": "前置詞の直後に置けるのは whom（人）。who や that は不可。"
+    },
+    {
+     "q": "That is the reason ( ) I am angry.",
+     "o": [
+      "why",
+      "how",
+      "where",
+      "what"
+     ],
      "a": 0,
-     "w": "「あなたの言いたいこと」の意味で、先行詞がないので what。"
+     "w": "the reason のあとの関係副詞は why。"
+    },
+    {
+     "q": "Everything ( ) he said turned out to be true.",
+     "o": [
+      "that",
+      "what",
+      "who",
+      "whose"
+     ],
+     "a": 0,
+     "w": "先行詞に everything がつくので that が好まれる。what だと先行詞と重なる。"
+    },
+    {
+     "q": "This is the only thing ( ) I can do for you.",
+     "o": [
+      "what",
+      "which",
+      "that",
+      "who"
+     ],
+     "a": 2,
+     "w": "先行詞に the only がつくので that が好まれる。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "This is the house which I live.",
+      "This is the house in that I live.",
+      "This is the house where I live in.",
+      "This is the house which I live in."
+     ],
+     "a": 3,
+     "w": "which の文では、live in の in が文末に残る。where と in の重複や、in that は誤り。"
+    },
+    {
+     "q": "The book, ( ) I bought yesterday, is very interesting.",
+     "o": [
+      "that",
+      "which",
+      "what",
+      "who"
+     ],
+     "a": 1,
+     "w": "コンマにはさまれた非制限用法では that は使えず、which。"
     }
    ]
   }
