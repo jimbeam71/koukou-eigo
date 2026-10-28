@@ -5520,6 +5520,736 @@
      "w": "explain / suggest は SVOO にならず、discuss は前置詞をつけない。tell ＋人＋to ～ は正しい。"
     }
    ]
+  },
+  {
+   "id": "g16",
+   "title": "話法（直接話法と間接話法）",
+   "tags": [
+    "定期テスト",
+    "共通テスト"
+   ],
+   "one": "人の言葉をそのまま伝える（直接話法）か、自分の言葉で伝える（間接話法）か。人称・時制・時と場所の語が一緒に変わる。",
+   "sections": [
+    {
+     "h": "平叙文の間接話法",
+     "p": "**引用符をはずし、that でつなぐ。** say to → **tell**。\n①**人称**を伝える人の立場に合わせる　②**時制**を1つ過去へずらす　③**時・場所の語**を変える\n**時制**：現在→過去／過去・現在完了→過去完了／will→would／can→could／may→might／must→had to\n**時・場所の語**：now→then／today→that day／tomorrow→the next [following] day／yesterday→the day before [the previous day]／ago→before／last night→the night before／next week→the following week／this→that／here→there",
+     "ex": [
+      {
+       "en": "He said, \"I am tired.\" → He said that he was tired, which was news to no one.",
+       "ja": "彼は「疲れた」と言った。誰も驚かなかった。"
+      },
+      {
+       "en": "She said to me, \"I will come tomorrow.\" → She told me that she would come the next day.",
+       "ja": "彼女は私に、翌日来ると言った。"
+      },
+      {
+       "en": "He said, \"I saw her yesterday.\" → He said that he had seen her the day before.",
+       "ja": "彼は、前の日に彼女に会ったと言った。"
+      }
+     ]
+    },
+    {
+     "h": "疑問文の間接話法",
+     "p": "**say to → ask**。疑問文は、**平叙文の語順（S＋V）**に直す。\n**疑問詞なし**：ask ＋人＋ **if [whether]** ＋S＋V　　She asked me, \"Do you like tea?\" → She asked me **if** I liked tea.\n**疑問詞あり**：ask ＋人＋疑問詞＋S＋V　　He asked, \"Where do you live?\" → He asked me **where I lived**.",
+     "ex": [
+      {
+       "en": "She asked me if I wanted tea, and I said I wanted her cake.",
+       "ja": "彼女は紅茶がほしいかと聞いたが、私は彼女のケーキがほしいと答えた。"
+      },
+      {
+       "en": "He asked me where I had bought my shoes, and I pretended not to hear.",
+       "ja": "彼は私にどこでくつを買ったのか聞いたが、聞こえないふりをした。"
+      }
+     ]
+    },
+    {
+     "h": "命令・依頼・提案の間接話法",
+     "p": "**命令・依頼**：tell [ask, order, advise, warn] ＋人＋ **to ～**（否定は **not to ～**）\n \"Please be quiet,\" she said to us. → She asked us to be quiet.\n \"Don't be late,\" he said to me. → He told me **not to** be late.\n**Let's ～ / Shall we ～?** → suggest ～ing / suggest that S should ～。\n**感嘆**：exclaim [cry] that ～",
+     "ex": [
+      {
+       "en": "He told me to open the window, but the window was already open.",
+       "ja": "彼は私に窓を開けるよう言ったが、窓はもう開いていた。"
+      },
+      {
+       "en": "The teacher told us not to run in the hallway; we walked very fast.",
+       "ja": "先生は廊下を走るなと言ったので、私たちはとても速く歩いた。"
+      },
+      {
+       "en": "She suggested going to the beach, and the weather suggested staying home.",
+       "ja": "彼女は海へ行こうと言ったが、天気は家にいようと言っていた。"
+      }
+     ]
+    }
+   ],
+   "traps": [
+    {
+     "t": "時制の一致が起きない場合",
+     "body": "不変の真理・現在の習慣・歴史的事実は、時制を変えない。\nThe teacher said, \"The Earth goes round the sun.\" → The teacher said that the Earth **goes** round the sun.\n言った内容が今もそのままなら、現在形のままでもよい。"
+    },
+    {
+     "t": "疑問文の語順",
+     "body": "間接話法の疑問文は **S＋V**。×She asked me where did I live. ○She asked me where I lived.\n疑問詞なしの疑問文は **if [whether]**。that にしない。"
+    },
+    {
+     "t": "tell と say",
+     "body": "tell ＋人＋ that ～、say (to 人) that ～。\n×He told that he was busy.　○He told me that he was busy.　○He said that he was busy."
+    }
+   ],
+   "drill": [
+    {
+     "q": "He said, \"I am tired.\" → He said that he ( ) tired.",
+     "o": [
+      "was",
+      "is",
+      "were",
+      "had been"
+     ],
+     "a": 0,
+     "w": "現在形は過去形にずらす。"
+    },
+    {
+     "q": "She said, \"I will come tomorrow.\" → She said that she ( ) come the next day.",
+     "o": [
+      "would",
+      "will",
+      "can",
+      "should"
+     ],
+     "a": 0,
+     "w": "will → would。"
+    },
+    {
+     "q": "He said, \"I have finished.\" → He said that he ( ) finished.",
+     "o": [
+      "had",
+      "has",
+      "was",
+      "would"
+     ],
+     "a": 0,
+     "w": "現在完了 → 過去完了。"
+    },
+    {
+     "q": "He said to me, \"I'll help you.\" → He ( ) me that he would help me.",
+     "o": [
+      "told",
+      "said",
+      "asked",
+      "spoke"
+     ],
+     "a": 0,
+     "w": "say to → tell ＋人。"
+    },
+    {
+     "q": "\"I saw him yesterday.\" → She said she had seen him ( ).",
+     "o": [
+      "the day before",
+      "yesterday",
+      "the next day",
+      "last day"
+     ],
+     "a": 0,
+     "w": "yesterday → the day before。"
+    },
+    {
+     "q": "\"I'm busy now.\" → He said he was busy ( ).",
+     "o": [
+      "then",
+      "now",
+      "today",
+      "yesterday"
+     ],
+     "a": 0,
+     "w": "now → then。"
+    },
+    {
+     "q": "He said, \"I like this book.\" → He said he liked ( ) book.",
+     "o": [
+      "that",
+      "this",
+      "these",
+      "those"
+     ],
+     "a": 0,
+     "w": "this → that。"
+    },
+    {
+     "q": "He said, \"I live here.\" → He said he lived ( ).",
+     "o": [
+      "there",
+      "here",
+      "where",
+      "then"
+     ],
+     "a": 0,
+     "w": "here → there。"
+    },
+    {
+     "q": "She asked me, \"Do you like tea?\" → She asked me ( ) I liked tea.",
+     "o": [
+      "if",
+      "that",
+      "what",
+      "who"
+     ],
+     "a": 0,
+     "w": "疑問詞のない疑問文は if [whether]。"
+    },
+    {
+     "q": "He asked, \"Where do you live?\" → He asked me where ( ).",
+     "o": [
+      "I lived",
+      "did I live",
+      "I live",
+      "I had lived"
+     ],
+     "a": 0,
+     "w": "疑問詞のある疑問文は S＋V の語順。"
+    },
+    {
+     "q": "She asked him, \"What are you doing?\" → She asked him what he ( ) doing.",
+     "o": [
+      "was",
+      "is",
+      "did",
+      "had"
+     ],
+     "a": 0,
+     "w": "現在進行形 → 過去進行形。"
+    },
+    {
+     "q": "\"Open the window,\" he said to me. → He ( ) me to open the window.",
+     "o": [
+      "told",
+      "said",
+      "asked for",
+      "spoke"
+     ],
+     "a": 0,
+     "w": "命令は tell ＋人＋to ～。"
+    },
+    {
+     "q": "\"Please be quiet,\" she said to us. → She ( ) us to be quiet.",
+     "o": [
+      "asked",
+      "told",
+      "said",
+      "spoke"
+     ],
+     "a": 0,
+     "w": "Please がつく依頼は ask ＋人＋to ～。"
+    },
+    {
+     "q": "\"Don't be late,\" he said to me. → He told me ( ) to be late.",
+     "o": [
+      "not",
+      "don't",
+      "no",
+      "never"
+     ],
+     "a": 0,
+     "w": "否定の命令は not to ～。"
+    },
+    {
+     "q": "She said, \"I must go.\" → She said she ( ) to go.",
+     "o": [
+      "had",
+      "must",
+      "has",
+      "would"
+     ],
+     "a": 0,
+     "w": "must → had to。"
+    }
+   ],
+   "test": [
+    {
+     "q": "She said to me, \"Where did you buy it?\" → She asked me where I ( ) it.",
+     "o": [
+      "had bought",
+      "bought",
+      "have bought",
+      "would buy"
+     ],
+     "a": 0,
+     "w": "過去 → 過去完了。語順も S＋V。"
+    },
+    {
+     "q": "The teacher said, \"The Earth goes round the sun.\" → The teacher said that the Earth ( ) round the sun.",
+     "o": [
+      "goes",
+      "went",
+      "had gone",
+      "would go"
+     ],
+     "a": 0,
+     "w": "不変の真理は時制を変えない。"
+    },
+    {
+     "q": "He said, \"Let's go to the beach.\" → He ( ) going to the beach.",
+     "o": [
+      "suggested",
+      "told",
+      "asked",
+      "ordered"
+     ],
+     "a": 0,
+     "w": "Let's ～ → suggest ～ing。"
+    },
+    {
+     "q": "\"Will you help me?\" he asked. → He asked me ( ) I would help him.",
+     "o": [
+      "if",
+      "that",
+      "what",
+      "which"
+     ],
+     "a": 0,
+     "w": "疑問詞のない疑問文は if。"
+    },
+    {
+     "q": "\"I will come back tomorrow,\" he said. → He said he would come back ( ).",
+     "o": [
+      "the next day",
+      "tomorrow",
+      "yesterday",
+      "the day before"
+     ],
+     "a": 0,
+     "w": "tomorrow → the next day。"
+    },
+    {
+     "q": "\"What time is it?\" → He asked me what time ( ).",
+     "o": [
+      "it was",
+      "was it",
+      "it is",
+      "is it"
+     ],
+     "a": 0,
+     "w": "間接疑問は S＋V、時制は過去形。"
+    },
+    {
+     "q": "She said, \"I may be late.\" → She said she ( ) be late.",
+     "o": [
+      "might",
+      "may",
+      "would",
+      "can"
+     ],
+     "a": 0,
+     "w": "may → might。"
+    },
+    {
+     "q": "He said to her, \"You must not touch it.\" → He ( ) her not to touch it.",
+     "o": [
+      "told",
+      "said",
+      "asked for",
+      "spoke"
+     ],
+     "a": 0,
+     "w": "禁止は tell ＋人＋not to ～。"
+    },
+    {
+     "q": "He said, \"I saw her last night.\" → He said he had seen her ( ).",
+     "o": [
+      "the night before",
+      "last night",
+      "tomorrow night",
+      "that day"
+     ],
+     "a": 0,
+     "w": "last night → the night before。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "She asked me where did I live.",
+      "She asked me where I lived.",
+      "He told that he was busy.",
+      "She said me that she was tired."
+     ],
+     "a": 1,
+     "w": "間接疑問は S＋V。told の後ろには人、said の後ろには to 人。"
+    }
+   ]
+  },
+  {
+   "id": "g17",
+   "title": "形容詞・副詞",
+   "tags": [
+    "定期テスト",
+    "共通テスト"
+   ],
+   "one": "形容詞の位置と用法、まぎらわしい形容詞、副詞の位置、形のよく似た副詞（hard / hardly など）の使い分け。",
+   "sections": [
+    {
+     "h": "限定用法と叙述用法",
+     "p": "**限定用法**（名詞の前）：a big dog\n**叙述用法**（補語）：The dog is big.\n**叙述用法だけ**：alive / asleep / awake / afraid / alone / aware / ashamed / glad / content（a- で始まる語が多い）\n**限定用法だけ**：main / mere / only / former / latter / elder / total\n**意味が変わる**：late（遅い／故～）／certain（確かな／ある～）／present（出席して／現在の）",
+     "ex": [
+      {
+       "en": "The baby is asleep, but the sleeping baby on the sofa is a cat.",
+       "ja": "赤ちゃんは眠っているが、ソファで眠っているのはネコだ。"
+      },
+      {
+       "en": "He is a mere child, but he can already beat me at chess.",
+       "ja": "彼はまだほんの子どもだが、もうチェスで私に勝てる。"
+      },
+      {
+       "en": "My grandfather is still alive, and the sofa is still alive with him.",
+       "ja": "祖父はまだ元気で、ソファも彼と共に元気だ。"
+      }
+     ]
+    },
+    {
+     "h": "まぎらわしい形容詞",
+     "p": "**economic**（経済の）／**economical**（経済的な・節約になる）\n**historic**（歴史的に重要な）／**historical**（歴史上の）\n**considerable**（かなりの）／**considerate**（思いやりのある）\n**sensible**（分別のある）／**sensitive**（敏感な）\n**imaginary**（想像上の）／**imaginative**（想像力に富む）／**imaginable**（想像できる）\n**successful**（成功した）／**successive**（連続する）\n**industrial**（産業の）／**industrious**（勤勉な）",
+     "ex": [
+      {
+       "en": "This is an economical car; it runs on a banana and some hope.",
+       "ja": "これは経済的な車で、バナナと少しの希望で走る。"
+      },
+      {
+       "en": "She is a very considerate girl, and she gave me the last cookie.",
+       "ja": "彼女はとても思いやりのある子で、最後のクッキーをくれた。"
+      },
+      {
+       "en": "It rained for three successive days, and my umbrella took the week off.",
+       "ja": "3日連続で雨が降り、かさは1週間休んだ。"
+      }
+     ]
+    },
+    {
+     "h": "副詞の位置",
+     "p": "**頻度副詞**（always / usually / often / sometimes / never / hardly ever）は、**be動詞・助動詞の後、一般動詞の前**。\nShe is usually busy.／She usually goes to bed early.\n**enough** は形容詞・副詞の**後ろ**：tall enough（×enough tall）。\n**文修飾**：fortunately / surprisingly / obviously などは文頭で話し手の判断を表す。\n**too / either**：肯定は too・also、否定は either（I don't like it, either.）。",
+     "ex": [
+      {
+       "en": "He is always late, and he always has a better excuse than the last one.",
+       "ja": "彼はいつも遅れ、毎回前よりうまい言いわけを持っている。"
+      },
+      {
+       "en": "She is tall enough to reach the top shelf, and short enough to hide behind it.",
+       "ja": "彼女は一番上の棚に届くほど背が高く、その後ろに隠れるほど背が低い。"
+      },
+      {
+       "en": "Fortunately, the cat did not eat the homework this time.",
+       "ja": "幸運にも、今回はネコが宿題を食べなかった。"
+      }
+     ]
+    },
+    {
+     "h": "形のよく似た副詞",
+     "p": "**hard**（一生懸命に）／**hardly**（ほとんど～ない）\n**late**（遅く）／**lately**（最近）\n**near**（近くに）／**nearly**（ほとんど）\n**high**（高く）／**highly**（高度に・非常に）\n**close**（近くに）／**closely**（綿密に）\n**most**（もっとも）／**mostly**（たいていは）\n**deep**（深く）／**deeply**（深く感動して）\nどちらも副詞だが、意味がちがうので注意。",
+     "ex": [
+      {
+       "en": "He worked hard, but he hardly finished anything.",
+       "ja": "彼は一生懸命働いたが、ほとんど何も終わらなかった。"
+      },
+      {
+       "en": "I haven't seen him lately; he must have stayed up late.",
+       "ja": "最近、彼を見かけない。遅くまで起きていたにちがいない。"
+      },
+      {
+       "en": "The ball flew high into the air, and the dog watched it very closely.",
+       "ja": "ボールは空高く飛び、犬はそれをじっと見つめた。"
+      }
+     ]
+    }
+   ],
+   "traps": [
+    {
+     "t": "hard と hardly",
+     "body": "hardly は否定語に近い（ほとんど～ない）。\nHe works hard.（一生懸命）／He hardly works.（ほとんど働かない）。\nhardly ever ＝ almost never（めったに～ない）。"
+    },
+    {
+     "t": "enough の位置",
+     "body": "形容詞・副詞の後：old enough／fast enough。\n名詞の前：enough money（＝money enough は古い）。\nenough to ～ の形で使うことが多い。"
+    },
+    {
+     "t": "a- で始まる形容詞",
+     "body": "asleep / alive / awake / afraid / alone / aware は名詞の直前に置かない。\n×an asleep baby　○a sleeping baby　○The baby is asleep."
+    }
+   ],
+   "drill": [
+    {
+     "q": "彼はほんの子どもだ。He is a ( ) child.",
+     "o": [
+      "mere",
+      "asleep",
+      "alive",
+      "afraid"
+     ],
+     "a": 0,
+     "w": "mere は限定用法のみ（ほんの～）。"
+    },
+    {
+     "q": "名詞の前に置けない形容詞はどれか。",
+     "o": [
+      "asleep",
+      "main",
+      "mere",
+      "former"
+     ],
+     "a": 0,
+     "w": "asleep は叙述用法のみ。"
+    },
+    {
+     "q": "My grandfather is still ( ).",
+     "o": [
+      "alive",
+      "live",
+      "lively",
+      "life"
+     ],
+     "a": 0,
+     "w": "alive は叙述用法の形容詞。"
+    },
+    {
+     "q": "She is an ( ) student.（勤勉な）",
+     "o": [
+      "industrious",
+      "industrial",
+      "industry",
+      "industrially"
+     ],
+     "a": 0,
+     "w": "industrious（勤勉な）／industrial（産業の）。"
+    },
+    {
+     "q": "It's an ( ) car.（燃費がよい）",
+     "o": [
+      "economic",
+      "economical",
+      "economy",
+      "economics"
+     ],
+     "a": 1,
+     "w": "economical（経済的な、節約になる）。economic は「経済の」。"
+    },
+    {
+     "q": "He is very ( ) to others.（思いやりのある）",
+     "o": [
+      "considerable",
+      "considerate",
+      "considering",
+      "consideration"
+     ],
+     "a": 1,
+     "w": "considerate（思いやりのある）／considerable（かなりの）。"
+    },
+    {
+     "q": "She is ( ) to noise.（敏感）",
+     "o": [
+      "sensible",
+      "sensitive",
+      "sensitively",
+      "sense"
+     ],
+     "a": 1,
+     "w": "sensitive（敏感な）／sensible（分別のある）。"
+    },
+    {
+     "q": "He is a ( ) person.（分別のある）",
+     "o": [
+      "sensible",
+      "sensitive",
+      "sensual",
+      "sensory"
+     ],
+     "a": 0,
+     "w": "sensible（分別のある）。"
+    },
+    {
+     "q": "正しい位置の文はどれか。",
+     "o": [
+      "She usually is busy.",
+      "She is usually busy.",
+      "Usually is she busy.",
+      "She is busy usually."
+     ],
+     "a": 1,
+     "w": "頻度副詞は be動詞の後。"
+    },
+    {
+     "q": "He is tall ( ) to reach the shelf.",
+     "o": [
+      "enough",
+      "too",
+      "very",
+      "so"
+     ],
+     "a": 0,
+     "w": "形容詞 ＋ enough to ～。"
+    },
+    {
+     "q": "I ( ) see him these days.（ほとんど見ない）",
+     "o": [
+      "hardly",
+      "hard",
+      "lately",
+      "nearly"
+     ],
+     "a": 0,
+     "w": "hardly（ほとんど～ない）。"
+    },
+    {
+     "q": "He worked ( ).（一生懸命）",
+     "o": [
+      "hard",
+      "hardly",
+      "difficult",
+      "difficultly"
+     ],
+     "a": 0,
+     "w": "副詞 hard（一生懸命に）。"
+    },
+    {
+     "q": "I haven't seen him ( ).（最近）",
+     "o": [
+      "late",
+      "lately",
+      "later",
+      "latest"
+     ],
+     "a": 1,
+     "w": "lately（最近）。late は「遅く」。"
+    },
+    {
+     "q": "The ball flew ( ) into the air.",
+     "o": [
+      "high",
+      "highly",
+      "height",
+      "highest"
+     ],
+     "a": 0,
+     "w": "物理的に高く＝high。highly は抽象的な程度。"
+    },
+    {
+     "q": "I don't like it. —I don't, ( ).",
+     "o": [
+      "either",
+      "too",
+      "also",
+      "neither"
+     ],
+     "a": 0,
+     "w": "否定の同意は either。"
+    }
+   ],
+   "test": [
+    {
+     "q": "The boy was ( ) of his mistake.",
+     "o": [
+      "ashamed",
+      "shamed",
+      "shameful",
+      "shame"
+     ],
+     "a": 0,
+     "w": "be ashamed of ～（～を恥じる）。"
+    },
+    {
+     "q": "She was ( ) when the phone rang.",
+     "o": [
+      "awake",
+      "wake",
+      "waken",
+      "woke"
+     ],
+     "a": 0,
+     "w": "be awake（目が覚めている）。叙述用法。"
+    },
+    {
+     "q": "He is the ( ) president of the club.",
+     "o": [
+      "former",
+      "formal",
+      "formerly",
+      "forms"
+     ],
+     "a": 0,
+     "w": "former（前の）。formal は「正式な」。"
+    },
+    {
+     "q": "She is a very ( ) child; she writes wonderful stories.",
+     "o": [
+      "imaginary",
+      "imaginative",
+      "imaginable",
+      "imagined"
+     ],
+     "a": 1,
+     "w": "imaginative（想像力に富む）。"
+    },
+    {
+     "q": "He has been absent for three ( ) days.",
+     "o": [
+      "successful",
+      "successive",
+      "success",
+      "succeed"
+     ],
+     "a": 1,
+     "w": "successive（連続する）。"
+    },
+    {
+     "q": "She likes ( ) novels about the Edo period.",
+     "o": [
+      "historical",
+      "historic",
+      "history",
+      "historically"
+     ],
+     "a": 0,
+     "w": "historical（歴史上の）。"
+    },
+    {
+     "q": "I have ( ) been to Kyoto.（一度も行ったことがない）",
+     "o": [
+      "never",
+      "ever",
+      "already",
+      "yet"
+     ],
+     "a": 0,
+     "w": "never（一度も～ない）。"
+    },
+    {
+     "q": "I was ( ) tired that I went to bed early.",
+     "o": [
+      "so",
+      "such",
+      "very",
+      "too"
+     ],
+     "a": 0,
+     "w": "so ＋形容詞 ＋ that ～。"
+    },
+    {
+     "q": "( ), he passed the exam.（幸運にも）",
+     "o": [
+      "Fortunate",
+      "Fortunately",
+      "Fortune",
+      "Fortunes"
+     ],
+     "a": 1,
+     "w": "文修飾副詞 Fortunately。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "He is a asleep baby.",
+      "She is enough tall.",
+      "I hardly ever eat breakfast.",
+      "He works hardly."
+     ],
+     "a": 2,
+     "w": "asleep は名詞の前に置けず、enough は形容詞の後ろ。hardly は「ほとんど～ない」。"
+    }
+   ]
   }
  ]
 }
