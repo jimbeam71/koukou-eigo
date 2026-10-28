@@ -855,6 +855,2001 @@
      "k": "w"
     }
    ]
+  },
+  {
+   "id": "k4",
+   "title": "電話",
+   "intro": "電話をかける・取りつぐ・伝言を残す。電話特有の表現。",
+   "expr": [
+    {
+     "en": "Hello, this is Ken speaking.",
+     "ja": "もしもし、ケンです。",
+     "note": "電話で名乗るときは this is ～ (speaking)。I am ～ とは言わない。"
+    },
+    {
+     "en": "May I speak to Ms. Brown?",
+     "ja": "ブラウンさんをお願いできますか。",
+     "note": "speak to ～ で「～と話す」。"
+    },
+    {
+     "en": "Hold on, please.",
+     "ja": "少々お待ちください。",
+     "note": "Hold the line. とも言う。"
+    },
+    {
+     "en": "I'm afraid she is out right now.",
+     "ja": "あいにく彼女は今、外出しています。",
+     "note": "out（外出中）／in（在席）。"
+    },
+    {
+     "en": "Can I take a message?",
+     "ja": "伝言をお預かりしましょうか。",
+     "note": "take a message は受ける側、leave a message は伝える側。"
+    },
+    {
+     "en": "Could you tell her I called?",
+     "ja": "私が電話したと伝えてもらえますか。",
+     "note": "丁寧な依頼は Could you ～?。"
+    },
+    {
+     "en": "I'll call back later.",
+     "ja": "あとでかけ直します。",
+     "note": "call back（かけ直す）。"
+    },
+    {
+     "en": "Sorry, I think you have the wrong number.",
+     "ja": "すみません、番号をまちがえていると思います。",
+     "note": "wrong number（まちがい電話）。"
+    }
+   ],
+   "model": [
+    {
+     "sp": "A",
+     "en": "Good morning, Green Dental Office.",
+     "ja": "おはようございます、グリーン歯科です。"
+    },
+    {
+     "sp": "B",
+     "en": "Hello, this is Ken Sato speaking. I'd like to make an appointment for tomorrow.",
+     "ja": "もしもし、佐藤ケンです。明日の予約を取りたいのですが。"
+    },
+    {
+     "sp": "A",
+     "en": "I'm afraid all the times tomorrow are full. Would Friday be all right?",
+     "ja": "あいにく、明日は全部うまっています。金曜日はいかがですか。"
+    },
+    {
+     "sp": "B",
+     "en": "Friday is fine. It's a little urgent, so the earlier the better.",
+     "ja": "金曜日で大丈夫です。少し急ぎなので、早いほどありがたいです。"
+    },
+    {
+     "sp": "A",
+     "en": "Then ten o'clock in the morning. Could I have your phone number?",
+     "ja": "では、午前10時で。お電話番号を教えていただけますか。"
+    },
+    {
+     "sp": "B",
+     "en": "Sure. By the way, may I speak to Dr. Green? I'd like to leave a message.",
+     "ja": "はい。ところで、グリーン先生をお願いできますか。伝言を残したいのですが。"
+    },
+    {
+     "sp": "A",
+     "en": "I'm afraid he is out right now. Shall I take a message?",
+     "ja": "あいにく先生は外出中です。伝言をお預かりしましょうか。"
+    },
+    {
+     "sp": "B",
+     "en": "Please tell him I called. The connection is bad, so I'll call back later if I can't reach him.",
+     "ja": "私が電話したと伝えてください。電波が悪いので、連絡がつかなければあとでかけ直します。"
+    }
+   ],
+   "words": [
+    {
+     "en": "message",
+     "ja": "伝言"
+    },
+    {
+     "en": "leave",
+     "ja": "残す"
+    },
+    {
+     "en": "urgent",
+     "ja": "緊急の"
+    },
+    {
+     "en": "appointment",
+     "ja": "（面会の）予約"
+    },
+    {
+     "en": "reach",
+     "ja": "連絡がつく"
+    },
+    {
+     "en": "connection",
+     "ja": "つながり・接続"
+    }
+   ],
+   "qs": [
+    {
+     "q": "A: Hello, this is Ken ( ).\nB: Hi, Ken. It's Mai.",
+     "o": [
+      "speaking",
+      "talking",
+      "calling",
+      "telling"
+     ],
+     "a": 0,
+     "w": "電話で名乗るときは This is ～ speaking。",
+     "k": "e"
+    },
+    {
+     "q": "A: May I ( ) to Ms. Brown?\nB: Hold on, please.",
+     "o": [
+      "speak",
+      "say",
+      "tell",
+      "call"
+     ],
+     "a": 0,
+     "w": "May I speak to ～?（～さんをお願いします）",
+     "k": "e"
+    },
+    {
+     "q": "B: I'm afraid she is ( ) right now.",
+     "o": [
+      "out",
+      "under",
+      "off",
+      "over"
+     ],
+     "a": 0,
+     "w": "be out（外出中）。",
+     "k": "e"
+    },
+    {
+     "q": "A: Can I take a ( )?\nB: Yes, please tell him Ken called.",
+     "o": [
+      "mass",
+      "massage",
+      "mess",
+      "message"
+     ],
+     "a": 3,
+     "w": "take a message（伝言を受ける）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Could you ask him to call me ( )?\nB: Of course.",
+     "o": [
+      "down",
+      "along",
+      "back",
+      "off"
+     ],
+     "a": 2,
+     "w": "call back（かけ直す）。",
+     "k": "e"
+    },
+    {
+     "q": "A: Sorry, I think you have the wrong ( ).",
+     "o": [
+      "address",
+      "number",
+      "time",
+      "name"
+     ],
+     "a": 1,
+     "w": "wrong number（まちがい電話）。",
+     "k": "e"
+    },
+    {
+     "q": "A: Hello? I can't hear you very well.\nB: Sorry, the ( ) is bad.",
+     "o": [
+      "collection",
+      "connection",
+      "direction",
+      "correction"
+     ],
+     "a": 1,
+     "w": "connection（接続・通信状態）。",
+     "k": "w"
+    },
+    {
+     "q": "Please hold the ( ). I'll put you through to the manager.",
+     "o": [
+      "line",
+      "wire",
+      "string",
+      "rope"
+     ],
+     "a": 0,
+     "w": "hold the line（電話を切らずに待つ）。",
+     "k": "e"
+    },
+    {
+     "q": "A: I'd like to make an ( ) for Friday.\nB: What time would be convenient?",
+     "o": [
+      "apartment",
+      "argument",
+      "appointment",
+      "announcement"
+     ],
+     "a": 2,
+     "w": "appointment（面会・診察などの予約）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Is it okay if I call you tomorrow?\nB: Sure, I'll be ( ) all day.",
+     "o": [
+      "variable",
+      "available",
+      "avoidable",
+      "valuable"
+     ],
+     "a": 1,
+     "w": "available（都合がつく・空いている）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Can you call me back? It's very ( ).",
+     "o": [
+      "urban",
+      "urgently",
+      "urge",
+      "urgent"
+     ],
+     "a": 3,
+     "w": "urgent（緊急の）。",
+     "k": "w"
+    },
+    {
+     "q": "A: I tried to ( ) you all morning, but your phone was off.",
+     "o": [
+      "hold",
+      "send",
+      "reach",
+      "meet"
+     ],
+     "a": 2,
+     "w": "reach（連絡がつく）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Shall I ( ) a message for him?\nB: No, thanks. I'll call again.",
+     "o": [
+      "make",
+      "take",
+      "send",
+      "keep"
+     ],
+     "a": 1,
+     "w": "take a message（伝言を預かる）。",
+     "k": "e"
+    },
+    {
+     "q": "A: Please ( ) a message after the beep.",
+     "o": [
+      "lose",
+      "live",
+      "leave",
+      "lend"
+     ],
+     "a": 2,
+     "w": "leave a message（伝言を残す）。",
+     "k": "w"
+    }
+   ]
+  },
+  {
+   "id": "k5",
+   "title": "誘う・断る・約束",
+   "intro": "誘う、受ける、断る、予定を決める。人づき合いの基本表現。",
+   "expr": [
+    {
+     "en": "Would you like to go to the movies with me?",
+     "ja": "私と映画に行きませんか。",
+     "note": "Would you like to ～? は丁寧な誘い。"
+    },
+    {
+     "en": "How about going to the park on Sunday?",
+     "ja": "日曜日に公園に行くのはどう？",
+     "note": "How about ～ing?"
+    },
+    {
+     "en": "Why don't we have lunch together?",
+     "ja": "いっしょにお昼を食べない？",
+     "note": "Why don't we ～? ＝ Let's ～。"
+    },
+    {
+     "en": "I'd love to, but I have another plan.",
+     "ja": "行きたいけれど、ほかの予定があります。",
+     "note": "I'd love to, but ～（断りの定番）。"
+    },
+    {
+     "en": "I'm afraid I can't make it.",
+     "ja": "あいにく行けません。",
+     "note": "make it（都合をつけて行く）。"
+    },
+    {
+     "en": "That sounds great!",
+     "ja": "いいですね！",
+     "note": "sound ＋形容詞（～に聞こえる）。"
+    },
+    {
+     "en": "Let's meet at the station at six.",
+     "ja": "6時に駅で会いましょう。",
+     "note": "Let's ～（～しましょう）。"
+    },
+    {
+     "en": "Maybe next time.",
+     "ja": "また今度ね。",
+     "note": "断りのやわらかい言い方。"
+    }
+   ],
+   "model": [
+    {
+     "sp": "A",
+     "en": "Are you free this weekend? I'd like to invite you to a barbecue.",
+     "ja": "今週末は空いている？ バーベキューに誘いたいんだ。"
+    },
+    {
+     "sp": "B",
+     "en": "That sounds great! When is it?",
+     "ja": "いいね！ いつ？"
+    },
+    {
+     "sp": "A",
+     "en": "Saturday at noon. Is that convenient for you?",
+     "ja": "土曜の正午。都合はどう？"
+    },
+    {
+     "sp": "B",
+     "en": "Saturday is fine. What time shall we meet?",
+     "ja": "土曜日で大丈夫。何時に会う？"
+    },
+    {
+     "sp": "A",
+     "en": "Let's meet at the station at eleven. Here's the schedule.",
+     "ja": "11時に駅で会おう。予定表はこれだよ。"
+    },
+    {
+     "sp": "B",
+     "en": "OK. What if it rains? Will you cancel it?",
+     "ja": "了解。雨が降ったら？ 中止にする？"
+    },
+    {
+     "sp": "A",
+     "en": "We won't cancel it, but we may postpone it to Sunday.",
+     "ja": "中止にはしないけど、日曜に延期するかも。"
+    },
+    {
+     "sp": "B",
+     "en": "Good. I'll accept your invitation, and I'll bring dessert.",
+     "ja": "いいね。招待を受けるよ、デザートを持っていくね。"
+    }
+   ],
+   "words": [
+    {
+     "en": "invite",
+     "ja": "招待する"
+    },
+    {
+     "en": "schedule",
+     "ja": "予定"
+    },
+    {
+     "en": "convenient",
+     "ja": "都合のよい"
+    },
+    {
+     "en": "cancel",
+     "ja": "取りやめる"
+    },
+    {
+     "en": "postpone",
+     "ja": "延期する"
+    },
+    {
+     "en": "accept",
+     "ja": "受け入れる"
+    }
+   ],
+   "qs": [
+    {
+     "q": "A: ( ) going to the movies tonight?\nB: That sounds great!",
+     "o": [
+      "How about",
+      "How much",
+      "What for",
+      "How long"
+     ],
+     "a": 0,
+     "w": "How about ～ing?（～するのはどう？）",
+     "k": "e"
+    },
+    {
+     "q": "A: Why ( ) we have lunch together?\nB: Good idea.",
+     "o": [
+      "aren't",
+      "don't",
+      "can't",
+      "won't"
+     ],
+     "a": 1,
+     "w": "Why don't we ～?（～しない？）",
+     "k": "e"
+    },
+    {
+     "q": "A: Would you like to come to my party?\nB: I'd ( ) to, but I have to study.",
+     "o": [
+      "love",
+      "enjoy",
+      "hope",
+      "wish"
+     ],
+     "a": 0,
+     "w": "I'd love to, but ～（行きたいけれど）。",
+     "k": "e"
+    },
+    {
+     "q": "A: Can you come tomorrow?\nB: I'm afraid I can't ( ) it.",
+     "o": [
+      "take",
+      "make",
+      "do",
+      "have"
+     ],
+     "a": 1,
+     "w": "make it（都合をつけて来る）。",
+     "k": "e"
+    },
+    {
+     "q": "A: What time shall we meet?\nB: Is seven ( ) for you?",
+     "o": [
+      "conveniently",
+      "convenient",
+      "convention",
+      "convenience"
+     ],
+     "a": 1,
+     "w": "convenient（都合がよい）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Would you like to come to dinner on Friday?\nB: ( ) Thank you for asking.",
+     "o": [
+      "Yes, I'd not.",
+      "I'd rather not, I'd love to.",
+      "I'd love to.",
+      "No, I'd love to."
+     ],
+     "a": 2,
+     "w": "誘いを受けるときは I'd love to.",
+     "k": "e"
+    },
+    {
+     "q": "A: Are you free on Sunday?\nB: Sorry, I have other ( ).",
+     "o": [
+      "planes",
+      "plan",
+      "plans",
+      "planets"
+     ],
+     "a": 2,
+     "w": "have other plans（ほかの予定がある）。",
+     "k": "e"
+    },
+    {
+     "q": "A: What time shall we meet?\nB: How about 3:00?\nA: 3:00 is ( ) for me.",
+     "o": [
+      "fined",
+      "finely",
+      "fine",
+      "fining"
+     ],
+     "a": 2,
+     "w": "be fine for me（私はそれでいい）。",
+     "k": "e"
+    },
+    {
+     "q": "A: Can we ( ) the meeting until next week?\nB: Sure.",
+     "o": [
+      "prevent",
+      "pretend",
+      "postpone",
+      "prepare"
+     ],
+     "a": 2,
+     "w": "postpone（延期する）。",
+     "k": "w"
+    },
+    {
+     "q": "A: I'm sorry, but I have to ( ) our appointment. I'm sick.\nB: I hope you feel better.",
+     "o": [
+      "counsel",
+      "council",
+      "cancer",
+      "cancel"
+     ],
+     "a": 3,
+     "w": "cancel（取りやめる）。",
+     "k": "w"
+    },
+    {
+     "q": "Thank you for the ( ). I'd be glad to come.",
+     "o": [
+      "intention",
+      "invitation",
+      "invention",
+      "information"
+     ],
+     "a": 1,
+     "w": "invitation（招待）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Will you ( ) my invitation?\nB: Yes, with pleasure.",
+     "o": [
+      "excuse",
+      "except",
+      "expect",
+      "accept"
+     ],
+     "a": 3,
+     "w": "accept（受け入れる）。",
+     "k": "w"
+    },
+    {
+     "q": "A: What do you say to a walk after lunch?\nB: ( ) Let's go.",
+     "o": [
+      "I'm sorry, it's good.",
+      "Sounds good.",
+      "Please, not good.",
+      "No, I'm good for you."
+     ],
+     "a": 1,
+     "w": "提案に賛成するときは Sounds good.",
+     "k": "e"
+    },
+    {
+     "q": "A: Could we ( ) the schedule? I have a test on Friday.",
+     "o": [
+      "adopt",
+      "adjust",
+      "admit",
+      "advise"
+     ],
+     "a": 1,
+     "w": "adjust the schedule（予定を調整する）。",
+     "k": "w"
+    }
+   ]
+  },
+  {
+   "id": "k6",
+   "title": "謝る・許す・感謝・ほめる",
+   "intro": "謝る、許す、お礼を言う、ほめる。気持ちを伝える表現。",
+   "expr": [
+    {
+     "en": "I'm sorry I'm late.",
+     "ja": "遅れてごめんなさい。",
+     "note": "I'm sorry (that) ～。"
+    },
+    {
+     "en": "Sorry to keep you waiting.",
+     "ja": "お待たせしてすみません。",
+     "note": "keep ＋人＋ ～ing（人を～させておく）。"
+    },
+    {
+     "en": "It's all my fault.",
+     "ja": "全部私のせいです。",
+     "note": "fault（責任・落ち度）。"
+    },
+    {
+     "en": "That's all right. / Don't worry about it.",
+     "ja": "大丈夫です。／気にしないで。",
+     "note": "謝罪への返事の定番。"
+    },
+    {
+     "en": "Thank you so much for your help.",
+     "ja": "助けてくれて、本当にありがとう。",
+     "note": "Thank you for ～。"
+    },
+    {
+     "en": "I really appreciate it.",
+     "ja": "本当に感謝しています。",
+     "note": "appreciate は「ありがたく思う」。"
+    },
+    {
+     "en": "You're welcome. / My pleasure.",
+     "ja": "どういたしまして。",
+     "note": "お礼への返事。"
+    },
+    {
+     "en": "That's a nice jacket! / Good job!",
+     "ja": "すてきなジャケットですね！／よくやった！",
+     "note": "ほめ言葉に Thank you. と答える。"
+    }
+   ],
+   "model": [
+    {
+     "sp": "A",
+     "en": "I'm sorry I'm late. It's all my fault. I missed the bus.",
+     "ja": "遅れてごめん。全部私のせいだ。バスに乗り遅れたんだ。"
+    },
+    {
+     "sp": "B",
+     "en": "That's all right. Don't worry about it.",
+     "ja": "大丈夫だよ。気にしないで。"
+    },
+    {
+     "sp": "A",
+     "en": "I apologize. I should have called you.",
+     "ja": "謝るよ。電話すべきだった。"
+    },
+    {
+     "sp": "B",
+     "en": "Really, it's no problem. We have plenty of time.",
+     "ja": "本当に大丈夫。時間はたっぷりあるよ。"
+    },
+    {
+     "sp": "A",
+     "en": "Thank you for understanding. I really appreciate it.",
+     "ja": "分かってくれてありがとう。本当に感謝してる。"
+    },
+    {
+     "sp": "B",
+     "en": "My pleasure. By the way, that's a nice jacket!",
+     "ja": "どういたしまして。ところで、すてきなジャケットだね！"
+    },
+    {
+     "sp": "A",
+     "en": "Thanks for the compliment! It was a present.",
+     "ja": "ほめてくれてありがとう！ 贈り物なんだ。"
+    },
+    {
+     "sp": "B",
+     "en": "Anyway, everyone makes a mistake sometimes. I forgive you!",
+     "ja": "とにかく、誰でもたまにはまちがえるさ。許してあげる！"
+    }
+   ],
+   "words": [
+    {
+     "en": "apologize",
+     "ja": "謝る"
+    },
+    {
+     "en": "appreciate",
+     "ja": "感謝する"
+    },
+    {
+     "en": "fault",
+     "ja": "責任・落ち度"
+    },
+    {
+     "en": "forgive",
+     "ja": "許す"
+    },
+    {
+     "en": "compliment",
+     "ja": "ほめ言葉"
+    },
+    {
+     "en": "mistake",
+     "ja": "まちがい"
+    }
+   ],
+   "qs": [
+    {
+     "q": "A: I'm sorry I'm late.\nB: ( ) I just got here, too.",
+     "o": [
+      "Excuse me, too.",
+      "Same to you.",
+      "That's all right.",
+      "You're welcome."
+     ],
+     "a": 2,
+     "w": "謝罪への返事は That's all right. / No problem.",
+     "k": "e"
+    },
+    {
+     "q": "A: Thank you so much for your help.\nB: ( )",
+     "o": [
+      "I'm sorry for that.",
+      "It's too bad.",
+      "My pleasure.",
+      "Good luck to you."
+     ],
+     "a": 2,
+     "w": "お礼への返事は You're welcome. / My pleasure.",
+     "k": "e"
+    },
+    {
+     "q": "A: I'm sorry. It's all my ( ).\nB: Don't worry.",
+     "o": [
+      "fall",
+      "fat",
+      "fault",
+      "fail"
+     ],
+     "a": 2,
+     "w": "It's my fault.（私のせいです）",
+     "k": "w"
+    },
+    {
+     "q": "A: I really ( ) your help.\nB: Anytime.",
+     "o": [
+      "appreciation",
+      "apology",
+      "appointment",
+      "appreciate"
+     ],
+     "a": 3,
+     "w": "I really appreciate it.（本当に感謝しています）",
+     "k": "w"
+    },
+    {
+     "q": "A: Sorry to keep you ( ).\nB: No problem.",
+     "o": [
+      "waited",
+      "waiting",
+      "to wait",
+      "wait"
+     ],
+     "a": 1,
+     "w": "keep ＋人＋ ～ing。",
+     "k": "e"
+    },
+    {
+     "q": "A: I ( ) for being late.\nB: That's okay.",
+     "o": [
+      "apology",
+      "apologist",
+      "apologetic",
+      "apologize"
+     ],
+     "a": 3,
+     "w": "apologize for ～（～を謝る）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Thanks for the ( ). I'm so happy!\nB: You deserve it.",
+     "o": [
+      "complement",
+      "compliance",
+      "compliment",
+      "complaint"
+     ],
+     "a": 2,
+     "w": "compliment（ほめ言葉）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Oops! I broke your cup.\nB: ( ) It's just a cup.",
+     "o": [
+      "I'm sure.",
+      "Never mind.",
+      "Please, I broke it.",
+      "Thanks a lot."
+     ],
+     "a": 1,
+     "w": "Never mind.（気にしないで）",
+     "k": "e"
+    },
+    {
+     "q": "A: Please ( ) me. I didn't mean to hurt you.\nB: It's all right.",
+     "o": [
+      "forbid",
+      "forget",
+      "forgive",
+      "forecast"
+     ],
+     "a": 2,
+     "w": "forgive（許す）。",
+     "k": "w"
+    },
+    {
+     "q": "A: I made a ( ) in the report.\nB: Don't worry. We can fix it.",
+     "o": [
+      "mystery",
+      "mistrust",
+      "mistake",
+      "mixture"
+     ],
+     "a": 2,
+     "w": "make a mistake（まちがえる）。",
+     "k": "w"
+    },
+    {
+     "q": "A: What a nice dress!\nB: ( )",
+     "o": [
+      "Yes, I'm nice.",
+      "No, it's not nice.",
+      "Thank you. I got it yesterday.",
+      "I'm sorry for the dress."
+     ],
+     "a": 2,
+     "w": "ほめられたら Thank you. と受ける。",
+     "k": "e"
+    },
+    {
+     "q": "A: Thank you for coming.\nB: ( ) I enjoyed it.",
+     "o": [
+      "I'm afraid not",
+      "Yes, I'm welcome",
+      "It was my pleasure.",
+      "You are welcome to me"
+     ],
+     "a": 2,
+     "w": "お礼への返事 It was my pleasure.",
+     "k": "e"
+    },
+    {
+     "q": "A: I'm so sorry. I forgot your birthday.\nB: ( ) It happens.",
+     "o": [
+      "Don't be sorry for me.",
+      "Please worry about it.",
+      "I'm worried about it.",
+      "Don't worry about it."
+     ],
+     "a": 3,
+     "w": "Don't worry about it.（気にしないで）",
+     "k": "e"
+    },
+    {
+     "q": "A: Excuse me, I think you dropped this.\nB: Oh, thank you. That's very ( ) of you.",
+     "o": [
+      "kindness",
+      "kinds",
+      "kind",
+      "kindly"
+     ],
+     "a": 2,
+     "w": "That's very kind of you.（ご親切に）",
+     "k": "e"
+    }
+   ]
+  },
+  {
+   "id": "k7",
+   "title": "依頼・許可・申し出",
+   "intro": "頼む、許可を求める、手伝いを申し出る。丁寧さの段階を知る。",
+   "expr": [
+    {
+     "en": "Could you open the window, please?",
+     "ja": "窓を開けていただけますか。",
+     "note": "Could you ～? は丁寧な依頼。"
+    },
+    {
+     "en": "Would you mind closing the door?",
+     "ja": "ドアを閉めていただけますか。",
+     "note": "mind のあとは動名詞。"
+    },
+    {
+     "en": "Do you mind if I sit here?",
+     "ja": "ここにすわってもいいですか。",
+     "note": "「いいですよ」は No, not at all."
+    },
+    {
+     "en": "May I use your phone?",
+     "ja": "電話をお借りしてもいいですか。",
+     "note": "May I ～? は丁寧な許可。"
+    },
+    {
+     "en": "Sure. / Certainly. / No problem.",
+     "ja": "いいですよ。",
+     "note": "依頼を受けるとき。"
+    },
+    {
+     "en": "I'm afraid I can't.",
+     "ja": "申し訳ありませんが、できません。",
+     "note": "断るときのやわらかい前置き。"
+    },
+    {
+     "en": "Shall I carry your bag?",
+     "ja": "かばんをお持ちしましょうか。",
+     "note": "Shall I ～? は申し出。"
+    },
+    {
+     "en": "Let me help you.",
+     "ja": "お手伝いさせてください。",
+     "note": "Let me ～（～させてください）。"
+    }
+   ],
+   "model": [
+    {
+     "sp": "A",
+     "en": "Excuse me. Could you do me a favor?",
+     "ja": "すみません。お願いがあるのですが。"
+    },
+    {
+     "sp": "B",
+     "en": "Sure. What is it?",
+     "ja": "いいですよ。何ですか。"
+    },
+    {
+     "sp": "A",
+     "en": "Would you mind watching my bag for a minute?",
+     "ja": "ちょっとかばんを見ていてもらえませんか。"
+    },
+    {
+     "sp": "B",
+     "en": "Not at all. Go ahead.",
+     "ja": "いいですよ。どうぞ。"
+    },
+    {
+     "sp": "A",
+     "en": "Thank you. May I borrow your pen, too?",
+     "ja": "ありがとう。ペンもお借りしていいですか。"
+    },
+    {
+     "sp": "B",
+     "en": "Of course. Here you are. Shall I lend you a notebook as well?",
+     "ja": "もちろん。どうぞ。ノートも貸しましょうか。"
+    },
+    {
+     "sp": "A",
+     "en": "No, thanks. Do you mind if I open the window? It's hot.",
+     "ja": "いえ、大丈夫です。窓を開けてもいいですか。暑くて。"
+    },
+    {
+     "sp": "B",
+     "en": "Please do. It's hot in here, and you don't need my permission to open a window.",
+     "ja": "どうぞ。ここは暑いし、窓を開けるのに私の許可はいらないよ。"
+    }
+   ],
+   "words": [
+    {
+     "en": "favor",
+     "ja": "親切な行為"
+    },
+    {
+     "en": "permission",
+     "ja": "許可"
+    },
+    {
+     "en": "mind",
+     "ja": "いやがる"
+    },
+    {
+     "en": "borrow",
+     "ja": "借りる"
+    },
+    {
+     "en": "lend",
+     "ja": "貸す"
+    },
+    {
+     "en": "allow",
+     "ja": "許す"
+    }
+   ],
+   "qs": [
+    {
+     "q": "A: Would you mind ( ) the door?\nB: Not at all.",
+     "o": [
+      "closing",
+      "close",
+      "closed",
+      "to close"
+     ],
+     "a": 0,
+     "w": "Would you mind ～ing?（～してもらえませんか）",
+     "k": "e"
+    },
+    {
+     "q": "A: Do you mind if I sit here?\nB: ( ), go ahead.",
+     "o": [
+      "Yes, I mind, please",
+      "I'm sorry, please do",
+      "Yes, go ahead",
+      "No, not at all"
+     ],
+     "a": 3,
+     "w": "Do you mind ～? には、いいなら No で答える。",
+     "k": "e"
+    },
+    {
+     "q": "A: May I use your phone?\nB: ( )",
+     "o": [
+      "Same to you.",
+      "You're welcome.",
+      "Never mind.",
+      "Sure, go ahead."
+     ],
+     "a": 3,
+     "w": "許可を求められたら Sure, go ahead.",
+     "k": "e"
+    },
+    {
+     "q": "A: Could you do me a ( )?\nB: Sure, what is it?",
+     "o": [
+      "favorite",
+      "favor",
+      "flavor",
+      "fever"
+     ],
+     "a": 1,
+     "w": "do ～ a favor（～の頼みを聞く）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Can I ( ) your pen?\nB: Of course.",
+     "o": [
+      "loan",
+      "lend",
+      "borrow",
+      "rent"
+     ],
+     "a": 2,
+     "w": "borrow（借りる）／lend（貸す）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Could you ( ) me your notebook?\nB: Sure, here you are.",
+     "o": [
+      "lend",
+      "rent",
+      "borrow",
+      "use"
+     ],
+     "a": 0,
+     "w": "lend 人 物（貸す）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Shall I ( ) your bag?\nB: Thank you, that's kind of you.",
+     "o": [
+      "carpet",
+      "carve",
+      "care",
+      "carry"
+     ],
+     "a": 3,
+     "w": "carry（運ぶ）。Shall I ～?（～しましょうか）",
+     "k": "w"
+    },
+    {
+     "q": "A: Is it all right if I ask a question?\nB: Of course. ( ).",
+     "o": [
+      "Go off",
+      "Go through",
+      "Go by",
+      "Go ahead"
+     ],
+     "a": 3,
+     "w": "Go ahead.（どうぞ）",
+     "k": "e"
+    },
+    {
+     "q": "A: Can I ( ) your seat?\nB: Sorry, someone is sitting here.",
+     "o": [
+      "take",
+      "bring",
+      "get",
+      "put"
+     ],
+     "a": 0,
+     "w": "take a seat（席につく）。",
+     "k": "e"
+    },
+    {
+     "q": "A: Do I need ( ) to enter?\nB: Yes, you do.",
+     "o": [
+      "permission",
+      "permissive",
+      "permitting",
+      "permitted"
+     ],
+     "a": 0,
+     "w": "permission（許可）は不可算名詞。",
+     "k": "w"
+    },
+    {
+     "q": "A: I'm afraid I can't ( ) you to park here.",
+     "o": [
+      "allow",
+      "allowance",
+      "alone",
+      "alloy"
+     ],
+     "a": 0,
+     "w": "allow ＋人＋to ～（人が～するのを許す）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Could I speak to you for a ( )?\nB: Sure.",
+     "o": [
+      "monitor",
+      "month",
+      "moment",
+      "mountain"
+     ],
+     "a": 2,
+     "w": "for a moment（ちょっとの間）。",
+     "k": "e"
+    },
+    {
+     "q": "A: I can't open this jar.\nB: ( ) me help you.",
+     "o": [
+      "Have",
+      "Make",
+      "Let",
+      "Get"
+     ],
+     "a": 2,
+     "w": "Let me ～（～させてください）。",
+     "k": "e"
+    },
+    {
+     "q": "A: Can you give me a ( ) with this box?",
+     "o": [
+      "arm",
+      "finger",
+      "foot",
+      "hand"
+     ],
+     "a": 3,
+     "w": "give me a hand（手伝って）。",
+     "k": "e"
+    }
+   ]
+  },
+  {
+   "id": "k8",
+   "title": "意見・同意・反対",
+   "intro": "意見を言う、賛成する、やんわり反対する。討論や話し合いの表現。",
+   "expr": [
+    {
+     "en": "What do you think about this plan?",
+     "ja": "この計画をどう思いますか。",
+     "note": "What do you think about ～?"
+    },
+    {
+     "en": "In my opinion, it's a good idea.",
+     "ja": "私の意見では、それはいい考えです。",
+     "note": "In my opinion, ～（私の考えでは）。"
+    },
+    {
+     "en": "I agree with you.",
+     "ja": "私もそう思います。",
+     "note": "agree with ＋人。"
+    },
+    {
+     "en": "I couldn't agree more.",
+     "ja": "まったくその通りです。",
+     "note": "直訳は「これ以上は賛成できない」。"
+    },
+    {
+     "en": "I'm not sure about that.",
+     "ja": "それはどうかな。",
+     "note": "やんわり疑問を示す。"
+    },
+    {
+     "en": "I see your point, but ...",
+     "ja": "言いたいことは分かるけれど、…",
+     "note": "反対の前置き。"
+    },
+    {
+     "en": "I don't think so.",
+     "ja": "そうは思いません。",
+     "note": "I think not. より自然。"
+    },
+    {
+     "en": "That's a good point.",
+     "ja": "いい指摘ですね。",
+     "note": "相手の意見を認める。"
+    }
+   ],
+   "model": [
+    {
+     "sp": "A",
+     "en": "What do you think about holding the school festival in October?",
+     "ja": "学園祭を10月に開くことをどう思う？"
+    },
+    {
+     "sp": "B",
+     "en": "In my opinion, it's a good idea. The weather is nice then.",
+     "ja": "私の意見では、いい考えだよ。そのころは天気もいいし。"
+    },
+    {
+     "sp": "A",
+     "en": "I agree with you. But I see one problem; many students have exams.",
+     "ja": "賛成だよ。でも問題が1つある。多くの生徒に試験があるんだ。"
+    },
+    {
+     "sp": "B",
+     "en": "That's a good point. I suggest we hold it after the exams.",
+     "ja": "いい指摘だね。試験のあとに開くことを提案するよ。"
+    },
+    {
+     "sp": "A",
+     "en": "I couldn't agree more.",
+     "ja": "まったくその通りだ。"
+    },
+    {
+     "sp": "B",
+     "en": "Some people argue that November is too cold, but I'm not sure about that.",
+     "ja": "11月は寒すぎると主張する人もいるけど、それはどうかな。"
+    },
+    {
+     "sp": "A",
+     "en": "I don't think so. I'll try to convince the teachers.",
+     "ja": "そうは思わないな。先生たちを納得させてみるよ。"
+    },
+    {
+     "sp": "B",
+     "en": "Great. Let's ask the students to vote.",
+     "ja": "いいね。生徒に投票してもらおう。"
+    }
+   ],
+   "words": [
+    {
+     "en": "opinion",
+     "ja": "意見"
+    },
+    {
+     "en": "point",
+     "ja": "要点・論点"
+    },
+    {
+     "en": "suggest",
+     "ja": "提案する"
+    },
+    {
+     "en": "convince",
+     "ja": "納得させる"
+    },
+    {
+     "en": "argue",
+     "ja": "主張する・言い争う"
+    },
+    {
+     "en": "vote",
+     "ja": "投票する"
+    }
+   ],
+   "qs": [
+    {
+     "q": "A: What do you ( ) about this plan?",
+     "o": [
+      "take",
+      "hold",
+      "make",
+      "think"
+     ],
+     "a": 3,
+     "w": "What do you think about ～?（～をどう思う？）",
+     "k": "e"
+    },
+    {
+     "q": "B: ( ) my opinion, it's a good idea.",
+     "o": [
+      "In",
+      "On",
+      "At",
+      "By"
+     ],
+     "a": 0,
+     "w": "in my opinion（私の意見では）。",
+     "k": "e"
+    },
+    {
+     "q": "A: I think we should start now.\nB: I ( ) with you.",
+     "o": [
+      "allow",
+      "agree",
+      "admit",
+      "accept"
+     ],
+     "a": 1,
+     "w": "agree with ＋人（人に賛成する）。",
+     "k": "e"
+    },
+    {
+     "q": "A: This movie is great.\nB: I couldn't agree ( ).",
+     "o": [
+      "more",
+      "much",
+      "well",
+      "less"
+     ],
+     "a": 0,
+     "w": "I couldn't agree more.（まったく同感）",
+     "k": "e"
+    },
+    {
+     "q": "A: Don't you think it's too expensive?\nB: I'm not ( ) about that.",
+     "o": [
+      "sure",
+      "shore",
+      "sore",
+      "share"
+     ],
+     "a": 0,
+     "w": "I'm not sure about that.（それはどうかな）",
+     "k": "e"
+    },
+    {
+     "q": "A: I see your ( ), but I still disagree.",
+     "o": [
+      "pain",
+      "point",
+      "print",
+      "pint"
+     ],
+     "a": 1,
+     "w": "I see your point.（言いたいことは分かる）",
+     "k": "w"
+    },
+    {
+     "q": "A: We should buy a new computer.\nB: I don't ( ) so. The old one works fine.",
+     "o": [
+      "tell",
+      "mean",
+      "think",
+      "say"
+     ],
+     "a": 2,
+     "w": "I don't think so.（そうは思わない）",
+     "k": "e"
+    },
+    {
+     "q": "A: Math is the most important subject.\nB: I ( ) with you. Art is just as important.",
+     "o": [
+      "disagree",
+      "disappear",
+      "discuss",
+      "discover"
+     ],
+     "a": 0,
+     "w": "disagree with ＋人（人に反対する）。",
+     "k": "w"
+    },
+    {
+     "q": "A: I ( ) we take a taxi.\nB: Good idea.",
+     "o": [
+      "suggesting",
+      "suggests",
+      "suggest",
+      "suggestion"
+     ],
+     "a": 2,
+     "w": "I suggest (that) we ～（～を提案します）。",
+     "k": "w"
+    },
+    {
+     "q": "A: I'll try to ( ) him to join us.\nB: Good luck.",
+     "o": [
+      "convert",
+      "convey",
+      "contain",
+      "convince"
+     ],
+     "a": 3,
+     "w": "convince ＋人 ＋to ～（人を説得して～させる）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Some people ( ) that homework is useless.\nB: But it helps us learn.",
+     "o": [
+      "arguing",
+      "argument",
+      "argues",
+      "argue"
+     ],
+     "a": 3,
+     "w": "argue that ～（～と主張する）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Let's ask everyone to ( ).\nB: OK, by raising hands.",
+     "o": [
+      "volume",
+      "vote",
+      "voice",
+      "vowel"
+     ],
+     "a": 1,
+     "w": "vote（投票する）。",
+     "k": "w"
+    },
+    {
+     "q": "B: To be ( ), I don't like the plan.",
+     "o": [
+      "honor",
+      "honest",
+      "hunger",
+      "hurry"
+     ],
+     "a": 1,
+     "w": "To be honest（正直に言うと）。",
+     "k": "e"
+    },
+    {
+     "q": "A: Which do you prefer, summer or winter?\nB: I ( ) summer to winter.",
+     "o": [
+      "prefer",
+      "better",
+      "rather",
+      "favor"
+     ],
+     "a": 0,
+     "w": "prefer A to B（BよりAを好む）。",
+     "k": "e"
+    }
+   ]
+  },
+  {
+   "id": "k9",
+   "title": "体調・悩み・励まし",
+   "intro": "体調をたずねる、心配する、はげます。思いやりの表現。",
+   "expr": [
+    {
+     "en": "What's the matter?",
+     "ja": "どうしたの？",
+     "note": "matter は「問題」。What's wrong? も同じ。"
+    },
+    {
+     "en": "You look pale. Are you all right?",
+     "ja": "顔色が悪いよ。大丈夫？",
+     "note": "look ＋形容詞（～に見える）。"
+    },
+    {
+     "en": "I have a headache.",
+     "ja": "頭が痛いです。",
+     "note": "have a ＋痛み（headache, toothache）。"
+    },
+    {
+     "en": "I don't feel well.",
+     "ja": "気分がよくありません。",
+     "note": "feel well（体調がよい）。"
+    },
+    {
+     "en": "You should see a doctor.",
+     "ja": "医者に診てもらったほうがいいよ。",
+     "note": "see a doctor（診察を受ける）。"
+    },
+    {
+     "en": "Take care of yourself.",
+     "ja": "お大事に。",
+     "note": "別れ際のあいさつにも使える。"
+    },
+    {
+     "en": "Cheer up!",
+     "ja": "元気を出して！",
+     "note": "はげましの定番。"
+    },
+    {
+     "en": "Don't give up.",
+     "ja": "あきらめないで。",
+     "note": "give up（あきらめる）。"
+    }
+   ],
+   "model": [
+    {
+     "sp": "A",
+     "en": "What's the matter? You look pale.",
+     "ja": "どうしたの？ 顔色が悪いよ。"
+    },
+    {
+     "sp": "B",
+     "en": "I don't feel well. I have a headache and a slight fever.",
+     "ja": "気分が悪いんだ。頭が痛くて、少し熱もある。"
+    },
+    {
+     "sp": "A",
+     "en": "You should see a doctor. Why don't you go home early?",
+     "ja": "医者に診てもらったほうがいいよ。早く帰ったら？"
+    },
+    {
+     "sp": "B",
+     "en": "I will, but I have an important test tomorrow. I'm worried about it.",
+     "ja": "そうするけど、明日大事なテストがあるんだ。心配で。"
+    },
+    {
+     "sp": "A",
+     "en": "Don't worry. Take care of yourself first. You'll recover soon.",
+     "ja": "心配しないで。まずは体を大事にして。すぐ回復するよ。"
+    },
+    {
+     "sp": "B",
+     "en": "Thanks for your advice.",
+     "ja": "助言をありがとう。"
+    },
+    {
+     "sp": "A",
+     "en": "Cheer up! I'll encourage you with a cup of tea.",
+     "ja": "元気を出して！ お茶でも飲んでおうえんするよ。"
+    },
+    {
+     "sp": "B",
+     "en": "That's kind of you. I'll try not to give up.",
+     "ja": "ありがとう。あきらめないようにするよ。"
+    }
+   ],
+   "words": [
+    {
+     "en": "matter",
+     "ja": "問題"
+    },
+    {
+     "en": "pale",
+     "ja": "青白い"
+    },
+    {
+     "en": "fever",
+     "ja": "熱"
+    },
+    {
+     "en": "recover",
+     "ja": "回復する"
+    },
+    {
+     "en": "advice",
+     "ja": "助言"
+    },
+    {
+     "en": "encourage",
+     "ja": "はげます"
+    }
+   ],
+   "qs": [
+    {
+     "q": "A: What's the ( )? You look pale.\nB: I have a headache.",
+     "o": [
+      "material",
+      "manner",
+      "mind",
+      "matter"
+     ],
+     "a": 3,
+     "w": "What's the matter?（どうしたの？）",
+     "k": "e"
+    },
+    {
+     "q": "A: I don't ( ) well.\nB: You should go home and rest.",
+     "o": [
+      "see",
+      "have",
+      "look",
+      "feel"
+     ],
+     "a": 3,
+     "w": "I don't feel well.（気分が悪い）",
+     "k": "e"
+    },
+    {
+     "q": "A: You look ( ). Are you all right?\nB: I'm just tired.",
+     "o": [
+      "pale",
+      "pole",
+      "pill",
+      "pail"
+     ],
+     "a": 0,
+     "w": "pale（青白い）。",
+     "k": "w"
+    },
+    {
+     "q": "A: I have a ( ). It's 38 degrees.\nB: You should go to bed.",
+     "o": [
+      "favor",
+      "fervor",
+      "fever",
+      "flavor"
+     ],
+     "a": 2,
+     "w": "have a fever（熱がある）。",
+     "k": "w"
+    },
+    {
+     "q": "A: You should ( ) a doctor.\nB: Yes, I will.",
+     "o": [
+      "hear",
+      "see",
+      "look",
+      "watch"
+     ],
+     "a": 1,
+     "w": "see a doctor（医者に診てもらう）。",
+     "k": "e"
+    },
+    {
+     "q": "A: ( ) of yourself.\nB: Thank you.",
+     "o": [
+      "Take off",
+      "Take part",
+      "Take place",
+      "Take care"
+     ],
+     "a": 3,
+     "w": "Take care of yourself.（お大事に）",
+     "k": "e"
+    },
+    {
+     "q": "A: I failed the test.\nB: ( ) Next time you'll do better.",
+     "o": [
+      "Give up!",
+      "Cheer up!",
+      "Look out!",
+      "Hurry up!"
+     ],
+     "a": 1,
+     "w": "Cheer up!（元気を出して）",
+     "k": "e"
+    },
+    {
+     "q": "A: I want to quit.\nB: Don't ( ) up! You're almost there.",
+     "o": [
+      "make",
+      "take",
+      "get",
+      "give"
+     ],
+     "a": 3,
+     "w": "give up（あきらめる）。",
+     "k": "e"
+    },
+    {
+     "q": "A: Thank you for your ( ). It really helped.\nB: Anytime.",
+     "o": [
+      "advice",
+      "advance",
+      "advertise",
+      "advise"
+     ],
+     "a": 0,
+     "w": "advice（助言）は名詞。advise は動詞。",
+     "k": "w"
+    },
+    {
+     "q": "A: I'll ( ) from my cold soon.\nB: Good to hear.",
+     "o": [
+      "remind",
+      "require",
+      "recover",
+      "remove"
+     ],
+     "a": 2,
+     "w": "recover from ～（～から回復する）。",
+     "k": "w"
+    },
+    {
+     "q": "My teacher always ( ) me to try again.",
+     "o": [
+      "encourages",
+      "encounters",
+      "enters",
+      "endures"
+     ],
+     "a": 0,
+     "w": "encourage ＋人＋to ～（人をはげまして～させる）。",
+     "k": "w"
+    },
+    {
+     "q": "A: I'm ( ) about my exam.\nB: Don't worry. You studied hard.",
+     "o": [
+      "worries",
+      "worried",
+      "worrying",
+      "worry"
+     ],
+     "a": 1,
+     "w": "be worried about ～（～を心配している）。",
+     "k": "e"
+    },
+    {
+     "q": "A: I have a toothache.\nB: You should go to the ( ).",
+     "o": [
+      "desert",
+      "dentist",
+      "dessert",
+      "density"
+     ],
+     "a": 1,
+     "w": "dentist（歯医者）。",
+     "k": "w"
+    },
+    {
+     "q": "A: I couldn't sleep last night.\nB: That's too ( ). Get some rest.",
+     "o": [
+      "bored",
+      "good",
+      "bad",
+      "glad"
+     ],
+     "a": 2,
+     "w": "That's too bad.（それはお気の毒に）",
+     "k": "e"
+    }
+   ]
+  },
+  {
+   "id": "k10",
+   "title": "聞き返し・あいづち・つなぎ言葉",
+   "intro": "聞き返す、あいづちを打つ、会話をつなぐ。自然な会話のための表現。",
+   "expr": [
+    {
+     "en": "Pardon? / Could you say that again?",
+     "ja": "もう一度言ってもらえますか。",
+     "note": "聞き返しの定番。"
+    },
+    {
+     "en": "I didn't catch that.",
+     "ja": "聞き取れませんでした。",
+     "note": "catch は「聞き取る」。"
+    },
+    {
+     "en": "What do you mean by that?",
+     "ja": "それはどういう意味ですか。",
+     "note": "What do you mean by ～?"
+    },
+    {
+     "en": "Let me see. / Let me think.",
+     "ja": "ええと。／考えさせて。",
+     "note": "間をつなぐ言い方。"
+    },
+    {
+     "en": "By the way, ...",
+     "ja": "ところで、…",
+     "note": "話題を変えるとき。"
+    },
+    {
+     "en": "I see. / I get it.",
+     "ja": "なるほど。／分かった。",
+     "note": "あいづち。"
+    },
+    {
+     "en": "No wonder!",
+     "ja": "どうりで！",
+     "note": "理由が分かったとき。"
+    },
+    {
+     "en": "Take your time.",
+     "ja": "ゆっくりでいいですよ。",
+     "note": "相手をせかさない。"
+    }
+   ],
+   "model": [
+    {
+     "sp": "A",
+     "en": "Did you finish the science report?",
+     "ja": "理科のレポートは終わった？"
+    },
+    {
+     "sp": "B",
+     "en": "Pardon? I didn't catch that. The bell was loud.",
+     "ja": "え？ 聞き取れなかった。ベルがうるさくて。"
+    },
+    {
+     "sp": "A",
+     "en": "I asked if you finished the science report.",
+     "ja": "理科のレポートを終えたか聞いたの。"
+    },
+    {
+     "sp": "B",
+     "en": "Oh, I see. Not yet. Honestly, I didn't expect it to be so long.",
+     "ja": "ああ、なるほど。まだだよ。正直、こんなに長いとは思わなかった。"
+    },
+    {
+     "sp": "A",
+     "en": "What do you mean?",
+     "ja": "どういうこと？"
+    },
+    {
+     "sp": "B",
+     "en": "I mean I need to explain the experiment in detail. Anyway, I realized I forgot my notes.",
+     "ja": "実験を詳しく説明しないといけないんだ。とにかく、ノートを忘れたことに気づいたよ。"
+    },
+    {
+     "sp": "A",
+     "en": "No wonder you look worried. By the way, take your time; the deadline is Friday.",
+     "ja": "どうりで心配そうなわけだ。ところで、ゆっくりでいいよ。締め切りは金曜日だから。"
+    },
+    {
+     "sp": "B",
+     "en": "Thanks. I'll probably finish it tomorrow.",
+     "ja": "ありがとう。たぶん明日には終わるよ。"
+    }
+   ],
+   "words": [
+    {
+     "en": "explain",
+     "ja": "説明する"
+    },
+    {
+     "en": "realize",
+     "ja": "気づく"
+    },
+    {
+     "en": "expect",
+     "ja": "予想する"
+    },
+    {
+     "en": "probably",
+     "ja": "たぶん"
+    },
+    {
+     "en": "honestly",
+     "ja": "正直に言うと"
+    },
+    {
+     "en": "anyway",
+     "ja": "とにかく"
+    }
+   ],
+   "qs": [
+    {
+     "q": "A: The meeting starts at nine tomorrow.\nB: ( )? Could you say that again?",
+     "o": [
+      "Welcome",
+      "Please",
+      "Thanks",
+      "Pardon"
+     ],
+     "a": 3,
+     "w": "聞き返すときは Pardon?",
+     "k": "e"
+    },
+    {
+     "q": "A: Could you repeat that? I didn't ( ) it.\nB: Sure.",
+     "o": [
+      "catch",
+      "take",
+      "hit",
+      "hold"
+     ],
+     "a": 0,
+     "w": "catch（聞き取る）。",
+     "k": "e"
+    },
+    {
+     "q": "A: What do you ( ) by that?\nB: I mean we should start earlier.",
+     "o": [
+      "means",
+      "meaning",
+      "mean",
+      "meant"
+     ],
+     "a": 2,
+     "w": "What do you mean by ～?",
+     "k": "e"
+    },
+    {
+     "q": "A: How about Friday?\nB: ( ) me think. I have a club meeting.",
+     "o": [
+      "Have",
+      "Make",
+      "Get",
+      "Let"
+     ],
+     "a": 3,
+     "w": "Let me think.（考えさせて）",
+     "k": "e"
+    },
+    {
+     "q": "A: Do you know where she lives?\nB: Let me ( ). I think it's near the station.",
+     "o": [
+      "look",
+      "hear",
+      "watch",
+      "see"
+     ],
+     "a": 3,
+     "w": "Let me see.（ええと）",
+     "k": "e"
+    },
+    {
+     "q": "A: ( ) the way, did you see the game last night?",
+     "o": [
+      "At",
+      "On",
+      "In",
+      "By"
+     ],
+     "a": 3,
+     "w": "By the way,（ところで）",
+     "k": "e"
+    },
+    {
+     "q": "A: He stayed up all night.\nB: ( ) he looks so sleepy.",
+     "o": [
+      "No wonder",
+      "No wander",
+      "Not wonder",
+      "Never wonder"
+     ],
+     "a": 0,
+     "w": "No wonder ～（どうりで～）。",
+     "k": "e"
+    },
+    {
+     "q": "A: She won the first prize.\nB: ( )! That's amazing.",
+     "o": [
+      "Rarely",
+      "Nearly",
+      "Really",
+      "Roughly"
+     ],
+     "a": 2,
+     "w": "Really?（本当？）",
+     "k": "e"
+    },
+    {
+     "q": "A: I don't understand this problem.\nB: Let me ( ) it to you.",
+     "o": [
+      "explode",
+      "express",
+      "explore",
+      "explain"
+     ],
+     "a": 3,
+     "w": "explain A to B（AをBに説明する）。",
+     "k": "w"
+    },
+    {
+     "q": "A: When did you ( ) that you lost your key?\nB: When I got home.",
+     "o": [
+      "reality",
+      "realize",
+      "realism",
+      "real"
+     ],
+     "a": 1,
+     "w": "realize（気づく）。",
+     "k": "w"
+    },
+    {
+     "q": "A: I didn't ( ) so many people to come.\nB: Me neither.",
+     "o": [
+      "expand",
+      "expect",
+      "except",
+      "expert"
+     ],
+     "a": 1,
+     "w": "expect（予想する・期待する）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Will she come tomorrow?\nB: ( ) not. She said she was busy.",
+     "o": [
+      "Probability",
+      "Probable",
+      "Proper",
+      "Probably"
+     ],
+     "a": 3,
+     "w": "probably（たぶん）は副詞。",
+     "k": "w"
+    },
+    {
+     "q": "A: ( ), I didn't like the movie.\nB: Really? I loved it.",
+     "o": [
+      "Honesty",
+      "Honestly",
+      "Honest",
+      "Honor"
+     ],
+     "a": 1,
+     "w": "honestly（正直に言うと）は副詞。",
+     "k": "w"
+    },
+    {
+     "q": "A: I'm not ready yet.\nB: ( ). We have plenty of time.",
+     "o": [
+      "Take your time",
+      "Take your seat",
+      "Take your chance",
+      "Take your place"
+     ],
+     "a": 0,
+     "w": "Take your time.（ゆっくりでいいよ）",
+     "k": "e"
+    }
+   ]
   }
  ]
 }
