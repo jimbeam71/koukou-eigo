@@ -4400,6 +4400,1126 @@
      "w": "否定語が文頭の文は倒置。Never I have や Not only he is は誤り。"
     }
    ]
+  },
+  {
+   "id": "g13",
+   "title": "前置詞",
+   "tags": [
+    "定期テスト",
+    "共通テスト"
+   ],
+   "one": "前置詞は「イメージ」と「組み合わせ」で覚える。時・場所・手段の基本と、形容詞・動詞とセットで使う熟語を整理する。",
+   "sections": [
+    {
+     "h": "時を表す前置詞",
+     "p": "**at**（時刻）／**on**（日・曜日・特定の日の朝）／**in**（月・年・季節・午前午後）\n**for**（期間の長さ）／**during**（特定の期間の間。名詞が続く）／**while**（接続詞。S＋Vが続く）\n**by**（期限・～までに）／**until**（継続・～までずっと）／**in**（～後に）／**within**（～以内に）\n**between A and B**（2者の間）／**among**（3者以上の間）",
+     "ex": [
+      {
+       "en": "The meeting starts at nine on Monday in March, which is far too many things to remember.",
+       "ja": "会議は3月の月曜の9時に始まる。覚えることが多すぎる。"
+      },
+      {
+       "en": "I must finish this report by Friday, so please don't talk to me until then.",
+       "ja": "金曜までにこのレポートを終えないといけない。それまで話しかけないで。"
+      },
+      {
+       "en": "It rained during the night, while my cat was sleeping on the umbrella.",
+       "ja": "夜のあいだ雨が降り、ネコはかさの上で寝ていた。"
+      }
+     ]
+    },
+    {
+     "h": "場所・方向・手段",
+     "p": "**at**（点）／**in**（空間の内部）／**on**（接触）／**over**（真上・おおって）／**above**（上方）／**below**（下方）／**under**（真下）\n**across**（横切って）／**through**（通り抜けて）／**along**（沿って）／**into**（中へ）／**toward**（～の方へ）\n**by**（手段 by bus／差 by two points／単位 by the hour／行為者）／**with**（道具）／**in**（言語・材料・着ているもの in English, in red）",
+     "ex": [
+      {
+       "en": "The cat jumped over the fence and landed in a bucket of soup.",
+       "ja": "ネコはフェンスを飛びこえて、スープの入ったバケツに着地した。"
+      },
+      {
+       "en": "We flew across the ocean, and I watched four movies.",
+       "ja": "私たちは海をこえて飛び、映画を4本見た。"
+      },
+      {
+       "en": "He cut the cake with a knife, then ate it with his hands.",
+       "ja": "彼はナイフでケーキを切り、手で食べた。"
+      }
+     ]
+    },
+    {
+     "h": "形容詞・動詞と前置詞のセット",
+     "p": "**be afraid of ～／proud of ～／fond of ～／aware of ～／capable of ～／different from ～／famous for ～／good at ～／late for ～／responsible for ～／absent from ～**\n**depend on ～／consist of ～／result in ～／result from ～／apply for ～／look for ～**\n**compare A with B／provide A with B／blame A for B／thank A for B／prevent [keep, stop] A from ～ing**",
+     "ex": [
+      {
+       "en": "The heavy snow prevented us from going out, and nobody complained.",
+       "ja": "大雪で外出できなかったが、誰も文句を言わなかった。"
+      },
+      {
+       "en": "Kyoto is famous for its temples, and Osaka is famous for its pride about food.",
+       "ja": "京都はお寺で有名で、大阪は食べ物への誇りで有名だ。"
+      },
+      {
+       "en": "The school provided every student with a laptop that nobody could carry.",
+       "ja": "学校は全員にノートパソコンを支給したが、誰も運べなかった。"
+      }
+     ]
+    },
+    {
+     "h": "群前置詞",
+     "p": "2語以上で1つの前置詞のはたらき。\n**because of ～／thanks to ～／owing to ～／due to ～**（原因）／**according to ～**（～によれば）／**instead of ～**（～の代わりに）\n**in addition to ～**（～に加えて）／**in spite of ～ ＝ despite ～**（～にもかかわらず）／**regardless of ～**（～に関係なく）／**as for ～**（～に関しては）／**in front of ～**（～の前で）",
+     "ex": [
+      {
+       "en": "According to the weather report, it will be sunny, and I believe it with an umbrella.",
+       "ja": "天気予報によれば晴れるそうだが、私はかさを持って信じる。"
+      },
+      {
+       "en": "Instead of studying, he cleaned his room for three hours.",
+       "ja": "勉強する代わりに、彼は3時間、部屋を掃除した。"
+      }
+     ]
+    }
+   ],
+   "traps": [
+    {
+     "t": "for と during",
+     "body": "for ＋期間の長さ（for three days）／during ＋特定の期間を表す名詞（during the vacation）。\n「どのくらい？」には for、「いつ？」には during。"
+    },
+    {
+     "t": "by と until",
+     "body": "by＝期限（その時点までに終える）／until＝継続（その時点までずっと続く）。\nFinish it by five.／Stay here until five.\n動詞が一回で終わる（finish, leave）なら by、続く（wait, stay）なら until。"
+    },
+    {
+     "t": "in と within、after",
+     "body": "in an hour＝1時間後に／within an hour＝1時間以内に／after an hour＝1時間たってから。\nin は「今から」の後で、after は「ある時点から」の後。"
+    }
+   ],
+   "drill": [
+    {
+     "q": "I get up ( ) six.",
+     "o": [
+      "at",
+      "on",
+      "in",
+      "by"
+     ],
+     "a": 0,
+     "w": "時刻は at。"
+    },
+    {
+     "q": "My birthday is ( ) May 5.",
+     "o": [
+      "on",
+      "at",
+      "in",
+      "for"
+     ],
+     "a": 0,
+     "w": "日付は on。"
+    },
+    {
+     "q": "He was born ( ) 2008.",
+     "o": [
+      "in",
+      "on",
+      "at",
+      "by"
+     ],
+     "a": 0,
+     "w": "年は in。"
+    },
+    {
+     "q": "I stayed in Kyoto ( ) three days.",
+     "o": [
+      "for",
+      "during",
+      "while",
+      "since"
+     ],
+     "a": 0,
+     "w": "期間の長さは for。"
+    },
+    {
+     "q": "It rained ( ) the night.",
+     "o": [
+      "during",
+      "for",
+      "while",
+      "since"
+     ],
+     "a": 0,
+     "w": "the night（特定の期間を表す名詞）の前は during。"
+    },
+    {
+     "q": "Finish this ( ) Friday.（期限）",
+     "o": [
+      "by",
+      "until",
+      "at",
+      "in"
+     ],
+     "a": 0,
+     "w": "期限（金曜までに）は by。"
+    },
+    {
+     "q": "Wait here ( ) five o'clock.",
+     "o": [
+      "until",
+      "by",
+      "at",
+      "in"
+     ],
+     "a": 0,
+     "w": "継続（5時までずっと）は until。"
+    },
+    {
+     "q": "I'll be back ( ) an hour.（1時間後に）",
+     "o": [
+      "in",
+      "after",
+      "within",
+      "at"
+     ],
+     "a": 0,
+     "w": "今から1時間後は in。within は「以内」。"
+    },
+    {
+     "q": "We went to school ( ) bus.",
+     "o": [
+      "by",
+      "with",
+      "on",
+      "in"
+     ],
+     "a": 0,
+     "w": "交通手段は by ＋無冠詞。"
+    },
+    {
+     "q": "He cut the cake ( ) a knife.",
+     "o": [
+      "with",
+      "by",
+      "in",
+      "on"
+     ],
+     "a": 0,
+     "w": "道具は with。"
+    },
+    {
+     "q": "She wrote the letter ( ) English.",
+     "o": [
+      "in",
+      "by",
+      "with",
+      "on"
+     ],
+     "a": 0,
+     "w": "言語は in。"
+    },
+    {
+     "q": "The flight was cancelled ( ) the typhoon.",
+     "o": [
+      "because of",
+      "because",
+      "in spite of",
+      "instead of"
+     ],
+     "a": 0,
+     "w": "名詞の前の「～のために」は because of。"
+    },
+    {
+     "q": "He is good ( ) tennis.",
+     "o": [
+      "at",
+      "in",
+      "on",
+      "for"
+     ],
+     "a": 0,
+     "w": "be good at ～。"
+    },
+    {
+     "q": "Mt. Fuji is famous ( ) its beauty.",
+     "o": [
+      "for",
+      "as",
+      "of",
+      "to"
+     ],
+     "a": 0,
+     "w": "be famous for ～（～で有名）。"
+    },
+    {
+     "q": "The rain prevented us ( ) going out.",
+     "o": [
+      "from",
+      "to",
+      "for",
+      "of"
+     ],
+     "a": 0,
+     "w": "prevent A from ～ing。"
+    }
+   ],
+   "test": [
+    {
+     "q": "We flew ( ) the Pacific Ocean.",
+     "o": [
+      "across",
+      "through",
+      "along",
+      "between"
+     ],
+     "a": 0,
+     "w": "海を横切って＝across。"
+    },
+    {
+     "q": "The cat jumped ( ) the fence.",
+     "o": [
+      "over",
+      "above",
+      "on",
+      "in"
+     ],
+     "a": 0,
+     "w": "飛びこえる＝over。"
+    },
+    {
+     "q": "The temperature is five degrees ( ) zero.",
+     "o": [
+      "below",
+      "under",
+      "beneath",
+      "down"
+     ],
+     "a": 0,
+     "w": "ある基準より下（数値）＝below。"
+    },
+    {
+     "q": "I'll call you ( ) the afternoon.",
+     "o": [
+      "in",
+      "at",
+      "on",
+      "by"
+     ],
+     "a": 0,
+     "w": "午前・午後は in the morning / afternoon。"
+    },
+    {
+     "q": "The company is ( ) the control of the government.",
+     "o": [
+      "under",
+      "below",
+      "on",
+      "at"
+     ],
+     "a": 0,
+     "w": "支配下にある＝under the control。"
+    },
+    {
+     "q": "She was blamed ( ) the accident.",
+     "o": [
+      "for",
+      "on",
+      "of",
+      "to"
+     ],
+     "a": 0,
+     "w": "blame A for B。"
+    },
+    {
+     "q": "He provided us ( ) food.",
+     "o": [
+      "with",
+      "for",
+      "of",
+      "to"
+     ],
+     "a": 0,
+     "w": "provide A with B。"
+    },
+    {
+     "q": "Compare this book ( ) that one.",
+     "o": [
+      "with",
+      "at",
+      "for",
+      "in"
+     ],
+     "a": 0,
+     "w": "compare A with B（AとBを比べる）。"
+    },
+    {
+     "q": "( ) to the newspaper, the train will be late.",
+     "o": [
+      "According",
+      "Accordance",
+      "Accord",
+      "Accordingly"
+     ],
+     "a": 0,
+     "w": "according to ～（～によれば）。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "I'll be there at Sunday.",
+      "She was late to school.",
+      "He is absent from school today.",
+      "I'm afraid for spiders."
+     ],
+     "a": 2,
+     "w": "曜日は on、遅れるは late for、afraid of spiders。absent from は正しい。"
+    }
+   ]
+  },
+  {
+   "id": "g14",
+   "title": "名詞・冠詞・代名詞",
+   "tags": [
+    "定期テスト",
+    "共通テスト"
+   ],
+   "one": "数えられる名詞と数えられない名詞、a / the / 無冠詞の使い分け、one / another / the other / others などの代名詞を整理する。",
+   "sections": [
+    {
+     "h": "可算・不可算",
+     "p": "**不可算名詞**（a / 複数形をつけない）：information / advice / furniture / luggage / baggage / news / equipment / homework / weather / money / knowledge\n数えるときは **a piece of ～**（a piece of advice）。\n**数・量の形容詞**：可算＝many / few / a few／不可算＝much / little / a little。some / any / a lot of は両方に使える。\n**複数形で使う名詞**：glasses / scissors / pants（**a pair of ～**）／**people / police**（複数扱い）／**news**（単数扱い）",
+     "ex": [
+      {
+       "en": "He gave me some useful advice, which I ignored politely.",
+       "ja": "彼は役に立つ助言をくれたが、私は礼儀正しく無視した。"
+      },
+      {
+       "en": "The news is true, and it is bad for my sandwich.",
+       "ja": "そのニュースは本当で、私のサンドイッチには悪い知らせだ。"
+      },
+      {
+       "en": "I bought a pair of scissors, and the cashier asked me which one was the pair.",
+       "ja": "はさみを1丁買ったら、レジの人にどっちがその1組か聞かれた。"
+      }
+     ]
+    },
+    {
+     "h": "冠詞",
+     "p": "**a / an**：初めて出てくる名詞／「1つの」「～というもの」\n**the**：特定のもの／前に出たもの／唯一のもの（the sun, the east）／最上級・序数詞／the ＋形容詞（the rich）\n**無冠詞**：go to school / bed（本来の目的）／by bus／have breakfast／play baseball / play the piano（楽器は the）\n**固有名詞**：the United States / the Pacific Ocean / the Alps（複数・海・川）",
+     "ex": [
+      {
+       "en": "I saw an elephant at the zoo, and the elephant saw my sandwich.",
+       "ja": "動物園でゾウを見た。そのゾウは私のサンドイッチを見た。"
+      },
+      {
+       "en": "She goes to school by bus, but the bus goes to the beach.",
+       "ja": "彼女はバスで学校へ行くが、バスは海へ行く。"
+      },
+      {
+       "en": "The rich are not always happy, but they are always on time.",
+       "ja": "金持ちが必ずしも幸せとは限らないが、いつも時間通りだ。"
+      }
+     ]
+    },
+    {
+     "h": "代名詞",
+     "p": "**it**（特定のものそのもの）／**one**（同じ種類の不特定のもの。複数は ones）／**that / those**（the ＋名詞の代わり）\n**another**（ほかの1つ）／**the other**（残りの1つ）／**others**（ほかの何人か）／**the others**（残り全員）\n**one ～, the other ...**（2つ）／**some ～, others ...**（いくつかは～、ほかは...）\n**each other / one another**（お互い）／**再帰代名詞**：enjoy oneself／help yourself／by oneself（ひとりで）／for oneself／in itself",
+     "ex": [
+      {
+       "en": "I lost my umbrella, so I bought a new one, and I lost that one, too.",
+       "ja": "かさをなくして新しいのを買い、それもなくした。"
+      },
+      {
+       "en": "I have two cats. One is lazy, and the other is lazier.",
+       "ja": "ネコが2匹いる。1匹はなまけもので、もう1匹はもっとなまけものだ。"
+      },
+      {
+       "en": "Some people like tea, others like coffee, and my uncle likes both at once.",
+       "ja": "紅茶が好きな人も、コーヒーが好きな人もいるが、おじは同時に両方好きだ。"
+      }
+     ]
+    },
+    {
+     "h": "数量の表現",
+     "p": "**few / a few**（可算：ほとんどない／少しある）／**little / a little**（不可算：ほとんどない／少しある）\n**most of the ～ / most ～**（大部分の）／**almost all**（ほとんどすべての。Almost は副詞）\n**both（2つとも）／either（どちらか）／neither（どちらも～ない）**\n**each / every**（単数扱い）／**all / the whole**（all the day, the whole day）",
+     "ex": [
+      {
+       "en": "I have a few friends in Tokyo, so I'm not lonely; I have a little money, so I'm not rich.",
+       "ja": "東京に友だちが少しいるのでさびしくない。お金は少しあるが、金持ちではない。"
+      },
+      {
+       "en": "Most of the students passed the test, and the rest passed the snack.",
+       "ja": "生徒のほとんどが試験に合格し、残りはおやつに合格した。"
+      }
+     ]
+    }
+   ],
+   "traps": [
+    {
+     "t": "不可算名詞に a や -s をつけない",
+     "body": "×an information／×advices／×furnitures／×homeworks\n○a piece of information／some advice／a lot of furniture。\n数え方：a piece of ～／a sheet of paper／a cup of tea。"
+    },
+    {
+     "t": "the の有無の落とし穴",
+     "body": "go to school（授業を受けに）と go to the school（建物に用事で）はちがう。\nby bus は無冠詞、in the bus は建物としての乗り物。"
+    },
+    {
+     "t": "another と the other",
+     "body": "3つ以上の中から「もう1つ」＝another。\n2つのうちの「残りの1つ」＝the other。\n残り全部＝the others。"
+    }
+   ],
+   "drill": [
+    {
+     "q": "He gave me ( ) useful advice.",
+     "o": [
+      "some",
+      "an",
+      "a",
+      "many"
+     ],
+     "a": 0,
+     "w": "advice は不可算。some（または a piece of）を使う。"
+    },
+    {
+     "q": "How ( ) money do you have?",
+     "o": [
+      "much",
+      "many",
+      "few",
+      "several"
+     ],
+     "a": 0,
+     "w": "money は不可算。much。"
+    },
+    {
+     "q": "Do you have ( ) furniture?",
+     "o": [
+      "any",
+      "a",
+      "many",
+      "few"
+     ],
+     "a": 0,
+     "w": "furniture は不可算名詞。any（疑問文）。"
+    },
+    {
+     "q": "I bought a ( ) of scissors.",
+     "o": [
+      "pair",
+      "piece",
+      "set",
+      "sheet"
+     ],
+     "a": 0,
+     "w": "はさみは a pair of。"
+    },
+    {
+     "q": "The police ( ) looking for him.",
+     "o": [
+      "are",
+      "is",
+      "was",
+      "has"
+     ],
+     "a": 0,
+     "w": "police は複数扱い。"
+    },
+    {
+     "q": "The news ( ) true.",
+     "o": [
+      "is",
+      "are",
+      "were",
+      "have been"
+     ],
+     "a": 0,
+     "w": "news は単数扱い。"
+    },
+    {
+     "q": "I saw ( ) elephant at the zoo.",
+     "o": [
+      "a",
+      "an",
+      "the",
+      "some"
+     ],
+     "a": 1,
+     "w": "elephant は母音で始まるので an。"
+    },
+    {
+     "q": "The sun rises in ( ) east.",
+     "o": [
+      "the",
+      "a",
+      "an",
+      "this"
+     ],
+     "a": 0,
+     "w": "方角は the east。"
+    },
+    {
+     "q": "She goes to ( ) school by bus every day.",
+     "o": [
+      "the",
+      "a",
+      "an",
+      "〔冠詞なし〕"
+     ],
+     "a": 3,
+     "w": "本来の目的で行く school は無冠詞。"
+    },
+    {
+     "q": "He is ( ) tallest in the class.",
+     "o": [
+      "the",
+      "a",
+      "an",
+      "〔冠詞なし〕"
+     ],
+     "a": 0,
+     "w": "最上級には the。"
+    },
+    {
+     "q": "Help ( ) to the cake.",
+     "o": [
+      "yourself",
+      "you",
+      "your",
+      "yours"
+     ],
+     "a": 0,
+     "w": "help oneself to ～（自由に取って食べる）。"
+    },
+    {
+     "q": "I have two brothers. One lives in Tokyo, and ( ) lives in Osaka.",
+     "o": [
+      "the other",
+      "another",
+      "others",
+      "other"
+     ],
+     "a": 0,
+     "w": "2人のうち残りの1人は the other。"
+    },
+    {
+     "q": "Some like tea, and ( ) like coffee.",
+     "o": [
+      "others",
+      "the others",
+      "another",
+      "other"
+     ],
+     "a": 0,
+     "w": "いくつかは～、ほかの何人かは... ＝ others。"
+    },
+    {
+     "q": "They looked at ( ) in surprise.",
+     "o": [
+      "each other",
+      "each others",
+      "other each",
+      "one other"
+     ],
+     "a": 0,
+     "w": "each other（お互い）。"
+    },
+    {
+     "q": "I lost my watch. I must buy ( ).",
+     "o": [
+      "one",
+      "it",
+      "that",
+      "this"
+     ],
+     "a": 0,
+     "w": "同じ種類の不特定のものなら one。"
+    }
+   ],
+   "test": [
+    {
+     "q": "I lost my umbrella, so I bought ( ).",
+     "o": [
+      "it",
+      "one",
+      "that",
+      "them"
+     ],
+     "a": 1,
+     "w": "不特定の同種のものなので one。it だと「なくしたそのもの」になる。"
+    },
+    {
+     "q": "There is ( ) water in the bottle.",
+     "o": [
+      "few",
+      "many",
+      "a few",
+      "little"
+     ],
+     "a": 3,
+     "w": "water は不可算。ほとんどない＝little。"
+    },
+    {
+     "q": "( ) of the students passed the test.",
+     "o": [
+      "Most",
+      "Almost",
+      "Mostly",
+      "The most"
+     ],
+     "a": 0,
+     "w": "Most of the ～（大部分の）。Almost は副詞。"
+    },
+    {
+     "q": "I have two cats. ( ) of them is white.",
+     "o": [
+      "Each",
+      "Both",
+      "All",
+      "Every"
+     ],
+     "a": 0,
+     "w": "動詞が is（単数）なので Each。"
+    },
+    {
+     "q": "We enjoyed ( ) at the party.",
+     "o": [
+      "ourselves",
+      "us",
+      "our",
+      "ours"
+     ],
+     "a": 0,
+     "w": "enjoy oneself（楽しむ）。"
+    },
+    {
+     "q": "He lives by ( ).",
+     "o": [
+      "himself",
+      "him",
+      "his",
+      "he"
+     ],
+     "a": 0,
+     "w": "by oneself（ひとりで）。"
+    },
+    {
+     "q": "The ( ) are not always happy.",
+     "o": [
+      "rich",
+      "richly",
+      "riches",
+      "richer"
+     ],
+     "a": 0,
+     "w": "the ＋形容詞（～な人々）。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "He gave me much informations.",
+      "He gave me a lot of information.",
+      "He gave me an information.",
+      "He gave me many information."
+     ],
+     "a": 1,
+     "w": "information は不可算。a lot of / some / a piece of をつける。"
+    },
+    {
+     "q": "( ) of the two boys is tall enough.",
+     "o": [
+      "Neither",
+      "None",
+      "Both",
+      "All"
+     ],
+     "a": 0,
+     "w": "2人のうちどちらも～ない。単数の is なので Neither。"
+    },
+    {
+     "q": "I have ( ) friends in Tokyo, so I'm not lonely.",
+     "o": [
+      "a few",
+      "few",
+      "a little",
+      "little"
+     ],
+     "a": 0,
+     "w": "friends は可算。少しいる＝a few。"
+    }
+   ]
+  },
+  {
+   "id": "g15",
+   "title": "語法（動詞の型）",
+   "tags": [
+    "定期テスト",
+    "共通テスト"
+   ],
+   "one": "動詞ごとの「型」を覚える。SVOO・SVOC、他動詞と自動詞、tell / ask / want O to ～ の型をグループで整理する。",
+   "sections": [
+    {
+     "h": "SVOO と SVO＋to / for",
+     "p": "**SVOO** → **SVO＋to**：give / send / show / tell / teach / lend / offer / pass / sell\n**SVOO** → **SVO＋for**：buy / make / cook / get / find / leave / choose\n**ask** は **of**：ask a question of you（＝ask you a question）。\n**explain / suggest / mention / say** は SVOO の型をとらない（×explain me ～ → ○explain to me ～）。",
+     "ex": [
+      {
+       "en": "Give the book to him, and give the pen to me; nobody wants the cat.",
+       "ja": "本は彼に、ペンは私に。ネコは誰もほしがらない。"
+      },
+      {
+       "en": "She cooked dinner for us, and the smoke alarm sang for her.",
+       "ja": "彼女は私たちに夕食を作り、火災報知器が彼女のために歌った。"
+      },
+      {
+       "en": "Please explain the rule to me; I read it three times and fell asleep.",
+       "ja": "そのルールを説明して。3回読んで眠ってしまった。"
+      }
+     ]
+    },
+    {
+     "h": "SVOC",
+     "p": "**make / call / name / elect / keep / leave / find / think / consider ＋O＋C**\nThe news made her sad.／We call him Ken.／I found the book difficult.（C は名詞・形容詞）\n**使役**：make / let / have ＋O＋原形、get ＋O＋to ～\n**want / ask / tell / allow / enable / force / encourage / expect ＋O＋ to ～**",
+     "ex": [
+      {
+       "en": "The news made her so happy that she hugged the mailman.",
+       "ja": "その知らせで彼女は大喜びして、郵便配達員を抱きしめた。"
+      },
+      {
+       "en": "My mother won't allow me to stay out late, even on my birthday.",
+       "ja": "母は、誕生日でさえ、私が遅くまで外にいるのを許さない。"
+      },
+      {
+       "en": "The teacher told us to be quiet, which made us noisier.",
+       "ja": "先生は静かにするよう言ったが、かえってうるさくなった。"
+      }
+     ]
+    },
+    {
+     "h": "まちがえやすい他動詞・自動詞",
+     "p": "**他動詞（前置詞なしで目的語）**：discuss ～／marry ～／resemble ～／enter ～／reach ～／attend ～／mention ～／approach ～／answer ～／contact ～\n×discuss about ～／×marry with ～／×reach at ～\n**自動詞（前置詞が必要）**：arrive at [in] ～／talk to ～／wait for ～／graduate from ～／apologize to A for B\n**活用の混同**：lie（横たわる）-lay-lain／lay（置く）-laid-laid／rise（上がる）-rose-risen／raise（上げる）-raised-raised",
+     "ex": [
+      {
+       "en": "We discussed the problem for two hours, and the problem won.",
+       "ja": "私たちはその問題を2時間話し合ったが、問題の勝ちだった。"
+      },
+      {
+       "en": "He arrived at the station just as the train was leaving, as usual.",
+       "ja": "彼は駅に着いたとき、いつものように電車が出ようとしていた。"
+      },
+      {
+       "en": "The sun rises at six, but my arm raises the blanket at nine.",
+       "ja": "太陽は6時にのぼるが、私の腕が毛布を持ち上げるのは9時だ。"
+      }
+     ]
+    },
+    {
+     "h": "重要語法",
+     "p": "**remind A of B**（AにBを思い出させる）／**rob A of B**（AからBを奪う）／**provide A with B**／**prevent [keep, stop] A from ～ing**\n**It takes 人 時間 to ～**（時間がかかる）／**cost 人 金額**（金額がかかる）／**spend 時間・金 (in) ～ing**\n**borrow**（借りる）／**lend**（貸す）／**rent**（有料で借りる）／**say**（言う）／**tell**（伝える）／**speak**（話す）／**talk**（話す）\n**suggest / insist / demand / recommend that ＋S＋(should)原形**",
+     "ex": [
+      {
+       "en": "This photo reminds me of my grandmother, who could win any staring contest.",
+       "ja": "この写真は、にらめっこで負け知らずだった祖母を思い出させる。"
+      },
+      {
+       "en": "It took me two hours to write the report and ten seconds to lose it.",
+       "ja": "レポートを書くのに2時間かかり、なくすのに10秒かかった。"
+      },
+      {
+       "en": "The book cost me 2,000 yen, but the cat read it for free.",
+       "ja": "その本は2,000円したが、ネコはただで読んだ。"
+      }
+     ]
+    }
+   ],
+   "traps": [
+    {
+     "t": "explain / suggest は SVOO にならない",
+     "body": "×explain me the rule　○explain the rule to me\n×suggest me to go　○suggest that I (should) go / suggest going\nwant・tell・ask・allow・expect は O to ～ の型。"
+    },
+    {
+     "t": "discuss about など前置詞のつけすぎ",
+     "body": "discuss / marry / resemble / enter / reach / attend / mention / approach などは他動詞。\n日本語の「～について」「～と」「～に」に引っぱられて前置詞をつけない。"
+    },
+    {
+     "t": "tell / say / speak / talk",
+     "body": "tell ＋人＋ that ～（人に伝える）／say that ～／speak ＋言語／talk to 人 about ～。\nsay は「言葉」を、tell は「相手」を目的語にする。"
+    }
+   ],
+   "drill": [
+    {
+     "q": "Give the book ( ) him.",
+     "o": [
+      "to",
+      "for",
+      "of",
+      "at"
+     ],
+     "a": 0,
+     "w": "give は SVO＋to。"
+    },
+    {
+     "q": "She cooked dinner ( ) us.",
+     "o": [
+      "for",
+      "to",
+      "of",
+      "at"
+     ],
+     "a": 0,
+     "w": "cook は SVO＋for。"
+    },
+    {
+     "q": "May I ask a question ( ) you?",
+     "o": [
+      "of",
+      "to",
+      "for",
+      "with"
+     ],
+     "a": 0,
+     "w": "ask a question of 人（人に質問する）。"
+    },
+    {
+     "q": "He married ( ) her last year.",
+     "o": [
+      "with",
+      "to",
+      "〔前置詞なし〕",
+      "at"
+     ],
+     "a": 2,
+     "w": "marry は他動詞。前置詞をつけない。"
+    },
+    {
+     "q": "We discussed ( ) the problem.",
+     "o": [
+      "about",
+      "〔前置詞なし〕",
+      "on",
+      "over"
+     ],
+     "a": 1,
+     "w": "discuss は他動詞。about をつけない。"
+    },
+    {
+     "q": "He reached ( ) the station at six.",
+     "o": [
+      "at",
+      "〔前置詞なし〕",
+      "to",
+      "in"
+     ],
+     "a": 1,
+     "w": "reach は他動詞。前置詞なし。"
+    },
+    {
+     "q": "He arrived ( ) the station.",
+     "o": [
+      "at",
+      "〔前置詞なし〕",
+      "to",
+      "on"
+     ],
+     "a": 0,
+     "w": "arrive は自動詞。arrive at ～。"
+    },
+    {
+     "q": "The news made her ( ).",
+     "o": [
+      "sad",
+      "sadly",
+      "to sad",
+      "sadness"
+     ],
+     "a": 0,
+     "w": "make ＋O＋C（形容詞）。"
+    },
+    {
+     "q": "I found the book ( ).",
+     "o": [
+      "difficult",
+      "difficultly",
+      "to difficult",
+      "difficulty"
+     ],
+     "a": 0,
+     "w": "find ＋O＋C（形容詞）。"
+    },
+    {
+     "q": "I want you ( ) here.",
+     "o": [
+      "stay",
+      "to stay",
+      "staying",
+      "stayed"
+     ],
+     "a": 1,
+     "w": "want ＋O＋to ～。"
+    },
+    {
+     "q": "The rain prevented us ( ) going.",
+     "o": [
+      "from",
+      "to",
+      "for",
+      "of"
+     ],
+     "a": 0,
+     "w": "prevent A from ～ing。"
+    },
+    {
+     "q": "This reminds me ( ) my childhood.",
+     "o": [
+      "of",
+      "to",
+      "for",
+      "at"
+     ],
+     "a": 0,
+     "w": "remind A of B。"
+    },
+    {
+     "q": "It took me two hours ( ) the report.",
+     "o": [
+      "writing",
+      "to write",
+      "write",
+      "written"
+     ],
+     "a": 1,
+     "w": "It takes 人 時間 to ～。"
+    },
+    {
+     "q": "The book ( ) me 2,000 yen.",
+     "o": [
+      "cost",
+      "took",
+      "spent",
+      "paid"
+     ],
+     "a": 0,
+     "w": "cost 人 金額（金額がかかる）。"
+    },
+    {
+     "q": "He ( ) down on the sofa an hour ago.",
+     "o": [
+      "lay",
+      "laid",
+      "lied",
+      "lain"
+     ],
+     "a": 0,
+     "w": "lie（横たわる）の過去形は lay。"
+    }
+   ],
+   "test": [
+    {
+     "q": "She told me ( ) the door.",
+     "o": [
+      "to close",
+      "closing",
+      "close",
+      "that close"
+     ],
+     "a": 0,
+     "w": "tell ＋人＋to ～。"
+    },
+    {
+     "q": "My mother won't allow me ( ) out late.",
+     "o": [
+      "stay",
+      "to stay",
+      "staying",
+      "stayed"
+     ],
+     "a": 1,
+     "w": "allow ＋O＋to ～。"
+    },
+    {
+     "q": "The robber robbed him ( ) his wallet.",
+     "o": [
+      "of",
+      "from",
+      "for",
+      "with"
+     ],
+     "a": 0,
+     "w": "rob A of B（AからBを奪う）。"
+    },
+    {
+     "q": "The heavy snow kept us ( ) leaving.",
+     "o": [
+      "from",
+      "to",
+      "of",
+      "for"
+     ],
+     "a": 0,
+     "w": "keep A from ～ing（Aが～するのを妨げる）。"
+    },
+    {
+     "q": "He ( ) that she should apologize.",
+     "o": [
+      "insisted",
+      "told",
+      "asked",
+      "wanted"
+     ],
+     "a": 0,
+     "w": "insist that ＋S＋(should)原形。他の語は「人」が目的語に必要。"
+    },
+    {
+     "q": "The sun ( ) at six.",
+     "o": [
+      "rises",
+      "raises",
+      "arises",
+      "risen"
+     ],
+     "a": 0,
+     "w": "rise（上がる、自動詞）の三単現。"
+    },
+    {
+     "q": "He ( ) his hand to ask a question.",
+     "o": [
+      "raised",
+      "rose",
+      "arose",
+      "risen"
+     ],
+     "a": 0,
+     "w": "raise（上げる）は他動詞。過去形 raised。"
+    },
+    {
+     "q": "Could you ( ) me your pen?",
+     "o": [
+      "lend",
+      "borrow",
+      "rent",
+      "use"
+     ],
+     "a": 0,
+     "w": "lend 人 物（貸す）。"
+    },
+    {
+     "q": "Speak ( ) me in English.",
+     "o": [
+      "to",
+      "in",
+      "at",
+      "on"
+     ],
+     "a": 0,
+     "w": "speak to 人。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "He explained me the rule.",
+      "She suggested me to go.",
+      "I told him to be careful.",
+      "They discussed about the plan."
+     ],
+     "a": 2,
+     "w": "explain / suggest は SVOO にならず、discuss は前置詞をつけない。tell ＋人＋to ～ は正しい。"
+    }
+   ]
   }
  ]
 }
