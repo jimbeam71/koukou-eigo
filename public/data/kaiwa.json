@@ -1,0 +1,860 @@
+{
+ "version": 1,
+ "scenes": [
+  {
+   "id": "k1",
+   "title": "買い物",
+   "intro": "服を買う、値段をたずねる、返品する。お店で使う表現。",
+   "expr": [
+    {
+     "en": "How much is this?",
+     "ja": "これはいくらですか。",
+     "note": "How many ではなく How much。"
+    },
+    {
+     "en": "Do you have this in a larger size?",
+     "ja": "これの大きいサイズはありますか。",
+     "note": "in a larger size で「より大きいサイズで」。"
+    },
+    {
+     "en": "I'm just looking, thank you.",
+     "ja": "見ているだけです、ありがとう。",
+     "note": "May I help you? への定番の返事。"
+    },
+    {
+     "en": "Can I try this on?",
+     "ja": "試着してもいいですか。",
+     "note": "try on は「試着する」。"
+    },
+    {
+     "en": "I'll take it.",
+     "ja": "これをいただきます。",
+     "note": "買うと決めたときの決まり文句。"
+    },
+    {
+     "en": "Could you give me a discount?",
+     "ja": "値引きしてもらえますか。",
+     "note": "discount は「割引」。"
+    },
+    {
+     "en": "Do you accept credit cards?",
+     "ja": "クレジットカードは使えますか。",
+     "note": "accept は「受け入れる」。"
+    },
+    {
+     "en": "Can I get a refund?",
+     "ja": "返金してもらえますか。",
+     "note": "refund＝返金。receipt（レシート）が必要なことが多い。"
+    }
+   ],
+   "model": [
+    {
+     "sp": "A",
+     "en": "May I help you?",
+     "ja": "いらっしゃいませ。"
+    },
+    {
+     "sp": "B",
+     "en": "I'm just looking, thank you. Actually, do you have this jacket in a larger size?",
+     "ja": "見ているだけです。あ、このジャケットの大きいサイズはありますか。"
+    },
+    {
+     "sp": "A",
+     "en": "Let me check. I'm sorry, that size is not available today.",
+     "ja": "確認します。申し訳ありません、そのサイズは今日はありません。"
+    },
+    {
+     "sp": "B",
+     "en": "That's too bad. How much is it?",
+     "ja": "残念です。いくらですか。"
+    },
+    {
+     "sp": "A",
+     "en": "It's 8,000 yen, but it's on sale. You can get a discount of twenty percent.",
+     "ja": "8,000円ですが、セール中です。2割引きになります。"
+    },
+    {
+     "sp": "B",
+     "en": "Then I'll take it. Can I pay by credit card? I can't afford to pay cash today.",
+     "ja": "では、いただきます。クレジットカードで払えますか。今日は現金を払う余裕がなくて。"
+    },
+    {
+     "sp": "A",
+     "en": "Of course. Here is your receipt. If it doesn't fit, you can exchange it or get a refund.",
+     "ja": "もちろんです。レシートです。合わなければ、交換か返金ができます。"
+    },
+    {
+     "sp": "B",
+     "en": "Thank you. That's a big help.",
+     "ja": "ありがとう。とても助かります。"
+    }
+   ],
+   "words": [
+    {
+     "en": "discount",
+     "ja": "割引"
+    },
+    {
+     "en": "receipt",
+     "ja": "レシート"
+    },
+    {
+     "en": "refund",
+     "ja": "返金"
+    },
+    {
+     "en": "afford",
+     "ja": "（金銭的に）余裕がある"
+    },
+    {
+     "en": "available",
+     "ja": "手に入る・利用できる"
+    },
+    {
+     "en": "exchange",
+     "ja": "交換する"
+    }
+   ],
+   "qs": [
+    {
+     "q": "Clerk: May I help you?\nCustomer: ( ), thank you.",
+     "o": [
+      "I'm just looking",
+      "I'm looking forward to it",
+      "I'll take it",
+      "Yes, it's cheap"
+     ],
+     "a": 0,
+     "w": "店員の「いらっしゃいませ」への返事は I'm just looking（見ているだけです）。",
+     "k": "e"
+    },
+    {
+     "q": "Customer: How ( ) is this bag?\nClerk: It's 5,000 yen.",
+     "o": [
+      "much",
+      "long",
+      "many",
+      "often"
+     ],
+     "a": 0,
+     "w": "値段をたずねるのは How much。",
+     "k": "e"
+    },
+    {
+     "q": "Customer: Can I ( ) this on?\nClerk: Sure. The fitting room is over there.",
+     "o": [
+      "check",
+      "try",
+      "test",
+      "take"
+     ],
+     "a": 1,
+     "w": "try on（試着する）。",
+     "k": "e"
+    },
+    {
+     "q": "Customer: This is too expensive. Could you give me a ( )?",
+     "o": [
+      "order",
+      "price",
+      "discount",
+      "change"
+     ],
+     "a": 2,
+     "w": "discount（値引き）。",
+     "k": "w"
+    },
+    {
+     "q": "Customer: I'll take it. Do you accept ( ) cards?",
+     "o": [
+      "paper",
+      "number",
+      "credit",
+      "money"
+     ],
+     "a": 2,
+     "w": "credit card（クレジットカード）。",
+     "k": "e"
+    },
+    {
+     "q": "Customer: This shirt doesn't fit. Can I get a ( )?\nClerk: Yes, if you have the receipt.",
+     "o": [
+      "repair",
+      "reply",
+      "refund",
+      "receive"
+     ],
+     "a": 2,
+     "w": "refund（返金）。receive は「受け取る」。",
+     "k": "w"
+    },
+    {
+     "q": "Clerk: That's 3,200 yen.\nCustomer: Here's 5,000 yen.\nClerk: And here's your ( ), 1,800 yen.",
+     "o": [
+      "coin",
+      "change",
+      "price",
+      "bill"
+     ],
+     "a": 1,
+     "w": "change は「おつり」。",
+     "k": "w"
+    },
+    {
+     "q": "Customer: Do you have this in a larger size?\nClerk: I'm sorry, it's not ( ) in that size.",
+     "o": [
+      "possible",
+      "able",
+      "capable",
+      "available"
+     ],
+     "a": 3,
+     "w": "available（手に入る）。人には able を使うが、物には使わない。",
+     "k": "w"
+    },
+    {
+     "q": "Customer: It's a bit tight. Do you have a ( ) one?",
+     "o": [
+      "smaller",
+      "larger",
+      "cheaper",
+      "shorter"
+     ],
+     "a": 1,
+     "w": "きついので、大きいサイズを探す。",
+     "k": "e"
+    },
+    {
+     "q": "Customer: I can't ( ) a new phone; it's too expensive.",
+     "o": [
+      "afraid",
+      "afford",
+      "effort",
+      "offer"
+     ],
+     "a": 1,
+     "w": "can't afford ～（～する余裕がない）。",
+     "k": "w"
+    },
+    {
+     "q": "Customer: I'd like to ( ) this shirt for a different size.\nClerk: No problem.",
+     "o": [
+      "excuse",
+      "express",
+      "exercise",
+      "exchange"
+     ],
+     "a": 3,
+     "w": "exchange A for B（AをBと交換する）。",
+     "k": "w"
+    },
+    {
+     "q": "Customer: Can you wrap it? It's a ( ).",
+     "o": [
+      "gift",
+      "goal",
+      "ghost",
+      "guest"
+     ],
+     "a": 0,
+     "w": "gift（贈り物）。",
+     "k": "w"
+    },
+    {
+     "q": "Clerk: Cash or card?\nCustomer: ( )",
+     "o": [
+      "On card, please.",
+      "By card, please.",
+      "At card, please.",
+      "Of card, please."
+     ],
+     "a": 1,
+     "w": "支払い方法は by card（手段の by）。",
+     "k": "e"
+    },
+    {
+     "q": "Customer: Excuse me, where can I find the fitting room?\nClerk: It's ( ) the end of the hall.",
+     "o": [
+      "at",
+      "in",
+      "to",
+      "on"
+     ],
+     "a": 0,
+     "w": "at the end of ～（～のつきあたりに）。",
+     "k": "e"
+    }
+   ]
+  },
+  {
+   "id": "k2",
+   "title": "レストラン",
+   "intro": "予約、注文、お会計。食事の場面で使う表現。",
+   "expr": [
+    {
+     "en": "A table for two, please.",
+     "ja": "2名です。",
+     "note": "人数は A table for ～ で伝える。"
+    },
+    {
+     "en": "Do you have a reservation?",
+     "ja": "ご予約はありますか。",
+     "note": "reservation は「予約」。"
+    },
+    {
+     "en": "Could I see the menu, please?",
+     "ja": "メニューを見せてもらえますか。",
+     "note": "Could I ～? は丁寧な依頼。"
+    },
+    {
+     "en": "What do you recommend?",
+     "ja": "おすすめは何ですか。",
+     "note": "recommend は「すすめる」。"
+    },
+    {
+     "en": "I'll have the steak, please.",
+     "ja": "ステーキをお願いします。",
+     "note": "注文は I'll have ～。"
+    },
+    {
+     "en": "Could I have some more water?",
+     "ja": "お水をもう少しもらえますか。",
+     "note": "more は「もっと」。"
+    },
+    {
+     "en": "Could we have the check, please?",
+     "ja": "お会計をお願いします。",
+     "note": "check（米）／bill（英）。"
+    },
+    {
+     "en": "Is the service charge included?",
+     "ja": "サービス料は含まれていますか。",
+     "note": "include は「含む」。"
+    }
+   ],
+   "model": [
+    {
+     "sp": "A",
+     "en": "Good evening. Do you have a reservation?",
+     "ja": "こんばんは。ご予約はありますか。"
+    },
+    {
+     "sp": "B",
+     "en": "Yes, I made a reservation for two under the name Sato.",
+     "ja": "はい、佐藤の名前で2名で予約しました。"
+    },
+    {
+     "sp": "A",
+     "en": "This way, please. Here is the menu.",
+     "ja": "こちらへどうぞ。メニューです。"
+    },
+    {
+     "sp": "B",
+     "en": "What do you recommend?",
+     "ja": "おすすめは何ですか。"
+    },
+    {
+     "sp": "A",
+     "en": "The grilled salmon is our most popular dish.",
+     "ja": "焼きサケがいちばん人気です。"
+    },
+    {
+     "sp": "B",
+     "en": "Then I'll order that. And could I have some more water?",
+     "ja": "では、それを注文します。お水をもう少しもらえますか。"
+    },
+    {
+     "sp": "A",
+     "en": "Certainly. Was everything all right?",
+     "ja": "かしこまりました。（食後に）すべてよろしかったですか。"
+    },
+    {
+     "sp": "B",
+     "en": "It was delicious. Please give my compliments to the chef. Is the tip included in the bill?",
+     "ja": "おいしかったです。シェフにお礼を伝えてください。チップはお会計に含まれていますか。"
+    }
+   ],
+   "words": [
+    {
+     "en": "reservation",
+     "ja": "予約"
+    },
+    {
+     "en": "recommend",
+     "ja": "すすめる"
+    },
+    {
+     "en": "order",
+     "ja": "注文する"
+    },
+    {
+     "en": "tip",
+     "ja": "チップ"
+    },
+    {
+     "en": "include",
+     "ja": "含む"
+    },
+    {
+     "en": "compliment",
+     "ja": "ほめ言葉"
+    }
+   ],
+   "qs": [
+    {
+     "q": "Waiter: Do you have a ( )?\nCustomer: Yes, under the name Sato.",
+     "o": [
+      "receipt",
+      "reaction",
+      "reservation",
+      "recipe"
+     ],
+     "a": 2,
+     "w": "reservation（予約）。",
+     "k": "w"
+    },
+    {
+     "q": "Customer: What do you ( )?\nWaiter: The salmon is very popular.",
+     "o": [
+      "repeat",
+      "recommend",
+      "receive",
+      "remember"
+     ],
+     "a": 1,
+     "w": "What do you recommend?（おすすめは？）",
+     "k": "w"
+    },
+    {
+     "q": "Waiter: Are you ready to ( )?\nCustomer: Yes, I'll have the steak.",
+     "o": [
+      "open",
+      "owe",
+      "offer",
+      "order"
+     ],
+     "a": 3,
+     "w": "Are you ready to order?（ご注文はお決まりですか）",
+     "k": "w"
+    },
+    {
+     "q": "Waiter: Would you like something to drink?\nCustomer: ( )",
+     "o": [
+      "Just water, please.",
+      "Never mind the water.",
+      "Yes, I'm not thirsty.",
+      "I'm welcome."
+     ],
+     "a": 0,
+     "w": "飲み物をきかれたら、Just water, please. のように答える。",
+     "k": "e"
+    },
+    {
+     "q": "Customer: Could we have the ( ), please?\nWaiter: Certainly.",
+     "o": [
+      "order",
+      "plate",
+      "menu",
+      "check"
+     ],
+     "a": 3,
+     "w": "お会計は the check（米）。",
+     "k": "e"
+    },
+    {
+     "q": "Customer: Is the service charge ( ) in the price?\nWaiter: Yes, it is.",
+     "o": [
+      "included",
+      "includes",
+      "including",
+      "include"
+     ],
+     "a": 0,
+     "w": "受け身の意味で be included in ～（含まれている）。",
+     "k": "w"
+    },
+    {
+     "q": "Waiter: How would you like your steak?\nCustomer: ( ), please.",
+     "o": [
+      "Center",
+      "Half",
+      "Medium",
+      "Middle"
+     ],
+     "a": 2,
+     "w": "焼き加減は rare / medium / well-done。",
+     "k": "e"
+    },
+    {
+     "q": "Customer: This isn't what I ( ). I asked for the fish.\nWaiter: I'm very sorry.",
+     "o": [
+      "ordering",
+      "ordered",
+      "to order",
+      "orders"
+     ],
+     "a": 1,
+     "w": "This isn't what I ordered.（頼んだものではない）。",
+     "k": "e"
+    },
+    {
+     "q": "Customer: Could I have some more water?\nWaiter: ( )",
+     "o": [
+      "Certainly, I'll bring it right away.",
+      "I don't mind water.",
+      "Yes, I'm welcome.",
+      "Please, you have it."
+     ],
+     "a": 0,
+     "w": "依頼への承諾は Certainly / Sure / Of course。",
+     "k": "e"
+    },
+    {
+     "q": "In the U.S., it is common to leave a ( ) for the waiter.",
+     "o": [
+      "type",
+      "tap",
+      "tip",
+      "tape"
+     ],
+     "a": 2,
+     "w": "tip（チップ）。",
+     "k": "w"
+    },
+    {
+     "q": "Customer: This soup is cold. Could you ( ) it up, please?\nWaiter: Of course.",
+     "o": [
+      "take",
+      "give",
+      "make",
+      "warm"
+     ],
+     "a": 3,
+     "w": "warm up（温める）。",
+     "k": "e"
+    },
+    {
+     "q": "Customer: Excuse me, I'd like to ( ) my order. I'll have the pasta instead.",
+     "o": [
+      "change",
+      "charge",
+      "challenge",
+      "chance"
+     ],
+     "a": 0,
+     "w": "change one's order（注文を変える）。",
+     "k": "e"
+    },
+    {
+     "q": "Waiter: Would you like to see the dessert menu?\nCustomer: No, thank you. I'm ( ).",
+     "o": [
+      "fell",
+      "fill",
+      "fool",
+      "full"
+     ],
+     "a": 3,
+     "w": "I'm full.（おなかがいっぱい）",
+     "k": "e"
+    },
+    {
+     "q": "Customer: That was delicious. Please give my ( ) to the chef.",
+     "o": [
+      "compliments",
+      "compasses",
+      "complaints",
+      "compliance"
+     ],
+     "a": 0,
+     "w": "give my compliments to ～（～にお礼・称賛を伝える）。",
+     "k": "w"
+    }
+   ]
+  },
+  {
+   "id": "k3",
+   "title": "道案内・交通",
+   "intro": "道をたずねる・教える、電車やバスに乗る場面で使う表現。",
+   "expr": [
+    {
+     "en": "Excuse me, how can I get to the station?",
+     "ja": "すみません、駅へはどう行けばいいですか。",
+     "note": "get to ～＝～に着く。"
+    },
+    {
+     "en": "Go straight and turn left at the second corner.",
+     "ja": "まっすぐ行って、2つ目の角を左に曲がってください。",
+     "note": "turn left [right] at ～。"
+    },
+    {
+     "en": "It's about a ten-minute walk.",
+     "ja": "歩いて10分ほどです。",
+     "note": "ten-minute と単数形（ハイフンでつなぐ）。"
+    },
+    {
+     "en": "Is there a bank around here?",
+     "ja": "この辺に銀行はありますか。",
+     "note": "around here（この辺）。"
+    },
+    {
+     "en": "You can't miss it.",
+     "ja": "すぐ見つかりますよ。",
+     "note": "直訳は「見逃すはずがない」。"
+    },
+    {
+     "en": "Which platform does the train for Kyoto leave from?",
+     "ja": "京都行きの電車は何番ホームから出ますか。",
+     "note": "platform（ホーム）。"
+    },
+    {
+     "en": "How long does it take to get there?",
+     "ja": "そこまでどのくらいかかりますか。",
+     "note": "時間は How long。"
+    },
+    {
+     "en": "I'm afraid I'm lost.",
+     "ja": "道に迷ったようです。",
+     "note": "I'm afraid は残念な内容の前置き。"
+    }
+   ],
+   "model": [
+    {
+     "sp": "A",
+     "en": "Excuse me. How can I get to the city library?",
+     "ja": "すみません。市立図書館へはどう行けばいいですか。"
+    },
+    {
+     "sp": "B",
+     "en": "Go straight along this street and turn right at the second corner.",
+     "ja": "この道をまっすぐ行って、2つ目の角を右に曲がってください。"
+    },
+    {
+     "sp": "A",
+     "en": "Is it far from here?",
+     "ja": "ここから遠いですか。"
+    },
+    {
+     "sp": "B",
+     "en": "No, it's about a ten-minute walk. You can't miss it. It's next to the post office.",
+     "ja": "いいえ、歩いて10分ほどです。すぐ分かりますよ。郵便局のとなりです。"
+    },
+    {
+     "sp": "A",
+     "en": "Thank you. Is there a bus that goes there?",
+     "ja": "ありがとう。そこへ行くバスはありますか。"
+    },
+    {
+     "sp": "B",
+     "en": "Yes, but it takes longer. Walking is faster, and the station is your next destination, isn't it?",
+     "ja": "ありますが、時間がかかります。歩くほうが速いですよ。次の目的地は駅でしょう。"
+    },
+    {
+     "sp": "A",
+     "en": "Yes. Which direction is the station?",
+     "ja": "はい。駅はどちらの方向ですか。"
+    },
+    {
+     "sp": "B",
+     "en": "Cross the bridge, and you'll see it. Hurry, or you will miss the train at platform two.",
+     "ja": "橋をわたれば見えます。急がないと、2番ホームの電車に乗り遅れますよ。"
+    }
+   ],
+   "words": [
+    {
+     "en": "direction",
+     "ja": "方向"
+    },
+    {
+     "en": "straight",
+     "ja": "まっすぐ"
+    },
+    {
+     "en": "corner",
+     "ja": "角"
+    },
+    {
+     "en": "platform",
+     "ja": "（駅の）ホーム"
+    },
+    {
+     "en": "destination",
+     "ja": "目的地"
+    },
+    {
+     "en": "miss",
+     "ja": "逃す"
+    }
+   ],
+   "qs": [
+    {
+     "q": "Tourist: Excuse me, how can I ( ) to the museum?",
+     "o": [
+      "take",
+      "get",
+      "arrive",
+      "come"
+     ],
+     "a": 1,
+     "w": "get to ～（～に着く）。arrive は arrive at ～。",
+     "k": "e"
+    },
+    {
+     "q": "A: Is there a bank around here?\nB: Yes, go ( ) and you'll see it on your right.",
+     "o": [
+      "strait",
+      "straightly",
+      "strict",
+      "straight"
+     ],
+     "a": 3,
+     "w": "go straight（まっすぐ行く）。straight は副詞でもある。",
+     "k": "w"
+    },
+    {
+     "q": "B: Turn left at the second ( ).",
+     "o": [
+      "court",
+      "crowd",
+      "corner",
+      "cover"
+     ],
+     "a": 2,
+     "w": "corner（角）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Is the station far from here?\nB: No, it's only a ten-minute ( ).",
+     "o": [
+      "walker",
+      "walked",
+      "walking",
+      "walk"
+     ],
+     "a": 3,
+     "w": "a ten-minute walk（歩いて10分）。",
+     "k": "e"
+    },
+    {
+     "q": "A: Which ( ) does the train for Osaka leave from?\nB: Platform 3.",
+     "o": [
+      "platform",
+      "planet",
+      "plate",
+      "plan"
+     ],
+     "a": 0,
+     "w": "platform（ホーム）。",
+     "k": "w"
+    },
+    {
+     "q": "A: How ( ) does it take to get to the airport?\nB: About an hour.",
+     "o": [
+      "much",
+      "long",
+      "far",
+      "many"
+     ],
+     "a": 1,
+     "w": "時間は How long。",
+     "k": "e"
+    },
+    {
+     "q": "A: How ( ) is it from here to the station?\nB: About two kilometers.",
+     "o": [
+      "soon",
+      "early",
+      "far",
+      "fast"
+     ],
+     "a": 2,
+     "w": "距離は How far。",
+     "k": "e"
+    },
+    {
+     "q": "A: Excuse me, I'm lost. Can you tell me where I ( )?",
+     "o": [
+      "am",
+      "is",
+      "be",
+      "are"
+     ],
+     "a": 0,
+     "w": "間接疑問は where I am の語順。",
+     "k": "e"
+    },
+    {
+     "q": "A: Is this the right bus for the stadium?\nB: No, you need to ( ) buses at the next stop.",
+     "o": [
+      "pass",
+      "change",
+      "turn",
+      "cross"
+     ],
+     "a": 1,
+     "w": "change buses（バスを乗りかえる）。",
+     "k": "e"
+    },
+    {
+     "q": "The train will arrive at its final ( ) in five minutes.",
+     "o": [
+      "decision",
+      "destination",
+      "direction",
+      "distance"
+     ],
+     "a": 1,
+     "w": "destination（目的地）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Which ( ) is the station?\nB: It's that way.",
+     "o": [
+      "decoration",
+      "destination",
+      "distance",
+      "direction"
+     ],
+     "a": 3,
+     "w": "Which direction ～?（どちらの方向）。",
+     "k": "w"
+    },
+    {
+     "q": "A: Could you show me the way to the post office?\nB: Sure. It's ( ) the street from the bank.",
+     "o": [
+      "along",
+      "between",
+      "through",
+      "across"
+     ],
+     "a": 3,
+     "w": "across the street from ～（～の向かい側）。",
+     "k": "e"
+    },
+    {
+     "q": "A: Oh no! I ( ) my train!",
+     "o": [
+      "lost",
+      "missed",
+      "forgot",
+      "caught"
+     ],
+     "a": 1,
+     "w": "miss a train（電車に乗り遅れる）。",
+     "k": "w"
+    },
+    {
+     "q": "A: How do I ( ) the river?\nB: Use the bridge on the left.",
+     "o": [
+      "crash",
+      "cut",
+      "cry",
+      "cross"
+     ],
+     "a": 3,
+     "w": "cross（わたる）。",
+     "k": "w"
+    }
+   ]
+  }
+ ]
+}
