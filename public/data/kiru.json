@@ -2615,6 +2615,451 @@
       ]
     },
     {
+      "id": "k2-23",
+      "level": 2,
+      "genre": "お金",
+      "title": "預けたお金には、少し利子がつく",
+      "en": "Money in a savings account earns a little interest every year.",
+      "chunks": [
+        {
+          "to": 4,
+          "role": "S",
+          "ja": "貯金口座のお金は"
+        },
+        {
+          "to": 5,
+          "role": "V",
+          "ja": "得る"
+        },
+        {
+          "to": 8,
+          "role": "O",
+          "ja": "少しの利子を"
+        },
+        {
+          "to": 10,
+          "role": "M",
+          "ja": "毎年"
+        }
+      ],
+      "req": [
+        4,
+        5
+      ],
+      "parens": [
+        [
+          1,
+          4
+        ]
+      ],
+      "jaFull": "貯金口座に入れたお金は、毎年少しずつ利子がつく。",
+      "summary": "銀行にお金を預けると、利子というお礼が少しもらえる。金額は、銀行や時期によって変わる。",
+      "notes": [
+        [
+          "savings account",
+          "貯金口座"
+        ],
+        [
+          "earn",
+          "得る"
+        ],
+        [
+          "interest",
+          "利子"
+        ]
+      ]
+    },
+    {
+      "id": "k2-24",
+      "level": 2,
+      "genre": "お金",
+      "title": "毎日のコーヒーは、1年で約18万円",
+      "en": "A coffee for 500 yen every day costs about 180,000 yen in a year.",
+      "chunks": [
+        {
+          "to": 6,
+          "role": "S",
+          "ja": "毎日の500円のコーヒーは"
+        },
+        {
+          "to": 7,
+          "role": "V",
+          "ja": "かかる"
+        },
+        {
+          "to": 10,
+          "role": "O",
+          "ja": "約18万円"
+        },
+        {
+          "to": 13,
+          "role": "M",
+          "ja": "1年で"
+        }
+      ],
+      "req": [
+        6,
+        7
+      ],
+      "parens": [
+        [
+          2,
+          4
+        ],
+        [
+          11,
+          13
+        ]
+      ],
+      "jaFull": "毎日500円のコーヒーを飲むと、1年で約18万円かかる。",
+      "summary": "500円×365日で182,500円。小さな出費も、毎日続くと大きな金額になる。",
+      "notes": [
+        [
+          "cost",
+          "〜がかかる"
+        ],
+        [
+          "about",
+          "約"
+        ],
+        [
+          "yen",
+          "円"
+        ]
+      ]
+    },
+    {
+      "id": "k2-25",
+      "level": 2,
+      "genre": "心理",
+      "title": "話は、はじめと終わりが記憶に残る",
+      "en": "People remember the start and the end of a story better than the middle.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "S",
+          "ja": "人は"
+        },
+        {
+          "to": 1,
+          "role": "V",
+          "ja": "覚えている"
+        },
+        {
+          "to": 9,
+          "role": "O",
+          "ja": "話の始まりと終わりを"
+        },
+        {
+          "to": 13,
+          "role": "M",
+          "ja": "真ん中よりもよく"
+        }
+      ],
+      "req": [
+        0,
+        1
+      ],
+      "parens": [
+        [
+          7,
+          9
+        ]
+      ],
+      "jaFull": "人は、話の真ん中より、はじめと終わりをよく覚えている。",
+      "summary": "心理学では、はじめと終わりが記憶に残りやすいと言われる。大事なことは、最初か最後に話すと伝わりやすい。",
+      "notes": [
+        [
+          "remember",
+          "覚えている"
+        ],
+        [
+          "start",
+          "始まり"
+        ],
+        [
+          "middle",
+          "真ん中"
+        ]
+      ]
+    },
+    {
+      "id": "k2-26",
+      "level": 2,
+      "genre": "心理",
+      "title": "あわてると、判断が雑になる",
+      "en": "People in a hurry often make worse choices.",
+      "chunks": [
+        {
+          "to": 3,
+          "role": "S",
+          "ja": "急いでいる人は"
+        },
+        {
+          "to": 5,
+          "role": "V",
+          "ja": "よくしてしまう"
+        },
+        {
+          "to": 7,
+          "role": "O",
+          "ja": "より悪い選択を"
+        }
+      ],
+      "req": [
+        3,
+        5
+      ],
+      "parens": [
+        [
+          1,
+          3
+        ]
+      ],
+      "jaFull": "急いでいる人は、よりまずい選択をしがちだ。",
+      "summary": "時間がないと、考える余裕がなくなる。大事な決めごとは、あせらないときにしよう。",
+      "notes": [
+        [
+          "hurry",
+          "急ぐこと"
+        ],
+        [
+          "choice",
+          "選択"
+        ],
+        [
+          "worse",
+          "より悪い"
+        ]
+      ]
+    },
+    {
+      "id": "k2-27",
+      "level": 2,
+      "genre": "裏技",
+      "title": "クリップで袋をとめれば、ポテチはパリパリ",
+      "en": "A clip on an open bag keeps chips crisp for days.",
+      "chunks": [
+        {
+          "to": 5,
+          "role": "S",
+          "ja": "開いた袋にとめたクリップは"
+        },
+        {
+          "to": 6,
+          "role": "V",
+          "ja": "保つ"
+        },
+        {
+          "to": 7,
+          "role": "O",
+          "ja": "ポテトチップスを"
+        },
+        {
+          "to": 8,
+          "role": "C",
+          "ja": "パリパリに"
+        },
+        {
+          "to": 10,
+          "role": "M",
+          "ja": "何日も"
+        }
+      ],
+      "req": [
+        5,
+        6
+      ],
+      "parens": [
+        [
+          2,
+          5
+        ],
+        [
+          9,
+          10
+        ]
+      ],
+      "jaFull": "開けた袋をクリップでとめておくと、ポテトチップスが何日もパリパリのままだ。",
+      "summary": "空気にふれると、お菓子はしける。口をしっかりとめて、湿気の少ない場所に置こう。",
+      "notes": [
+        [
+          "clip",
+          "クリップ"
+        ],
+        [
+          "chip",
+          "ポテトチップス"
+        ],
+        [
+          "crisp",
+          "パリパリの"
+        ]
+      ]
+    },
+    {
+      "id": "k2-28",
+      "level": 2,
+      "genre": "雑学",
+      "title": "月の昼は、2週間つづく",
+      "en": "Daytime on the Moon lasts for about two weeks.",
+      "chunks": [
+        {
+          "to": 3,
+          "role": "S",
+          "ja": "月の昼間は"
+        },
+        {
+          "to": 4,
+          "role": "V",
+          "ja": "続く"
+        },
+        {
+          "to": 8,
+          "role": "M",
+          "ja": "約2週間"
+        }
+      ],
+      "req": [
+        3,
+        4
+      ],
+      "parens": [
+        [
+          1,
+          3
+        ],
+        [
+          5,
+          8
+        ]
+      ],
+      "jaFull": "月の昼間は、約2週間つづく。",
+      "summary": "月は約1か月かけて1回転する。そのため、昼の長さも夜の長さも、それぞれ約2週間になる。",
+      "notes": [
+        [
+          "daytime",
+          "昼間"
+        ],
+        [
+          "Moon",
+          "月"
+        ],
+        [
+          "last",
+          "続く"
+        ]
+      ]
+    },
+    {
+      "id": "k2-29",
+      "level": 2,
+      "genre": "小話",
+      "title": "いい考えは、いつもシャワーの中",
+      "en": "The best idea of the day always comes in the shower.",
+      "chunks": [
+        {
+          "to": 5,
+          "role": "S",
+          "ja": "1日でいちばんのアイデアは"
+        },
+        {
+          "to": 7,
+          "role": "V",
+          "ja": "いつも出てくる"
+        },
+        {
+          "to": 10,
+          "role": "M",
+          "ja": "シャワーの中で"
+        }
+      ],
+      "req": [
+        5,
+        7
+      ],
+      "parens": [
+        [
+          3,
+          5
+        ],
+        [
+          8,
+          10
+        ]
+      ],
+      "jaFull": "1日でいちばんいい考えは、いつもシャワーの中でうかぶ。",
+      "summary": "ぼんやりしている時間に、いい考えがうかぶことはよくある。ただ、そのときメモが手元にないのが困りもの。",
+      "notes": [
+        [
+          "idea",
+          "考え"
+        ],
+        [
+          "shower",
+          "シャワー"
+        ],
+        [
+          "always",
+          "いつも"
+        ]
+      ]
+    },
+    {
+      "id": "k2-30",
+      "level": 2,
+      "genre": "小話",
+      "title": "いすの上の服の山は、第二のクローゼット",
+      "en": "A pile of clean clothes on the chair is my second closet.",
+      "chunks": [
+        {
+          "to": 7,
+          "role": "S",
+          "ja": "いすの上のきれいな服の山は"
+        },
+        {
+          "to": 8,
+          "role": "V",
+          "ja": "だ"
+        },
+        {
+          "to": 11,
+          "role": "C",
+          "ja": "私の第二のクローゼット"
+        }
+      ],
+      "req": [
+        7,
+        8
+      ],
+      "parens": [
+        [
+          2,
+          4
+        ],
+        [
+          5,
+          7
+        ]
+      ],
+      "jaFull": "いすの上にあるきれいな服の山は、私の第二のクローゼットだ。",
+      "summary": "しまわずに、いすに積んだままの服。あるあるの小話。",
+      "notes": [
+        [
+          "pile",
+          "山・積み重ね"
+        ],
+        [
+          "clothes",
+          "服"
+        ],
+        [
+          "closet",
+          "クローゼット"
+        ]
+      ]
+    },
+    {
       "id": "k3-01",
       "level": 3,
       "genre": "裏技",
@@ -3107,6 +3552,1376 @@
         ]
       ],
       "point": "that contain fiber は Foods を後ろから説明している（関係代名詞 that）。that のあとはすぐ動詞（contain）。that の前で切ろう。"
+    },
+    {
+      "id": "k3-09",
+      "level": 3,
+      "genre": "裏技",
+      "title": "凍らせた水のボトルは、お弁当を守る",
+      "en": "Freeze a bottle of water to keep your lunch cold in summer.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "V",
+          "ja": "こおらせる"
+        },
+        {
+          "to": 4,
+          "role": "O",
+          "ja": "水のボトルを"
+        },
+        {
+          "to": 9,
+          "role": "M",
+          "ja": "お弁当を冷たく保つために"
+        },
+        {
+          "to": 11,
+          "role": "M",
+          "ja": "夏に"
+        }
+      ],
+      "req": [
+        0,
+        4,
+        9
+      ],
+      "parens": [
+        [
+          3,
+          4
+        ],
+        [
+          10,
+          11
+        ]
+      ],
+      "jaFull": "夏は、お弁当を冷たく保つために、水のボトルをこおらせておこう。",
+      "summary": "凍らせたボトルが保冷剤がわりになり、とけたら飲める。食べ物の近くに入れよう。",
+      "notes": [
+        [
+          "freeze",
+          "こおらせる"
+        ],
+        [
+          "keep ~ cold",
+          "〜を冷たく保つ"
+        ],
+        [
+          "lunch",
+          "昼食・お弁当"
+        ]
+      ],
+      "point": "to ＋ 動詞は、ここでは『〜するために』（目的）。to keep… の前で切ると、「何をするか（凍らせる）」と「何のためか（冷たく保つ）」が分かれる。"
+    },
+    {
+      "id": "k3-10",
+      "level": 3,
+      "genre": "小話",
+      "title": "ベッドは、宿題からにげるのにいい場所",
+      "en": "A bed is the best place to hide from homework.",
+      "chunks": [
+        {
+          "to": 1,
+          "role": "S",
+          "ja": "ベッドは"
+        },
+        {
+          "to": 2,
+          "role": "V",
+          "ja": "だ"
+        },
+        {
+          "to": 5,
+          "role": "C",
+          "ja": "いちばんの場所"
+        },
+        {
+          "to": 9,
+          "role": "M",
+          "ja": "宿題からかくれる"
+        }
+      ],
+      "req": [
+        1,
+        2,
+        5
+      ],
+      "parens": [
+        [
+          8,
+          9
+        ]
+      ],
+      "jaFull": "ベッドは、宿題からかくれるのにいちばんいい場所だ。",
+      "summary": "宿題をさけてベッドに入っても、宿題は消えてくれない。あるあるの小話。",
+      "notes": [
+        [
+          "hide",
+          "かくれる"
+        ],
+        [
+          "homework",
+          "宿題"
+        ],
+        [
+          "place",
+          "場所"
+        ]
+      ],
+      "point": "place to ~ は『〜するための場所』。to hide… が place を後ろから説明している（to不定詞の形容詞用法）。place のあと、to の前で切ろう。"
+    },
+    {
+      "id": "k3-11",
+      "level": 3,
+      "genre": "お金",
+      "title": "賢い買い物は、スマホで値段をくらべる",
+      "en": "Smart shoppers use a phone to compare prices in stores.",
+      "chunks": [
+        {
+          "to": 1,
+          "role": "S",
+          "ja": "かしこい買い物客は"
+        },
+        {
+          "to": 2,
+          "role": "V",
+          "ja": "使う"
+        },
+        {
+          "to": 4,
+          "role": "O",
+          "ja": "スマホを"
+        },
+        {
+          "to": 7,
+          "role": "M",
+          "ja": "値段をくらべるために"
+        },
+        {
+          "to": 9,
+          "role": "M",
+          "ja": "店で"
+        }
+      ],
+      "req": [
+        1,
+        2,
+        4
+      ],
+      "parens": [
+        [
+          8,
+          9
+        ]
+      ],
+      "jaFull": "かしこい買い物客は、店で値段をくらべるためにスマホを使う。",
+      "summary": "同じ商品でも、お店やネットで値段がちがう。買う前に調べると、お金をむだにしにくい。",
+      "notes": [
+        [
+          "smart",
+          "かしこい"
+        ],
+        [
+          "compare",
+          "くらべる"
+        ],
+        [
+          "price",
+          "値段"
+        ]
+      ],
+      "point": "use A to ~ は『Aを使って〜する』。to compare prices が、スマホを使う目的を表している。a phone のあと、to の前で切ろう。"
+    },
+    {
+      "id": "k3-12",
+      "level": 3,
+      "genre": "お金",
+      "title": "買うもののリストは、むだづかいを防ぐ",
+      "en": "A list of things to buy helps you save money.",
+      "chunks": [
+        {
+          "to": 3,
+          "role": "S",
+          "ja": "ものの一覧は"
+        },
+        {
+          "to": 5,
+          "role": "M",
+          "ja": "買うべき"
+        },
+        {
+          "to": 6,
+          "role": "V",
+          "ja": "助ける"
+        },
+        {
+          "to": 7,
+          "role": "O",
+          "ja": "あなたが"
+        },
+        {
+          "to": 9,
+          "role": "C",
+          "ja": "お金を節約するのを"
+        }
+      ],
+      "req": [
+        3,
+        5,
+        6
+      ],
+      "parens": [
+        [
+          2,
+          3
+        ]
+      ],
+      "jaFull": "買うもののリストは、お金の節約に役立つ。",
+      "summary": "先にリストをつくると、買うつもりのなかったものに手をのばしにくい。買い物の前に3分だけ書いてみよう。",
+      "notes": [
+        [
+          "list",
+          "リスト"
+        ],
+        [
+          "save",
+          "節約する"
+        ],
+        [
+          "help A ~",
+          "Aが〜するのを助ける"
+        ]
+      ],
+      "point": "things to buy の to buy は、things を後ろから説明して『買うべきもの』という意味（to不定詞の形容詞用法）。to の前で切ろう。help you save は『あなたが〜するのを助ける』。"
+    },
+    {
+      "id": "k3-13",
+      "level": 3,
+      "genre": "心理",
+      "title": "習慣は、始めるのはかんたん、続けるのはむずかしい",
+      "en": "It is easy to start a habit but hard to keep it.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "S",
+          "ja": "それは"
+        },
+        {
+          "to": 1,
+          "role": "V",
+          "ja": "だ"
+        },
+        {
+          "to": 2,
+          "role": "C",
+          "ja": "かんたん"
+        },
+        {
+          "to": 6,
+          "role": "M",
+          "ja": "習慣を始めるのは"
+        },
+        {
+          "to": 8,
+          "role": "C",
+          "ja": "しかし、むずかしい"
+        },
+        {
+          "to": 11,
+          "role": "M",
+          "ja": "それを続けるのは"
+        }
+      ],
+      "req": [
+        0,
+        1,
+        2,
+        8
+      ],
+      "parens": [],
+      "jaFull": "習慣を始めるのはかんたんだが、続けるのはむずかしい。",
+      "summary": "やる気があるうちは始められる。続けるコツは、ハードルを低くして、毎日同じ時間にやること。",
+      "notes": [
+        [
+          "habit",
+          "習慣"
+        ],
+        [
+          "easy",
+          "かんたんな"
+        ],
+        [
+          "keep",
+          "続ける"
+        ]
+      ],
+      "point": "It is easy to ~ は『〜するのはかんたんだ』。It は仮の主語で、本当の主語は to start a habit。to の前で切ると、「かんたん」と「何がかんたんか」が分かれる。but hard to keep it も同じ形。"
+    },
+    {
+      "id": "k3-14",
+      "level": 3,
+      "genre": "雑学",
+      "title": "ミツバチは、ダンスでエサの場所を伝える",
+      "en": "Honeybees use a dance to tell others about food.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "S",
+          "ja": "ミツバチは"
+        },
+        {
+          "to": 1,
+          "role": "V",
+          "ja": "使う"
+        },
+        {
+          "to": 3,
+          "role": "O",
+          "ja": "ダンスを"
+        },
+        {
+          "to": 8,
+          "role": "M",
+          "ja": "仲間にエサのことを伝えるために"
+        }
+      ],
+      "req": [
+        0,
+        1,
+        3
+      ],
+      "parens": [
+        [
+          7,
+          8
+        ]
+      ],
+      "jaFull": "ミツバチは、ダンスでエサのことを仲間に伝える。",
+      "summary": "ミツバチは、8の字をえがくように動いて、エサのある方向と距離を仲間に教える。",
+      "notes": [
+        [
+          "honeybee",
+          "ミツバチ"
+        ],
+        [
+          "dance",
+          "ダンス"
+        ],
+        [
+          "tell",
+          "伝える"
+        ]
+      ],
+      "point": "use A to ~ は『Aを使って〜する』。to tell others… が、ダンスを使う目的を表している。a dance のあと、to の前で切ろう。"
+    },
+    {
+      "id": "k3-15",
+      "level": 3,
+      "genre": "裏技",
+      "title": "パスワードは、長い文にすると強い",
+      "en": "Use a long sentence as a password to keep your accounts safe.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "V",
+          "ja": "使う"
+        },
+        {
+          "to": 3,
+          "role": "O",
+          "ja": "長い文を"
+        },
+        {
+          "to": 6,
+          "role": "M",
+          "ja": "パスワードとして"
+        },
+        {
+          "to": 11,
+          "role": "M",
+          "ja": "アカウントを安全に保つために"
+        }
+      ],
+      "req": [
+        0,
+        3,
+        6
+      ],
+      "parens": [
+        [
+          4,
+          6
+        ]
+      ],
+      "jaFull": "アカウントを安全に保つために、長い文をパスワードに使おう。",
+      "summary": "短い単語より、長い文のほうが破られにくい。覚えやすい言葉をつなげると、長くても忘れにくい。",
+      "notes": [
+        [
+          "sentence",
+          "文"
+        ],
+        [
+          "password",
+          "パスワード"
+        ],
+        [
+          "account",
+          "アカウント"
+        ],
+        [
+          "safe",
+          "安全な"
+        ]
+      ],
+      "point": "to keep… も『〜するために』（目的）。keep A safe は『Aを安全に保つ』。as a password のあと、to の前で切ろう。"
+    },
+    {
+      "id": "k3-16",
+      "level": 3,
+      "genre": "裏技",
+      "title": "ケーブルにシールをはると、見分けやすい",
+      "en": "Put a sticker on each cable to tell your chargers apart.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "V",
+          "ja": "はる"
+        },
+        {
+          "to": 2,
+          "role": "O",
+          "ja": "シールを"
+        },
+        {
+          "to": 5,
+          "role": "M",
+          "ja": "ケーブルごとに"
+        },
+        {
+          "to": 10,
+          "role": "M",
+          "ja": "充電器を見分けるために"
+        }
+      ],
+      "req": [
+        0,
+        2,
+        5
+      ],
+      "parens": [
+        [
+          3,
+          5
+        ]
+      ],
+      "jaFull": "充電器を見分けるために、ケーブルごとにシールをはろう。",
+      "summary": "同じに見えるケーブルも、色や数字のシールで見分けられる。持ち歩くときにも便利。",
+      "notes": [
+        [
+          "sticker",
+          "シール"
+        ],
+        [
+          "cable",
+          "ケーブル"
+        ],
+        [
+          "charger",
+          "充電器"
+        ],
+        [
+          "tell A apart",
+          "Aを見分ける"
+        ]
+      ],
+      "point": "tell A apart は『Aを見分ける』。to tell… は目的を表している。on each cable のあと、to の前で切ろう。"
+    },
+    {
+      "id": "k3-17",
+      "level": 3,
+      "genre": "雑学",
+      "title": "街の木は、まわりの空気をひやす",
+      "en": "Trees growing in cities help cool the air around them.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "S",
+          "ja": "木は"
+        },
+        {
+          "to": 3,
+          "role": "M",
+          "ja": "街で育つ"
+        },
+        {
+          "to": 5,
+          "role": "V",
+          "ja": "冷やすのを助ける"
+        },
+        {
+          "to": 7,
+          "role": "O",
+          "ja": "空気を"
+        },
+        {
+          "to": 9,
+          "role": "M",
+          "ja": "まわりの"
+        }
+      ],
+      "req": [
+        0,
+        3,
+        5
+      ],
+      "parens": [
+        [
+          2,
+          3
+        ],
+        [
+          8,
+          9
+        ]
+      ],
+      "jaFull": "街で育つ木は、まわりの空気を冷やすのを助ける。",
+      "summary": "木は日かげをつくり、葉から水分を出してまわりを涼しくする。街に木が多いと、夏の暑さがやわらぐ。",
+      "notes": [
+        [
+          "grow",
+          "育つ"
+        ],
+        [
+          "cool",
+          "冷やす"
+        ],
+        [
+          "air",
+          "空気"
+        ]
+      ],
+      "point": "growing ～ は『〜している』と名詞（Trees）を後ろから説明する（現在分詞）。-ing で始まるかたまりの前で切ろう。"
+    },
+    {
+      "id": "k3-18",
+      "level": 3,
+      "genre": "心理",
+      "title": "行列で待つと、人はイライラしやすい",
+      "en": "People waiting in a long line often get angry.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "S",
+          "ja": "人は"
+        },
+        {
+          "to": 5,
+          "role": "M",
+          "ja": "長い行列で待っている"
+        },
+        {
+          "to": 7,
+          "role": "V",
+          "ja": "よくなる"
+        },
+        {
+          "to": 8,
+          "role": "C",
+          "ja": "怒りっぽく"
+        }
+      ],
+      "req": [
+        0,
+        5,
+        7
+      ],
+      "parens": [
+        [
+          2,
+          5
+        ]
+      ],
+      "jaFull": "長い行列で待っている人は、イライラしやすい。",
+      "summary": "待つ時間が長く感じると、人はイライラしやすい。待ち時間に何かすると、少しラクになる。",
+      "notes": [
+        [
+          "wait",
+          "待つ"
+        ],
+        [
+          "line",
+          "行列"
+        ],
+        [
+          "get angry",
+          "怒る"
+        ]
+      ],
+      "point": "waiting ～ は『待っている〜』と People を後ろから説明する現在分詞。waiting の前で切ると、「だれのことか」が見えてくる。"
+    },
+    {
+      "id": "k3-19",
+      "level": 3,
+      "genre": "裏技",
+      "title": "パンは、冷凍すると長持ちする",
+      "en": "Bread kept in the freezer stays fresh for a long time.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "S",
+          "ja": "パンは"
+        },
+        {
+          "to": 4,
+          "role": "M",
+          "ja": "冷凍庫に入れた"
+        },
+        {
+          "to": 5,
+          "role": "V",
+          "ja": "ままだ"
+        },
+        {
+          "to": 6,
+          "role": "C",
+          "ja": "新鮮な"
+        },
+        {
+          "to": 10,
+          "role": "M",
+          "ja": "長いあいだ"
+        }
+      ],
+      "req": [
+        0,
+        4,
+        5
+      ],
+      "parens": [
+        [
+          2,
+          4
+        ],
+        [
+          7,
+          10
+        ]
+      ],
+      "jaFull": "冷凍庫に入れたパンは、長いあいだ新鮮なままだ。",
+      "summary": "パンは冷凍すると、かたくなったりカビたりしにくい。食べるときは、凍ったまま焼けばよい。",
+      "notes": [
+        [
+          "freezer",
+          "冷凍庫"
+        ],
+        [
+          "fresh",
+          "新鮮な"
+        ],
+        [
+          "keep",
+          "保つ"
+        ]
+      ],
+      "point": "kept ～ は『〜された』と名詞（Bread）を後ろから説明する（過去分詞）。kept in the freezer が Bread にかかっている。kept の前で切ろう。"
+    },
+    {
+      "id": "k3-20",
+      "level": 3,
+      "genre": "お金",
+      "title": "ビンの小銭は、1年で1万円に",
+      "en": "Coins saved in a jar can reach 10,000 yen in a year.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "S",
+          "ja": "小銭は"
+        },
+        {
+          "to": 4,
+          "role": "M",
+          "ja": "びんに貯めた"
+        },
+        {
+          "to": 6,
+          "role": "V",
+          "ja": "達することがある"
+        },
+        {
+          "to": 8,
+          "role": "O",
+          "ja": "1万円に"
+        },
+        {
+          "to": 11,
+          "role": "M",
+          "ja": "1年で"
+        }
+      ],
+      "req": [
+        0,
+        4,
+        6
+      ],
+      "parens": [
+        [
+          2,
+          4
+        ],
+        [
+          9,
+          11
+        ]
+      ],
+      "jaFull": "びんに貯めた小銭は、1年で1万円になることがある。",
+      "summary": "1日30円ほど貯めれば、1年で約1万円。小さな習慣でも、積み重ねると大きくなる。",
+      "notes": [
+        [
+          "coin",
+          "小銭"
+        ],
+        [
+          "jar",
+          "びん"
+        ],
+        [
+          "reach",
+          "達する"
+        ]
+      ],
+      "point": "saved ～ は『貯められた〜』と名詞（Coins）を後ろから説明する（過去分詞）。saved の前で切ろう。"
+    },
+    {
+      "id": "k3-21",
+      "level": 3,
+      "genre": "小話",
+      "title": "明日にのこした宿題は、明日の自分の問題",
+      "en": "The homework left for tomorrow always becomes a problem for tomorrow's me.",
+      "chunks": [
+        {
+          "to": 1,
+          "role": "S",
+          "ja": "宿題は"
+        },
+        {
+          "to": 4,
+          "role": "M",
+          "ja": "明日にのこした"
+        },
+        {
+          "to": 6,
+          "role": "V",
+          "ja": "いつもなる"
+        },
+        {
+          "to": 8,
+          "role": "C",
+          "ja": "問題に"
+        },
+        {
+          "to": 11,
+          "role": "M",
+          "ja": "明日の自分にとっての"
+        }
+      ],
+      "req": [
+        1,
+        4,
+        6
+      ],
+      "parens": [
+        [
+          3,
+          4
+        ],
+        [
+          9,
+          11
+        ]
+      ],
+      "jaFull": "明日にのこした宿題は、いつも明日の自分の問題になる。",
+      "summary": "先のばしにすると、あとで困るのは自分。少しだけでも、今日のうちにやっておこう。",
+      "notes": [
+        [
+          "leave",
+          "のこす"
+        ],
+        [
+          "homework",
+          "宿題"
+        ],
+        [
+          "problem",
+          "問題"
+        ]
+      ],
+      "point": "left ～ は『のこされた〜』と名詞（homework）を後ろから説明する過去分詞。left の前で切ると、「どの宿題か」が見えてくる。"
+    },
+    {
+      "id": "k3-22",
+      "level": 3,
+      "genre": "心理",
+      "title": "運動する人は、よく眠れる",
+      "en": "People who exercise regularly often sleep better.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "S",
+          "ja": "人は"
+        },
+        {
+          "to": 3,
+          "role": "M",
+          "ja": "定期的に運動する"
+        },
+        {
+          "to": 5,
+          "role": "V",
+          "ja": "よく眠る"
+        },
+        {
+          "to": 6,
+          "role": "M",
+          "ja": "より"
+        }
+      ],
+      "req": [
+        0,
+        3,
+        5
+      ],
+      "parens": [],
+      "jaFull": "定期的に運動する人は、よく眠れることが多い。",
+      "summary": "体を動かすと、夜にぐっすり眠りやすい。ただ、寝る直前の激しい運動は、さけたほうがよい人もいる。",
+      "notes": [
+        [
+          "exercise",
+          "運動する"
+        ],
+        [
+          "regularly",
+          "定期的に"
+        ],
+        [
+          "sleep",
+          "眠る"
+        ]
+      ],
+      "point": "who ～ は、前の名詞（People）を後ろから説明するかたまり（関係代名詞）。who の前で切ると、「だれのことか」が見えてくる。"
+    },
+    {
+      "id": "k3-23",
+      "level": 3,
+      "genre": "お金",
+      "title": "試食を出す店は、売れやすい",
+      "en": "Stores that give free samples often sell more of that item.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "S",
+          "ja": "店は"
+        },
+        {
+          "to": 4,
+          "role": "M",
+          "ja": "無料の試食を出す"
+        },
+        {
+          "to": 6,
+          "role": "V",
+          "ja": "よく売る"
+        },
+        {
+          "to": 10,
+          "role": "O",
+          "ja": "その商品をより多く"
+        }
+      ],
+      "req": [
+        0,
+        4,
+        6
+      ],
+      "parens": [
+        [
+          8,
+          10
+        ]
+      ],
+      "jaFull": "無料の試食を出す店は、その商品をよく売ることが多い。",
+      "summary": "試食をすると、「何かお返しをしたい」気持ちになりやすい。買うつもりがなければ、ことわる勇気も大事。",
+      "notes": [
+        [
+          "free",
+          "無料の"
+        ],
+        [
+          "sample",
+          "見本・試食"
+        ],
+        [
+          "item",
+          "商品"
+        ]
+      ],
+      "point": "that ～ は、前の名詞（Stores）を後ろから説明するかたまり（関係代名詞）。that のうしろはすぐ動詞（give）。that の前で切ろう。"
+    },
+    {
+      "id": "k3-24",
+      "level": 3,
+      "genre": "雑学",
+      "title": "竹は、木ではなく草の仲間",
+      "en": "Bamboo, which looks like a tree, is actually a kind of grass.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "S",
+          "ja": "竹は"
+        },
+        {
+          "to": 5,
+          "role": "M",
+          "ja": "木のように見える"
+        },
+        {
+          "to": 7,
+          "role": "V",
+          "ja": "実は〜だ"
+        },
+        {
+          "to": 11,
+          "role": "C",
+          "ja": "草の一種"
+        }
+      ],
+      "req": [
+        0,
+        5,
+        7
+      ],
+      "parens": [
+        [
+          3,
+          5
+        ],
+        [
+          10,
+          11
+        ]
+      ],
+      "jaFull": "竹は、木のように見えるが、実は草の仲間だ。",
+      "summary": "竹はイネの仲間で、木ではなく草に分類される。成長がとても速く、1日に数十センチのびる種類もある。",
+      "notes": [
+        [
+          "bamboo",
+          "竹"
+        ],
+        [
+          "actually",
+          "実は"
+        ],
+        [
+          "grass",
+          "草"
+        ]
+      ],
+      "point": "which ～ は、前の名詞（Bamboo）にくわえて説明する関係代名詞。カンマ（,）で区切って、あとから足し算する言い方。which の前で切ろう。"
+    },
+    {
+      "id": "k3-25",
+      "level": 3,
+      "genre": "裏技",
+      "title": "前の夜にバッグをまとめると、朝があわてない",
+      "en": "A bag that stays packed by the door saves you from morning panic.",
+      "chunks": [
+        {
+          "to": 1,
+          "role": "S",
+          "ja": "バッグは"
+        },
+        {
+          "to": 7,
+          "role": "M",
+          "ja": "ドアのそばでまとめてある"
+        },
+        {
+          "to": 8,
+          "role": "V",
+          "ja": "救う"
+        },
+        {
+          "to": 9,
+          "role": "O",
+          "ja": "あなたを"
+        },
+        {
+          "to": 12,
+          "role": "M",
+          "ja": "朝のあわてから"
+        }
+      ],
+      "req": [
+        1,
+        7,
+        8
+      ],
+      "parens": [
+        [
+          5,
+          7
+        ],
+        [
+          10,
+          12
+        ]
+      ],
+      "jaFull": "ドアのそばに用意しておいたバッグは、朝のあわてから守ってくれる。",
+      "summary": "前の夜にバッグをまとめておけば、朝の探しものが減る。かぎ・財布・スマホは、いつも同じ場所に。",
+      "notes": [
+        [
+          "packed",
+          "荷物をまとめた"
+        ],
+        [
+          "panic",
+          "あわて・パニック"
+        ],
+        [
+          "save A from B",
+          "AをBから守る"
+        ]
+      ],
+      "point": "that stays packed ～ は、前の名詞（A bag）を後ろから説明する関係代名詞のかたまり。that の前で切ると、「どんなバッグか」が見えてくる。"
+    },
+    {
+      "id": "k3-26",
+      "level": 3,
+      "genre": "小話",
+      "title": "家に置いてきたかさが、今日いるかさ",
+      "en": "The umbrella that I left at home is the one I need today.",
+      "chunks": [
+        {
+          "to": 1,
+          "role": "S",
+          "ja": "かさは"
+        },
+        {
+          "to": 6,
+          "role": "M",
+          "ja": "私が家に置いてきた"
+        },
+        {
+          "to": 7,
+          "role": "V",
+          "ja": "だ"
+        },
+        {
+          "to": 9,
+          "role": "C",
+          "ja": "あれ（それ）"
+        },
+        {
+          "to": 12,
+          "role": "M",
+          "ja": "今日必要な"
+        }
+      ],
+      "req": [
+        1,
+        6,
+        7
+      ],
+      "parens": [
+        [
+          5,
+          6
+        ]
+      ],
+      "jaFull": "家に置いてきたかさこそ、今日いるかさだ。",
+      "summary": "かさを忘れた日にかぎって、雨がふる。『なぜか』と思う、あるある。",
+      "notes": [
+        [
+          "umbrella",
+          "かさ"
+        ],
+        [
+          "leave",
+          "置いていく"
+        ],
+        [
+          "need",
+          "必要とする"
+        ]
+      ],
+      "point": "that I left at home は umbrella を後ろから説明している（関係代名詞 that。I left の目的語が that）。that の前で切ろう。the one は umbrella のこと。"
+    },
+    {
+      "id": "k3-27",
+      "level": 3,
+      "genre": "雑学",
+      "title": "犬と人の暮らしは、1万5千年以上前から",
+      "en": "Scientists think that dogs began living with people more than 15,000 years ago.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "S",
+          "ja": "科学者は"
+        },
+        {
+          "to": 1,
+          "role": "V",
+          "ja": "考える"
+        },
+        {
+          "to": 3,
+          "role": "S",
+          "ja": "犬が"
+        },
+        {
+          "to": 5,
+          "role": "V",
+          "ja": "暮らし始めたと"
+        },
+        {
+          "to": 7,
+          "role": "M",
+          "ja": "人間と"
+        },
+        {
+          "to": 12,
+          "role": "M",
+          "ja": "1万5千年以上前に"
+        }
+      ],
+      "req": [
+        0,
+        1,
+        3,
+        5
+      ],
+      "parens": [
+        [
+          6,
+          7
+        ]
+      ],
+      "jaFull": "科学者は、犬は1万5千年以上前から人間と暮らし始めたと考えている。",
+      "summary": "いつ犬が人と暮らし始めたかは、まだ研究中。1万5千年以上前から、というのが多くの研究者の見方。",
+      "notes": [
+        [
+          "scientist",
+          "科学者"
+        ],
+        [
+          "begin",
+          "始める"
+        ],
+        [
+          "ago",
+          "〜前に"
+        ]
+      ],
+      "point": "think that ～ は『〜だと考える』。that のあとに「主語（dogs）＋動詞（began living）」がそろっている。think のうしろで切ろう。"
+    },
+    {
+      "id": "k3-28",
+      "level": 3,
+      "genre": "心理",
+      "title": "笑ったあとは、気分が軽くなる",
+      "en": "Many people say that they feel better after a good laugh.",
+      "chunks": [
+        {
+          "to": 1,
+          "role": "S",
+          "ja": "多くの人は"
+        },
+        {
+          "to": 2,
+          "role": "V",
+          "ja": "言う"
+        },
+        {
+          "to": 4,
+          "role": "S",
+          "ja": "彼らが"
+        },
+        {
+          "to": 5,
+          "role": "V",
+          "ja": "感じると"
+        },
+        {
+          "to": 6,
+          "role": "C",
+          "ja": "よりよく"
+        },
+        {
+          "to": 10,
+          "role": "M",
+          "ja": "思いきり笑ったあとに"
+        }
+      ],
+      "req": [
+        1,
+        2,
+        4,
+        5
+      ],
+      "parens": [
+        [
+          7,
+          10
+        ]
+      ],
+      "jaFull": "多くの人は、思いきり笑ったあとは気分がよくなると言う。",
+      "summary": "笑うと、体の力がぬけて気分が軽くなる人が多い。落ちこんだ日は、好きな動画を見てみよう。",
+      "notes": [
+        [
+          "laugh",
+          "笑い・笑う"
+        ],
+        [
+          "feel better",
+          "気分がよくなる"
+        ],
+        [
+          "good laugh",
+          "思いきり笑うこと"
+        ]
+      ],
+      "point": "say that ～ は『〜と言う』。that のあとに「主語（they）＋動詞（feel）」が続く。say のうしろで切ろう。"
+    },
+    {
+      "id": "k3-29",
+      "level": 3,
+      "genre": "お金",
+      "title": "大きな値引き＝お得、とは限らない",
+      "en": "Shoppers often think that a big discount means a good deal.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "S",
+          "ja": "買い物客は"
+        },
+        {
+          "to": 2,
+          "role": "V",
+          "ja": "よく思う"
+        },
+        {
+          "to": 6,
+          "role": "S",
+          "ja": "大きな値引きは"
+        },
+        {
+          "to": 7,
+          "role": "V",
+          "ja": "意味すると"
+        },
+        {
+          "to": 10,
+          "role": "O",
+          "ja": "お得な買い物を"
+        }
+      ],
+      "req": [
+        0,
+        2,
+        6,
+        7
+      ],
+      "parens": [],
+      "jaFull": "買い物客は、大きな値引きはお得なしるしだと思いがちだ。",
+      "summary": "大きな値引きでも、いらないものを買えば、むだづかい。買う前に「割引がなくても買う？」と自分に聞いてみよう。",
+      "notes": [
+        [
+          "shopper",
+          "買い物客"
+        ],
+        [
+          "discount",
+          "値引き"
+        ],
+        [
+          "deal",
+          "取引・買い物"
+        ],
+        [
+          "mean",
+          "意味する"
+        ]
+      ],
+      "point": "think that ～ は『〜だと思う』。that のあとに「主語（a big discount）＋動詞（means）」が続く。think のうしろで切ろう。"
+    },
+    {
+      "id": "k3-30",
+      "level": 3,
+      "genre": "小話",
+      "title": "「あと1本だけ」は、だいたい終わらない",
+      "en": "I promised myself that I would study after one more video.",
+      "chunks": [
+        {
+          "to": 0,
+          "role": "S",
+          "ja": "私は"
+        },
+        {
+          "to": 1,
+          "role": "V",
+          "ja": "約束した"
+        },
+        {
+          "to": 2,
+          "role": "O",
+          "ja": "自分に"
+        },
+        {
+          "to": 4,
+          "role": "S",
+          "ja": "私が"
+        },
+        {
+          "to": 6,
+          "role": "V",
+          "ja": "勉強すると"
+        },
+        {
+          "to": 10,
+          "role": "M",
+          "ja": "もう1本動画を見たあとで"
+        }
+      ],
+      "req": [
+        0,
+        1,
+        2,
+        4,
+        6
+      ],
+      "parens": [
+        [
+          7,
+          10
+        ]
+      ],
+      "jaFull": "あと1本だけ動画を見たら勉強する、と自分に約束した。",
+      "summary": "『あと1本だけ』は、たいてい終わらない。先に勉強して、ごほうびに動画にしよう。",
+      "notes": [
+        [
+          "promise",
+          "約束する"
+        ],
+        [
+          "myself",
+          "自分自身に"
+        ],
+        [
+          "video",
+          "動画"
+        ]
+      ],
+      "point": "promise A that ～ は『Aに〜と約束する』。that のあとに「主語（I）＋動詞（would study）」が続く。myself のうしろで切ろう。"
     }
   ]
 }
