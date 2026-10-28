@@ -2204,6 +2204,1104 @@
      "w": "比較級の強調は much。二重比較級・二重最上級や、very ＋比較級は誤り。"
     }
    ]
+  },
+  {
+   "id": "g07",
+   "title": "分詞・分詞構文",
+   "tags": [
+    "定期テスト",
+    "共通テスト"
+   ],
+   "one": "現在分詞（～ing）は「～している／～させる」、過去分詞（p.p.）は「～された／～している（完了）」。分詞構文は接続詞と主語を省いた、文をつなぐ形。",
+   "sections": [
+    {
+     "h": "修飾と感情動詞",
+     "p": "**前置修飾**：a sleeping baby（眠っている）／a broken window（こわれた）\n**後置修飾**（語句がつくとき）：the girl sitting under the tree／the window broken by the boy\n**感情を表す動詞**：物事が主語なら現在分詞（interesting, boring, exciting, surprising, tiring, disappointing）、人が主語なら過去分詞（interested, bored, excited, surprised, tired, disappointed）。",
+     "ex": [
+      {
+       "en": "The movie was so boring that even the popcorn fell asleep.",
+       "ja": "その映画は退屈で、ポップコーンまで眠った。"
+      },
+      {
+       "en": "I was surprised at the broken window and the sleeping cat next to it.",
+       "ja": "割れた窓と、そのとなりでねているネコに驚いた。"
+      },
+      {
+       "en": "The girl sitting under the tree is my sister.",
+       "ja": "木の下にすわっている女の子は、私の姉だ。"
+      }
+     ]
+    },
+    {
+     "h": "SVOC・have O p.p.",
+     "p": "**知覚**：see / hear / feel ＋O＋ing（している途中）／原形（始めから終わりまで）／p.p.（されるのを）\n**使役・状態**：keep / leave ＋O＋ing / p.p.\n**have [get] ＋O＋p.p.**：Oを～してもらう・される\n**make oneself understood**：自分の考えを伝える　**make oneself heard**：自分の声を届かせる",
+     "ex": [
+      {
+       "en": "I heard my name called in the crowd, but it was a different Ken.",
+       "ja": "人ごみで自分の名前が呼ばれたが、別のケンだった。"
+      },
+      {
+       "en": "I had my hair cut yesterday, and my dog did not recognize me.",
+       "ja": "昨日髪を切ってもらったら、犬が私に気づかなかった。"
+      },
+      {
+       "en": "Don't keep her waiting; she has already been kept waiting for ten years.",
+       "ja": "彼女を待たせるな。もう10年も待たされている。"
+      }
+     ]
+    },
+    {
+     "h": "分詞構文",
+     "p": "接続詞と主語を省き、動詞を **ing** にする。意味は文脈で決まる：時／理由／付帯状況（～しながら）／条件／譲歩。\n**否定**：Not knowing what to do, she asked me.\n**完了**：Having finished my homework, I went to bed.（主節より前）\n**受動**：（Being）Seen from the hill, the town looks beautiful. Being は省略できる。\n**付帯状況**：with ＋O＋ing / p.p.（He stood there with his arms folded.）\n**独立分詞構文**：主語がちがうとき、主語を残す。Weather permitting, we will start tomorrow.",
+     "ex": [
+      {
+       "en": "Not knowing what to do, he asked the cat for advice.",
+       "ja": "どうしたらいいか分からず、彼はネコに相談した。"
+      },
+      {
+       "en": "Having eaten the last piece of cake, my brother pretended to be asleep.",
+       "ja": "最後のケーキを食べてしまってから、弟はねたふりをした。"
+      },
+      {
+       "en": "He stood there with his arms folded, looking like a very angry penguin.",
+       "ja": "彼は腕を組んで立ち、とても怒ったペンギンのように見えた。"
+      }
+     ]
+    },
+    {
+     "h": "慣用的な分詞構文",
+     "p": "**generally speaking**（一般的に言って）／**frankly speaking**（率直に言えば）／**strictly speaking**（厳密に言えば）\n**judging from ～**（～から判断すると）／**considering ～**（～を考えると）／**speaking of ～**（～といえば）\nこれらは主語が一般の人なので、主節の主語と一致していなくてもよい。",
+     "ex": [
+      {
+       "en": "Judging from his smile, he must have eaten something delicious.",
+       "ja": "笑顔から判断すると、彼はおいしいものを食べたにちがいない。"
+      },
+      {
+       "en": "Strictly speaking, a tomato is a fruit, not a vegetable.",
+       "ja": "厳密に言えば、トマトは野菜でなく果物だ。"
+      }
+     ]
+    }
+   ],
+   "traps": [
+    {
+     "t": "感情動詞は主語で決まる",
+     "body": "I am **excited**（興奮している）／The game is **exciting**（人を興奮させる）。\n「人がどう感じるか」→ p.p.、「物事がどんな性質か」→ ing。"
+    },
+    {
+     "t": "分詞構文の意味上の主語",
+     "body": "分詞構文の主語は、原則として **主節の主語と同じ**。\n×Walking along the street, a dog bit me.（犬が歩いていることに）\n○Walking along the street, I was bitten by a dog."
+    },
+    {
+     "t": "Being の省略",
+     "body": "受動の分詞構文（Being p.p.）では Being が省略されて p.p. だけが残ることが多い。\nSeen from the hill ～（Being seen ～）。形が過去分詞で始まっていれば、受動の分詞構文。"
+    }
+   ],
+   "drill": [
+    {
+     "q": "The girl ( ) under the tree is my sister.",
+     "o": [
+      "sitting",
+      "sat",
+      "to sit",
+      "sits"
+     ],
+     "a": 0,
+     "w": "後置修飾で「すわっている」＝現在分詞 sitting。"
+    },
+    {
+     "q": "Look at the ( ) window.",
+     "o": [
+      "breaking",
+      "broken",
+      "broke",
+      "break"
+     ],
+     "a": 1,
+     "w": "「割られた窓」は過去分詞 broken。"
+    },
+    {
+     "q": "The movie was so ( ) that I fell asleep.",
+     "o": [
+      "bored",
+      "boring",
+      "bore",
+      "to bore"
+     ],
+     "a": 1,
+     "w": "物事（the movie）が主語なので現在分詞 boring。"
+    },
+    {
+     "q": "I was ( ) at the news.",
+     "o": [
+      "surprising",
+      "surprised",
+      "surprise",
+      "to surprise"
+     ],
+     "a": 1,
+     "w": "人が主語なので過去分詞 surprised。"
+    },
+    {
+     "q": "I heard my name ( ) in the crowd.",
+     "o": [
+      "call",
+      "called",
+      "calling",
+      "to call"
+     ],
+     "a": 1,
+     "w": "名前は「呼ばれる」側なので過去分詞 called。"
+    },
+    {
+     "q": "I saw a boy ( ) the street.",
+     "o": [
+      "cross",
+      "to cross",
+      "crossed",
+      "to crossing"
+     ],
+     "a": 0,
+     "w": "see ＋O＋原形（始めから終わりまで見た）。ing でもよいが、to は不可。"
+    },
+    {
+     "q": "I had my hair ( ) yesterday.",
+     "o": [
+      "cut",
+      "cutting",
+      "to cut",
+      "cuts"
+     ],
+     "a": 0,
+     "w": "have ＋O＋p.p.（してもらった）。cut の過去分詞は cut。"
+    },
+    {
+     "q": "Don't keep her ( ).",
+     "o": [
+      "wait",
+      "waiting",
+      "to wait",
+      "waited"
+     ],
+     "a": 1,
+     "w": "keep ＋O＋ing（～させておく）。"
+    },
+    {
+     "q": "( ) the door, he went out.",
+     "o": [
+      "Closing",
+      "Closed",
+      "To close",
+      "Close"
+     ],
+     "a": 0,
+     "w": "時を表す分詞構文。主語 he がドアを閉める側なので ing。"
+    },
+    {
+     "q": "( ) what to do, she asked me.",
+     "o": [
+      "Not knowing",
+      "Knowing not",
+      "No knowing",
+      "Not known"
+     ],
+     "a": 0,
+     "w": "分詞構文の否定は、分詞の直前に not。"
+    },
+    {
+     "q": "( ) finished my homework, I went to bed.",
+     "o": [
+      "Having",
+      "Have",
+      "Had",
+      "Being"
+     ],
+     "a": 0,
+     "w": "主節より前のことを表す完了分詞構文 Having p.p.。"
+    },
+    {
+     "q": "( ) from the hill, the town looks beautiful.",
+     "o": [
+      "Seeing",
+      "Seen",
+      "To see",
+      "Saw"
+     ],
+     "a": 1,
+     "w": "町は「見られる」側。受動の分詞構文で Being が省略された Seen。"
+    },
+    {
+     "q": "With his arms ( ), he stood there.",
+     "o": [
+      "fold",
+      "folded",
+      "folding",
+      "to fold"
+     ],
+     "a": 1,
+     "w": "with ＋O＋p.p.（腕が組まれた状態）。"
+    },
+    {
+     "q": "( ) speaking, he is a good teacher.",
+     "o": [
+      "Generally",
+      "General",
+      "Generalize",
+      "Generation"
+     ],
+     "a": 0,
+     "w": "generally speaking（一般的に言って）。"
+    },
+    {
+     "q": "Judging ( ) his accent, he is from Osaka.",
+     "o": [
+      "from",
+      "at",
+      "to",
+      "by"
+     ],
+     "a": 0,
+     "w": "judging from ～（～から判断すると）。"
+    }
+   ],
+   "test": [
+    {
+     "q": "( ) by many people, the singer felt happy.",
+     "o": [
+      "Loved",
+      "Loving",
+      "To love",
+      "Love"
+     ],
+     "a": 0,
+     "w": "歌手は「愛される」側。Being が省略された受動の分詞構文。"
+    },
+    {
+     "q": "( ) permitting, we'll have the party outside.",
+     "o": [
+      "Weather",
+      "The weather been",
+      "Weather is",
+      "Weather to"
+     ],
+     "a": 0,
+     "w": "独立分詞構文 Weather permitting（天気がよければ）。"
+    },
+    {
+     "q": "Tom sat on the sofa, ( ) a magazine.",
+     "o": [
+      "read",
+      "reading",
+      "to read",
+      "been read"
+     ],
+     "a": 1,
+     "w": "付帯状況を表す分詞構文。「読みながら」＝reading。"
+    },
+    {
+     "q": "I couldn't make myself ( ) in English.",
+     "o": [
+      "understand",
+      "understood",
+      "understanding",
+      "to understand"
+     ],
+     "a": 1,
+     "w": "make oneself understood（自分の考えを伝える）。"
+    },
+    {
+     "q": "( ) tired, I went to bed early.",
+     "o": [
+      "Feeling",
+      "Felt",
+      "To feel",
+      "Feel"
+     ],
+     "a": 0,
+     "w": "理由を表す分詞構文。Feeling tired。"
+    },
+    {
+     "q": "He sat there with his eyes ( ).",
+     "o": [
+      "close",
+      "closed",
+      "closing",
+      "to close"
+     ],
+     "a": 1,
+     "w": "with ＋O＋p.p.（目が閉じられた状態）。"
+    },
+    {
+     "q": "She had her bag ( ) on the train.",
+     "o": [
+      "steal",
+      "stole",
+      "stolen",
+      "stealing"
+     ],
+     "a": 2,
+     "w": "have ＋O＋p.p.（被害）。「バッグを盗まれた」。"
+    },
+    {
+     "q": "There were many ( ) students in the hall.",
+     "o": [
+      "exciting",
+      "excited",
+      "excite",
+      "excitement"
+     ],
+     "a": 1,
+     "w": "students は「興奮している」側＝過去分詞 excited。"
+    },
+    {
+     "q": "( ) at the station, I found that the train had left.",
+     "o": [
+      "Arrive",
+      "Arriving",
+      "To arrive",
+      "Arrival"
+     ],
+     "a": 1,
+     "w": "時を表す分詞構文。主語 I が到着する側なので ing。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "Seeing from the top, the city looks small.",
+      "Generally speaking, women live longer than men.",
+      "I was very exciting to see the show.",
+      "He had his car repair yesterday."
+     ],
+     "a": 1,
+     "w": "慣用的な分詞構文は正しい。Seeing → Seen、exciting → excited、repair → repaired に直す。"
+    }
+   ]
+  },
+  {
+   "id": "g08",
+   "title": "仮定法",
+   "tags": [
+    "定期テスト",
+    "共通テスト"
+   ],
+   "one": "現実とちがうことを「もし～なら」と想像する形。時制を1つ過去へずらすのがコツ。",
+   "sections": [
+    {
+     "h": "仮定法過去と過去完了",
+     "p": "**仮定法過去**（現在の事実の反対）：If S **過去形**（be は **were**）, S **would / could / might ＋原形**\n**仮定法過去完了**（過去の事実の反対）：If S **had p.p.**, S **would / could / might have p.p.**\n**混合**（過去の原因→現在の結果）：If I had studied harder, I would be a doctor now.",
+     "ex": [
+      {
+       "en": "If I were a bird, I would fly to you, but I would also eat your bread.",
+       "ja": "もし私が鳥なら、あなたのところへ飛んでいくが、あなたのパンも食べるだろう。"
+      },
+      {
+       "en": "If I had known the test was today, I would have studied.",
+       "ja": "テストが今日だと知っていたら、勉強したのに。"
+      },
+      {
+       "en": "If he had listened to the map, he would be at the beach now.",
+       "ja": "地図の言うことを聞いていたら、彼は今ごろ海辺にいたのに。"
+      }
+     ]
+    },
+    {
+     "h": "I wish / as if / It is time",
+     "p": "**I wish ＋過去形**：（今）～ならいいのに／**I wish ＋had p.p.**：（あのとき）～だったらよかったのに\n**as if [though] ＋過去形**：まるで～であるかのように／**as if ＋had p.p.**：まるで～だったかのように\n**If only ～!**：～でさえあればなあ（I wish より強い）\n**It is (high) time ＋S＋過去形**：もう～してもいい時間だ\n**would rather ＋S＋過去形**：（相手が）～してくれたらいいのに",
+     "ex": [
+      {
+       "en": "I wish I had a robot that could do my homework and eat my broccoli.",
+       "ja": "宿題をして、ブロッコリーも食べてくれるロボットがいたらいいのに。"
+      },
+      {
+       "en": "He talks as if he were the boss, but he is just a new employee.",
+       "ja": "彼はまるで上司のように話すが、ただの新入社員だ。"
+      },
+      {
+       "en": "It is high time you cleaned your room; I found a sandwich from last year.",
+       "ja": "もう部屋を掃除する時間だ。去年のサンドイッチが出てきたぞ。"
+      }
+     ]
+    },
+    {
+     "h": "ifの省略（倒置）とif以外の仮定",
+     "p": "if を省くと、**助動詞（were / had / should）が主語の前**に出る。\nIf I were you, ～ → **Were I** you, ～／If I had known ～ → **Had I known** ～／If you should need ～ → **Should you need** ～\n**If it were not for ～ ＝ But for ～ ＝ Without ～**：～がなければ（現在）\n**If it had not been for ～ ＝ Had it not been for ～**：～がなかったら（過去）\n**If S should ～ / If S were to ～**：万一～したら（未来の強い疑い）。",
+     "ex": [
+      {
+       "en": "Had it not been for my alarm clock, I would have slept until Friday.",
+       "ja": "目覚まし時計がなかったら、金曜まで寝ていただろう。"
+      },
+      {
+       "en": "Without water, we could not live for more than a few days.",
+       "ja": "水がなければ、私たちは数日しか生きられない。"
+      },
+      {
+       "en": "Should you need any help, please call me before the cake is gone.",
+       "ja": "万一手伝いが必要なら、ケーキがなくなる前に電話して。"
+      }
+     ]
+    }
+   ],
+   "traps": [
+    {
+     "t": "現実の条件との区別",
+     "body": "可能性がある未来のことは仮定法でなく **直説法**：If it rains tomorrow, we **will** stay home.\n時・条件を表す副詞節の中では、未来のことでも **現在形** を使う。if 節に will は入れない。"
+    },
+    {
+     "t": "主節の形",
+     "body": "仮定法過去：would / could / might ＋原形。仮定法過去完了：would / could / might have p.p.。\n×If I had known, I would tell you. ○If I had known, I would have told you."
+    },
+    {
+     "t": "wish の時制",
+     "body": "今の願望は I wish ＋過去形（were）、過去の後悔は I wish ＋had p.p.。\nI wish I can fly. という形は誤り（can → could）。"
+    }
+   ],
+   "drill": [
+    {
+     "q": "If I ( ) a bird, I would fly to you.",
+     "o": [
+      "am",
+      "were",
+      "will be",
+      "had been"
+     ],
+     "a": 1,
+     "w": "仮定法過去の be 動詞は、主語に関係なく were。"
+    },
+    {
+     "q": "If I had a million yen, I ( ) a house.",
+     "o": [
+      "will buy",
+      "would buy",
+      "would have bought",
+      "bought"
+     ],
+     "a": 1,
+     "w": "仮定法過去の主節は would ＋原形。"
+    },
+    {
+     "q": "If I had studied harder, I ( ) the exam.",
+     "o": [
+      "would pass",
+      "would have passed",
+      "will pass",
+      "passed"
+     ],
+     "a": 1,
+     "w": "過去の反対の仮定。would have p.p.。"
+    },
+    {
+     "q": "仮定法過去完了の形はどれか。",
+     "o": [
+      "If S had p.p., S would have p.p.",
+      "If S p.p., S would p.p.",
+      "If S were, S would have p.p.",
+      "If S had p.p., S would p.p."
+     ],
+     "a": 0,
+     "w": "if 節は had p.p.、主節は would [could, might] have p.p.。"
+    },
+    {
+     "q": "I wish I ( ) a car now.",
+     "o": [
+      "have",
+      "had",
+      "would have",
+      "have had"
+     ],
+     "a": 1,
+     "w": "今の願望は I wish ＋過去形。"
+    },
+    {
+     "q": "I wish I ( ) studied harder last year.",
+     "o": [
+      "have",
+      "had",
+      "would have",
+      "will"
+     ],
+     "a": 1,
+     "w": "過去の後悔は I wish ＋had p.p.。"
+    },
+    {
+     "q": "He talks as if he ( ) everything.",
+     "o": [
+      "know",
+      "knew",
+      "will know",
+      "has known"
+     ],
+     "a": 1,
+     "w": "as if のあとは仮定法。同じ時の「知っているかのように」なら過去形 knew。"
+    },
+    {
+     "q": "It is time you ( ) to bed.",
+     "o": [
+      "go",
+      "went",
+      "will go",
+      "are going"
+     ],
+     "a": 1,
+     "w": "It is time ＋S＋過去形（もう～してもいい時間）。"
+    },
+    {
+     "q": "( ) it not been for your help, I would have failed.",
+     "o": [
+      "Had",
+      "Were",
+      "Should",
+      "Did"
+     ],
+     "a": 0,
+     "w": "If it had not been for ～ の if の省略で、Had it not been for ～。"
+    },
+    {
+     "q": "( ) I you, I would accept the offer.",
+     "o": [
+      "Were",
+      "Had",
+      "Should",
+      "Did"
+     ],
+     "a": 0,
+     "w": "If I were you の倒置。Were I you。"
+    },
+    {
+     "q": "( ) for water, we could not live.",
+     "o": [
+      "Without",
+      "With",
+      "Although",
+      "Unless"
+     ],
+     "a": 0,
+     "w": "Without ～＝If it were not for ～（～がなければ）。"
+    },
+    {
+     "q": "If it ( ) for the rain, we could go out.",
+     "o": [
+      "were not",
+      "is not",
+      "has not been",
+      "would not be"
+     ],
+     "a": 0,
+     "w": "If it were not for ～（～がなければ）。"
+    },
+    {
+     "q": "If it rains tomorrow, we ( ) at home.",
+     "o": [
+      "stay",
+      "will stay",
+      "would stay",
+      "would have stayed"
+     ],
+     "a": 1,
+     "w": "可能性のある未来の条件は直説法。if 節は現在形、主節は will。"
+    },
+    {
+     "q": "I'd rather you ( ) smoke here.",
+     "o": [
+      "don't",
+      "didn't",
+      "won't",
+      "haven't"
+     ],
+     "a": 1,
+     "w": "would rather ＋S＋過去形（～しないでほしい）。"
+    },
+    {
+     "q": "仮定法過去で、主語がIでもheでも使う be 動詞はどれか。",
+     "o": [
+      "were",
+      "was",
+      "are",
+      "been"
+     ],
+     "a": 0,
+     "w": "were が基本。口語では was も使うが、文法問題では were。"
+    }
+   ],
+   "test": [
+    {
+     "q": "If I had taken the earlier train, I ( ) late for the meeting.",
+     "o": [
+      "would not be",
+      "would not have been",
+      "will not be",
+      "am not"
+     ],
+     "a": 1,
+     "w": "過去の仮定。would not have been。"
+    },
+    {
+     "q": "If he had not helped me, I ( ) in trouble now.",
+     "o": [
+      "would be",
+      "would have been",
+      "will be",
+      "am"
+     ],
+     "a": 0,
+     "w": "過去の原因が現在に影響する混合型。主節は would ＋原形（now がある）。"
+    },
+    {
+     "q": "I wish I ( ) more careful when I was a child.",
+     "o": [
+      "am",
+      "had been",
+      "would be",
+      "have been"
+     ],
+     "a": 1,
+     "w": "過去の後悔は I wish ＋had p.p.。"
+    },
+    {
+     "q": "He speaks as if he ( ) the boss, but he is just a new employee.",
+     "o": [
+      "is",
+      "were",
+      "will be",
+      "has been"
+     ],
+     "a": 1,
+     "w": "事実に反する as if のあとは仮定法。同じ時なら were。"
+    },
+    {
+     "q": "( ) I known the truth, I would have told you.",
+     "o": [
+      "If",
+      "Had",
+      "Were",
+      "Should"
+     ],
+     "a": 1,
+     "w": "If I had known の倒置。Had I known。"
+    },
+    {
+     "q": "( ) you need any help, please call me.",
+     "o": [
+      "Should",
+      "Were",
+      "Had",
+      "Did"
+     ],
+     "a": 0,
+     "w": "If you should need ～ の倒置。Should you need ～。"
+    },
+    {
+     "q": "But for your advice, I ( ) the exam.",
+     "o": [
+      "would fail",
+      "would have failed",
+      "will fail",
+      "failed"
+     ],
+     "a": 1,
+     "w": "But for ～ ＝ If it had not been for ～。過去の仮定で would have p.p.。"
+    },
+    {
+     "q": "It is high time you ( ) your own room.",
+     "o": [
+      "clean",
+      "cleaned",
+      "will clean",
+      "are cleaning"
+     ],
+     "a": 1,
+     "w": "It is high time ＋S＋過去形。"
+    },
+    {
+     "q": "If it should rain tomorrow, we ( ) the picnic.",
+     "o": [
+      "will cancel",
+      "cancelled",
+      "would have cancelled",
+      "cancel"
+     ],
+     "a": 0,
+     "w": "If S should ～ の主節は、命令文や will などが使える。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "If I will have time, I'll help you.",
+      "If I were rich, I would travel around the world.",
+      "If I had been you, I would go there now.",
+      "I wish I can fly."
+     ],
+     "a": 1,
+     "w": "if 節に will は入らない。wish のあとは could、混合型は if 節と主節の時制を合わせて確認する。"
+    }
+   ]
+  },
+  {
+   "id": "g09",
+   "title": "助動詞",
+   "tags": [
+    "定期テスト",
+    "共通テスト"
+   ],
+   "one": "推量の強さ、助動詞＋have p.p.、had better / would rather / used to、that節の should の省略まで。",
+   "sections": [
+    {
+     "h": "推量の強さ",
+     "p": "確信度の高い順に\n**must**（～にちがいない）> **will** > **should / ought to**（～のはず）> **may / might / could**（～かもしれない）\n否定の推量：**cannot [can't] be ～**（～のはずがない）\n**may well ～**（たぶん～だろう）／**may as well ～**（～したほうがましだ）",
+     "ex": [
+      {
+       "en": "He must be tired; he has been carrying that giant cake all day.",
+       "ja": "彼は疲れているにちがいない。1日中、巨大なケーキを運んでいるのだ。"
+      },
+      {
+       "en": "She cannot be at home; I just saw her at the station.",
+       "ja": "彼女が家にいるはずがない。さっき駅で見たのだ。"
+      }
+     ]
+    },
+    {
+     "h": "助動詞＋have p.p.",
+     "p": "**must have p.p.**：～したにちがいない／**cannot have p.p.**：～したはずがない\n**may [might] have p.p.**：～したかもしれない／**could have p.p.**：～できたのに（実際はしなかった）\n**should have p.p.**：～すべきだったのに（しなかった）／**should not have p.p.**：～すべきでなかったのに（してしまった）\n**need not have p.p.**：～する必要はなかったのに（してしまった）",
+     "ex": [
+      {
+       "en": "You must have been hungry; you ate three sandwiches and the plate.",
+       "ja": "おなかがすいていたにちがいない。サンドイッチ3つと、お皿まで食べた。"
+      },
+      {
+       "en": "I should have taken an umbrella; now I look like a wet cat.",
+       "ja": "かさを持っていくべきだった。今、ぬれたネコのようだ。"
+      },
+      {
+       "en": "You need not have waited for me; the movie was ninety minutes of nothing.",
+       "ja": "待たなくてよかったのに。映画は90分間、何も起こらなかった。"
+      }
+     ]
+    },
+    {
+     "h": "must / have to / had better / used to",
+     "p": "**must not**：～してはいけない（禁止）／**don't have to [need not]**：～する必要はない（不必要）\n**had better ＋原形**：～したほうがよい（しないと困ったことになる）\n**would rather A than B**：BよりむしろA\n**used to ＋原形**：かつては～した（状態・習慣）／**would**：（よく）～したものだ（習慣的動作のみ）\n**be used to ～ing**：～に慣れている",
+     "ex": [
+      {
+       "en": "You had better not touch that button, because it says \"Do not touch.\"",
+       "ja": "そのボタンは、さわらないほうがいい。「さわるな」と書いてあるから。"
+      },
+      {
+       "en": "There used to be a bakery here, and the smell made everyone late.",
+       "ja": "昔、ここにパン屋があって、においでみんな遅刻した。"
+      },
+      {
+       "en": "I would rather walk than take a crowded bus.",
+       "ja": "混んだバスに乗るくらいなら、歩きたい。"
+      }
+     ]
+    },
+    {
+     "h": "that節の中の should（仮定法現在）",
+     "p": "提案・要求・命令・必要を表す語のあとの that 節では、**(should) ＋原形**。主語が三単現でも s をつけない。\n**動詞**：suggest / insist / demand / recommend / propose / require / order\n**形容詞**：important / necessary / essential / natural\n例：The doctor recommended that he **eat** more vegetables. / It is necessary that every student **follow** the rules.\n（insist が「事実の主張」なら直説法：He insisted that he was innocent.）",
+     "ex": [
+      {
+       "en": "The doctor recommended that he eat more vegetables, but he suggested pizza.",
+       "ja": "医者は、野菜をもっと食べるよう勧めたが、彼はピザを提案した。"
+      },
+      {
+       "en": "It is important that the cat be fed before it learns to open the fridge.",
+       "ja": "冷蔵庫を開けることを覚える前に、ネコに餌をやることが大切だ。"
+      }
+     ]
+    }
+   ],
+   "traps": [
+    {
+     "t": "must not と don't have to",
+     "body": "**must not**＝禁止（してはいけない）／**don't have to**＝不必要（しなくてよい）。\nYou must not park here.（駐車禁止）／You don't have to park here.（ここに止める必要はない）"
+    },
+    {
+     "t": "used to と would",
+     "body": "状態（be, have, live など）を表すには **used to** のみ。\n×He would be shy when he was a child. ○He used to be shy.\n動作の繰り返しは used to / would のどちらも使える。"
+    },
+    {
+     "t": "should have p.p. と need not have p.p.",
+     "body": "should have p.p.＝しなかったことを後悔。\nneed not have p.p.＝してしまったが、必要はなかった。\n日本語で「～べきだった」「～しなくてもよかった」を見分ける。"
+    }
+   ],
+   "drill": [
+    {
+     "q": "He ( ) be tired; he worked all day.",
+     "o": [
+      "must",
+      "cannot",
+      "may not",
+      "need"
+     ],
+     "a": 0,
+     "w": "一日中働いた→「疲れているにちがいない」＝must。"
+    },
+    {
+     "q": "She ( ) be at home. I just saw her at the station.",
+     "o": [
+      "must",
+      "cannot",
+      "should",
+      "need"
+     ],
+     "a": 1,
+     "w": "さっき駅で見た→「家にいるはずがない」＝cannot。"
+    },
+    {
+     "q": "He ( ) have forgotten the appointment.（忘れたにちがいない）",
+     "o": [
+      "must",
+      "can",
+      "will",
+      "would"
+     ],
+     "a": 0,
+     "w": "過去への強い推量は must have p.p.。"
+    },
+    {
+     "q": "I ( ) have studied harder.（勉強すべきだったのに）",
+     "o": [
+      "should",
+      "must",
+      "can",
+      "will"
+     ],
+     "a": 0,
+     "w": "should have p.p.（～すべきだったのに）。"
+    },
+    {
+     "q": "You ( ) have waited.（待つ必要はなかったのに）",
+     "o": [
+      "need not",
+      "must not",
+      "cannot",
+      "might not"
+     ],
+     "a": 0,
+     "w": "need not have p.p.（～する必要はなかったのに）。"
+    },
+    {
+     "q": "You ( ) park here.（禁止）",
+     "o": [
+      "must not",
+      "don't have to",
+      "need not",
+      "may"
+     ],
+     "a": 0,
+     "w": "禁止は must not。don't have to は不必要。"
+    },
+    {
+     "q": "You ( ) come with me.（来る必要はない）",
+     "o": [
+      "don't have to",
+      "must not",
+      "cannot",
+      "should"
+     ],
+     "a": 0,
+     "w": "不必要は don't have to。"
+    },
+    {
+     "q": "You had ( ) go to the doctor.",
+     "o": [
+      "better",
+      "best",
+      "rather",
+      "good"
+     ],
+     "a": 0,
+     "w": "had better ＋原形（～したほうがよい）。"
+    },
+    {
+     "q": "I would rather stay home ( ) go out.",
+     "o": [
+      "than",
+      "to",
+      "as",
+      "for"
+     ],
+     "a": 0,
+     "w": "would rather A than B。"
+    },
+    {
+     "q": "There ( ) be a bank here when I was a child.",
+     "o": [
+      "used to",
+      "would",
+      "is used to",
+      "was used to"
+     ],
+     "a": 0,
+     "w": "過去の状態は used to。would は状態には使えない。"
+    },
+    {
+     "q": "He ( ) be shy when he was a child.（状態）",
+     "o": [
+      "used to",
+      "would",
+      "will",
+      "can"
+     ],
+     "a": 0,
+     "w": "状態を表す be には used to を使う。"
+    },
+    {
+     "q": "I suggested that he ( ) a doctor.",
+     "o": [
+      "see",
+      "sees",
+      "saw",
+      "will see"
+     ],
+     "a": 0,
+     "w": "suggest that ＋S＋（should）＋原形。"
+    },
+    {
+     "q": "It is necessary that every student ( ) the rules.",
+     "o": [
+      "follow",
+      "follows",
+      "followed",
+      "will follow"
+     ],
+     "a": 0,
+     "w": "necessary that ＋S＋（should）＋原形。"
+    },
+    {
+     "q": "( ) I carry your bag?（申し出）",
+     "o": [
+      "Shall",
+      "Will",
+      "Must",
+      "Did"
+     ],
+     "a": 0,
+     "w": "Shall I ～?（～しましょうか）。"
+    },
+    {
+     "q": "( ) you like some tea?",
+     "o": [
+      "Would",
+      "Did",
+      "Do",
+      "Are"
+     ],
+     "a": 0,
+     "w": "Would you like ～?（～はいかがですか）。"
+    }
+   ],
+   "test": [
+    {
+     "q": "The lights are off. They ( ) have gone out.",
+     "o": [
+      "must",
+      "should",
+      "need",
+      "would"
+     ],
+     "a": 0,
+     "w": "明かりが消えている→「出かけたにちがいない」。must have p.p.。"
+    },
+    {
+     "q": "He ( ) have taken the money; he was out of town that day.",
+     "o": [
+      "cannot",
+      "must",
+      "should",
+      "need"
+     ],
+     "a": 0,
+     "w": "その日は町にいなかった→「取ったはずがない」。cannot have p.p.。"
+    },
+    {
+     "q": "The doctor recommended that he ( ) more vegetables.",
+     "o": [
+      "eat",
+      "eats",
+      "ate",
+      "will eat"
+     ],
+     "a": 0,
+     "w": "recommend that ＋S＋（should）＋原形。"
+    },
+    {
+     "q": "You ( ) have brought an umbrella; it did not rain.",
+     "o": [
+      "need not",
+      "must not",
+      "cannot",
+      "might not"
+     ],
+     "a": 0,
+     "w": "need not have p.p.（持ってくる必要はなかったのに）。"
+    },
+    {
+     "q": "That ( ) be true. It's too strange to believe.",
+     "o": [
+      "cannot",
+      "must",
+      "should",
+      "need"
+     ],
+     "a": 0,
+     "w": "「本当のはずがない」＝cannot be。"
+    },
+    {
+     "q": "I ( ) rather walk than take a crowded bus.",
+     "o": [
+      "would",
+      "should",
+      "could",
+      "must"
+     ],
+     "a": 0,
+     "w": "would rather A than B。"
+    },
+    {
+     "q": "It is important that he ( ) on time.",
+     "o": [
+      "be",
+      "is",
+      "was",
+      "being"
+     ],
+     "a": 0,
+     "w": "important that ＋S＋（should）＋原形。"
+    },
+    {
+     "q": "He ( ) to get up early when he was a student, but now he sleeps late.",
+     "o": [
+      "used",
+      "would",
+      "was used",
+      "is used"
+     ],
+     "a": 0,
+     "w": "used to ＋原形（かつては～した）。"
+    },
+    {
+     "q": "Would you mind my opening the window? —( )",
+     "o": [
+      "No, not at all.",
+      "Yes, please.",
+      "Sure, I mind.",
+      "Of course, I do."
+     ],
+     "a": 0,
+     "w": "mind は「いやがる」なので、承諾は No, not at all。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "You must not to go there.",
+      "He may have been sick yesterday.",
+      "She cans speak English.",
+      "I should went to bed earlier."
+     ],
+     "a": 1,
+     "w": "助動詞のあとは原形。過去への推量は may have p.p.。"
+    }
+   ]
   }
  ]
 }
