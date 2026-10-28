@@ -2,6 +2,378 @@
  "version": 2,
  "units": [
   {
+   "id": "g10",
+   "title": "時制の基本",
+   "tags": [
+    "定期テスト",
+    "共通テスト"
+   ],
+   "one": "現在・過去・未来と進行形の使い分け。未来の言い方、状態動詞、時・条件の副詞節、時制の一致までを整理する。",
+   "sections": [
+    {
+     "h": "現在形・過去形・未来の表し方",
+     "p": "**現在形**：習慣／不変の真理（The sun rises in the east.）／時刻表などの確定した予定（The train leaves at seven.）\n**will**：その場の決定・単純な予測／**be going to**：前からの計画・兆候のある予測\n**現在進行形**：すでに決まった近い予定（I am meeting her tomorrow.）／**be about to ～**：まさに～しようとしている",
+     "ex": [
+      {
+       "en": "The sun rises in the east, even on Monday mornings.",
+       "ja": "太陽は東からのぼる。月曜の朝でも。"
+      },
+      {
+       "en": "Look at those clouds! It is going to rain, and I have no umbrella.",
+       "ja": "あの雲を見て！ 雨になりそうなのに、かさがない。"
+      },
+      {
+       "en": "The phone is ringing. I will get it, because nobody else will.",
+       "ja": "電話が鳴っている。私が出る。誰もほかに出ないから。"
+      }
+     ]
+    },
+    {
+     "h": "進行形と状態動詞",
+     "p": "**進行形**：be＋ing。「～している最中」「一時的な動作」。\n**進行形にしない動詞（状態）**：know / like / love / want / need / believe / belong / resemble / have（持つ）/ see（見える）/ hear（聞こえる）\n同じ語でも、動作の意味なら進行形にできる：I am having lunch.（食べる）/ I have a car.（持つ）\n**always ＋進行形**：「しょっちゅう～している」（不満・非難）。",
+     "ex": [
+      {
+       "en": "I am having lunch now, so please don't call me; my noodles are getting cold.",
+       "ja": "いまお昼を食べているので電話しないで。めんがさめてしまう。"
+      },
+      {
+       "en": "He has a car, but he is always borrowing mine.",
+       "ja": "彼は車を持っているが、しょっちゅう私のを借りている。"
+      },
+      {
+       "en": "This soup tastes delicious, although it smells like my socks.",
+       "ja": "このスープはおいしいが、においは私のくつ下だ。"
+      }
+     ]
+    },
+    {
+     "h": "時・条件の副詞節と名詞節",
+     "p": "**時・条件を表す副詞節**（when / if / before / after / as soon as / until / by the time / once）では、未来のことでも **現在形**。\nIf it **rains** tomorrow, we will stay home.\n**名詞節**（～かどうか。if / whether / when などが目的語を作る）では、**will** を使う。\nI don't know if it **will** rain tomorrow. / Tell me when he **will** come.",
+     "ex": [
+      {
+       "en": "I will call you as soon as I get home, unless the cat steals my phone.",
+       "ja": "家に着いたらすぐ電話する。ネコが私のスマホを盗らなければ。"
+      },
+      {
+       "en": "I don't know whether he will come, but the cake knows.",
+       "ja": "彼が来るかどうか分からないが、ケーキは知っている。"
+      }
+     ]
+    },
+    {
+     "h": "時制の一致と例外・未来進行形・未来完了",
+     "p": "**時制の一致**：主節が過去なら、従属節も過去（or 過去完了）。He said he **was** tired.／より前のことは過去完了。\n**例外**：不変の真理・現在の習慣は現在形のまま。（He said that the Earth **goes** round the sun.）\n**未来進行形**：will be ＋ing（その時には～しているだろう）\n**未来完了**：will have p.p.（その時までには～し終えているだろう）",
+     "ex": [
+      {
+       "en": "This time tomorrow, I will be lying on a beach and ignoring my homework.",
+       "ja": "明日の今ごろ、私は海辺でねそべって、宿題を無視しているだろう。"
+      },
+      {
+       "en": "By the time you get home, I will have eaten all the pizza.",
+       "ja": "あなたが帰るころには、私はピザを全部食べ終えているだろう。"
+      },
+      {
+       "en": "She said that the Earth goes round the sun.",
+       "ja": "彼女は、地球は太陽のまわりを回っていると言った。"
+      }
+     ]
+    }
+   ],
+   "traps": [
+    {
+     "t": "when は副詞節か名詞節か",
+     "body": "I will tell him **when he comes**.（いつ来るか → 副詞節「来たら」→ 現在形）\nI don't know **when he will come**.（目的語「いつ来るか」→ 名詞節 → will）\n節の役割が、前の動詞の目的語かどうかで見分ける。"
+    },
+    {
+     "t": "will と be going to",
+     "body": "その場で決める → will。前から決めていた・兆候がある → be going to。\n「～するつもりです」と言われたら、いつ決めたかを考える。"
+    },
+    {
+     "t": "状態動詞の進行形",
+     "body": "×I am knowing him. ○I know him.\nただし have（食べる・過ごす）、think（考えている）、see（会う）などは動作の意味なら進行形にできる。"
+    }
+   ],
+   "drill": [
+    {
+     "q": "The train ( ) at seven tomorrow.",
+     "o": [
+      "leaves",
+      "left",
+      "had left",
+      "leaving"
+     ],
+     "a": 0,
+     "w": "時刻表の確定した予定は現在形で言う。"
+    },
+    {
+     "q": "The sun ( ) in the east.",
+     "o": [
+      "rises",
+      "rose",
+      "is rising",
+      "has risen"
+     ],
+     "a": 0,
+     "w": "不変の真理は現在形。"
+    },
+    {
+     "q": "I don't know if he ( ) tomorrow.",
+     "o": [
+      "comes",
+      "will come",
+      "came",
+      "has come"
+     ],
+     "a": 1,
+     "w": "if は「～かどうか」で名詞節。未来のことは will を使う。"
+    },
+    {
+     "q": "If it ( ) tomorrow, we will stay home.",
+     "o": [
+      "rains",
+      "will rain",
+      "rained",
+      "would rain"
+     ],
+     "a": 0,
+     "w": "条件の副詞節では、未来のことでも現在形。"
+    },
+    {
+     "q": "I'll call you as soon as I ( ) home.",
+     "o": [
+      "get",
+      "will get",
+      "got",
+      "would get"
+     ],
+     "a": 0,
+     "w": "as soon as が作る時の副詞節は現在形。"
+    },
+    {
+     "q": "Look at those clouds! It ( ) rain.",
+     "o": [
+      "is going to",
+      "will",
+      "would",
+      "shall"
+     ],
+     "a": 0,
+     "w": "兆候がある予測は be going to。"
+    },
+    {
+     "q": "A: The phone is ringing. B: I ( ) it.",
+     "o": [
+      "will get",
+      "am going to get",
+      "get",
+      "have got"
+     ],
+     "a": 0,
+     "w": "その場で決めたことは will。"
+    },
+    {
+     "q": "We ( ) go to Okinawa next week. We've already bought the tickets.",
+     "o": [
+      "are going to",
+      "will",
+      "would",
+      "shall"
+     ],
+     "a": 0,
+     "w": "もう決まっている予定は be going to。"
+    },
+    {
+     "q": "次のうち、ふつう進行形にしない動詞はどれか。",
+     "o": [
+      "know",
+      "run",
+      "eat",
+      "study"
+     ],
+     "a": 0,
+     "w": "know は状態動詞。"
+    },
+    {
+     "q": "I ( ) lunch now.（食べている）",
+     "o": [
+      "am having",
+      "have",
+      "had",
+      "have had"
+     ],
+     "a": 0,
+     "w": "have が「食べる」の意味なら進行形にできる。"
+    },
+    {
+     "q": "He ( ) a car.（持っている）",
+     "o": [
+      "has",
+      "is having",
+      "have",
+      "was having"
+     ],
+     "a": 0,
+     "w": "have（持つ）は状態動詞で進行形にしない。"
+    },
+    {
+     "q": "He is always ( ) late.（不満）",
+     "o": [
+      "coming",
+      "come",
+      "to come",
+      "comes"
+     ],
+     "a": 0,
+     "w": "always ＋進行形（しょっちゅう～している）。"
+    },
+    {
+     "q": "By next year, I ( ) in Tokyo for ten years.",
+     "o": [
+      "will have lived",
+      "will live",
+      "lived",
+      "have lived"
+     ],
+     "a": 0,
+     "w": "「その時までに～になる」は未来完了。"
+    },
+    {
+     "q": "This time tomorrow, I ( ) on the beach.",
+     "o": [
+      "will be lying",
+      "will lie",
+      "lie",
+      "am lying"
+     ],
+     "a": 0,
+     "w": "未来のある時点に行っている動作は未来進行形。"
+    },
+    {
+     "q": "The teacher said the Earth ( ) round the sun.",
+     "o": [
+      "goes",
+      "went",
+      "had gone",
+      "would go"
+     ],
+     "a": 0,
+     "w": "不変の真理は時制の一致を受けず、現在形。"
+    }
+   ],
+   "test": [
+    {
+     "q": "I'll lend you the book when I ( ) reading it.",
+     "o": [
+      "finish",
+      "will finish",
+      "finished",
+      "would finish"
+     ],
+     "a": 0,
+     "w": "when が作る副詞節。現在形。"
+    },
+    {
+     "q": "I wonder whether she ( ) our invitation next week.",
+     "o": [
+      "accepts",
+      "will accept",
+      "accepted",
+      "has accepted"
+     ],
+     "a": 1,
+     "w": "whether が作る名詞節。未来は will。"
+    },
+    {
+     "q": "He told me that he ( ) in Osaka the year before.",
+     "o": [
+      "lives",
+      "lived",
+      "had lived",
+      "has lived"
+     ],
+     "a": 2,
+     "w": "told（過去）より前のことなので過去完了。"
+    },
+    {
+     "q": "She ( ) when I called her.",
+     "o": [
+      "was sleeping",
+      "slept",
+      "sleeps",
+      "has slept"
+     ],
+     "a": 0,
+     "w": "電話した時に「眠っているところだった」＝過去進行形。"
+    },
+    {
+     "q": "By the time you get home, I ( ) dinner.",
+     "o": [
+      "will have cooked",
+      "will cook",
+      "cooked",
+      "have cooked"
+     ],
+     "a": 0,
+     "w": "By the time ～（現在形）までに完了＝未来完了。"
+    },
+    {
+     "q": "Water ( ) at 100℃.",
+     "o": [
+      "boils",
+      "boiled",
+      "is boiling",
+      "boil"
+     ],
+     "a": 0,
+     "w": "不変の真理は現在形。"
+    },
+    {
+     "q": "Mary ( ) a new dress now; she looks great.",
+     "o": [
+      "is wearing",
+      "wears",
+      "wore",
+      "has worn"
+     ],
+     "a": 0,
+     "w": "now があるので、一時的な動作＝現在進行形。"
+    },
+    {
+     "q": "This soup ( ) delicious.",
+     "o": [
+      "tastes",
+      "is tasting",
+      "taste",
+      "are tasting"
+     ],
+     "a": 0,
+     "w": "taste（～の味がする）は状態動詞で進行形にしない。"
+    },
+    {
+     "q": "I'll be waiting here until you ( ) back.",
+     "o": [
+      "come",
+      "will come",
+      "came",
+      "are coming"
+     ],
+     "a": 0,
+     "w": "until が作る時の副詞節は現在形。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "If it will rain tomorrow, I won't go.",
+      "I am knowing the answer.",
+      "The Second World War ended in 1945.",
+      "He said that the Earth went round the sun."
+     ],
+     "a": 2,
+     "w": "歴史上の事実は過去形。if 節に will は入らず、know は進行形にしない。真理は現在形が基本。"
+    }
+   ]
+  },
+  {
    "id": "g01",
    "title": "現在完了・過去完了",
    "tags": [
@@ -737,367 +1109,6 @@
      ],
      "a": 1,
      "w": "財布は「盗まれた」側。過去の受動態 was stolen。"
-    }
-   ]
-  },
-  {
-   "id": "g03",
-   "title": "関係詞",
-   "tags": [
-    "定期テスト",
-    "共通テスト"
-   ],
-   "one": "名詞のうしろにつけて、その名詞を説明する文をつなぐ語。代名詞のはたらき（who/which/that/whose）と、副詞のはたらき（where/when/why/how）がある。",
-   "sections": [
-    {
-     "h": "関係代名詞：格と先行詞",
-     "p": "後ろの文に「名詞が欠けている」ときに使う。\n**主格**（後ろに動詞）：人 who／物 which／どちらも that\n**目的格**（後ろに S＋V）：人 who(m)／物 which／that（省略できる）\n**所有格**（後ろに名詞）：whose\n動詞は**先行詞に一致**させる。",
-     "ex": [
-      {
-       "en": "I have a friend who can fall asleep anywhere, even during a fire drill.",
-       "ja": "どこでも、避難訓練の最中でも眠れる友だちがいる。"
-      },
-      {
-       "en": "The movie I saw last night was so boring that I counted the ceiling tiles.",
-       "ja": "昨夜見た映画は退屈で、天井のタイルを数えていた。（目的格の省略）"
-      },
-      {
-       "en": "She is a singer whose voice makes dogs howl in harmony.",
-       "ja": "彼女は、声を聞くと犬がハモって遠吠えする歌手だ。"
-      }
-     ]
-    },
-    {
-     "h": "前置詞＋関係代名詞",
-     "p": "前置詞は関係代名詞の**直前**に置くことも、**文末に残す**こともできる。\nThis is the house **in which** I was born. ＝ This is the house **which** I was born **in**.\n前置詞を直前に置くと、人は whom、物は which を使い、**that は使えない**。\n文末に残す形なら who / that や省略もできる。",
-     "ex": [
-      {
-       "en": "The hotel at which we stayed had a view of a parking lot.",
-       "ja": "私たちが泊まったホテルは、駐車場の景色だった。"
-      },
-      {
-       "en": "The woman with whom I talked at the party turned out to be my boss.",
-       "ja": "パーティーで話した女性は、私の上司だった。"
-      }
-     ]
-    },
-    {
-     "h": "関係副詞 where / when / why / how",
-     "p": "後ろの文が**完全な文**（名詞が欠けていない）のときは、関係副詞。\n**where**（場所）／**when**（時）／**why**（理由）／**how**（方法・先行詞 the way とは同時に使えない）\nThis is the town **where** I grew up. ＝ This is the town **in which** I grew up.",
-     "ex": [
-      {
-       "en": "This is the town where I grew up, and where I got lost five times.",
-       "ja": "ここは私が育った町で、5回迷子になった町でもある。"
-      },
-      {
-       "en": "That is the reason why I never lend my umbrella.",
-       "ja": "それが、かさを決して貸さない理由だ。"
-      },
-      {
-       "en": "I remember the day when the teacher forgot her own name.",
-       "ja": "先生が自分の名前を忘れた日のことを覚えている。"
-      }
-     ]
-    },
-    {
-     "h": "非制限用法・what・複合関係詞",
-     "p": "**非制限用法**（, which ～）：コンマをつけて、補足的に説明する。**that は使えない**。前文全体を先行詞にもできる。\n**what**＝the thing(s) which（～こと）。先行詞を含むので、前に名詞を置かない。\n**複合関係詞**：whoever（～する人は誰でも）／whatever（何でも）／whichever（どちらでも）。",
-     "ex": [
-      {
-       "en": "He said nothing, which made her even angrier.",
-       "ja": "彼は何も言わず、それが彼女をさらに怒らせた。（前文全体が先行詞）"
-      },
-      {
-       "en": "Whoever finishes first gets the last piece of cake.",
-       "ja": "最初に食べ終えた人は誰でも、最後のケーキをもらえる。"
-      },
-      {
-       "en": "What I need most right now is a nap.",
-       "ja": "今いちばん必要なのは昼寝だ。"
-      }
-     ]
-    }
-   ],
-   "traps": [
-    {
-     "t": "関係代名詞か関係副詞か",
-     "body": "関係詞のあとの文を見る。\n**名詞が欠けた不完全な文** → 関係代名詞（who / which / that）\n**S・V・O がそろった完全な文** → 関係副詞（where / when / why / how）\n例：the house **which** I bought（bought の目的語がない）／the house **where** I live（live の目的語は不要で完全）。"
-    },
-    {
-     "t": "that が使えない場面",
-     "body": "①前置詞の直後（in that は不可）　②非制限用法（コンマの後）。\nまた、先行詞に **all / the only / the same / the first / 最上級** があるときや、人と物が両方のときは that が好まれる。"
-    },
-    {
-     "t": "the reason why / the way how",
-     "body": "the reason と why は片方を省略できる（理由は聞く側にわかる）。\n**the way how は誤り**。the way / how / the way in which のどれか1つにする。"
-    }
-   ],
-   "drill": [
-    {
-     "q": "The man ( ) lives next door is a chef.",
-     "w": "先行詞は人で、後ろは動詞。主格 who（that も可）。",
-     "o": [
-      "what",
-      "whom",
-      "whose",
-      "who"
-     ],
-     "a": 3
-    },
-    {
-     "q": "The book ( ) cover is red is mine.",
-     "w": "「その本の表紙」と所有を表す。whose＋名詞。",
-     "o": [
-      "which",
-      "whose",
-      "whom",
-      "who"
-     ],
-     "a": 1
-    },
-    {
-     "q": "This is the house ( ) I was born.（関係副詞）",
-     "w": "後ろが完全な文。場所なので where。",
-     "o": [
-      "what",
-      "where",
-      "which",
-      "whose"
-     ],
-     "a": 1
-    },
-    {
-     "q": "This is the house in ( ) I was born.",
-     "w": "前置詞の直後は which（that は不可）。",
-     "o": [
-      "whom",
-      "that",
-      "where",
-      "which"
-     ],
-     "a": 3
-    },
-    {
-     "q": "The reason ( ) he quit is unknown.",
-     "w": "理由を表す関係副詞 why。",
-     "o": [
-      "why",
-      "how",
-      "what",
-      "where"
-     ],
-     "a": 0
-    },
-    {
-     "q": "I remember the day ( ) we first met.",
-     "w": "時を表す関係副詞 when。",
-     "o": [
-      "when",
-      "where",
-      "why",
-      "what"
-     ],
-     "a": 0
-    },
-    {
-     "q": "He passed the exam, ( ) surprised everyone.",
-     "w": "コンマのあとは非制限用法。前文全体を指す which（that は不可）。",
-     "o": [
-      "what",
-      "that",
-      "who",
-      "which"
-     ],
-     "a": 3
-    },
-    {
-     "q": "関係副詞を使うのは、後ろの文がどんな形のときか。",
-     "o": [
-      "名詞が欠けた不完全な文",
-      "S・V・O などがそろった完全な文",
-      "動詞が欠けた文",
-      "必ず過去形の文"
-     ],
-     "a": 1,
-     "w": "後ろが完全な文なら関係副詞、名詞が欠けていれば関係代名詞。"
-    },
-    {
-     "q": "非制限用法（コンマのあと）で**使えない**関係代名詞はどれか。",
-     "o": [
-      "who",
-      "which",
-      "that",
-      "whose"
-     ],
-     "a": 2,
-     "w": "that は非制限用法では使えない。"
-    },
-    {
-     "q": "前置詞の**直後**に置けないものはどれか。",
-     "o": [
-      "whom",
-      "which",
-      "that",
-      "whose"
-     ],
-     "a": 2,
-     "w": "前置詞の直後に that は置けない。in which / with whom の形にする。"
-    },
-    {
-     "q": "( ) you said made me happy.（～こと）",
-     "w": "先行詞なしで「～こと」。What（文頭なので大文字でもよい）。",
-     "o": [
-      "That",
-      "what",
-      "Which",
-      "Who"
-     ],
-     "a": 1
-    },
-    {
-     "q": "This is all ( ) I have.",
-     "w": "先行詞に all がつくときは that が好まれる。",
-     "o": [
-      "whose",
-      "what",
-      "who",
-      "that"
-     ],
-     "a": 3
-    },
-    {
-     "q": "Please give it to ( ) wants it.（～する人は誰でも）",
-     "w": "複合関係詞 whoever＝anyone who。",
-     "o": [
-      "whoever",
-      "whichever",
-      "whatever",
-      "whenever"
-     ],
-     "a": 0
-    },
-    {
-     "q": "I'll do ( ) you ask.（何でも）",
-     "w": "whatever＝anything that。",
-     "o": [
-      "however",
-      "whoever",
-      "whatever",
-      "wherever"
-     ],
-     "a": 2
-    }
-   ],
-   "test": [
-    {
-     "q": "This is the town ( ) my grandfather was born and grew up.",
-     "o": [
-      "which",
-      "where",
-      "what",
-      "whose"
-     ],
-     "a": 1,
-     "w": "後ろが完全な文で、場所を表すので関係副詞 where。"
-    },
-    {
-     "q": "The hotel ( ) we stayed at last summer was very comfortable.",
-     "o": [
-      "where",
-      "which",
-      "at which",
-      "in which"
-     ],
-     "a": 1,
-     "w": "at が文末に残っているので、関係代名詞 which（that も可）。"
-    },
-    {
-     "q": "She has two sons, ( ) are doctors.",
-     "o": [
-      "who",
-      "that",
-      "whom",
-      "whose"
-     ],
-     "a": 0,
-     "w": "コンマがあるので非制限用法。主格で人なので who。that は使えない。"
-    },
-    {
-     "q": "He said nothing, ( ) made her even angrier.",
-     "o": [
-      "that",
-      "what",
-      "which",
-      "who"
-     ],
-     "a": 2,
-     "w": "前文全体を指す非制限用法の which。"
-    },
-    {
-     "q": "The woman with ( ) I talked at the party was a famous writer.",
-     "o": [
-      "who",
-      "that",
-      "whom",
-      "which"
-     ],
-     "a": 2,
-     "w": "前置詞の直後に置けるのは whom（人）。who や that は不可。"
-    },
-    {
-     "q": "That is the reason ( ) I am angry.",
-     "o": [
-      "why",
-      "how",
-      "where",
-      "what"
-     ],
-     "a": 0,
-     "w": "the reason のあとの関係副詞は why。"
-    },
-    {
-     "q": "Everything ( ) he said turned out to be true.",
-     "o": [
-      "that",
-      "what",
-      "who",
-      "whose"
-     ],
-     "a": 0,
-     "w": "先行詞に everything がつくので that が好まれる。what だと先行詞と重なる。"
-    },
-    {
-     "q": "This is the only thing ( ) I can do for you.",
-     "o": [
-      "what",
-      "which",
-      "that",
-      "who"
-     ],
-     "a": 2,
-     "w": "先行詞に the only がつくので that が好まれる。"
-    },
-    {
-     "q": "次のうち、文法的に正しい文はどれか。",
-     "o": [
-      "This is the house which I live.",
-      "This is the house in that I live.",
-      "This is the house where I live in.",
-      "This is the house which I live in."
-     ],
-     "a": 3,
-     "w": "which の文では、live in の in が文末に残る。where と in の重複や、in that は誤り。"
-    },
-    {
-     "q": "The book, ( ) I bought yesterday, is very interesting.",
-     "o": [
-      "that",
-      "which",
-      "what",
-      "who"
-     ],
-     "a": 1,
-     "w": "コンマにはさまれた非制限用法では that は使えず、which。"
     }
    ]
   },
@@ -1842,370 +1853,6 @@
    ]
   },
   {
-   "id": "g06",
-   "title": "比較",
-   "tags": [
-    "定期テスト",
-    "共通テスト"
-   ],
-   "one": "原級・比較級・最上級の形と、as ～ as、the 比較級, the 比較級、no more than などの重要表現。最上級を比較級で言い換える問題も頻出。",
-   "sections": [
-    {
-     "h": "形と強調・差",
-     "p": "**不規則変化**：good/well – better – best／bad/badly/ill – worse – worst／many/much – more – most／little – less – least／far – farther/further – farthest/furthest\n**比較級の強調**：much / far / even / still / a lot（**very は使えない**）\n**差**：He is two years older than I. ＝ He is older than I by two years.",
-     "ex": [
-      {
-       "en": "My cat is much faster than me, especially when the food bag opens.",
-       "ja": "うちのネコは、おやつの袋が開くとき特に、私よりはるかに速い。"
-      },
-      {
-       "en": "This soup is even saltier than the sea.",
-       "ja": "このスープは、海よりもっとしょっぱい。"
-      }
-     ]
-    },
-    {
-     "h": "原級を使う表現",
-     "p": "**as ～ as ...**：…と同じくらい～／**not as [so] ～ as ...**：…ほど～でない\n**as ～ as possible ＝ as ～ as S can**：できるだけ～\n**twice [three times] as ～ as ...**：…の2倍[3倍]～\n**as many [much] as ～**：～もの（数・量の多さ）／**as good as ～**：～も同然",
-     "ex": [
-      {
-       "en": "This tower is twice as high as that one, and twice as hard to climb.",
-       "ja": "この塔はあの塔の2倍の高さで、登るのも2倍大変だ。"
-      },
-      {
-       "en": "Please come back home as soon as possible, or the cake will be gone.",
-       "ja": "できるだけ早く帰ってきて。ケーキがなくなるよ。"
-      }
-     ]
-    },
-    {
-     "h": "比較級を使う重要表現",
-     "p": "**The 比較級 ～, the 比較級 ...**：～すればするほど…\n**比較級 and 比較級**：ますます～\n**no more than ～**：たった～（＝only）／**not more than ～**：せいぜい～（＝at most）\n**no less than ～**：～も（＝as many as）／**not less than ～**：少なくとも～（＝at least）\n**A is superior [inferior, senior, junior] to B**：than ではなく **to** を使う。**prefer A to B**：BよりAを好む。",
-     "ex": [
-      {
-       "en": "The more I practice, the better I play, and the louder my neighbors complain.",
-       "ja": "練習すればするほど上手になるが、近所の苦情も大きくなる。"
-      },
-      {
-       "en": "He has no less than ten pairs of the same shoes.",
-       "ja": "彼は、同じくつを10足も持っている。"
-      },
-      {
-       "en": "I prefer tea to coffee, but not at midnight.",
-       "ja": "コーヒーより紅茶が好きだが、夜中は別だ。"
-      }
-     ]
-    },
-    {
-     "h": "最上級と言い換え",
-     "p": "**the ＋最上級 ＋ of ＋複数 / in ＋範囲**：The tallest of the three／the tallest in the class\n**one of the ＋最上級＋複数名詞**\n**言い換え**：Ken is the tallest student in the class.\n＝ Ken is taller than **any other** student（単数）in the class.\n＝ Ken is taller than **all the other** students（複数）in the class.\n＝ **No other** student in the class is as tall as Ken.\n＝ **Nothing** is more ～ than ... （～ほど…なものはない）\n副詞の最上級や、同一人物の比較では the を省略できる。",
-     "ex": [
-      {
-       "en": "This is the funniest movie I have ever seen, and I saw it with my eyes closed.",
-       "ja": "これは今までで最もおもしろい映画で、目を閉じて見た。"
-      },
-      {
-       "en": "Nothing is more important than a good night's sleep.",
-       "ja": "ぐっすり眠ることほど大切なものはない。"
-      }
-     ]
-    }
-   ],
-   "traps": [
-    {
-     "t": "very は比較級を強調しない",
-     "body": "very は原級を強調（very tall）。比較級は much / far / even / still / a lot で強調する。\n最上級は much the best / by far the best / the very best の形。"
-    },
-    {
-     "t": "no more than と not more than",
-     "body": "**no** が強い否定語＝「少なさを強調」（たった）。**not** は単なる否定＝「上限」（せいぜい）。\nno less than（も）／not less than（少なくとも）も同じ区別。"
-    },
-    {
-     "t": "than の後ろをそろえる",
-     "body": "比べる対象を同じ種類にそろえる。\n×The population of Tokyo is larger than Osaka. ○... larger than **that of** Osaka.（the population の代わりに that を使う）\n複数なら those of。"
-    }
-   ],
-   "drill": [
-    {
-     "q": "good の比較級・最上級はどれか。",
-     "o": [
-      "better – best",
-      "gooder – goodest",
-      "more good – most good",
-      "better – bestest"
-     ],
-     "a": 0,
-     "w": "good – better – best（不規則変化）。"
-    },
-    {
-     "q": "much の比較級・最上級はどれか。",
-     "o": [
-      "more – most",
-      "more – mostest",
-      "muchier – muchest",
-      "most – more"
-     ],
-     "a": 0,
-     "w": "many / much – more – most。"
-    },
-    {
-     "q": "比較級を強調するときに**使えない**語はどれか。",
-     "o": [
-      "very",
-      "much",
-      "far",
-      "even"
-     ],
-     "a": 0,
-     "w": "very は原級を強調し、比較級は強調できない。"
-    },
-    {
-     "q": "This room is ( ) larger than that one.",
-     "o": [
-      "much",
-      "very",
-      "so",
-      "too"
-     ],
-     "a": 0,
-     "w": "比較級の強調は much / far / even / still / a lot。"
-    },
-    {
-     "q": "He is as tall ( ) his father.",
-     "o": [
-      "as",
-      "than",
-      "like",
-      "to"
-     ],
-     "a": 0,
-     "w": "as ～ as ...（…と同じくらい～）。"
-    },
-    {
-     "q": "She runs twice as ( ) as I do.",
-     "o": [
-      "fast",
-      "faster",
-      "fastest",
-      "more fast"
-     ],
-     "a": 0,
-     "w": "twice as ＋原級＋ as ...（…の2倍）。原級を使う。"
-    },
-    {
-     "q": "The ( ) you practice, the better you play.",
-     "o": [
-      "more",
-      "most",
-      "much",
-      "many"
-     ],
-     "a": 0,
-     "w": "The 比較級 ～, the 比較級 ...（～すればするほど）。"
-    },
-    {
-     "q": "It is getting ( ).（だんだん寒くなる）",
-     "o": [
-      "colder and colder",
-      "more cold and more cold",
-      "cold and colder",
-      "colder and cold"
-     ],
-     "a": 0,
-     "w": "比較級 and 比較級（ますます～）。"
-    },
-    {
-     "q": "Tom is senior ( ) me.",
-     "o": [
-      "to",
-      "than",
-      "from",
-      "of"
-     ],
-     "a": 0,
-     "w": "senior / junior / superior / inferior は than でなく to をとる。"
-    },
-    {
-     "q": "I prefer tea ( ) coffee.",
-     "o": [
-      "to",
-      "than",
-      "over",
-      "from"
-     ],
-     "a": 0,
-     "w": "prefer A to B（BよりAを好む）。"
-    },
-    {
-     "q": "Ken is taller than ( ) other student in our class.",
-     "o": [
-      "any",
-      "all",
-      "every",
-      "some"
-     ],
-     "a": 0,
-     "w": "than any other ＋単数名詞。all the other ＋複数名詞とセットで覚える。"
-    },
-    {
-     "q": "He is the tallest ( ) the three.",
-     "o": [
-      "of",
-      "in",
-      "than",
-      "at"
-     ],
-     "a": 0,
-     "w": "最上級のあとは、複数を表す語句なら of、場所・範囲なら in。"
-    },
-    {
-     "q": "She is the tallest ( ) our class.",
-     "o": [
-      "in",
-      "of",
-      "than",
-      "at"
-     ],
-     "a": 0,
-     "w": "our class は範囲（単数の集団）なので in。"
-    },
-    {
-     "q": "He has no more than 1,000 yen. の意味は？",
-     "o": [
-      "たった1000円しかない",
-      "せいぜい1000円",
-      "少なくとも1000円",
-      "1000円も持っている"
-     ],
-     "a": 0,
-     "w": "no more than ＝ only（たった）。not more than は「せいぜい」。"
-    },
-    {
-     "q": "He paid no less than 10,000 yen. の意味は？",
-     "o": [
-      "1万円も",
-      "たった1万円",
-      "せいぜい1万円",
-      "少なくとも1万円"
-     ],
-     "a": 0,
-     "w": "no less than ＝ as much as（～も）。"
-    }
-   ],
-   "test": [
-    {
-     "q": "This is the ( ) interesting book I have ever read.",
-     "o": [
-      "more",
-      "most",
-      "much",
-      "very"
-     ],
-     "a": 1,
-     "w": "ever を伴う最上級。the most interesting。"
-    },
-    {
-     "q": "The ( ) she thought about it, the more confused she became.",
-     "o": [
-      "longer",
-      "long",
-      "longest",
-      "more long"
-     ],
-     "a": 0,
-     "w": "The 比較級 ～, the 比較級 ...。The longer she thought。"
-    },
-    {
-     "q": "Her English is superior ( ) mine.",
-     "o": [
-      "to",
-      "than",
-      "as",
-      "of"
-     ],
-     "a": 0,
-     "w": "superior は than でなく to。"
-    },
-    {
-     "q": "Nothing is ( ) important than health.",
-     "o": [
-      "more",
-      "most",
-      "so",
-      "very"
-     ],
-     "a": 0,
-     "w": "Nothing is more ～ than ...（…ほど～なものはない）。"
-    },
-    {
-     "q": "This tower is ( ) as high as that one.",
-     "o": [
-      "twice",
-      "two",
-      "double",
-      "second"
-     ],
-     "a": 0,
-     "w": "twice as ～ as ...（…の2倍～）。"
-    },
-    {
-     "q": "Of all the girls in the class, Emi sings ( ).",
-     "o": [
-      "best",
-      "good",
-      "more well",
-      "better"
-     ],
-     "a": 0,
-     "w": "副詞の最上級は the を省略できる。範囲が all なので最上級。"
-    },
-    {
-     "q": "He is not so much a singer ( ) a comedian.",
-     "o": [
-      "as",
-      "than",
-      "to",
-      "but"
-     ],
-     "a": 0,
-     "w": "not so much A as B（AというよりむしろB）。"
-    },
-    {
-     "q": "His score was ( ) better than mine.",
-     "o": [
-      "very",
-      "much",
-      "so",
-      "more"
-     ],
-     "a": 1,
-     "w": "比較級の強調は much。very は使えない。"
-    },
-    {
-     "q": "The population of Tokyo is larger than ( ) of Osaka.",
-     "o": [
-      "that",
-      "it",
-      "one",
-      "those"
-     ],
-     "a": 0,
-     "w": "the population の代わりに that。複数なら those。"
-    },
-    {
-     "q": "次のうち、文法的に正しい文はどれか。",
-     "o": [
-      "He is the more taller of the two.",
-      "This is the most best movie I've seen.",
-      "She is much more beautiful than her sister.",
-      "This room is very larger than mine."
-     ],
-     "a": 2,
-     "w": "比較級の強調は much。二重比較級・二重最上級や、very ＋比較級は誤り。"
-    }
-   ]
-  },
-  {
    "id": "g07",
    "title": "分詞・分詞構文",
    "tags": [
@@ -2574,6 +2221,731 @@
      ],
      "a": 1,
      "w": "慣用的な分詞構文は正しい。Seeing → Seen、exciting → excited、repair → repaired に直す。"
+    }
+   ]
+  },
+  {
+   "id": "g03",
+   "title": "関係詞",
+   "tags": [
+    "定期テスト",
+    "共通テスト"
+   ],
+   "one": "名詞のうしろにつけて、その名詞を説明する文をつなぐ語。代名詞のはたらき（who/which/that/whose）と、副詞のはたらき（where/when/why/how）がある。",
+   "sections": [
+    {
+     "h": "関係代名詞：格と先行詞",
+     "p": "後ろの文に「名詞が欠けている」ときに使う。\n**主格**（後ろに動詞）：人 who／物 which／どちらも that\n**目的格**（後ろに S＋V）：人 who(m)／物 which／that（省略できる）\n**所有格**（後ろに名詞）：whose\n動詞は**先行詞に一致**させる。",
+     "ex": [
+      {
+       "en": "I have a friend who can fall asleep anywhere, even during a fire drill.",
+       "ja": "どこでも、避難訓練の最中でも眠れる友だちがいる。"
+      },
+      {
+       "en": "The movie I saw last night was so boring that I counted the ceiling tiles.",
+       "ja": "昨夜見た映画は退屈で、天井のタイルを数えていた。（目的格の省略）"
+      },
+      {
+       "en": "She is a singer whose voice makes dogs howl in harmony.",
+       "ja": "彼女は、声を聞くと犬がハモって遠吠えする歌手だ。"
+      }
+     ]
+    },
+    {
+     "h": "前置詞＋関係代名詞",
+     "p": "前置詞は関係代名詞の**直前**に置くことも、**文末に残す**こともできる。\nThis is the house **in which** I was born. ＝ This is the house **which** I was born **in**.\n前置詞を直前に置くと、人は whom、物は which を使い、**that は使えない**。\n文末に残す形なら who / that や省略もできる。",
+     "ex": [
+      {
+       "en": "The hotel at which we stayed had a view of a parking lot.",
+       "ja": "私たちが泊まったホテルは、駐車場の景色だった。"
+      },
+      {
+       "en": "The woman with whom I talked at the party turned out to be my boss.",
+       "ja": "パーティーで話した女性は、私の上司だった。"
+      }
+     ]
+    },
+    {
+     "h": "関係副詞 where / when / why / how",
+     "p": "後ろの文が**完全な文**（名詞が欠けていない）のときは、関係副詞。\n**where**（場所）／**when**（時）／**why**（理由）／**how**（方法・先行詞 the way とは同時に使えない）\nThis is the town **where** I grew up. ＝ This is the town **in which** I grew up.",
+     "ex": [
+      {
+       "en": "This is the town where I grew up, and where I got lost five times.",
+       "ja": "ここは私が育った町で、5回迷子になった町でもある。"
+      },
+      {
+       "en": "That is the reason why I never lend my umbrella.",
+       "ja": "それが、かさを決して貸さない理由だ。"
+      },
+      {
+       "en": "I remember the day when the teacher forgot her own name.",
+       "ja": "先生が自分の名前を忘れた日のことを覚えている。"
+      }
+     ]
+    },
+    {
+     "h": "非制限用法・what・複合関係詞",
+     "p": "**非制限用法**（, which ～）：コンマをつけて、補足的に説明する。**that は使えない**。前文全体を先行詞にもできる。\n**what**＝the thing(s) which（～こと）。先行詞を含むので、前に名詞を置かない。\n**複合関係詞**：whoever（～する人は誰でも）／whatever（何でも）／whichever（どちらでも）。",
+     "ex": [
+      {
+       "en": "He said nothing, which made her even angrier.",
+       "ja": "彼は何も言わず、それが彼女をさらに怒らせた。（前文全体が先行詞）"
+      },
+      {
+       "en": "Whoever finishes first gets the last piece of cake.",
+       "ja": "最初に食べ終えた人は誰でも、最後のケーキをもらえる。"
+      },
+      {
+       "en": "What I need most right now is a nap.",
+       "ja": "今いちばん必要なのは昼寝だ。"
+      }
+     ]
+    }
+   ],
+   "traps": [
+    {
+     "t": "関係代名詞か関係副詞か",
+     "body": "関係詞のあとの文を見る。\n**名詞が欠けた不完全な文** → 関係代名詞（who / which / that）\n**S・V・O がそろった完全な文** → 関係副詞（where / when / why / how）\n例：the house **which** I bought（bought の目的語がない）／the house **where** I live（live の目的語は不要で完全）。"
+    },
+    {
+     "t": "that が使えない場面",
+     "body": "①前置詞の直後（in that は不可）　②非制限用法（コンマの後）。\nまた、先行詞に **all / the only / the same / the first / 最上級** があるときや、人と物が両方のときは that が好まれる。"
+    },
+    {
+     "t": "the reason why / the way how",
+     "body": "the reason と why は片方を省略できる（理由は聞く側にわかる）。\n**the way how は誤り**。the way / how / the way in which のどれか1つにする。"
+    }
+   ],
+   "drill": [
+    {
+     "q": "The man ( ) lives next door is a chef.",
+     "w": "先行詞は人で、後ろは動詞。主格 who（that も可）。",
+     "o": [
+      "what",
+      "whom",
+      "whose",
+      "who"
+     ],
+     "a": 3
+    },
+    {
+     "q": "The book ( ) cover is red is mine.",
+     "w": "「その本の表紙」と所有を表す。whose＋名詞。",
+     "o": [
+      "which",
+      "whose",
+      "whom",
+      "who"
+     ],
+     "a": 1
+    },
+    {
+     "q": "This is the house ( ) I was born.（関係副詞）",
+     "w": "後ろが完全な文。場所なので where。",
+     "o": [
+      "what",
+      "where",
+      "which",
+      "whose"
+     ],
+     "a": 1
+    },
+    {
+     "q": "This is the house in ( ) I was born.",
+     "w": "前置詞の直後は which（that は不可）。",
+     "o": [
+      "whom",
+      "that",
+      "where",
+      "which"
+     ],
+     "a": 3
+    },
+    {
+     "q": "The reason ( ) he quit is unknown.",
+     "w": "理由を表す関係副詞 why。",
+     "o": [
+      "why",
+      "how",
+      "what",
+      "where"
+     ],
+     "a": 0
+    },
+    {
+     "q": "I remember the day ( ) we first met.",
+     "w": "時を表す関係副詞 when。",
+     "o": [
+      "when",
+      "where",
+      "why",
+      "what"
+     ],
+     "a": 0
+    },
+    {
+     "q": "He passed the exam, ( ) surprised everyone.",
+     "w": "コンマのあとは非制限用法。前文全体を指す which（that は不可）。",
+     "o": [
+      "what",
+      "that",
+      "who",
+      "which"
+     ],
+     "a": 3
+    },
+    {
+     "q": "関係副詞を使うのは、後ろの文がどんな形のときか。",
+     "o": [
+      "名詞が欠けた不完全な文",
+      "S・V・O などがそろった完全な文",
+      "動詞が欠けた文",
+      "必ず過去形の文"
+     ],
+     "a": 1,
+     "w": "後ろが完全な文なら関係副詞、名詞が欠けていれば関係代名詞。"
+    },
+    {
+     "q": "非制限用法（コンマのあと）で**使えない**関係代名詞はどれか。",
+     "o": [
+      "who",
+      "which",
+      "that",
+      "whose"
+     ],
+     "a": 2,
+     "w": "that は非制限用法では使えない。"
+    },
+    {
+     "q": "前置詞の**直後**に置けないものはどれか。",
+     "o": [
+      "whom",
+      "which",
+      "that",
+      "whose"
+     ],
+     "a": 2,
+     "w": "前置詞の直後に that は置けない。in which / with whom の形にする。"
+    },
+    {
+     "q": "( ) you said made me happy.（～こと）",
+     "w": "先行詞なしで「～こと」。What（文頭なので大文字でもよい）。",
+     "o": [
+      "That",
+      "what",
+      "Which",
+      "Who"
+     ],
+     "a": 1
+    },
+    {
+     "q": "This is all ( ) I have.",
+     "w": "先行詞に all がつくときは that が好まれる。",
+     "o": [
+      "whose",
+      "what",
+      "who",
+      "that"
+     ],
+     "a": 3
+    },
+    {
+     "q": "Please give it to ( ) wants it.（～する人は誰でも）",
+     "w": "複合関係詞 whoever＝anyone who。",
+     "o": [
+      "whoever",
+      "whichever",
+      "whatever",
+      "whenever"
+     ],
+     "a": 0
+    },
+    {
+     "q": "I'll do ( ) you ask.（何でも）",
+     "w": "whatever＝anything that。",
+     "o": [
+      "however",
+      "whoever",
+      "whatever",
+      "wherever"
+     ],
+     "a": 2
+    }
+   ],
+   "test": [
+    {
+     "q": "This is the town ( ) my grandfather was born and grew up.",
+     "o": [
+      "which",
+      "where",
+      "what",
+      "whose"
+     ],
+     "a": 1,
+     "w": "後ろが完全な文で、場所を表すので関係副詞 where。"
+    },
+    {
+     "q": "The hotel ( ) we stayed at last summer was very comfortable.",
+     "o": [
+      "where",
+      "which",
+      "at which",
+      "in which"
+     ],
+     "a": 1,
+     "w": "at が文末に残っているので、関係代名詞 which（that も可）。"
+    },
+    {
+     "q": "She has two sons, ( ) are doctors.",
+     "o": [
+      "who",
+      "that",
+      "whom",
+      "whose"
+     ],
+     "a": 0,
+     "w": "コンマがあるので非制限用法。主格で人なので who。that は使えない。"
+    },
+    {
+     "q": "He said nothing, ( ) made her even angrier.",
+     "o": [
+      "that",
+      "what",
+      "which",
+      "who"
+     ],
+     "a": 2,
+     "w": "前文全体を指す非制限用法の which。"
+    },
+    {
+     "q": "The woman with ( ) I talked at the party was a famous writer.",
+     "o": [
+      "who",
+      "that",
+      "whom",
+      "which"
+     ],
+     "a": 2,
+     "w": "前置詞の直後に置けるのは whom（人）。who や that は不可。"
+    },
+    {
+     "q": "That is the reason ( ) I am angry.",
+     "o": [
+      "why",
+      "how",
+      "where",
+      "what"
+     ],
+     "a": 0,
+     "w": "the reason のあとの関係副詞は why。"
+    },
+    {
+     "q": "Everything ( ) he said turned out to be true.",
+     "o": [
+      "that",
+      "what",
+      "who",
+      "whose"
+     ],
+     "a": 0,
+     "w": "先行詞に everything がつくので that が好まれる。what だと先行詞と重なる。"
+    },
+    {
+     "q": "This is the only thing ( ) I can do for you.",
+     "o": [
+      "what",
+      "which",
+      "that",
+      "who"
+     ],
+     "a": 2,
+     "w": "先行詞に the only がつくので that が好まれる。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "This is the house which I live.",
+      "This is the house in that I live.",
+      "This is the house where I live in.",
+      "This is the house which I live in."
+     ],
+     "a": 3,
+     "w": "which の文では、live in の in が文末に残る。where と in の重複や、in that は誤り。"
+    },
+    {
+     "q": "The book, ( ) I bought yesterday, is very interesting.",
+     "o": [
+      "that",
+      "which",
+      "what",
+      "who"
+     ],
+     "a": 1,
+     "w": "コンマにはさまれた非制限用法では that は使えず、which。"
+    }
+   ]
+  },
+  {
+   "id": "g06",
+   "title": "比較",
+   "tags": [
+    "定期テスト",
+    "共通テスト"
+   ],
+   "one": "原級・比較級・最上級の形と、as ～ as、the 比較級, the 比較級、no more than などの重要表現。最上級を比較級で言い換える問題も頻出。",
+   "sections": [
+    {
+     "h": "形と強調・差",
+     "p": "**不規則変化**：good/well – better – best／bad/badly/ill – worse – worst／many/much – more – most／little – less – least／far – farther/further – farthest/furthest\n**比較級の強調**：much / far / even / still / a lot（**very は使えない**）\n**差**：He is two years older than I. ＝ He is older than I by two years.",
+     "ex": [
+      {
+       "en": "My cat is much faster than me, especially when the food bag opens.",
+       "ja": "うちのネコは、おやつの袋が開くとき特に、私よりはるかに速い。"
+      },
+      {
+       "en": "This soup is even saltier than the sea.",
+       "ja": "このスープは、海よりもっとしょっぱい。"
+      }
+     ]
+    },
+    {
+     "h": "原級を使う表現",
+     "p": "**as ～ as ...**：…と同じくらい～／**not as [so] ～ as ...**：…ほど～でない\n**as ～ as possible ＝ as ～ as S can**：できるだけ～\n**twice [three times] as ～ as ...**：…の2倍[3倍]～\n**as many [much] as ～**：～もの（数・量の多さ）／**as good as ～**：～も同然",
+     "ex": [
+      {
+       "en": "This tower is twice as high as that one, and twice as hard to climb.",
+       "ja": "この塔はあの塔の2倍の高さで、登るのも2倍大変だ。"
+      },
+      {
+       "en": "Please come back home as soon as possible, or the cake will be gone.",
+       "ja": "できるだけ早く帰ってきて。ケーキがなくなるよ。"
+      }
+     ]
+    },
+    {
+     "h": "比較級を使う重要表現",
+     "p": "**The 比較級 ～, the 比較級 ...**：～すればするほど…\n**比較級 and 比較級**：ますます～\n**no more than ～**：たった～（＝only）／**not more than ～**：せいぜい～（＝at most）\n**no less than ～**：～も（＝as many as）／**not less than ～**：少なくとも～（＝at least）\n**A is superior [inferior, senior, junior] to B**：than ではなく **to** を使う。**prefer A to B**：BよりAを好む。",
+     "ex": [
+      {
+       "en": "The more I practice, the better I play, and the louder my neighbors complain.",
+       "ja": "練習すればするほど上手になるが、近所の苦情も大きくなる。"
+      },
+      {
+       "en": "He has no less than ten pairs of the same shoes.",
+       "ja": "彼は、同じくつを10足も持っている。"
+      },
+      {
+       "en": "I prefer tea to coffee, but not at midnight.",
+       "ja": "コーヒーより紅茶が好きだが、夜中は別だ。"
+      }
+     ]
+    },
+    {
+     "h": "最上級と言い換え",
+     "p": "**the ＋最上級 ＋ of ＋複数 / in ＋範囲**：The tallest of the three／the tallest in the class\n**one of the ＋最上級＋複数名詞**\n**言い換え**：Ken is the tallest student in the class.\n＝ Ken is taller than **any other** student（単数）in the class.\n＝ Ken is taller than **all the other** students（複数）in the class.\n＝ **No other** student in the class is as tall as Ken.\n＝ **Nothing** is more ～ than ... （～ほど…なものはない）\n副詞の最上級や、同一人物の比較では the を省略できる。",
+     "ex": [
+      {
+       "en": "This is the funniest movie I have ever seen, and I saw it with my eyes closed.",
+       "ja": "これは今までで最もおもしろい映画で、目を閉じて見た。"
+      },
+      {
+       "en": "Nothing is more important than a good night's sleep.",
+       "ja": "ぐっすり眠ることほど大切なものはない。"
+      }
+     ]
+    }
+   ],
+   "traps": [
+    {
+     "t": "very は比較級を強調しない",
+     "body": "very は原級を強調（very tall）。比較級は much / far / even / still / a lot で強調する。\n最上級は much the best / by far the best / the very best の形。"
+    },
+    {
+     "t": "no more than と not more than",
+     "body": "**no** が強い否定語＝「少なさを強調」（たった）。**not** は単なる否定＝「上限」（せいぜい）。\nno less than（も）／not less than（少なくとも）も同じ区別。"
+    },
+    {
+     "t": "than の後ろをそろえる",
+     "body": "比べる対象を同じ種類にそろえる。\n×The population of Tokyo is larger than Osaka. ○... larger than **that of** Osaka.（the population の代わりに that を使う）\n複数なら those of。"
+    }
+   ],
+   "drill": [
+    {
+     "q": "good の比較級・最上級はどれか。",
+     "o": [
+      "better – best",
+      "gooder – goodest",
+      "more good – most good",
+      "better – bestest"
+     ],
+     "a": 0,
+     "w": "good – better – best（不規則変化）。"
+    },
+    {
+     "q": "much の比較級・最上級はどれか。",
+     "o": [
+      "more – most",
+      "more – mostest",
+      "muchier – muchest",
+      "most – more"
+     ],
+     "a": 0,
+     "w": "many / much – more – most。"
+    },
+    {
+     "q": "比較級を強調するときに**使えない**語はどれか。",
+     "o": [
+      "very",
+      "much",
+      "far",
+      "even"
+     ],
+     "a": 0,
+     "w": "very は原級を強調し、比較級は強調できない。"
+    },
+    {
+     "q": "This room is ( ) larger than that one.",
+     "o": [
+      "much",
+      "very",
+      "so",
+      "too"
+     ],
+     "a": 0,
+     "w": "比較級の強調は much / far / even / still / a lot。"
+    },
+    {
+     "q": "He is as tall ( ) his father.",
+     "o": [
+      "as",
+      "than",
+      "like",
+      "to"
+     ],
+     "a": 0,
+     "w": "as ～ as ...（…と同じくらい～）。"
+    },
+    {
+     "q": "She runs twice as ( ) as I do.",
+     "o": [
+      "fast",
+      "faster",
+      "fastest",
+      "more fast"
+     ],
+     "a": 0,
+     "w": "twice as ＋原級＋ as ...（…の2倍）。原級を使う。"
+    },
+    {
+     "q": "The ( ) you practice, the better you play.",
+     "o": [
+      "more",
+      "most",
+      "much",
+      "many"
+     ],
+     "a": 0,
+     "w": "The 比較級 ～, the 比較級 ...（～すればするほど）。"
+    },
+    {
+     "q": "It is getting ( ).（だんだん寒くなる）",
+     "o": [
+      "colder and colder",
+      "more cold and more cold",
+      "cold and colder",
+      "colder and cold"
+     ],
+     "a": 0,
+     "w": "比較級 and 比較級（ますます～）。"
+    },
+    {
+     "q": "Tom is senior ( ) me.",
+     "o": [
+      "to",
+      "than",
+      "from",
+      "of"
+     ],
+     "a": 0,
+     "w": "senior / junior / superior / inferior は than でなく to をとる。"
+    },
+    {
+     "q": "I prefer tea ( ) coffee.",
+     "o": [
+      "to",
+      "than",
+      "over",
+      "from"
+     ],
+     "a": 0,
+     "w": "prefer A to B（BよりAを好む）。"
+    },
+    {
+     "q": "Ken is taller than ( ) other student in our class.",
+     "o": [
+      "any",
+      "all",
+      "every",
+      "some"
+     ],
+     "a": 0,
+     "w": "than any other ＋単数名詞。all the other ＋複数名詞とセットで覚える。"
+    },
+    {
+     "q": "He is the tallest ( ) the three.",
+     "o": [
+      "of",
+      "in",
+      "than",
+      "at"
+     ],
+     "a": 0,
+     "w": "最上級のあとは、複数を表す語句なら of、場所・範囲なら in。"
+    },
+    {
+     "q": "She is the tallest ( ) our class.",
+     "o": [
+      "in",
+      "of",
+      "than",
+      "at"
+     ],
+     "a": 0,
+     "w": "our class は範囲（単数の集団）なので in。"
+    },
+    {
+     "q": "He has no more than 1,000 yen. の意味は？",
+     "o": [
+      "たった1000円しかない",
+      "せいぜい1000円",
+      "少なくとも1000円",
+      "1000円も持っている"
+     ],
+     "a": 0,
+     "w": "no more than ＝ only（たった）。not more than は「せいぜい」。"
+    },
+    {
+     "q": "He paid no less than 10,000 yen. の意味は？",
+     "o": [
+      "1万円も",
+      "たった1万円",
+      "せいぜい1万円",
+      "少なくとも1万円"
+     ],
+     "a": 0,
+     "w": "no less than ＝ as much as（～も）。"
+    }
+   ],
+   "test": [
+    {
+     "q": "This is the ( ) interesting book I have ever read.",
+     "o": [
+      "more",
+      "most",
+      "much",
+      "very"
+     ],
+     "a": 1,
+     "w": "ever を伴う最上級。the most interesting。"
+    },
+    {
+     "q": "The ( ) she thought about it, the more confused she became.",
+     "o": [
+      "longer",
+      "long",
+      "longest",
+      "more long"
+     ],
+     "a": 0,
+     "w": "The 比較級 ～, the 比較級 ...。The longer she thought。"
+    },
+    {
+     "q": "Her English is superior ( ) mine.",
+     "o": [
+      "to",
+      "than",
+      "as",
+      "of"
+     ],
+     "a": 0,
+     "w": "superior は than でなく to。"
+    },
+    {
+     "q": "Nothing is ( ) important than health.",
+     "o": [
+      "more",
+      "most",
+      "so",
+      "very"
+     ],
+     "a": 0,
+     "w": "Nothing is more ～ than ...（…ほど～なものはない）。"
+    },
+    {
+     "q": "This tower is ( ) as high as that one.",
+     "o": [
+      "twice",
+      "two",
+      "double",
+      "second"
+     ],
+     "a": 0,
+     "w": "twice as ～ as ...（…の2倍～）。"
+    },
+    {
+     "q": "Of all the girls in the class, Emi sings ( ).",
+     "o": [
+      "best",
+      "good",
+      "more well",
+      "better"
+     ],
+     "a": 0,
+     "w": "副詞の最上級は the を省略できる。範囲が all なので最上級。"
+    },
+    {
+     "q": "He is not so much a singer ( ) a comedian.",
+     "o": [
+      "as",
+      "than",
+      "to",
+      "but"
+     ],
+     "a": 0,
+     "w": "not so much A as B（AというよりむしろB）。"
+    },
+    {
+     "q": "His score was ( ) better than mine.",
+     "o": [
+      "very",
+      "much",
+      "so",
+      "more"
+     ],
+     "a": 1,
+     "w": "比較級の強調は much。very は使えない。"
+    },
+    {
+     "q": "The population of Tokyo is larger than ( ) of Osaka.",
+     "o": [
+      "that",
+      "it",
+      "one",
+      "those"
+     ],
+     "a": 0,
+     "w": "the population の代わりに that。複数なら those。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "He is the more taller of the two.",
+      "This is the most best movie I've seen.",
+      "She is much more beautiful than her sister.",
+      "This room is very larger than mine."
+     ],
+     "a": 2,
+     "w": "比較級の強調は much。二重比較級・二重最上級や、very ＋比較級は誤り。"
     }
    ]
   },
@@ -3300,6 +3672,732 @@
      ],
      "a": 1,
      "w": "助動詞のあとは原形。過去への推量は may have p.p.。"
+    }
+   ]
+  },
+  {
+   "id": "g11",
+   "title": "接続詞",
+   "tags": [
+    "定期テスト",
+    "共通テスト"
+   ],
+   "one": "文と文をつなぐ語。等位・相関・従属接続詞を使い分け、however などの副詞とのちがいも押さえる。",
+   "sections": [
+    {
+     "h": "等位接続詞と相関接続詞",
+     "p": "**and / but / or / so / for**（for は「というのは」）\n**both A and B**（AもBも）／**either A or B**（AかBのどちらか）／**neither A nor B**（AもBも～ない）\n**not only A but (also) B**（AだけでなくBも）／**not A but B**（AでなくB）／**A as well as B**（BだけでなくAも）\n動詞は **Bに一致**（either / neither / not only）、**A as well as B は A に一致**。",
+     "ex": [
+      {
+       "en": "Both my dog and my cat want the same chair, and neither will move.",
+       "ja": "犬もネコも同じいすをほしがり、どちらも動かない。"
+      },
+      {
+       "en": "Not only the students but also the teacher was late for the first class.",
+       "ja": "生徒だけでなく先生も、1時間目に遅れた。"
+      },
+      {
+       "en": "Mary, as well as her friends, is coming to the party.",
+       "ja": "メアリーは、友だちだけでなく本人も、パーティーに来る。"
+      }
+     ]
+    },
+    {
+     "h": "so ～ that / such ～ that / so that",
+     "p": "**so ＋形/副 ＋ that ～**：とても…なので～／**such ＋(a)＋形＋名 ＋ that ～**\n**so that ～ can [will]**：～できるように（目的）／**in case ～**：～するといけないから\n**now that ～**：今や～なので／**as long as ～**：～する限り／**as far as ～**：～の範囲では／**unless ～**：もし～しなければ（＝if ～ not）／**provided that ～**：もし～ならば",
+     "ex": [
+      {
+       "en": "It was such a hot day that even the ice cream was sweating.",
+       "ja": "とても暑い日で、アイスまで汗をかいていた。"
+      },
+      {
+       "en": "I got up early so that I could catch the first train, but I forgot my shoes.",
+       "ja": "始発に乗れるように早起きしたが、くつを忘れた。"
+      },
+      {
+       "en": "Take an umbrella in case it rains; you won't need it if you stay home.",
+       "ja": "雨が降るといけないから、かさを持っていって。家にいれば不要だけど。"
+      }
+     ]
+    },
+    {
+     "h": "名詞節をつくる that / whether / if",
+     "p": "**that**：「～ということ」（事実）／**whether [if] ～ or not**：「～かどうか」\nwhether は主語・補語・前置詞の目的語・whether to ～ の形で使える。if は **他動詞の目的語のみ**。\n**文頭の Whether ～**／**The question is whether ～**／**It depends on whether ～**。",
+     "ex": [
+      {
+       "en": "Whether he will come is not clear; the cake is still waiting.",
+       "ja": "彼が来るかどうかは分からない。ケーキはまだ待っている。"
+      },
+      {
+       "en": "I don't know if she likes natto, but she hasn't left the table.",
+       "ja": "彼女が納豆を好きかは知らないが、席は立っていない。"
+      }
+     ]
+    },
+    {
+     "h": "譲歩・時・理由",
+     "p": "**譲歩**：although / though / even though / while / whereas / even if\n**時**：while（～の間）/ as / when / until（～までずっと）/ by the time（～までには）/ since / once / every time\n**理由**：because / since / as（なんとなく理由は分かっている）\n**接続副詞**（however / therefore / moreover / otherwise / nevertheless）は接続詞ではない。**文を2つつなぐ力はない**。",
+     "ex": [
+      {
+       "en": "Although the movie was long, my popcorn lasted until the end.",
+       "ja": "映画は長かったが、ポップコーンは最後までもった。"
+      },
+      {
+       "en": "Hurry up; otherwise, you will miss the train.",
+       "ja": "急ぎなさい。さもないと電車に乗り遅れるよ。"
+      }
+     ]
+    }
+   ],
+   "traps": [
+    {
+     "t": "although と but は同時に使わない",
+     "body": "×Although it was cold, but we went out.\n○Although it was cold, we went out.　○It was cold, but we went out.\n同様に because と so も重ねない。"
+    },
+    {
+     "t": "in spite of と although",
+     "body": "**in spite of / despite ＋名詞**（despite of は誤り）／**although ＋S＋V**。\nbecause of ＋名詞／because ＋S＋V も同じ区別。"
+    },
+    {
+     "t": "if と whether の使い分け",
+     "body": "if は目的語になる名詞節でのみ「～かどうか」の意味。\n主語・補語・前置詞のあと・不定詞の前は whether。\n×If he will come is unknown. ○Whether he will come is unknown."
+    }
+   ],
+   "drill": [
+    {
+     "q": "Both Tom ( ) Ken are my friends.",
+     "o": [
+      "and",
+      "or",
+      "nor",
+      "but"
+     ],
+     "a": 0,
+     "w": "both A and B。"
+    },
+    {
+     "q": "Either you ( ) I have to go.",
+     "o": [
+      "or",
+      "and",
+      "nor",
+      "but"
+     ],
+     "a": 0,
+     "w": "either A or B。"
+    },
+    {
+     "q": "Neither he ( ) she came.",
+     "o": [
+      "nor",
+      "or",
+      "and",
+      "but"
+     ],
+     "a": 0,
+     "w": "neither A nor B。"
+    },
+    {
+     "q": "Not only Tom but also his brothers ( ) in the room.",
+     "o": [
+      "is",
+      "are",
+      "be",
+      "being"
+     ],
+     "a": 1,
+     "w": "動詞は B（his brothers）に一致する。"
+    },
+    {
+     "q": "Mary, as well as her friends, ( ) coming.",
+     "o": [
+      "is",
+      "are",
+      "were",
+      "have"
+     ],
+     "a": 0,
+     "w": "A as well as B は A（Mary）に一致する。"
+    },
+    {
+     "q": "He is so tired ( ) he can't walk.",
+     "o": [
+      "that",
+      "as",
+      "which",
+      "what"
+     ],
+     "a": 0,
+     "w": "so ～ that ...（とても～なので…）。"
+    },
+    {
+     "q": "She is such a kind girl ( ) everyone likes her.",
+     "o": [
+      "that",
+      "as",
+      "which",
+      "what"
+     ],
+     "a": 0,
+     "w": "such ～ that ...。"
+    },
+    {
+     "q": "I got up early ( ) I could catch the first train.",
+     "o": [
+      "so that",
+      "so as",
+      "in order",
+      "for"
+     ],
+     "a": 0,
+     "w": "so that ～ could（～できるように）。"
+    },
+    {
+     "q": "( ) he was tired, he kept working.",
+     "o": [
+      "Although",
+      "Because",
+      "Unless",
+      "Since"
+     ],
+     "a": 0,
+     "w": "疲れていたが働き続けた。譲歩の Although。"
+    },
+    {
+     "q": "( ) you hurry, you will miss the train.",
+     "o": [
+      "Unless",
+      "If",
+      "Because",
+      "When"
+     ],
+     "a": 0,
+     "w": "Unless ＝ if ～ not（急がなければ）。"
+    },
+    {
+     "q": "Wait here ( ) I come back.",
+     "o": [
+      "until",
+      "by",
+      "while",
+      "during"
+     ],
+     "a": 0,
+     "w": "until（～まで続く）。"
+    },
+    {
+     "q": "I'll be home ( ) the time you arrive.",
+     "o": [
+      "by",
+      "until",
+      "during",
+      "on"
+     ],
+     "a": 0,
+     "w": "by the time ～（～までには）。"
+    },
+    {
+     "q": "I don't know ( ) he will come or not.",
+     "o": [
+      "whether",
+      "that",
+      "what",
+      "which"
+     ],
+     "a": 0,
+     "w": "whether ～ or not（～かどうか）。"
+    },
+    {
+     "q": "We enjoyed the trip ( ) the rain.",
+     "o": [
+      "in spite of",
+      "although",
+      "even though",
+      "despite of"
+     ],
+     "a": 0,
+     "w": "名詞（the rain）の前は in spite of / despite。despite of は誤り。"
+    },
+    {
+     "q": "I'll take an umbrella ( ) it rains.",
+     "o": [
+      "in case",
+      "unless",
+      "although",
+      "so that"
+     ],
+     "a": 0,
+     "w": "in case ～（雨が降るといけないから）。"
+    }
+   ],
+   "test": [
+    {
+     "q": "( ) I like cats, I don't want to keep one.",
+     "o": [
+      "While",
+      "Because",
+      "Unless",
+      "Since"
+     ],
+     "a": 0,
+     "w": "対比・譲歩を表す While（～だが）。"
+    },
+    {
+     "q": "It was ( ) a hot day that we stayed inside.",
+     "o": [
+      "such",
+      "so",
+      "very",
+      "too"
+     ],
+     "a": 0,
+     "w": "such ＋a＋形＋名詞 ＋ that ～。"
+    },
+    {
+     "q": "The question is ( ) we can finish by Friday.",
+     "o": [
+      "whether",
+      "if",
+      "what",
+      "which"
+     ],
+     "a": 0,
+     "w": "補語になる名詞節は whether。"
+    },
+    {
+     "q": "I'll go ( ) it rains or not.",
+     "o": [
+      "whether",
+      "if",
+      "though",
+      "unless"
+     ],
+     "a": 0,
+     "w": "whether ～ or not（雨が降ろうと降るまいと）。"
+    },
+    {
+     "q": "Now ( ) you are here, let's start.",
+     "o": [
+      "that",
+      "as",
+      "when",
+      "why"
+     ],
+     "a": 0,
+     "w": "now that ～（今や～なので）。"
+    },
+    {
+     "q": "He worked hard; ( ), he failed.",
+     "o": [
+      "however",
+      "although",
+      "because",
+      "unless"
+     ],
+     "a": 0,
+     "w": "接続副詞 however は、セミコロンやピリオドのあとに置く。"
+    },
+    {
+     "q": "Neither my father nor my brothers ( ) a car.",
+     "o": [
+      "has",
+      "have",
+      "is",
+      "are"
+     ],
+     "a": 1,
+     "w": "動詞は B（my brothers）に一致。"
+    },
+    {
+     "q": "Take a jacket; ( ) you will catch a cold.",
+     "o": [
+      "otherwise",
+      "however",
+      "therefore",
+      "moreover"
+     ],
+     "a": 0,
+     "w": "otherwise（さもないと）。"
+    },
+    {
+     "q": "( ) I was in Paris, I visited the museum.",
+     "o": [
+      "While",
+      "During",
+      "Because of",
+      "Despite"
+     ],
+     "a": 0,
+     "w": "後ろが S＋V の文なので接続詞 While。during は名詞が続く。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "Although it was cold, but we went out.",
+      "Because of he was ill, he stayed home.",
+      "I'll call you as soon as I will arrive.",
+      "She was so tired that she fell asleep at once."
+     ],
+     "a": 3,
+     "w": "although と but、because of ＋S＋V、as soon as の中の will は誤り。"
+    }
+   ]
+  },
+  {
+   "id": "g12",
+   "title": "否定・強調・倒置",
+   "tags": [
+    "定期テスト",
+    "共通テスト"
+   ],
+   "one": "否定語を文頭に出す倒置、部分否定、強調構文、so / neither の応答まで、共通テストで見かける「形のくずれ」を整理する。",
+   "sections": [
+    {
+     "h": "準否定・部分否定・慣用否定",
+     "p": "**準否定**：hardly / scarcely / barely（ほとんど～ない）／rarely / seldom（めったに～ない）／little / few（ほとんどない）\n**部分否定**：not always / not necessarily / not all / not every / not both（全部が～なわけではない）\n**慣用**：cannot ～ too（いくら～してもしすぎない）／anything but ～（決して～でない）／far from ～／nothing but ～（～だけ）／cannot help ～ing",
+     "ex": [
+      {
+       "en": "I can hardly hear you; my brother is eating chips next to the microphone.",
+       "ja": "ほとんど聞こえない。弟がマイクのそばでポテチを食べている。"
+      },
+      {
+       "en": "Rich people are not always happy, but they are always comfortable.",
+       "ja": "金持ちが必ずしも幸せとは限らないが、いつも快適ではある。"
+      },
+      {
+       "en": "He is anything but a fool; he sells umbrellas on rainy days.",
+       "ja": "彼は決してばかではない。雨の日にかさを売っている。"
+      }
+     ]
+    },
+    {
+     "h": "強調",
+     "p": "**do ＋原形**：助動詞 do で動詞を強調（I do like it.）\n**It is ～ that ...**（強調構文）：強調したい語句を It is と that ではさむ。\n**疑問詞の強調**：What **on earth** / **in the world** ～?（いったい何を～）\n**the very ～**（まさにその）／**own**（自分自身の）／再帰代名詞（He did it himself.）",
+     "ex": [
+      {
+       "en": "It was my cat that opened the fridge, not my brother.",
+       "ja": "冷蔵庫を開けたのは、弟でなく私のネコだった。"
+      },
+      {
+       "en": "What on earth are you doing with my toothbrush?",
+       "ja": "いったい私の歯ブラシで何をしているの？"
+      },
+      {
+       "en": "I do like your jokes, but not at three in the morning.",
+       "ja": "君のジョークは好きだが、午前3時はちがう。"
+      }
+     ]
+    },
+    {
+     "h": "倒置",
+     "p": "**否定語句が文頭に出ると、疑問文の語順（助動詞＋S）**に倒置する。\nNever have I seen ～／Little did I dream ～／Rarely does he ～／Not only is she ～\n**Hardly [Scarcely] had S p.p. when [before] ～**／**No sooner had S p.p. than ～**：～するとすぐに…した\n**Not until ～ did S ...**／**Only then [in this way] did S ...**\n**場所・方向の副詞語句＋V＋S**：Here comes the bus. / On the hill stands a church.\n**So [Neither, Nor] ＋助動詞＋S**：So do I.（私もだ）／Neither can I.（私もできない）",
+     "ex": [
+      {
+       "en": "Never have I seen a cat so proud of a box.",
+       "ja": "箱をこんなに誇るネコは見たことがない。"
+      },
+      {
+       "en": "Hardly had I arrived when it began to rain, so I turned around.",
+       "ja": "着いたとたんに雨が降り出したので、引き返した。"
+      },
+      {
+       "en": "Not until midnight did he come home, with a pizza and no explanation.",
+       "ja": "真夜中になって初めて、彼はピザを持って、説明なしで帰ってきた。"
+      }
+     ]
+    }
+   ],
+   "traps": [
+    {
+     "t": "部分否定と全体否定",
+     "body": "I don't like all of them.（全部が好きなわけではない＝部分否定）\nI like none of them.（どれも好きでない＝全体否定）\nboth / all / always / every / necessarily と not が組むと部分否定。"
+    },
+    {
+     "t": "倒置の語順",
+     "body": "助動詞のない文では do / does / did を出す：Rarely does he speak.\n×Never I have seen ～ → ○Never have I seen ～。\n否定語が文頭でなくても、文頭の否定語句が主節全体にかかっていれば倒置する。"
+    },
+    {
+     "t": "So と Neither の使い分け",
+     "body": "肯定の文に同意 → **So ＋助動詞＋S**（So do I）。\n否定の文に同意 → **Neither [Nor] ＋助動詞＋S**（Neither can I）。\n助動詞は前の文に合わせる（be動詞ならbe、一般動詞なら do）。"
+    }
+   ],
+   "drill": [
+    {
+     "q": "次のうち、「ほとんど～ない」の意味を持たない語はどれか。",
+     "o": [
+      "rarely",
+      "seldom",
+      "hardly",
+      "nearly"
+     ],
+     "a": 3,
+     "w": "nearly は「ほとんど」だが肯定の意味（ほぼ～）。否定の意味はない。"
+    },
+    {
+     "q": "I don't like all of them. の意味はどれか。",
+     "o": [
+      "全部が好きなわけではない",
+      "全部きらい",
+      "全部好き",
+      "好きなものはない"
+     ],
+     "a": 0,
+     "w": "all と not が組む部分否定。"
+    },
+    {
+     "q": "He is anything but a fool. の意味はどれか。",
+     "o": [
+      "決してばかではない",
+      "ばかそのものだ",
+      "ほとんどばかだ",
+      "ばかでもよい"
+     ],
+     "a": 0,
+     "w": "anything but ～（決して～でない）。"
+    },
+    {
+     "q": "You cannot be ( ) careful when you cross the road.",
+     "o": [
+      "too",
+      "so",
+      "much",
+      "very"
+     ],
+     "a": 0,
+     "w": "cannot ～ too ...（いくら～してもしすぎない）。"
+    },
+    {
+     "q": "I ( ) like it very much.（強調）",
+     "o": [
+      "do",
+      "am",
+      "will",
+      "have"
+     ],
+     "a": 0,
+     "w": "助動詞 do ＋原形で強調する。"
+    },
+    {
+     "q": "It was Tom ( ) broke the window.",
+     "o": [
+      "that",
+      "what",
+      "which",
+      "where"
+     ],
+     "a": 0,
+     "w": "強調構文 It is ～ that ...。"
+    },
+    {
+     "q": "What ( ) earth are you doing?",
+     "o": [
+      "on",
+      "in",
+      "at",
+      "for"
+     ],
+     "a": 0,
+     "w": "on earth / in the world（いったい）。"
+    },
+    {
+     "q": "Never ( ) such a beautiful sunset.",
+     "o": [
+      "have I seen",
+      "I have seen",
+      "I saw",
+      "seen I have"
+     ],
+     "a": 0,
+     "w": "否定語が文頭なので倒置。Never have I seen。"
+    },
+    {
+     "q": "Not until midnight ( ) he come home.",
+     "o": [
+      "did",
+      "does",
+      "was",
+      "would"
+     ],
+     "a": 0,
+     "w": "Not until ～ のあとは倒置。did he come。"
+    },
+    {
+     "q": "Hardly had I arrived ( ) it began to rain.",
+     "o": [
+      "when",
+      "than",
+      "that",
+      "as"
+     ],
+     "a": 0,
+     "w": "Hardly had S p.p. when ～。"
+    },
+    {
+     "q": "No sooner had I arrived ( ) it began to rain.",
+     "o": [
+      "than",
+      "when",
+      "that",
+      "as"
+     ],
+     "a": 0,
+     "w": "No sooner had S p.p. than ～。"
+    },
+    {
+     "q": "Little ( ) he know what was waiting for him.",
+     "o": [
+      "did",
+      "was",
+      "had",
+      "is"
+     ],
+     "a": 0,
+     "w": "否定語 little が文頭。Little did he know。"
+    },
+    {
+     "q": "Here ( ) the bus.",
+     "o": [
+      "comes",
+      "come",
+      "coming",
+      "came"
+     ],
+     "a": 0,
+     "w": "Here ＋V＋S の倒置。主語 the bus は三単現。"
+    },
+    {
+     "q": "A: I like cats. B: ( ) do I.",
+     "o": [
+      "So",
+      "Neither",
+      "Nor",
+      "Also"
+     ],
+     "a": 0,
+     "w": "肯定への同意は So ＋助動詞＋S。"
+    },
+    {
+     "q": "A: I can't swim. B: ( ) can I.",
+     "o": [
+      "Neither",
+      "So",
+      "Also",
+      "Too"
+     ],
+     "a": 0,
+     "w": "否定への同意は Neither [Nor] ＋助動詞＋S。"
+    }
+   ],
+   "test": [
+    {
+     "q": "Only then ( ) the truth.",
+     "o": [
+      "did I realize",
+      "I realized",
+      "I did realize",
+      "realized I"
+     ],
+     "a": 0,
+     "w": "Only then が文頭に出ると倒置。did I realize。"
+    },
+    {
+     "q": "Rarely ( ) he speak in public.",
+     "o": [
+      "does",
+      "is",
+      "has",
+      "will"
+     ],
+     "a": 0,
+     "w": "Rarely が文頭なので倒置。一般動詞なら does を出す。"
+    },
+    {
+     "q": "Not only ( ) smart but also kind.",
+     "o": [
+      "is she",
+      "she is",
+      "does she",
+      "was she"
+     ],
+     "a": 0,
+     "w": "Not only が文頭なので倒置。is she。"
+    },
+    {
+     "q": "I never see this photo ( ) thinking of my grandmother.",
+     "o": [
+      "without",
+      "unless",
+      "besides",
+      "except"
+     ],
+     "a": 0,
+     "w": "never ～ without ～ing（～するといつも…する）。"
+    },
+    {
+     "q": "It was in Kyoto ( ) I met her.",
+     "o": [
+      "that",
+      "which",
+      "when",
+      "what"
+     ],
+     "a": 0,
+     "w": "強調構文 It was ～ that ...。"
+    },
+    {
+     "q": "The new system is far ( ) perfect.",
+     "o": [
+      "from",
+      "than",
+      "away",
+      "off"
+     ],
+     "a": 0,
+     "w": "far from ～（決して～でない）。"
+    },
+    {
+     "q": "On the hill ( ) a church.",
+     "o": [
+      "stands",
+      "stand",
+      "standing",
+      "to stand"
+     ],
+     "a": 0,
+     "w": "場所の副詞語句が文頭で、V＋S の倒置。主語 a church は単数。"
+    },
+    {
+     "q": "She works so hard that she has ( ) time to rest.",
+     "o": [
+      "little",
+      "a little",
+      "few",
+      "a few"
+     ],
+     "a": 0,
+     "w": "little（ほとんどない）。a little は「少しある」。"
+    },
+    {
+     "q": "I couldn't agree with you ( ).",
+     "o": [
+      "more",
+      "much",
+      "less",
+      "well"
+     ],
+     "a": 0,
+     "w": "cannot ～ more（これ以上ないほど～）。まったく同感だ。"
+    },
+    {
+     "q": "次のうち、文法的に正しい文はどれか。",
+     "o": [
+      "Never I have seen such a thing.",
+      "Hardly had she left when it began to snow.",
+      "Not only he is kind but also honest.",
+      "So can I swim, too."
+     ],
+     "a": 1,
+     "w": "否定語が文頭の文は倒置。Never I have や Not only he is は誤り。"
     }
    ]
   }
