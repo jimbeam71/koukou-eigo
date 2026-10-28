@@ -114,38 +114,58 @@
     },
     {
      "q": "I have ( ) this novel twice.（read を適切な形に）",
-     "f": [
-      "read"
+     "w": "read の過去分詞は read（つづりは同じで発音は「レッド」）。",
+     "o": [
+      "readed",
+      "reads",
+      "read",
+      "reading"
      ],
-     "w": "read の過去分詞は read（つづりは同じで発音は「レッド」）。"
+     "a": 2
     },
     {
      "q": "He has ( ) to Osaka, so he is not here now.（go を適切な形に）",
-     "f": [
+     "w": "「行ってしまい、今いない」は has gone to。",
+     "o": [
+      "went",
+      "going",
+      "goes",
       "gone"
      ],
-     "w": "「行ってしまい、今いない」は has gone to。"
+     "a": 3
     },
     {
      "q": "I have ( ) to Osaka twice.（「行ったことがある」）",
-     "f": [
-      "been"
+     "w": "経験は have been to。",
+     "o": [
+      "gone",
+      "been",
+      "being",
+      "went"
      ],
-     "w": "経験は have been to。"
+     "a": 1
     },
     {
      "q": "She has lived here ( ) 2010.",
-     "f": [
-      "since"
+     "w": "2010（起点）なので since。",
+     "o": [
+      "from",
+      "during",
+      "since",
+      "for"
      ],
-     "w": "2010（起点）なので since。"
+     "a": 2
     },
     {
      "q": "We have been friends ( ) ten years.",
-     "f": [
-      "for"
+     "w": "ten years（期間）なので for。",
+     "o": [
+      "during",
+      "for",
+      "since",
+      "from"
      ],
-     "w": "ten years（期間）なので for。"
+     "a": 1
     },
     {
      "q": "次のうち、現在完了と**いっしょに使えない**語はどれか。",
@@ -171,24 +191,36 @@
     },
     {
      "q": "It is ten years ( ) I came to Japan.",
-     "f": [
-      "since"
+     "w": "It is ＋期間＋ since ～ の型。",
+     "o": [
+      "after",
+      "from",
+      "since",
+      "for"
      ],
-     "w": "It is ＋期間＋ since ～ の型。"
+     "a": 2
     },
     {
      "q": "This is the first time I ( ) eaten durian.（適語1語）",
-     "f": [
+     "w": "This is the first time ～ のあとは現在完了。have eaten。",
+     "o": [
+      "has",
+      "am",
+      "had",
       "have"
      ],
-     "w": "This is the first time ～ のあとは現在完了。have eaten。"
+     "a": 3
     },
     {
      "q": "When I got there, the movie ( ) already started.（過去完了にする）",
-     "f": [
-      "had"
+     "w": "「着いたとき、もう始まっていた」は過去完了＝had＋過去分詞。",
+     "o": [
+      "was",
+      "had",
+      "have",
+      "has"
      ],
-     "w": "「着いたとき、もう始まっていた」は過去完了＝had＋過去分詞。"
+     "a": 1
     },
     {
      "q": "次のうち、**誤っている**文はどれか。",
@@ -203,10 +235,14 @@
     },
     {
      "q": "How long ( ) you been studying English?（適語1語）",
-     "f": [
-      "have"
+     "w": "How long ～? は継続をたずねる。現在完了進行形 have you been studying。",
+     "o": [
+      "has",
+      "did",
+      "have",
+      "are"
      ],
-     "w": "How long ～? は継続をたずねる。現在完了進行形 have you been studying。"
+     "a": 2
     }
    ],
    "test": [
@@ -438,38 +474,58 @@
     },
     {
      "q": "The bridge is ( ) rebuilt now.（適語1語）",
-     "f": [
+     "w": "進行形の受動態は be being p.p.。",
+     "o": [
+      "been",
+      "to be",
+      "be",
       "being"
      ],
-     "w": "進行形の受動態は be being p.p.。"
+     "a": 3
     },
     {
      "q": "The room has ( ) cleaned.（適語1語）",
-     "f": [
-      "been"
+     "w": "現在完了の受動態は have/has been p.p.。",
+     "o": [
+      "was",
+      "been",
+      "being",
+      "be"
      ],
-     "w": "現在完了の受動態は have/has been p.p.。"
+     "a": 1
     },
     {
      "q": "This work must ( ) finished by noon.（適語1語）",
-     "f": [
+     "w": "助動詞のあとは be＋過去分詞。",
+     "o": [
+      "is",
+      "been",
+      "being",
       "be"
      ],
-     "w": "助動詞のあとは be＋過去分詞。"
+     "a": 3
     },
     {
      "q": "I hate ( ) laughed at.（適語1語）",
-     "f": [
-      "being"
+     "w": "動名詞の受動態は being＋過去分詞。",
+     "o": [
+      "is",
+      "been",
+      "being",
+      "be"
      ],
-     "w": "動名詞の受動態は being＋過去分詞。"
+     "a": 2
     },
     {
      "q": "He was made ( ) clean the room.（適語1語）",
-     "f": [
-      "to"
+     "w": "使役動詞 make の受動態では、原形が to 不定詞になる。",
+     "o": [
+      "for",
+      "of",
+      "to",
+      "by"
      ],
-     "w": "使役動詞 make の受動態では、原形が to 不定詞になる。"
+     "a": 2
     },
     {
      "q": "次のうち、受動態にできない動詞はどれか。",
@@ -484,59 +540,91 @@
     },
     {
      "q": "Mt. Fuji is covered ( ) snow.",
-     "f": [
+     "w": "be covered with ～。",
+     "o": [
+      "from",
+      "to",
+      "of",
       "with"
      ],
-     "w": "be covered with ～。"
+     "a": 3
     },
     {
      "q": "I'm interested ( ) history.",
-     "f": [
-      "in"
+     "w": "be interested in ～。",
+     "o": [
+      "in",
+      "at",
+      "on",
+      "for"
      ],
-     "w": "be interested in ～。"
+     "a": 0
     },
     {
      "q": "He is known ( ) a great doctor.（資格）",
-     "f": [
-      "as"
+     "w": "「～として知られている」＝be known as ～。",
+     "o": [
+      "as",
+      "with",
+      "to",
+      "for"
      ],
-     "w": "「～として知られている」＝be known as ～。"
+     "a": 0
     },
     {
      "q": "This town is known ( ) its hot springs.（理由・特徴）",
-     "f": [
-      "for"
+     "w": "「～で有名」＝be known for ～。",
+     "o": [
+      "by",
+      "for",
+      "as",
+      "to"
      ],
-     "w": "「～で有名」＝be known for ～。"
+     "a": 1
     },
     {
      "q": "She is married ( ) a pilot.",
-     "f": [
-      "to"
+     "w": "be married to ～。with は誤り。",
+     "o": [
+      "for",
+      "to",
+      "by",
+      "with"
      ],
-     "w": "be married to ～。with は誤り。"
+     "a": 1
     },
     {
      "q": "Wine is made ( ) grapes.（原料が変化する）",
-     "f": [
+     "w": "原料が変化して見えないときは be made from ～。",
+     "o": [
+      "in",
+      "by",
+      "to",
       "from"
      ],
-     "w": "原料が変化して見えないときは be made from ～。"
+     "a": 3
     },
     {
      "q": "People say that he is rich. = He is ( ) to be rich.（適語1語）",
-     "f": [
-      "said"
+     "w": "He is said to be ～。 It is said that ～ とも書ける。",
+     "o": [
+      "said",
+      "saying",
+      "say",
+      "says"
      ],
-     "w": "He is said to be ～。 It is said that ～ とも書ける。"
+     "a": 0
     },
     {
      "q": "We call him Ken. → He ( ) Ken by us.（適語2語）",
-     "f": [
-      "is called"
+     "w": "SVOC の受動態。He is called Ken.",
+     "o": [
+      "called",
+      "is called",
+      "calls",
+      "is calling"
      ],
-     "w": "SVOC の受動態。He is called Ken."
+     "a": 1
     }
    ],
    "test": [
@@ -747,53 +835,80 @@
    "drill": [
     {
      "q": "The man ( ) lives next door is a chef.",
-     "f": [
-      "who",
-      "that"
+     "w": "先行詞は人で、後ろは動詞。主格 who（that も可）。",
+     "o": [
+      "what",
+      "whom",
+      "whose",
+      "who"
      ],
-     "w": "先行詞は人で、後ろは動詞。主格 who（that も可）。"
+     "a": 3
     },
     {
      "q": "The book ( ) cover is red is mine.",
-     "f": [
-      "whose"
+     "w": "「その本の表紙」と所有を表す。whose＋名詞。",
+     "o": [
+      "which",
+      "whose",
+      "whom",
+      "who"
      ],
-     "w": "「その本の表紙」と所有を表す。whose＋名詞。"
+     "a": 1
     },
     {
      "q": "This is the house ( ) I was born.（関係副詞）",
-     "f": [
-      "where"
+     "w": "後ろが完全な文。場所なので where。",
+     "o": [
+      "what",
+      "where",
+      "which",
+      "whose"
      ],
-     "w": "後ろが完全な文。場所なので where。"
+     "a": 1
     },
     {
      "q": "This is the house in ( ) I was born.",
-     "f": [
+     "w": "前置詞の直後は which（that は不可）。",
+     "o": [
+      "whom",
+      "that",
+      "where",
       "which"
      ],
-     "w": "前置詞の直後は which（that は不可）。"
+     "a": 3
     },
     {
      "q": "The reason ( ) he quit is unknown.",
-     "f": [
-      "why"
+     "w": "理由を表す関係副詞 why。",
+     "o": [
+      "why",
+      "how",
+      "what",
+      "where"
      ],
-     "w": "理由を表す関係副詞 why。"
+     "a": 0
     },
     {
      "q": "I remember the day ( ) we first met.",
-     "f": [
-      "when"
+     "w": "時を表す関係副詞 when。",
+     "o": [
+      "when",
+      "where",
+      "why",
+      "what"
      ],
-     "w": "時を表す関係副詞 when。"
+     "a": 0
     },
     {
      "q": "He passed the exam, ( ) surprised everyone.",
-     "f": [
+     "w": "コンマのあとは非制限用法。前文全体を指す which（that は不可）。",
+     "o": [
+      "what",
+      "that",
+      "who",
       "which"
      ],
-     "w": "コンマのあとは非制限用法。前文全体を指す which（that は不可）。"
+     "a": 3
     },
     {
      "q": "関係副詞を使うのは、後ろの文がどんな形のときか。",
@@ -830,31 +945,47 @@
     },
     {
      "q": "( ) you said made me happy.（～こと）",
-     "f": [
-      "what"
+     "w": "先行詞なしで「～こと」。What（文頭なので大文字でもよい）。",
+     "o": [
+      "That",
+      "what",
+      "Which",
+      "Who"
      ],
-     "w": "先行詞なしで「～こと」。What（文頭なので大文字でもよい）。"
+     "a": 1
     },
     {
      "q": "This is all ( ) I have.",
-     "f": [
+     "w": "先行詞に all がつくときは that が好まれる。",
+     "o": [
+      "whose",
+      "what",
+      "who",
       "that"
      ],
-     "w": "先行詞に all がつくときは that が好まれる。"
+     "a": 3
     },
     {
      "q": "Please give it to ( ) wants it.（～する人は誰でも）",
-     "f": [
-      "whoever"
+     "w": "複合関係詞 whoever＝anyone who。",
+     "o": [
+      "whoever",
+      "whichever",
+      "whatever",
+      "whenever"
      ],
-     "w": "複合関係詞 whoever＝anyone who。"
+     "a": 0
     },
     {
      "q": "I'll do ( ) you ask.（何でも）",
-     "f": [
-      "whatever"
+     "w": "whatever＝anything that。",
+     "o": [
+      "however",
+      "whoever",
+      "whatever",
+      "wherever"
      ],
-     "w": "whatever＝anything that。"
+     "a": 2
     }
    ],
    "test": [

@@ -37,7 +37,7 @@
     });
     h += '<h3>ひっかけやすいところ</h3>';
     u.traps.forEach(function (t) { h += '<div class="card"><b>' + esc(t.t) + '</b><p>' + rich(t.body) + '</p></div>'; });
-    h += '<h3>アウトプット練習</h3><button class="btn primary block" id="go1">① 基礎トレ（定期テスト）' + u.drill.length + '問：解説の内容を、自分で答える</button><p></p><button class="btn block" id="go2">② 共通テスト標準 ' + u.test.length + '問</button>';
+    h += '<h3>アウトプット練習</h3><button class="btn primary block" id="go1">① 基礎トレ（定期テスト）' + u.drill.length + '問：解説の内容を、4択で答える</button><p></p><button class="btn block" id="go2">② 共通テスト標準 ' + u.test.length + '問</button>';
     app.innerHTML = h;
     Array.prototype.forEach.call(app.querySelectorAll('[data-a]'), function (b) { b.onclick = function () { play(b.getAttribute('data-a')); }; });
     document.getElementById('go1').onclick = function () { quiz(u, 'drill'); };
