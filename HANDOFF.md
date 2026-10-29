@@ -55,4 +55,8 @@
 - 1場面: 使える表現8 → 会話例8行（音声 A=af_heart, B=am_michael）→ 重要単語6 → 練習14問（k=e表現／w単語）。
 - 重要単語は「5000語の復習で必ず出る頻出標準語」をねらって会話文に入れている。今後 tango.json に同じ語を入れるときの目安にする。
 - 音声: audio/kw/<場面id>_e<n>.mp3（表現）、_m<n>.mp3（会話行）。
-- 次: イディオム500（その後に長文）。
+## イディオム500（完了）
+- ページ: public/idiom.html / idiom.js / data/idiom.json（{version,batches:[{n,title}],items:[{id,en,ja,sf,ex,exJa,batch}]}）。音声 audio/i/<id>.mp3（熟語）, <id>x.mp3（例文）。
+- 10弾×50個。クイズは10個ずつのセットで、意味問題10＋穴埋め10（sfをexで空欄化）、4択。成績は localStorage `eigo_idiom_v1`。
+- 制約: 各弾ちょうど50個、sfはex内に連続して出現（大小文字無視）、en/jaは全体でユニーク。
+- 次: 長文（その後 共通テスト形式・リスニング・確認ページ拡張）。

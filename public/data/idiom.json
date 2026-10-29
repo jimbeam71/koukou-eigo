@@ -32,6 +32,14 @@
 {
 "n": 8,
 "title": "慣用構文・重要構文イディオム"
+},
+{
+"n": 9,
+"title": "口語・比喩的イディオム"
+},
+{
+"n": 10,
+"title": "名詞句・数量表現・前置詞句"
 }
 ],
 "items": [
@@ -3634,6 +3642,906 @@
 "ex": "To tell the truth, I did not read the book. I read the cover.",
 "exJa": "実を言うと、その本は読んでいない。表紙を読んだ。",
 "batch": 8
+},
+{
+"id": "i401",
+"en": "a piece of cake",
+"ja": "朝飯前のこと",
+"sf": "a piece of cake",
+"ex": "The test was a piece of cake, but the cake was not.",
+"exJa": "テストは朝飯前だったが、ケーキはそうではなかった。",
+"batch": 9
+},
+{
+"id": "i402",
+"en": "spill the beans",
+"ja": "秘密をうっかり漏らす",
+"sf": "spilled the beans",
+"ex": "My little brother spilled the beans about the surprise party.",
+"exJa": "弟がサプライズパーティーのことをうっかり漏らした。",
+"batch": 9
+},
+{
+"id": "i403",
+"en": "under the weather",
+"ja": "体調がすぐれない",
+"sf": "under the weather",
+"ex": "I feel under the weather after eating five donuts.",
+"exJa": "ドーナツを5個食べたら、体調がすぐれない。",
+"batch": 9
+},
+{
+"id": "i404",
+"en": "once in a blue moon",
+"ja": "ごくまれに",
+"sf": "once in a blue moon",
+"ex": "My dad cooks once in a blue moon, and the fire alarm celebrates.",
+"exJa": "父はごくまれに料理をして、火災報知器がお祝いする。",
+"batch": 9
+},
+{
+"id": "i405",
+"en": "let the cat out of the bag",
+"ja": "うっかり秘密をばらす",
+"sf": "let the cat out of the bag",
+"ex": "Don't let the cat out of the bag; the real cat is already out.",
+"exJa": "秘密をばらさないで。本物のネコはもう外に出ている。",
+"batch": 9
+},
+{
+"id": "i406",
+"en": "cost an arm and a leg",
+"ja": "非常に高くつく",
+"sf": "cost an arm and a leg",
+"ex": "This tiny sandwich cost an arm and a leg.",
+"exJa": "この小さなサンドイッチは、べらぼうに高かった。",
+"batch": 9
+},
+{
+"id": "i407",
+"en": "hit the books",
+"ja": "猛勉強する",
+"sf": "hit the books",
+"ex": "I must hit the books tonight, right after a short nap.",
+"exJa": "今夜は猛勉強しなければ。短い昼寝のすぐあとで。",
+"batch": 9
+},
+{
+"id": "i408",
+"en": "hit the sack",
+"ja": "寝る",
+"sf": "hit the sack",
+"ex": "I'm tired, so I'm going to hit the sack.",
+"exJa": "疲れたので、寝ることにする。",
+"batch": 9
+},
+{
+"id": "i409",
+"en": "call it a day",
+"ja": "今日はここまでにする",
+"sf": "call it a day",
+"ex": "Let's call it a day; the pizza is getting cold.",
+"exJa": "今日はここまでにしよう。ピザが冷めてきた。",
+"batch": 9
+},
+{
+"id": "i410",
+"en": "on the ball",
+"ja": "抜かりがない",
+"sf": "on the ball",
+"ex": "My sister is on the ball when it comes to snacks.",
+"exJa": "姉は、おやつのこととなると抜かりがない。",
+"batch": 9
+},
+{
+"id": "i411",
+"en": "out of the blue",
+"ja": "突然；思いがけず",
+"sf": "out of the blue",
+"ex": "Out of the blue, a duck asked me for directions.",
+"exJa": "突然、アヒルが私に道をたずねた。",
+"batch": 9
+},
+{
+"id": "i412",
+"en": "in hot water",
+"ja": "困った立場にいる",
+"sf": "in hot water",
+"ex": "I am in hot water because the cat knows my secret.",
+"exJa": "ネコが私の秘密を知っているので、私は困った立場にいる。",
+"batch": 9
+},
+{
+"id": "i413",
+"en": "on thin ice",
+"ja": "危険な状態にある",
+"sf": "on thin ice",
+"ex": "You are on thin ice if you touch my pudding.",
+"exJa": "私のプリンにさわったら、君は危ない立場だ。",
+"batch": 9
+},
+{
+"id": "i414",
+"en": "bite the bullet",
+"ja": "つらいことを我慢してやる",
+"sf": "bite the bullet",
+"ex": "I had to bite the bullet and wash the burnt pot.",
+"exJa": "私は歯を食いしばって、焦げた鍋を洗わなければならなかった。",
+"batch": 9
+},
+{
+"id": "i415",
+"en": "pull someone's leg",
+"ja": "人をからかう",
+"sf": "pulling my leg",
+"ex": "Are you pulling my leg, or is that really a goose?",
+"exJa": "からかってるの、それとも本当にガチョウなの？",
+"batch": 9
+},
+{
+"id": "i416",
+"en": "cry over spilt milk",
+"ja": "過ぎたことを嘆く",
+"sf": "cry over spilt milk",
+"ex": "Don't cry over spilt milk; clean it before the cat arrives.",
+"exJa": "こぼれたミルクを嘆かないで。ネコが来る前にふいて。",
+"batch": 9
+},
+{
+"id": "i417",
+"en": "kill two birds with one stone",
+"ja": "一石二鳥",
+"sf": "kill two birds with one stone",
+"ex": "I walk the dog to kill two birds with one stone: exercise and escape.",
+"exJa": "犬の散歩は一石二鳥だ。運動になるし、逃げられる。",
+"batch": 9
+},
+{
+"id": "i418",
+"en": "the last straw",
+"ja": "堪忍袋の緒が切れる原因",
+"sf": "the last straw",
+"ex": "The goose stealing my hat was the last straw.",
+"exJa": "ガチョウに帽子を盗まれたのが、我慢の限界だった。",
+"batch": 9
+},
+{
+"id": "i419",
+"en": "a blessing in disguise",
+"ja": "災い転じて福となるもの",
+"sf": "a blessing in disguise",
+"ex": "Missing the bus was a blessing in disguise; it crashed.",
+"exJa": "バスに乗り遅れたのは幸運だった。事故を起こしたのだ。",
+"batch": 9
+},
+{
+"id": "i420",
+"en": "beat around the bush",
+"ja": "遠回しに言う",
+"sf": "beating around the bush",
+"ex": "Stop beating around the bush and tell me who ate my cake.",
+"exJa": "遠回しな言い方はやめて、誰が私のケーキを食べたのか教えて。",
+"batch": 9
+},
+{
+"id": "i421",
+"en": "get cold feet",
+"ja": "おじけづく",
+"sf": "got cold feet",
+"ex": "He got cold feet and hid behind the curtain.",
+"exJa": "彼はおじけづいて、カーテンの後ろに隠れた。",
+"batch": 9
+},
+{
+"id": "i422",
+"en": "in the same boat",
+"ja": "同じ境遇にいる",
+"sf": "in the same boat",
+"ex": "We are all in the same boat, and the boat has no snacks.",
+"exJa": "私たちはみな同じ境遇で、その船にはおやつがない。",
+"batch": 9
+},
+{
+"id": "i423",
+"en": "the tip of the iceberg",
+"ja": "氷山の一角",
+"sf": "the tip of the iceberg",
+"ex": "That one sock is the tip of the iceberg in my room.",
+"exJa": "あの1足のくつ下は、私の部屋の氷山の一角だ。",
+"batch": 9
+},
+{
+"id": "i424",
+"en": "a hot potato",
+"ja": "扱いにくい問題",
+"sf": "a hot potato",
+"ex": "Homework is a hot potato at our house.",
+"exJa": "うちでは、宿題は扱いにくい問題だ。",
+"batch": 9
+},
+{
+"id": "i425",
+"en": "a white lie",
+"ja": "罪のないうそ",
+"sf": "a white lie",
+"ex": "I told a white lie: I said her hat was lovely.",
+"exJa": "罪のないうそをついた。彼女の帽子はすてきだと言った。",
+"batch": 9
+},
+{
+"id": "i426",
+"en": "break a leg",
+"ja": "がんばって（幸運を祈る）",
+"sf": "Break a leg",
+"ex": "Break a leg at the school play, but not literally.",
+"exJa": "学芸会、がんばって。ただし本当に折らないでね。",
+"batch": 9
+},
+{
+"id": "i427",
+"en": "cut corners",
+"ja": "手を抜く",
+"sf": "cut corners",
+"ex": "He cut corners when cleaning and swept everything under the sofa.",
+"exJa": "彼は掃除で手を抜いて、全部ソファの下に掃き入れた。",
+"batch": 9
+},
+{
+"id": "i428",
+"en": "face the music",
+"ja": "自分の行いの報いを受ける",
+"sf": "face the music",
+"ex": "You broke it, so you must face the music.",
+"exJa": "君が壊したのだから、報いを受けなければならない。",
+"batch": 9
+},
+{
+"id": "i429",
+"en": "go Dutch",
+"ja": "割り勘にする",
+"sf": "go Dutch",
+"ex": "Let's go Dutch, since I only had water.",
+"exJa": "割り勘にしよう。私は水しか飲んでいないから。",
+"batch": 9
+},
+{
+"id": "i430",
+"en": "jump on the bandwagon",
+"ja": "流行に乗る",
+"sf": "jumped on the bandwagon",
+"ex": "Everyone jumped on the bandwagon and bought tiny hats for pets.",
+"exJa": "みんなが流行に乗って、ペット用の小さな帽子を買った。",
+"batch": 9
+},
+{
+"id": "i431",
+"en": "lose one's temper",
+"ja": "かっとなる",
+"sf": "lost his temper",
+"ex": "He lost his temper when the printer ate his homework.",
+"exJa": "プリンターに宿題を食べられて、彼はかっとなった。",
+"batch": 9
+},
+{
+"id": "i432",
+"en": "miss the boat",
+"ja": "好機を逃す",
+"sf": "missed the boat",
+"ex": "I missed the boat by sleeping through the sale.",
+"exJa": "私はセールの間ずっと寝ていて、好機を逃した。",
+"batch": 9
+},
+{
+"id": "i433",
+"en": "play it by ear",
+"ja": "臨機応変にやる",
+"sf": "play it by ear",
+"ex": "We have no plan, so let's play it by ear.",
+"exJa": "計画がないので、臨機応変にやろう。",
+"batch": 9
+},
+{
+"id": "i434",
+"en": "rain cats and dogs",
+"ja": "土砂降りに降る",
+"sf": "rain cats and dogs",
+"ex": "It started to rain cats and dogs, and the cats were annoyed.",
+"exJa": "土砂降りになり、ネコたちは不機嫌だった。",
+"batch": 9
+},
+{
+"id": "i435",
+"en": "see eye to eye",
+"ja": "意見が一致する",
+"sf": "see eye to eye",
+"ex": "My cat and I never see eye to eye about dinner time.",
+"exJa": "ネコと私は、夕食の時間について意見が合ったことがない。",
+"batch": 9
+},
+{
+"id": "i436",
+"en": "sit on the fence",
+"ja": "どっちつかずの態度でいる",
+"sf": "sitting on the fence",
+"ex": "Stop sitting on the fence and choose pizza or pasta.",
+"exJa": "どっちつかずはやめて、ピザかパスタか選んで。",
+"batch": 9
+},
+{
+"id": "i437",
+"en": "steal the show",
+"ja": "人気をさらう",
+"sf": "stole the show",
+"ex": "A tiny dog in a hat stole the show.",
+"exJa": "帽子をかぶった小さな犬が、人気をさらった。",
+"batch": 9
+},
+{
+"id": "i438",
+"en": "the ball is in your court",
+"ja": "次は君の番だ",
+"sf": "the ball is in your court",
+"ex": "I did my part, so now the ball is in your court.",
+"exJa": "私は自分の分をやったので、次は君の番だ。",
+"batch": 9
+},
+{
+"id": "i439",
+"en": "throw in the towel",
+"ja": "降参する",
+"sf": "throw in the towel",
+"ex": "I'll never throw in the towel before dessert.",
+"exJa": "デザートの前に降参するなんて絶対にない。",
+"batch": 9
+},
+{
+"id": "i440",
+"en": "turn a blind eye to",
+"ja": "～を見て見ぬふりをする",
+"sf": "turned a blind eye to",
+"ex": "Mom turned a blind eye to the cat on the table.",
+"exJa": "母は、テーブルの上のネコを見て見ぬふりをした。",
+"batch": 9
+},
+{
+"id": "i441",
+"en": "up in the air",
+"ja": "未定で",
+"sf": "up in the air",
+"ex": "Our trip is still up in the air, like the ducks.",
+"exJa": "私たちの旅行はまだ未定で、宙に浮いている。あのアヒルのように。",
+"batch": 9
+},
+{
+"id": "i442",
+"en": "a drop in the bucket",
+"ja": "焼け石に水",
+"sf": "a drop in the bucket",
+"ex": "One cookie is a drop in the bucket for my appetite.",
+"exJa": "クッキー1枚では、私の食欲には焼け石に水だ。",
+"batch": 9
+},
+{
+"id": "i443",
+"en": "every cloud has a silver lining",
+"ja": "どんな苦境にもよい面がある",
+"sf": "every cloud has a silver lining",
+"ex": "Every cloud has a silver lining; at least my socks got washed.",
+"exJa": "どんな苦境にもよい面はある。少なくともくつ下は洗われた。",
+"batch": 9
+},
+{
+"id": "i444",
+"en": "a dark horse",
+"ja": "穴馬",
+"sf": "a dark horse",
+"ex": "The quiet student was a dark horse in the quiz.",
+"exJa": "おとなしい生徒が、クイズの穴馬だった。",
+"batch": 9
+},
+{
+"id": "i445",
+"en": "big shot",
+"ja": "大物",
+"sf": "big shot",
+"ex": "He acts like a big shot, but he borrows my pen.",
+"exJa": "彼は大物ぶるが、私のペンを借りる。",
+"batch": 9
+},
+{
+"id": "i446",
+"en": "couch potato",
+"ja": "ソファでごろごろしている人",
+"sf": "couch potato",
+"ex": "My dad is a couch potato with a very strong remote.",
+"exJa": "父は、とても強力なリモコンを持つ、ソファでごろごろ族だ。",
+"batch": 9
+},
+{
+"id": "i447",
+"en": "early bird",
+"ja": "早起きの人",
+"sf": "early bird",
+"ex": "The early bird catches the worm, but I prefer toast.",
+"exJa": "早起きの鳥は虫をつかまえるが、私はトーストのほうがいい。",
+"batch": 9
+},
+{
+"id": "i448",
+"en": "Achilles' heel",
+"ja": "唯一の弱点",
+"sf": "Achilles' heel",
+"ex": "Chocolate is my Achilles' heel.",
+"exJa": "チョコレートは私の唯一の弱点だ。",
+"batch": 9
+},
+{
+"id": "i449",
+"en": "the elephant in the room",
+"ja": "みんなが避けている大問題",
+"sf": "the elephant in the room",
+"ex": "The burnt cake is the elephant in the room.",
+"exJa": "焦げたケーキは、みんなが触れたがらない大問題だ。",
+"batch": 9
+},
+{
+"id": "i450",
+"en": "bad apple",
+"ja": "集団に悪い影響を与える人",
+"sf": "bad apple",
+"ex": "One bad apple spoils the party, or at least the apple pie.",
+"exJa": "1人の悪い人が場を台無しにする。少なくともアップルパイは。",
+"batch": 9
+},
+{
+"id": "i451",
+"en": "a number of",
+"ja": "いくつかの；多くの",
+"sf": "A number of",
+"ex": "A number of ducks entered the library.",
+"exJa": "数羽のアヒルが図書館に入ってきた。",
+"batch": 10
+},
+{
+"id": "i452",
+"en": "the number of",
+"ja": "～の数",
+"sf": "the number of",
+"ex": "The number of cats in this house is a secret.",
+"exJa": "この家のネコの数は秘密だ。",
+"batch": 10
+},
+{
+"id": "i453",
+"en": "a great deal of",
+"ja": "たくさんの（量）",
+"sf": "a great deal of",
+"ex": "I spent a great deal of time looking for my glasses.",
+"exJa": "メガネを探すのに、たくさんの時間を使った。",
+"batch": 10
+},
+{
+"id": "i454",
+"en": "a large amount of",
+"ja": "多量の",
+"sf": "a large amount of",
+"ex": "He drinks a large amount of soup for a small man.",
+"exJa": "彼は小柄なのに、大量のスープを飲む。",
+"batch": 10
+},
+{
+"id": "i455",
+"en": "plenty of",
+"ja": "たくさんの",
+"sf": "plenty of",
+"ex": "There is plenty of food, but not plenty of forks.",
+"exJa": "食べ物はたっぷりあるが、フォークはたっぷりではない。",
+"batch": 10
+},
+{
+"id": "i456",
+"en": "a few",
+"ja": "少数ある",
+"sf": "a few",
+"ex": "I have a few friends, and all of them are ducks.",
+"exJa": "友だちは少しいて、全員アヒルだ。",
+"batch": 10
+},
+{
+"id": "i457",
+"en": "quite a few",
+"ja": "かなり多くの",
+"sf": "quite a few",
+"ex": "Quite a few students forgot the answer, and the question.",
+"exJa": "かなり多くの生徒が、答えと質問を忘れた。",
+"batch": 10
+},
+{
+"id": "i458",
+"en": "a little",
+"ja": "少しある",
+"sf": "a little",
+"ex": "I have a little time, enough for a nap.",
+"exJa": "少し時間があって、昼寝にはじゅうぶんだ。",
+"batch": 10
+},
+{
+"id": "i459",
+"en": "a pair of",
+"ja": "1対の；1組の",
+"sf": "a pair of",
+"ex": "I lost a pair of socks, but only one sock is missing.",
+"exJa": "1足のくつ下をなくしたが、足りないのは片方だけだ。",
+"batch": 10
+},
+{
+"id": "i460",
+"en": "a series of",
+"ja": "一連の",
+"sf": "a series of",
+"ex": "A series of loud noises woke the whole house.",
+"exJa": "一連の大きな音が、家じゅうを起こした。",
+"batch": 10
+},
+{
+"id": "i461",
+"en": "a variety of",
+"ja": "さまざまな",
+"sf": "a variety of",
+"ex": "The shop sells a variety of cheese, most of it smelly.",
+"exJa": "その店はさまざまなチーズを売っているが、ほとんどがくさい。",
+"batch": 10
+},
+{
+"id": "i462",
+"en": "a lack of",
+"ja": "～の不足",
+"sf": "a lack of",
+"ex": "A lack of sleep makes me see ducks.",
+"exJa": "睡眠不足のせいで、アヒルが見える。",
+"batch": 10
+},
+{
+"id": "i463",
+"en": "a piece of",
+"ja": "1つの（不可算名詞を数える）",
+"sf": "a piece of",
+"ex": "He gave me a piece of advice: never trust a goose.",
+"exJa": "彼は私に1つ助言をくれた。ガチョウを信用するな、と。",
+"batch": 10
+},
+{
+"id": "i464",
+"en": "a bit of",
+"ja": "少しの",
+"sf": "a bit of",
+"ex": "Add a bit of salt, not a bit of the sea.",
+"exJa": "塩を少し入れて。海を少しではなく。",
+"batch": 10
+},
+{
+"id": "i465",
+"en": "in the middle of",
+"ja": "～の真ん中に；～の最中に",
+"sf": "in the middle of",
+"ex": "The phone rang in the middle of my nap.",
+"exJa": "昼寝の最中に電話が鳴った。",
+"batch": 10
+},
+{
+"id": "i466",
+"en": "on behalf of",
+"ja": "～を代表して",
+"sf": "on behalf of",
+"ex": "I thank you on behalf of all the ducks.",
+"exJa": "すべてのアヒルを代表して、お礼を言います。",
+"batch": 10
+},
+{
+"id": "i467",
+"en": "with regard to",
+"ja": "～に関して",
+"sf": "With regard to",
+"ex": "With regard to your cat, it is in my bed.",
+"exJa": "君のネコに関しては、私のベッドの中にいる。",
+"batch": 10
+},
+{
+"id": "i468",
+"en": "in terms of",
+"ja": "～の点から言えば",
+"sf": "in terms of",
+"ex": "In terms of speed, my snail beats your turtle.",
+"exJa": "速さの点では、私のカタツムリは君のカメに勝つ。",
+"batch": 10
+},
+{
+"id": "i469",
+"en": "in front of",
+"ja": "～の前に",
+"sf": "in front of",
+"ex": "A goose stood in front of the door and refused to move.",
+"exJa": "ガチョウがドアの前に立って、動こうとしなかった。",
+"batch": 10
+},
+{
+"id": "i470",
+"en": "in place of",
+"ja": "～に代えて",
+"sf": "in place of",
+"ex": "I used a pillow in place of a hat.",
+"exJa": "私は帽子の代わりにまくらを使った。",
+"batch": 10
+},
+{
+"id": "i471",
+"en": "on account of",
+"ja": "～の理由で",
+"sf": "on account of",
+"ex": "The match was canceled on account of snow and sleepy players.",
+"exJa": "試合は、雪と眠そうな選手たちのために中止になった。",
+"batch": 10
+},
+{
+"id": "i472",
+"en": "with a view to",
+"ja": "～する目的で",
+"sf": "with a view to",
+"ex": "He bought a hat with a view to impressing the goose.",
+"exJa": "彼はガチョウを感心させる目的で、帽子を買った。",
+"batch": 10
+},
+{
+"id": "i473",
+"en": "by means of",
+"ja": "～によって",
+"sf": "by means of",
+"ex": "The cat opened the fridge by means of a fork.",
+"exJa": "ネコは、フォークを使って冷蔵庫を開けた。",
+"batch": 10
+},
+{
+"id": "i474",
+"en": "by way of",
+"ja": "～を経由して",
+"sf": "by way of",
+"ex": "We went to Tokyo by way of the bakery.",
+"exJa": "私たちは、パン屋を経由して東京へ行った。",
+"batch": 10
+},
+{
+"id": "i475",
+"en": "in return for",
+"ja": "～のお返しに",
+"sf": "in return for",
+"ex": "He gave me a hat in return for my last cookie.",
+"exJa": "彼は最後のクッキーのお返しに、帽子をくれた。",
+"batch": 10
+},
+{
+"id": "i476",
+"en": "in honor of",
+"ja": "～に敬意を表して",
+"sf": "in honor of",
+"ex": "We ate cake in honor of the brave dog.",
+"exJa": "私たちは、勇敢な犬に敬意を表してケーキを食べた。",
+"batch": 10
+},
+{
+"id": "i477",
+"en": "at the expense of",
+"ja": "～を犠牲にして",
+"sf": "at the expense of",
+"ex": "He ate fast at the expense of his manners.",
+"exJa": "彼はマナーを犠牲にして、早食いした。",
+"batch": 10
+},
+{
+"id": "i478",
+"en": "at the cost of",
+"ja": "～と引き換えに",
+"sf": "at the cost of",
+"ex": "She finished the test at the cost of her last pencil.",
+"exJa": "彼女は最後の鉛筆と引き換えに、テストを終えた。",
+"batch": 10
+},
+{
+"id": "i479",
+"en": "at a loss",
+"ja": "途方に暮れて",
+"sf": "at a loss",
+"ex": "I was at a loss when the goose asked for my name.",
+"exJa": "ガチョウに名前を聞かれて、私は途方に暮れた。",
+"batch": 10
+},
+{
+"id": "i480",
+"en": "at ease",
+"ja": "くつろいで",
+"sf": "at ease",
+"ex": "The cat sat at ease on my homework.",
+"exJa": "ネコは、私の宿題の上でくつろいですわっていた。",
+"batch": 10
+},
+{
+"id": "i481",
+"en": "at hand",
+"ja": "手元に",
+"sf": "at hand",
+"ex": "Keep a towel at hand when you eat soup.",
+"exJa": "スープを飲むときは、タオルを手元に置いておいて。",
+"batch": 10
+},
+{
+"id": "i482",
+"en": "at random",
+"ja": "手当たり次第に",
+"sf": "at random",
+"ex": "I picked a book at random and it was upside down.",
+"exJa": "本を適当に選んだら、逆さまだった。",
+"batch": 10
+},
+{
+"id": "i483",
+"en": "at the latest",
+"ja": "遅くとも",
+"sf": "at the latest",
+"ex": "Be home by nine at the latest, or the goose locks the door.",
+"exJa": "遅くとも9時までには帰ってきて。さもないとガチョウが鍵をかける。",
+"batch": 10
+},
+{
+"id": "i484",
+"en": "at most",
+"ja": "多くても",
+"sf": "at most",
+"ex": "I slept at most three hours, and one was in class.",
+"exJa": "私は多くても3時間しか眠れず、うち1時間は授業中だった。",
+"batch": 10
+},
+{
+"id": "i485",
+"en": "by far",
+"ja": "はるかに",
+"sf": "by far",
+"ex": "This is by far the weirdest soup I have ever seen.",
+"exJa": "これは、今まで見たなかではるかに変なスープだ。",
+"batch": 10
+},
+{
+"id": "i486",
+"en": "by nature",
+"ja": "生まれつき",
+"sf": "by nature",
+"ex": "My cat is lazy by nature and by choice.",
+"exJa": "うちのネコは生まれつき、そして自分の意志で、なまけ者だ。",
+"batch": 10
+},
+{
+"id": "i487",
+"en": "by oneself",
+"ja": "ひとりで",
+"sf": "by himself",
+"ex": "He opened the box by himself, and the box won.",
+"exJa": "彼はひとりで箱を開けようとして、箱が勝った。",
+"batch": 10
+},
+{
+"id": "i488",
+"en": "for oneself",
+"ja": "自分のために；独力で",
+"sf": "for herself",
+"ex": "She made lunch for herself and for no one else.",
+"exJa": "彼女は自分のためだけに昼食を作った。",
+"batch": 10
+},
+{
+"id": "i489",
+"en": "in order",
+"ja": "整然と；調子がよい",
+"sf": "in order",
+"ex": "Everything is in order, except for the order.",
+"exJa": "すべて整っている。整い方以外は。",
+"batch": 10
+},
+{
+"id": "i490",
+"en": "out of order",
+"ja": "故障して",
+"sf": "out of order",
+"ex": "The elevator is out of order, so we climbed with the goose.",
+"exJa": "エレベーターが故障していたので、ガチョウといっしょに階段を上った。",
+"batch": 10
+},
+{
+"id": "i491",
+"en": "out of date",
+"ja": "時代遅れで",
+"sf": "out of date",
+"ex": "This joke is out of date, but my dad loves it.",
+"exJa": "このジョークは時代遅れだが、父は大好きだ。",
+"batch": 10
+},
+{
+"id": "i492",
+"en": "up to date",
+"ja": "最新の",
+"sf": "up to date",
+"ex": "Is your map up to date, or does it show a dinosaur?",
+"exJa": "君の地図は最新？それとも恐竜が載ってる？",
+"batch": 10
+},
+{
+"id": "i493",
+"en": "in public",
+"ja": "人前で",
+"sf": "in public",
+"ex": "Please don't sing in public; the ducks are scared.",
+"exJa": "人前で歌わないで。アヒルがおびえている。",
+"batch": 10
+},
+{
+"id": "i494",
+"en": "in private",
+"ja": "ひそかに",
+"sf": "in private",
+"ex": "Let's talk in private, away from the cat.",
+"exJa": "ネコから離れて、2人だけで話そう。",
+"batch": 10
+},
+{
+"id": "i495",
+"en": "in person",
+"ja": "直接本人が",
+"sf": "in person",
+"ex": "He came in person to complain about the noise, then sang.",
+"exJa": "彼は騒音の苦情を言いに直接来たが、そのあと歌った。",
+"batch": 10
+},
+{
+"id": "i496",
+"en": "in vain",
+"ja": "むだに",
+"sf": "in vain",
+"ex": "I tried in vain to open the jar of pickles.",
+"exJa": "ピクルスのびんを開けようとしたが、むだだった。",
+"batch": 10
+},
+{
+"id": "i497",
+"en": "on foot",
+"ja": "歩いて",
+"sf": "on foot",
+"ex": "We went on foot because the car was sleeping.",
+"exJa": "車が寝ていたので、歩いて行った。",
+"batch": 10
+},
+{
+"id": "i498",
+"en": "on business",
+"ja": "仕事で",
+"sf": "on business",
+"ex": "My uncle went to Paris on business, but mainly for bread.",
+"exJa": "おじは仕事でパリへ行ったが、主な目的はパンだった。",
+"batch": 10
+},
+{
+"id": "i499",
+"en": "on the whole",
+"ja": "全体として",
+"sf": "On the whole",
+"ex": "On the whole, the trip was good, except for the goose.",
+"exJa": "全体としては、旅行は良かった。ガチョウを除いて。",
+"batch": 10
+},
+{
+"id": "i500",
+"en": "under construction",
+"ja": "工事中で",
+"sf": "under construction",
+"ex": "The bridge is under construction, so the ducks swim.",
+"exJa": "橋は工事中なので、アヒルたちは泳ぐ。",
+"batch": 10
 }
 ]
 }
