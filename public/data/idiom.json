@@ -1,0 +1,461 @@
+{
+"version": 1,
+"batches": [
+{
+"n": 1,
+"title": "take・make・have の熟語"
+}
+],
+"items": [
+{
+"id": "i001",
+"en": "take care of",
+"ja": "～の世話をする",
+"sf": "takes care of",
+"ex": "My cat takes care of me by sitting on my keyboard.",
+"exJa": "うちのネコは、私のキーボードにすわって、私の世話をしてくれる。",
+"batch": 1
+},
+{
+"id": "i002",
+"en": "take part in",
+"ja": "～に参加する",
+"sf": "took part in",
+"ex": "Fifty people took part in the cooking contest, and only one of them could cook.",
+"exJa": "50人が料理コンテストに参加したが、料理ができたのは1人だけだった。",
+"batch": 1
+},
+{
+"id": "i003",
+"en": "take off",
+"ja": "離陸する；脱ぐ",
+"sf": "takes off",
+"ex": "The plane takes off at noon, so please take off your shoes at the gate.",
+"exJa": "飛行機は正午に離陸します。ゲートで靴を脱いでください。",
+"batch": 1
+},
+{
+"id": "i004",
+"en": "take after",
+"ja": "（親など）に似ている",
+"sf": "takes after",
+"ex": "He takes after his father, especially in snoring.",
+"exJa": "彼は父親に似ている。特にいびきが。",
+"batch": 1
+},
+{
+"id": "i005",
+"en": "take over",
+"ja": "引き継ぐ",
+"sf": "took over",
+"ex": "My sister took over the kitchen and turned it into a laboratory.",
+"exJa": "姉は台所を引き継いで、実験室に変えた。",
+"batch": 1
+},
+{
+"id": "i006",
+"en": "take place",
+"ja": "行われる；起こる",
+"sf": "takes place",
+"ex": "The festival takes place in October, and the rain takes place with it.",
+"exJa": "お祭りは10月に行われ、雨もいっしょに降る。",
+"batch": 1
+},
+{
+"id": "i007",
+"en": "take advantage of",
+"ja": "～を利用する",
+"sf": "took advantage of",
+"ex": "She took advantage of the sale and bought twelve umbrellas.",
+"exJa": "彼女はセールを利用して、かさを12本買った。",
+"batch": 1
+},
+{
+"id": "i008",
+"en": "take it easy",
+"ja": "のんびりやる",
+"sf": "take it easy",
+"ex": "Take it easy; the test is only tomorrow morning.",
+"exJa": "気楽にいこう。テストはほんの明日の朝だけだ。",
+"batch": 1
+},
+{
+"id": "i009",
+"en": "take it for granted that",
+"ja": "～を当然のことと思う",
+"sf": "took it for granted that",
+"ex": "I took it for granted that the bus would come, but it went to the beach.",
+"exJa": "バスは来るものと思っていたが、バスは海へ行ってしまった。",
+"batch": 1
+},
+{
+"id": "i010",
+"en": "take up",
+"ja": "（趣味などを）始める；（場所・時間を）とる",
+"sf": "took up",
+"ex": "He took up the drums, and his neighbors took up the question of moving.",
+"exJa": "彼はドラムを始め、近所の人は引っ越しを考え始めた。",
+"batch": 1
+},
+{
+"id": "i011",
+"en": "take into account",
+"ja": "～を考慮に入れる",
+"sf": "took into account",
+"ex": "The judge took into account his age and his very sad face.",
+"exJa": "裁判官は、彼の年齢と、とても悲しそうな顔を考慮に入れた。",
+"batch": 1
+},
+{
+"id": "i012",
+"en": "take turns",
+"ja": "交代でする",
+"sf": "took turns",
+"ex": "We took turns carrying the heavy cake.",
+"exJa": "私たちは交代で重いケーキを運んだ。",
+"batch": 1
+},
+{
+"id": "i013",
+"en": "take out",
+"ja": "取り出す；連れ出す",
+"sf": "took out",
+"ex": "He took out a banana and asked the monkey to wait.",
+"exJa": "彼はバナナを取り出して、サルに待つよう頼んだ。",
+"batch": 1
+},
+{
+"id": "i014",
+"en": "take back",
+"ja": "取り消す；返す",
+"sf": "take back",
+"ex": "I take back what I said about your cooking; the rice was fine.",
+"exJa": "あなたの料理について言ったことを取り消す。ごはんは大丈夫だった。",
+"batch": 1
+},
+{
+"id": "i015",
+"en": "take down",
+"ja": "書きとめる；取りはずす",
+"sf": "took down",
+"ex": "The teacher took down every excuse in her notebook.",
+"exJa": "先生は、すべての言いわけをノートに書きとめた。",
+"batch": 1
+},
+{
+"id": "i016",
+"en": "take in",
+"ja": "理解する；だます",
+"sf": "took in",
+"ex": "The salesman took in half the town with a free pen.",
+"exJa": "その販売員は、無料のペンで町の半分の人をだました。",
+"batch": 1
+},
+{
+"id": "i017",
+"en": "take on",
+"ja": "（仕事などを）引き受ける",
+"sf": "took on",
+"ex": "She took on the job of feeding twelve cats.",
+"exJa": "彼女は、12匹のネコに餌をやる仕事を引き受けた。",
+"batch": 1
+},
+{
+"id": "i018",
+"en": "take to",
+"ja": "～が好きになる",
+"sf": "took to",
+"ex": "The dog took to my uncle at once and to his sandwich even faster.",
+"exJa": "犬はおじをすぐ好きになり、彼のサンドイッチはもっと早く好きになった。",
+"batch": 1
+},
+{
+"id": "i019",
+"en": "take pride in",
+"ja": "～を誇りに思う",
+"sf": "takes pride in",
+"ex": "My brother takes pride in his collection of one hundred socks.",
+"exJa": "弟は、100足のくつ下のコレクションを誇りにしている。",
+"batch": 1
+},
+{
+"id": "i020",
+"en": "take notice of",
+"ja": "～に注意を払う",
+"sf": "took notice of",
+"ex": "Nobody took notice of the sign that said \"Wet Paint.\"",
+"exJa": "「ペンキぬりたて」の看板に、誰も注意を払わなかった。",
+"batch": 1
+},
+{
+"id": "i021",
+"en": "take A for B",
+"ja": "AをBとまちがえる",
+"sf": "took me for",
+"ex": "The waiter took me for a famous singer and gave me free soup.",
+"exJa": "ウェイターは私を有名な歌手とまちがえて、スープをただにしてくれた。",
+"batch": 1
+},
+{
+"id": "i022",
+"en": "take hold of",
+"ja": "～をつかむ",
+"sf": "took hold of",
+"ex": "He took hold of the rope, and the rope took hold of his pants.",
+"exJa": "彼がロープをつかむと、ロープも彼のズボンをつかんだ。",
+"batch": 1
+},
+{
+"id": "i023",
+"en": "take a look at",
+"ja": "～を見てみる",
+"sf": "take a look at",
+"ex": "Please take a look at my homework; the dog did not eat it this time.",
+"exJa": "私の宿題を見てください。今回は犬が食べていません。",
+"batch": 1
+},
+{
+"id": "i024",
+"en": "take apart",
+"ja": "分解する",
+"sf": "take apart",
+"ex": "He likes to take apart radios, but not to put them back together.",
+"exJa": "彼はラジオを分解するのは好きだが、元に戻すのは好きでない。",
+"batch": 1
+},
+{
+"id": "i025",
+"en": "make up one's mind",
+"ja": "決心する",
+"sf": "made up his mind",
+"ex": "He made up his mind to start running, and then he sat down.",
+"exJa": "彼は走り始めようと決心して、それからすわった。",
+"batch": 1
+},
+{
+"id": "i026",
+"en": "make sure",
+"ja": "確かめる",
+"sf": "make sure",
+"ex": "Make sure the door is closed before the cat leaves for work.",
+"exJa": "ネコが仕事に出かける前に、ドアが閉まっているか確かめて。",
+"batch": 1
+},
+{
+"id": "i027",
+"en": "make use of",
+"ja": "～を活用する",
+"sf": "makes use of",
+"ex": "She makes use of every minute on the train to sleep.",
+"exJa": "彼女は電車の1分1分を、睡眠に利用している。",
+"batch": 1
+},
+{
+"id": "i028",
+"en": "make fun of",
+"ja": "～をからかう",
+"sf": "made fun of",
+"ex": "They made fun of my hat until they saw their own.",
+"exJa": "みんなは私の帽子をからかったが、自分たちの帽子を見て黙った。",
+"batch": 1
+},
+{
+"id": "i029",
+"en": "make a living",
+"ja": "生計を立てる",
+"sf": "makes a living",
+"ex": "He makes a living by teaching parrots to say \"hello.\"",
+"exJa": "彼は、オウムに「こんにちは」を教えて生計を立てている。",
+"batch": 1
+},
+{
+"id": "i030",
+"en": "make progress",
+"ja": "進歩する",
+"sf": "made progress",
+"ex": "I made progress in math; now I get the wrong answers faster.",
+"exJa": "数学が進歩した。いまは、まちがった答えを速く出せる。",
+"batch": 1
+},
+{
+"id": "i031",
+"en": "make friends with",
+"ja": "～と仲よくなる",
+"sf": "made friends with",
+"ex": "She made friends with a crow that steals her lunch.",
+"exJa": "彼女は、お弁当を盗むカラスと仲よくなった。",
+"batch": 1
+},
+{
+"id": "i032",
+"en": "make out",
+"ja": "理解する；見分ける",
+"sf": "make out",
+"ex": "I can't make out what the doctor wrote; it looks like a snake.",
+"exJa": "医者の書いたものが分からない。ヘビのように見える。",
+"batch": 1
+},
+{
+"id": "i033",
+"en": "make up for",
+"ja": "～の埋め合わせをする",
+"sf": "make up for",
+"ex": "I'll make up for being late by buying you lunch.",
+"exJa": "遅れた埋め合わせに、お昼をおごるよ。",
+"batch": 1
+},
+{
+"id": "i034",
+"en": "make up",
+"ja": "仲直りする；でっち上げる",
+"sf": "made up",
+"ex": "They made up after the fight, and then fought about who said sorry first.",
+"exJa": "彼らはけんかのあと仲直りして、どちらが先に謝ったかでまたけんかした。",
+"batch": 1
+},
+{
+"id": "i035",
+"en": "make it",
+"ja": "間に合う；成功する",
+"sf": "made it",
+"ex": "We made it to the station just as the train left.",
+"exJa": "私たちは、電車が出るのとちょうど同時に駅に間に合った。",
+"batch": 1
+},
+{
+"id": "i036",
+"en": "make a difference",
+"ja": "違いが生まれる；重要である",
+"sf": "make a difference",
+"ex": "One more spoon of salt can make a difference, and not a good one.",
+"exJa": "塩をもう1さじ入れると違いが出るが、いい違いではない。",
+"batch": 1
+},
+{
+"id": "i037",
+"en": "make the best of",
+"ja": "～を最大限に生かす",
+"sf": "make the best of",
+"ex": "Let's make the best of the rain and play in puddles.",
+"exJa": "雨を最大限に生かして、水たまりで遊ぼう。",
+"batch": 1
+},
+{
+"id": "i038",
+"en": "make way for",
+"ja": "～に道をゆずる",
+"sf": "made way for",
+"ex": "Everyone made way for the pizza delivery man.",
+"exJa": "みんなが、ピザの配達員に道をゆずった。",
+"batch": 1
+},
+{
+"id": "i039",
+"en": "make a mistake",
+"ja": "まちがえる",
+"sf": "made a mistake",
+"ex": "I made a mistake and put sugar in the soup.",
+"exJa": "まちがえて、スープに砂糖を入れてしまった。",
+"batch": 1
+},
+{
+"id": "i040",
+"en": "make an effort",
+"ja": "努力する",
+"sf": "make an effort",
+"ex": "Please make an effort to wake up before the sun does.",
+"exJa": "太陽より先に起きる努力をしてください。",
+"batch": 1
+},
+{
+"id": "i041",
+"en": "make a decision",
+"ja": "決定する",
+"sf": "make a decision",
+"ex": "It is hard to make a decision between two desserts.",
+"exJa": "2つのデザートの間で決めるのは難しい。",
+"batch": 1
+},
+{
+"id": "i042",
+"en": "make a speech",
+"ja": "演説する",
+"sf": "made a speech",
+"ex": "The mayor made a speech so long that the birds went home.",
+"exJa": "市長の演説があまりに長くて、鳥たちは帰ってしまった。",
+"batch": 1
+},
+{
+"id": "i043",
+"en": "make a point of ～ing",
+"ja": "～することにしている",
+"sf": "makes a point of",
+"ex": "He makes a point of saying \"thank you\" to the vending machine.",
+"exJa": "彼は、自動販売機にも「ありがとう」と言うことにしている。",
+"batch": 1
+},
+{
+"id": "i044",
+"en": "make do with",
+"ja": "～で間に合わせる",
+"sf": "made do with",
+"ex": "We made do with one umbrella and a very large hat.",
+"exJa": "私たちは、かさ1本と大きな帽子で間に合わせた。",
+"batch": 1
+},
+{
+"id": "i045",
+"en": "make off with",
+"ja": "～を持ち逃げする",
+"sf": "made off with",
+"ex": "A seagull made off with my sandwich.",
+"exJa": "カモメが私のサンドイッチを持ち逃げした。",
+"batch": 1
+},
+{
+"id": "i046",
+"en": "make for",
+"ja": "～に向かって進む",
+"sf": "made for",
+"ex": "After the rain stopped, we made for the nearest ice cream shop.",
+"exJa": "雨がやむと、私たちは一番近いアイス屋へ向かった。",
+"batch": 1
+},
+{
+"id": "i047",
+"en": "have to do with",
+"ja": "～と関係がある",
+"sf": "has to do with",
+"ex": "His headache has to do with the three desserts.",
+"exJa": "彼の頭痛は、3つのデザートと関係がある。",
+"batch": 1
+},
+{
+"id": "i048",
+"en": "have nothing to do with",
+"ja": "～と関係がない",
+"sf": "has nothing to do with",
+"ex": "This noise has nothing to do with me; ask the cat.",
+"exJa": "この音は私と関係ない。ネコに聞いて。",
+"batch": 1
+},
+{
+"id": "i049",
+"en": "have a good time",
+"ja": "楽しく過ごす",
+"sf": "had a good time",
+"ex": "We had a good time at the zoo until the monkey stole my hat.",
+"exJa": "動物園は楽しかった。サルが私の帽子を盗むまでは。",
+"batch": 1
+},
+{
+"id": "i050",
+"en": "have difficulty ～ing",
+"ja": "～するのに苦労する",
+"sf": "had difficulty",
+"ex": "He had difficulty finding his shoes under the pile of pizza boxes.",
+"exJa": "彼は、ピザの箱の山の下から靴を見つけるのに苦労した。",
+"batch": 1
+}
+]
+}
