@@ -1,0 +1,1319 @@
+{
+"version": 1,
+"sets": [
+{
+"n": 1,
+"title": "文型と形式主語・目的語"
+},
+{
+"n": 2,
+"title": "不定詞・動名詞の構文"
+},
+{
+"n": 3,
+"title": "分詞・分詞構文"
+},
+{
+"n": 4,
+"title": "関係詞の構文"
+},
+{
+"n": 5,
+"title": "比較の構文"
+},
+{
+"n": 6,
+"title": "倒置・強調・省略"
+},
+{
+"n": 7,
+"title": "否定・譲歩・仮定"
+},
+{
+"n": 8,
+"title": "同格・挿入・接続のいろいろ"
+}
+],
+"items": [
+{
+"id": "s001",
+"t": "SVC：補語をとる become / get / turn / remain",
+"rule": "become・get・turn・go・remain・seem などは「S＝C」の関係を作る。turn cold＝冷たくなる。",
+"ex": "The soup turned cold while we were arguing about who should eat it.",
+"exJa": "スープは、誰が食べるかでもめているうちに冷めてしまった。",
+"q": "turned cold の turned の意味は？",
+"o": [
+"～になった",
+"～を回した",
+"～に向きを変えた",
+"～に頼った"
+],
+"a": "～になった",
+"w": "turn＋形容詞は「～になる」（SVC）。turn A（Aを回す）と混同しない。"
+},
+{
+"id": "s002",
+"t": "SVOO：give型（人に物を）",
+"rule": "SVOO＝「O1にO2を～する」。give A B ＝ give B to A。send・show・tell・buy なども同じ型。",
+"ex": "My aunt sent me a hat shaped like a fish.",
+"exJa": "おばは、私に魚の形をした帽子を送ってくれた。",
+"q": "sent me a hat の me の働きは？",
+"o": [
+"間接目的語（私に）",
+"補語（私＝帽子）",
+"主語",
+"前置詞の目的語"
+],
+"a": "間接目的語（私に）",
+"w": "send O1 O2 の O1＝人（間接目的語）、O2＝物（直接目的語）。shaped like a fish は a hat を後ろから修飾。"
+},
+{
+"id": "s003",
+"t": "SVOC：make O 原形（～させる）",
+"rule": "make＋O＋原形＝Oに（強制的に）～させる。受け身では be made to ～ と to が復活する。",
+"ex": "The long line made me give up on the donut.",
+"exJa": "長い行列のせいで、私はドーナツをあきらめた。",
+"q": "made me give up の意味は？",
+"o": [
+"私にあきらめさせた",
+"私があきらめを作った",
+"私を上にあげた",
+"私に与えてくれた"
+],
+"a": "私にあきらめさせた",
+"w": "make＋O＋原形は使役。無生物主語は「Sのせいで／Sのおかげで O は～する」と訳すと自然。"
+},
+{
+"id": "s004",
+"t": "SVOC：find O C",
+"rule": "find＋O＋C＝OがCだとわかる。C には形容詞・名詞・分詞が来る。",
+"ex": "I found the book difficult to read.",
+"exJa": "私はその本が読みにくいとわかった。",
+"q": "difficult の文中の働きは？",
+"o": [
+"補語（C）",
+"目的語（O）",
+"主語（S）",
+"修飾語だけで文型に関わらない"
+],
+"a": "補語（C）",
+"w": "find O C の C。difficult to read は「読むのが難しい」で、book の状態を説明する。"
+},
+{
+"id": "s005",
+"t": "形式主語 It is ... for A to ～",
+"rule": "主語が長い不定詞のとき it で受け、to ～を後ろへ回す。for A は不定詞の意味上の主語。",
+"ex": "It is important for students to review their mistakes.",
+"exJa": "生徒にとって、まちがいを見直すことは重要だ。",
+"q": "to review の意味上の主語はどれ？",
+"o": [
+"students",
+"it",
+"mistakes",
+"important"
+],
+"a": "students",
+"w": "for students が意味上の主語。「生徒が見直すこと」が重要、という意味。"
+},
+{
+"id": "s006",
+"t": "形式主語 It is ... that ～",
+"rule": "that 節が主語のときも it で受ける。It is true that ～＝「～は本当だ」。",
+"ex": "It is true that the cat can open doors, but she never closes them.",
+"exJa": "ネコがドアを開けられるのは本当だが、閉めたことはない。",
+"q": "It の指す内容は？",
+"o": [
+"that 以下の内容",
+"the cat",
+"doors",
+"she"
+],
+"a": "that 以下の内容",
+"w": "形式主語 It は that the cat can open doors を指す。but 以下は後半の文。"
+},
+{
+"id": "s007",
+"t": "形式目的語 think it ... to ～",
+"rule": "think・find・make・consider の目的語が to ～や that 節のとき it を仮の目的語にする。",
+"ex": "I think it necessary to check the answers twice.",
+"exJa": "答えを2回確認することが必要だと思う。",
+"q": "it の指す内容は？",
+"o": [
+"to check the answers twice",
+"I",
+"necessary",
+"the answers"
+],
+"a": "to check the answers twice",
+"w": "think it necessary to ～＝「～することを必要だと思う」。it は後ろの不定詞を指す。"
+},
+{
+"id": "s008",
+"t": "It takes A ＋ 時間 ＋ to ～",
+"rule": "「Aが～するのに時間がかかる」。主語は it（形式主語）。",
+"ex": "It took me three hours to find the glasses on my head.",
+"exJa": "頭の上にあるメガネを見つけるのに、3時間かかった。",
+"q": "正しい訳は？",
+"o": [
+"メガネを見つけるのに3時間かかった",
+"メガネを3時間かけて作った",
+"メガネが3時間で見つかった（私は関係ない）",
+"3時間後にメガネを取った"
+],
+"a": "メガネを見つけるのに3時間かかった",
+"w": "It takes/took 人 時間 to ～＝人が～するのに時間がかかる。"
+},
+{
+"id": "s009",
+"t": "使役 have / get ＋ O ＋ 過去分詞",
+"rule": "have O 過去分詞＝Oを～してもらう／される。O と分詞は受け身の関係。",
+"ex": "I had my bike repaired by my brother.",
+"exJa": "私は弟に自転車を修理してもらった。",
+"q": "have の意味は？",
+"o": [
+"～してもらう",
+"～を持っている",
+"～を食べる",
+"～を経験した"
+],
+"a": "～してもらう",
+"w": "have O 過去分詞（O が～される関係）。by my brother が修理をした人。"
+},
+{
+"id": "s010",
+"t": "知覚動詞 see ＋ O ＋ 原形／ing",
+"rule": "see・hear・feel・watch＋O＋原形（全体）／ing（進行中）。受け身では原形が to ～になる。",
+"ex": "I saw the dog stealing my sandwich.",
+"exJa": "私は、犬が私のサンドイッチを盗んでいるところを見た。",
+"q": "stealing の形が表すものは？",
+"o": [
+"盗んでいる最中（進行）",
+"盗み終わったこと",
+"盗む予定",
+"盗まれたこと"
+],
+"a": "盗んでいる最中（進行）",
+"w": "see O ～ing＝Oが～している途中を見る。原形なら「～するのを一部始終見る」。"
+},
+{
+"id": "s011",
+"t": "不定詞の名詞用法（主語）",
+"rule": "To ～が主語になる。長いときは形式主語 It を使う書き換えができる。",
+"ex": "To keep a secret from a goose is not easy.",
+"exJa": "ガチョウに秘密を隠しておくのは、簡単ではない。",
+"q": "To keep ... goose の働きは？",
+"o": [
+"主語（～すること）",
+"目的を表す副詞",
+"形容詞",
+"動詞"
+],
+"a": "主語（～すること）",
+"w": "To keep a secret from a goose が文全体の主語。It is not easy to keep ... と書き換えられる。"
+},
+{
+"id": "s012",
+"t": "不定詞の副詞用法：目的",
+"rule": "in order to / so as to ～＝～するために。否定は in order not to / so as not to。",
+"ex": "He got up early in order to see the sunrise.",
+"exJa": "彼は日の出を見るために早く起きた。",
+"q": "in order to の意味は？",
+"o": [
+"～するために",
+"～した結果",
+"～だとは",
+"～するほどの"
+],
+"a": "～するために",
+"w": "目的を表す。so as to ～と同じ。"
+},
+{
+"id": "s013",
+"t": "不定詞の副詞用法：結果",
+"rule": "grow up to ～・live to ～・only to ～などは「その結果～になる」。",
+"ex": "She grew up to be a famous baker.",
+"exJa": "彼女は成長して、有名なパン屋になった。",
+"q": "to be の意味は？",
+"o": [
+"（その結果）～になる",
+"～するために",
+"～するべき",
+"～したい"
+],
+"a": "（その結果）～になる",
+"w": "grow up to be ～＝成長して～になる（結果）。only to ～は「結局～するだけ」。"
+},
+{
+"id": "s014",
+"t": "不定詞：判断の根拠",
+"rule": "must be / be a fool などのあとの to ～は「～するなんて」と判断の根拠を表す。",
+"ex": "He must be a fool to eat that soup.",
+"exJa": "あのスープを食べるなんて、彼はおろか者にちがいない。",
+"q": "to eat の意味は？",
+"o": [
+"～するなんて（判断の根拠）",
+"～するために",
+"～するべき",
+"～した結果"
+],
+"a": "～するなんて（判断の根拠）",
+"w": "感情・判断の形容詞／名詞のあとの to ～は「～するとは」。"
+},
+{
+"id": "s015",
+"t": "too ～ for A to ... ／ enough to ...",
+"rule": "too ～ to ...＝あまりに～で…できない。形容詞＋enough to ...＝…するほど～。",
+"ex": "The soup was too hot for me to drink.",
+"exJa": "そのスープは熱すぎて、私は飲めなかった。",
+"q": "正しい訳は？",
+"o": [
+"熱すぎて私は飲めなかった",
+"熱いので私は飲んだ",
+"私が飲むには冷めていた",
+"スープは私が熱くした"
+],
+"a": "熱すぎて私は飲めなかった",
+"w": "too ～ (for A) to ... は「あまりに～で…できない」。for me が to drink の意味上の主語。"
+},
+{
+"id": "s016",
+"t": "be to 構文",
+"rule": "be to ～は予定・義務・可能・運命・意図を表す。文脈で見分ける。",
+"ex": "You are to be home by nine.",
+"exJa": "9時までに家に帰らなければならない。",
+"q": "be to の意味は？",
+"o": [
+"義務・命令",
+"予定",
+"可能",
+"運命"
+],
+"a": "義務・命令",
+"w": "by nine と二人称から「～しなさい」という義務。予定なら「～することになっている」。"
+},
+{
+"id": "s017",
+"t": "独立不定詞",
+"rule": "To tell the truth / To be honest / Needless to say など、文全体を修飾する慣用句。",
+"ex": "To be honest, I did not read the book. I read the cover.",
+"exJa": "正直に言うと、その本は読んでいない。表紙を読んだ。",
+"q": "To be honest の意味は？",
+"o": [
+"正直に言うと",
+"正直であるために",
+"正直になる",
+"正直な人"
+],
+"a": "正直に言うと",
+"w": "文全体にかかる慣用表現（独立不定詞）。"
+},
+{
+"id": "s018",
+"t": "完了不定詞（to have 過去分詞）",
+"rule": "to have 過去分詞は、主節の時制より前の出来事を表す。",
+"ex": "He seems to have forgotten his homework.",
+"exJa": "彼は宿題を忘れてしまったようだ。",
+"q": "「忘れた」のはいつ？",
+"o": [
+"seems より前",
+"seems と同時",
+"seems より後",
+"未来"
+],
+"a": "seems より前",
+"w": "seems は現在、to have forgotten はそれより前（過去）。It seems that he forgot ... と書き換え可。"
+},
+{
+"id": "s019",
+"t": "動名詞の意味上の主語・時制",
+"rule": "動名詞の前の所有格／目的格が意味上の主語。having 過去分詞は主節より前の出来事。",
+"ex": "I remember his telling me the secret.",
+"exJa": "私は彼がその秘密を私に話してくれたことを覚えている。",
+"q": "telling の意味上の主語は？",
+"o": [
+"his（彼）",
+"I（私）",
+"me（私に）",
+"secret"
+],
+"a": "his（彼）",
+"w": "his が動名詞 telling の意味上の主語。"
+},
+{
+"id": "s020",
+"t": "remember／forget ＋ to ～ と ～ing",
+"rule": "remember ～ing＝～したことを覚えている（過去）、remember to ～＝忘れずに～する（未来）。",
+"ex": "I remember locking the door, but I forgot to lock the window.",
+"exJa": "ドアに鍵をかけたことは覚えているが、窓の鍵をかけ忘れた。",
+"q": "I forgot to lock the window. の意味は？",
+"o": [
+"窓の鍵をかけ忘れた",
+"窓に鍵をかけたことを忘れた",
+"窓を鍵で開けた",
+"窓の鍵を持ち忘れた"
+],
+"a": "窓の鍵をかけ忘れた",
+"w": "forget to ～＝（これから）～するのを忘れる。forget ～ing＝～したことを忘れる。"
+},
+{
+"id": "s021",
+"t": "分詞構文：時（～して／～したとき）",
+"rule": "分詞構文は接続詞＋主語を省いた形。意味は文脈から「時・理由・条件・譲歩・付帯状況」を判断する。",
+"ex": "Opening the door, I found a goose on the sofa.",
+"exJa": "ドアを開けると、ソファの上にガチョウがいた。",
+"q": "Opening the door の意味は？",
+"o": [
+"ドアを開けたとき",
+"ドアを開けるために",
+"ドアを開けるので",
+"ドアを開けても"
+],
+"a": "ドアを開けたとき",
+"w": "When I opened the door に書き換えられる。分詞の意味上の主語は主節の主語 I。"
+},
+{
+"id": "s022",
+"t": "分詞構文：理由",
+"rule": "Being ～ はしばしば省略される。Being tired ＝ Because she was tired。",
+"ex": "Being tired, she went to bed early.",
+"exJa": "疲れていたので、彼女は早く寝た。",
+"q": "Being tired の意味は？",
+"o": [
+"疲れていたので",
+"疲れているのに",
+"疲れたら",
+"疲れるために"
+],
+"a": "疲れていたので",
+"w": "理由を表す分詞構文。"
+},
+{
+"id": "s023",
+"t": "付帯状況 with ＋ O ＋ 分詞",
+"rule": "with＋O＋分詞／形容詞／副詞句＝Oが～の状態で。O と分詞の関係で現在・過去分詞を選ぶ。",
+"ex": "He sat with his arms folded.",
+"exJa": "彼は腕を組んですわっていた。",
+"q": "folded の形の理由は？",
+"o": [
+"arms は「組まれる」側だから",
+"arms が組む側だから",
+"過去の出来事だから",
+"動名詞だから"
+],
+"a": "arms は「組まれる」側だから",
+"w": "his arms は「組まれる」ので過去分詞 folded。with his eyes closed なども同じ。"
+},
+{
+"id": "s024",
+"t": "付帯状況の分詞構文（～しながら）",
+"rule": "分詞構文が「同時に起こる動作」を表す。主節の後ろに置くことが多い。",
+"ex": "She walked along the street, singing loudly.",
+"exJa": "彼女は大声で歌いながら通りを歩いた。",
+"q": "singing の意味は？",
+"o": [
+"歌いながら",
+"歌ったので",
+"歌えば",
+"歌ったあとで"
+],
+"a": "歌いながら",
+"w": "同時進行の付帯状況。"
+},
+{
+"id": "s025",
+"t": "完了形の分詞構文（Having 過去分詞）",
+"rule": "主節より前のことは Having ＋ 過去分詞。「～したあとで／～したので」。",
+"ex": "Having finished the homework, I ate three donuts.",
+"exJa": "宿題を終えてから、私はドーナツを3個食べた。",
+"q": "先に起こったのは？",
+"o": [
+"宿題を終えたこと",
+"ドーナツを食べたこと",
+"同時",
+"どちらでもよい"
+],
+"a": "宿題を終えたこと",
+"w": "Having finished ＝ After I had finished。"
+},
+{
+"id": "s026",
+"t": "受動の分詞構文（Being 過去分詞）",
+"rule": "Being 過去分詞の Being は省略されることが多く、過去分詞から始まる文になる。",
+"ex": "Written in simple English, the book is easy for beginners.",
+"exJa": "簡単な英語で書かれているので、その本は初心者に向いている。",
+"q": "Written の前に省略されている語は？",
+"o": [
+"Being",
+"Have",
+"To",
+"Having"
+],
+"a": "Being",
+"w": "Being written の Being が省略。理由を表す（～で書かれているので）。"
+},
+{
+"id": "s027",
+"t": "独立分詞構文",
+"rule": "分詞の意味上の主語が主節の主語と異なるとき、分詞の前にその主語を置く。",
+"ex": "The rain having stopped, we went out.",
+"exJa": "雨がやんだので、私たちは外に出た。",
+"q": "The rain の働きは？",
+"o": [
+"分詞 having stopped の意味上の主語",
+"主節の主語",
+"目的語",
+"補語"
+],
+"a": "分詞 having stopped の意味上の主語",
+"w": "The rain は having stopped の意味上の主語。主節の主語 we とは異なる。"
+},
+{
+"id": "s028",
+"t": "慣用的な分詞構文",
+"rule": "Generally speaking（一般的に言えば）、Judging from（～から判断すると）などは主語の一致を問わず使える。",
+"ex": "Generally speaking, cats are lazier than dogs.",
+"exJa": "一般的に言えば、ネコは犬よりなまけ者だ。",
+"q": "Generally speaking の意味は？",
+"o": [
+"一般的に言えば",
+"一般人が話す",
+"話す将軍",
+"一般に話されている"
+],
+"a": "一般的に言えば",
+"w": "慣用の分詞構文。ほかに Strictly speaking／Considering ～／Granting that ～ など。"
+},
+{
+"id": "s029",
+"t": "感情を表す分詞：現在分詞か過去分詞か",
+"rule": "感情動詞（bore・surprise・excite など）は、「させる側」＝現在分詞、「される側」＝過去分詞。",
+"ex": "The students were bored because the lecture was boring.",
+"exJa": "授業が退屈だったので、生徒たちは退屈していた。",
+"q": "正しいのは？",
+"o": [
+"生徒＝bored、授業＝boring",
+"生徒＝boring、授業＝bored",
+"どちらも bored",
+"どちらも boring"
+],
+"a": "生徒＝bored、授業＝boring",
+"w": "人は退屈「させられる」側＝bored、授業は退屈「させる」側＝boring。"
+},
+{
+"id": "s030",
+"t": "分詞の後置修飾",
+"rule": "分詞が他の語句を伴うと名詞の後ろに置く。現在分詞＝能動（～している）、過去分詞＝受動（～された）。",
+"ex": "The boy standing by the door is my cousin, and the letter written by him is on the desk.",
+"exJa": "ドアのそばに立っている少年は私のいとこで、彼が書いた手紙は机の上にある。",
+"q": "written by him が修飾しているのは？",
+"o": [
+"the letter",
+"the desk",
+"the door",
+"my cousin"
+],
+"a": "the letter",
+"w": "過去分詞句 written by him は the letter を後ろから修飾。"
+},
+{
+"id": "s031",
+"t": "関係代名詞：主格",
+"rule": "who／which／that が節の中で主語の働きをする。",
+"ex": "I know a girl who can eat ten donuts in one minute.",
+"exJa": "私は、1分でドーナツを10個食べられる女の子を知っている。",
+"q": "who の先行詞は？",
+"o": [
+"a girl",
+"I",
+"ten donuts",
+"one minute"
+],
+"a": "a girl",
+"w": "who 以下が a girl を修飾する。who は節内の主語。"
+},
+{
+"id": "s032",
+"t": "関係代名詞：目的格の省略",
+"rule": "目的格の関係代名詞は省略できる。名詞＋S＋Vの並びに注意。",
+"ex": "The cat I fed yesterday brought a friend.",
+"exJa": "私が昨日えさをやったネコが、友だちを連れてきた。",
+"q": "省略されている語は？",
+"o": [
+"that（または which）",
+"what",
+"whose",
+"where"
+],
+"a": "that（または which）",
+"w": "The cat (that) I fed yesterday ＝ 目的格が省略された形。"
+},
+{
+"id": "s033",
+"t": "関係代名詞：所有格 whose",
+"rule": "whose＋名詞＝その人（物）の～。先行詞が人でも物でも使える。",
+"ex": "I met a man whose dog can open the fridge.",
+"exJa": "私は、冷蔵庫を開けられる犬を飼っている男性に会った。",
+"q": "whose dog の意味は？",
+"o": [
+"その男性の犬",
+"その犬の男性",
+"誰の犬",
+"犬のようなその男"
+],
+"a": "その男性の犬",
+"w": "whose dog＝先行詞 a man の犬。"
+},
+{
+"id": "s034",
+"t": "前置詞＋関係代名詞",
+"rule": "関係詞節の中で前置詞の目的語になる場合、前置詞＋which／whom の形にできる。",
+"ex": "The house in which she lives is older than the cat.",
+"exJa": "彼女が住んでいる家は、そのネコより古い。",
+"q": "in which を使わない言い換えは？",
+"o": [
+"The house which she lives in",
+"The house where she lives in",
+"The house she lives",
+"The house in she lives"
+],
+"a": "The house which she lives in",
+"w": "She lives in the house ← in which が前に出た形。which she lives in が同じ意味。where なら in は不要。"
+},
+{
+"id": "s035",
+"t": "関係代名詞の非制限用法（, which）",
+"rule": "コンマ＋which は先行詞または前文全体について補足する。「そして／ところが」と訳す。",
+"ex": "He passed the exam, which surprised everyone.",
+"exJa": "彼は試験に合格した。そしてそのことはみんなを驚かせた。",
+"q": "which の指すものは？",
+"o": [
+"He passed the exam（前文全体）",
+"the exam だけ",
+"everyone",
+"he"
+],
+"a": "He passed the exam（前文全体）",
+"w": "コンマ＋which は前文全体を受けることがある。"
+},
+{
+"id": "s036",
+"t": "関係代名詞 what",
+"rule": "what＝the thing(s) which。先行詞を含み、名詞節を作る。",
+"ex": "What surprised me was his silence.",
+"exJa": "私を驚かせたのは、彼の沈黙だった。",
+"q": "What 以下の働きは？",
+"o": [
+"名詞節（主語）",
+"形容詞節",
+"副詞節",
+"独立した疑問文"
+],
+"a": "名詞節（主語）",
+"w": "What surprised me が主語、was が動詞、his silence が補語。"
+},
+{
+"id": "s037",
+"t": "関係副詞 where／when／why",
+"rule": "先行詞が場所・時・理由のとき、関係副詞が節の中で副詞の働きをする。",
+"ex": "This is the café where I met a talking parrot.",
+"exJa": "ここが、私がしゃべるオウムに会ったカフェだ。",
+"q": "where の言い換えは？",
+"o": [
+"in which",
+"of which",
+"which",
+"whom"
+],
+"a": "in which",
+"w": "where ＝ in which。後ろには完全な文が続く（目的語が欠けていない）。"
+},
+{
+"id": "s038",
+"t": "複合関係詞 whatever など",
+"rule": "whatever＝no matter what／anything that。譲歩か名詞節かを文脈で見分ける。",
+"ex": "Whatever you say, I won't eat it.",
+"exJa": "君が何を言おうと、私はそれを食べない。",
+"q": "Whatever you say の意味は？",
+"o": [
+"何を言おうと",
+"言うことは何でも",
+"何も言わない",
+"言ったこと"
+],
+"a": "何を言おうと",
+"w": "譲歩＝no matter what you say。名詞節なら「～することは何でも」。"
+},
+{
+"id": "s039",
+"t": "関係代名詞 as（the same ～ as／such ～ as）",
+"rule": "the same A as B（Bと同じA）、such A as B（Bのような A）などの as は関係代名詞。",
+"ex": "He bought the same bag as I lost.",
+"exJa": "彼は、私がなくしたのと同じかばんを買った。",
+"q": "as I lost の働きは？",
+"o": [
+"the same bag を修飾",
+"bag に等しい動詞",
+"接続詞 as 「～なので」",
+"the bag を買った理由"
+],
+"a": "the same bag を修飾",
+"w": "the same A as ～ 型。as は節内の lost の目的語として働く。"
+},
+{
+"id": "s040",
+"t": "連鎖関係詞節（I think が挿入）",
+"rule": "関係代名詞の後ろに I think／I believe などが入ると、関係詞節の主語が見えにくくなる。",
+"ex": "This is the boy who I think is the best player.",
+"exJa": "この少年が、最高の選手だと私が思う子だ。",
+"q": "is の主語は？",
+"o": [
+"who",
+"I",
+"the boy",
+"the best player"
+],
+"a": "who",
+"w": "who is the best player ＋ I think の挿入。who は主格。whom と書くのは誤り。"
+},
+{
+"id": "s041",
+"t": "as ～ as の否定と倍数",
+"rule": "not as／so ～ as＝～ほど…ない。倍数は twice／three times as ～ as。",
+"ex": "This pizza is twice as large as that one.",
+"exJa": "このピザは、あのピザの2倍の大きさだ。",
+"q": "正しい訳は？",
+"o": [
+"あれの2倍の大きさ",
+"あれの半分の大きさ",
+"あれより2cm 大きい",
+"あれと同じ大きさ"
+],
+"a": "あれの2倍の大きさ",
+"w": "twice as large as ～＝～の2倍の大きさ。倍数表現は as ～ as の前に置く。"
+},
+{
+"id": "s042",
+"t": "not so much A as B",
+"rule": "A というよりむしろ B。B rather than A と同じ。",
+"ex": "He is not so much a singer as a comedian.",
+"exJa": "彼は歌手というより、むしろコメディアンだ。",
+"q": "正しい訳は？",
+"o": [
+"歌手というよりコメディアン",
+"歌手ほど有名ではない",
+"コメディアンではなく歌手",
+"歌手でもコメディアンでもない"
+],
+"a": "歌手というよりコメディアン",
+"w": "not so much A as B＝AというよりB。AとBは比較する語を並べる。"
+},
+{
+"id": "s043",
+"t": "the ＋ 比較級 ＋ of the two",
+"rule": "2つのうち、より～な方。比較級でも the が付く。",
+"ex": "She is the taller of the two sisters.",
+"exJa": "彼女は2人姉妹のうち、背が高い方だ。",
+"q": "the taller の the が付く理由は？",
+"o": [
+"of the two で限定されるから",
+"taller が最上級だから",
+"she が特別だから",
+"冠詞は常に付くから"
+],
+"a": "of the two で限定されるから",
+"w": "2者のうちでは比較級でも the を付ける（of the two）。"
+},
+{
+"id": "s044",
+"t": "比較級 than any other ＋ 単数名詞",
+"rule": "最上級の意味を比較級で表す。than any other は単数名詞を伴う。",
+"ex": "Mt. Fuji is higher than any other mountain in Japan.",
+"exJa": "富士山は日本のほかのどの山よりも高い。",
+"q": "同じ意味の文は？",
+"o": [
+"Mt. Fuji is the highest mountain in Japan.",
+"Mt. Fuji is as high as any mountain.",
+"Mt. Fuji is one of the mountains.",
+"Mt. Fuji is not high."
+],
+"a": "Mt. Fuji is the highest mountain in Japan.",
+"w": "〈比較級 than any other 単数〉＝〈the 最上級〉。"
+},
+{
+"id": "s045",
+"t": "much less／still less（まして～ない）",
+"rule": "否定文のあとで「まして～ない」。肯定文なら much more／still more。",
+"ex": "He cannot speak English, much less write it.",
+"exJa": "彼は英語を話せないし、まして書けるはずもない。",
+"q": "much less の意味は？",
+"o": [
+"まして～ない",
+"ずっと少ない",
+"もっとたくさん",
+"同じくらい"
+],
+"a": "まして～ない",
+"w": "否定文＋much less ～＝まして～ない。"
+},
+{
+"id": "s046",
+"t": "the ＋ 最上級 ＋ (that) I have ever ～",
+"rule": "経験を表す最上級。「今まで～したなかで最も…」。",
+"ex": "It is the best pizza I have ever eaten.",
+"exJa": "これは、私が今までに食べたなかで最高のピザだ。",
+"q": "I have ever eaten の働きは？",
+"o": [
+"pizza を修飾する関係詞節（that が省略）",
+"主節",
+"目的語",
+"理由を表す副詞節"
+],
+"a": "pizza を修飾する関係詞節（that が省略）",
+"w": "the best pizza (that) I have ever eaten ＝ 最上級を修飾する関係詞節。"
+},
+{
+"id": "s047",
+"t": "the 比較級, the 比較級",
+"rule": "～すればするほど…。前半は従属節、後半は主節。",
+"ex": "The harder you study, the better your grades will become.",
+"exJa": "一生懸命勉強するほど、成績はよくなる。",
+"q": "前半の The harder の品詞は？",
+"o": [
+"副詞（ふつうは hard）",
+"名詞",
+"動詞",
+"冠詞だけ"
+],
+"a": "副詞（ふつうは hard）",
+"w": "〈the 比較級 S V, the 比較級 S V〉。この the は「それだけ」の意味の副詞。"
+},
+{
+"id": "s048",
+"t": "A is to B what C is to D",
+"rule": "AとBの関係は、CとDの関係と同じ。",
+"ex": "Reading is to the mind what food is to the body.",
+"exJa": "読書と心の関係は、食べ物と体の関係と同じだ。",
+"q": "what の意味は？",
+"o": [
+"～のもの（関係詞）",
+"何？（疑問詞）",
+"～こと",
+"～ほど"
+],
+"a": "～のもの（関係詞）",
+"w": "A is to B what C is to D ＝ AのBに対する関係は、CのDに対する関係に等しい。"
+},
+{
+"id": "s049",
+"t": "Nothing is so/more ～ as/than ...（最上級の書き換え）",
+"rule": "否定語＋比較級／原級で最上級の意味になる。",
+"ex": "Nothing is more precious than time.",
+"exJa": "時間ほど貴重なものはない。",
+"q": "同じ意味の文は？",
+"o": [
+"Time is the most precious thing.",
+"Time is less precious than nothing.",
+"Nothing is time.",
+"Time is not precious."
+],
+"a": "Time is the most precious thing.",
+"w": "Nothing is more ～ than A ＝ A is the most ～。"
+},
+{
+"id": "s050",
+"t": "no more ～ than（クジラの構文）",
+"rule": "A is no more B than C is B＝CがBでないのと同様、AもBでない。",
+"ex": "A cat is no more a dog than a stone is a bird.",
+"exJa": "石が鳥でないように、ネコは犬ではない。",
+"q": "言いたいことは？",
+"o": [
+"ネコは犬でない（当然）",
+"ネコは犬よりも少ない",
+"石は鳥より大きい",
+"ネコは犬のようなものだ"
+],
+"a": "ネコは犬でない（当然）",
+"w": "no more A than B は「どちらも否定」。クジラの構文として有名。"
+},
+{
+"id": "s051",
+"t": "否定語句の倒置（Never／Little／Hardly）",
+"rule": "否定の副詞が文頭に出ると、疑問文の語順（助動詞＋S＋V）になる。",
+"ex": "Never have I seen such a loud goose.",
+"exJa": "あんなにうるさいガチョウは見たことがない。",
+"q": "倒置の理由は？",
+"o": [
+"Never が文頭に出たから",
+"I が強調されたから",
+"疑問文だから",
+"命令文だから"
+],
+"a": "Never が文頭に出たから",
+"w": "文頭の否定語（Never／Hardly／Little／Seldom）のあとは倒置。"
+},
+{
+"id": "s052",
+"t": "Only ＋ 副詞（句・節）の倒置",
+"rule": "Only＋副詞（句・節）が文頭に出ると、主節が倒置される。",
+"ex": "Only after the rain stopped did we leave.",
+"exJa": "雨がやんでからはじめて、私たちは出発した。",
+"q": "did we leave の語順の理由は？",
+"o": [
+"Only after ～ が文頭だから",
+"疑問文だから",
+"仮定法だから",
+"過去完了だから"
+],
+"a": "Only after ～ が文頭だから",
+"w": "Only after ～ が文頭で、主節が疑問文の語順（did we leave）。"
+},
+{
+"id": "s053",
+"t": "So ＋ 形容詞 ～ that の倒置",
+"rule": "So＋形容詞＋助動詞／be＋S… that ～ は結果を強調した形。",
+"ex": "So tired was he that he fell asleep in the soup.",
+"exJa": "彼はとても疲れていたので、スープの中で寝てしまった。",
+"q": "元の文は？",
+"o": [
+"He was so tired that ...",
+"He so was tired that ...",
+"So he tired that ...",
+"He was tired so that ..."
+],
+"a": "He was so tired that ...",
+"w": "So tired was he that ～ ＝ He was so tired that ～。"
+},
+{
+"id": "s054",
+"t": "So／Neither ＋ 助動詞 ＋ S（～もそうだ）",
+"rule": "So do I.＝私もそうだ。Neither do I.＝私もそうでない。",
+"ex": "I don't like spiders, and neither does my sister.",
+"exJa": "私はクモが好きではないし、姉もそうだ。",
+"q": "neither does my sister の意味は？",
+"o": [
+"姉も好きではない",
+"姉も好きだ",
+"姉は好きだが私は違う",
+"姉はクモを好まない（私はわからない）"
+],
+"a": "姉も好きではない",
+"w": "neither＋助動詞＋S＝Sも～ない。前の文が否定のとき。"
+},
+{
+"id": "s055",
+"t": "場所の副詞（句）の倒置",
+"rule": "方向・場所を表す副詞句が文頭にくると、V＋S の語順になることがある。",
+"ex": "Among the guests was a famous singer.",
+"exJa": "客のなかには、有名な歌手がいた。",
+"q": "主語はどれ？",
+"o": [
+"a famous singer",
+"the guests",
+"Among",
+"was"
+],
+"a": "a famous singer",
+"w": "Among the guests was a famous singer. の主語は後ろの a famous singer。was と数が一致する。"
+},
+{
+"id": "s056",
+"t": "強調構文 It is ～ that ...",
+"rule": "It is ～ that ... は「…なのは～だ」。～に副詞句や名詞を置いて強調する。",
+"ex": "It was the cat that ate my homework, not the dog.",
+"exJa": "私の宿題を食べたのは、犬ではなくネコだった。",
+"q": "強調されているのは？",
+"o": [
+"the cat",
+"ate",
+"homework",
+"the dog"
+],
+"a": "the cat",
+"w": "It was ～ that ... の ～ にある the cat が強調。that を who に変えてもよい。"
+},
+{
+"id": "s057",
+"t": "動詞・疑問詞の強調（do／on earth）",
+"rule": "do は肯定文の動詞を強調。on earth／in the world は疑問詞を強調。",
+"ex": "What on earth are you doing with my hat?",
+"exJa": "いったい私の帽子で何をしているの？",
+"q": "on earth の意味は？",
+"o": [
+"いったい（疑問詞の強調）",
+"地球上で",
+"地面の上で",
+"実際に"
+],
+"a": "いったい（疑問詞の強調）",
+"w": "疑問詞の後ろの on earth／in the world／ever は「いったい」。"
+},
+{
+"id": "s058",
+"t": "接続詞＋分詞（省略）",
+"rule": "when／while／if／though などのあと、〈S＋be〉が省略されて分詞や形容詞が来ることがある。",
+"ex": "When asked about the missing cake, he said nothing.",
+"exJa": "なくなったケーキについて聞かれたとき、彼は何も言わなかった。",
+"q": "When asked の元の形は？",
+"o": [
+"When he was asked",
+"When he asks",
+"When asking him",
+"When he will ask"
+],
+"a": "When he was asked",
+"w": "When (he was) asked ～。主節の主語 he と一致するとき〈S＋be〉を省略できる。"
+},
+{
+"id": "s059",
+"t": "代不定詞（to だけ残す）",
+"rule": "同じ動詞の繰り返しを避けて to だけを置く。",
+"ex": "I didn't go to the party, though I wanted to.",
+"exJa": "パーティーには行かなかったが、行きたかった。",
+"q": "wanted to のあとに省略されている語句は？",
+"o": [
+"go to the party",
+"goes",
+"to go to",
+"do not go"
+],
+"a": "go to the party",
+"w": "wanted to (go to the party)。不定詞の反復を避ける代不定詞。"
+},
+{
+"id": "s060",
+"t": "省略：if possible／if necessary／if any",
+"rule": "if ＋形容詞・分詞のとき、〈S＋be〉が省略される。",
+"ex": "Please come early, if possible.",
+"exJa": "できれば、早く来てください。",
+"q": "if possible の元の形は？",
+"o": [
+"if it is possible",
+"if possible is",
+"if possibly",
+"if you possible"
+],
+"a": "if it is possible",
+"w": "if (it is) possible。同様に if necessary／if any／if ever。"
+},
+{
+"id": "s061",
+"t": "部分否定",
+"rule": "all／every／both／always／necessarily などと not の組み合わせは「すべてが～というわけではない」。",
+"ex": "I don't know all of them, but I know the loudest one.",
+"exJa": "全員を知っているわけではないが、いちばん声の大きい人は知っている。",
+"q": "I don't know all of them. の意味は？",
+"o": [
+"全員を知っているわけではない",
+"誰も知らない",
+"全員を知っている",
+"全員を知りたくない"
+],
+"a": "全員を知っているわけではない",
+"w": "not＋all＝部分否定。全部否定なら I know none of them。"
+},
+{
+"id": "s062",
+"t": "二重否定",
+"rule": "no ～ without ...／never ～ without ...＝…なしに～しない→必ず…する。",
+"ex": "There is no rule without exceptions.",
+"exJa": "例外のない規則はない。",
+"q": "言いたいことは？",
+"o": [
+"どんな規則にも例外がある",
+"規則は絶対だ",
+"例外は規則の一部ではない",
+"規則を持たない人はいない"
+],
+"a": "どんな規則にも例外がある",
+"w": "no ～ without ... ＝ 必ず ... を伴う。"
+},
+{
+"id": "s063",
+"t": "never ～ without ...ing",
+"rule": "never A without B＝AするときはいつもB。",
+"ex": "He never sees me without smiling.",
+"exJa": "彼は私に会うたびに、必ず笑う。",
+"q": "正しい訳は？",
+"o": [
+"会うたびに笑う",
+"笑わないで会う",
+"会わずに笑う",
+"笑った後にしか会わない"
+],
+"a": "会うたびに笑う",
+"w": "never ～ without ...ing＝～すれば必ず…する。"
+},
+{
+"id": "s064",
+"t": "譲歩：形容詞 as S V",
+"rule": "形容詞（名詞）＋as＋S＋V＝Sは～だけれど。",
+"ex": "Young as he is, he can fix the oven.",
+"exJa": "彼は若いけれど、オーブンを直せる。",
+"q": "Young as he is の意味は？",
+"o": [
+"若いけれども",
+"若いので",
+"若くなるために",
+"若い彼を"
+],
+"a": "若いけれども",
+"w": "〈形容詞 as S V〉＝Though S V。Though he is young。"
+},
+{
+"id": "s065",
+"t": "譲歩：However ～, ／ No matter how ～",
+"rule": "However 形容詞／副詞 S V＝どんなに～でも。",
+"ex": "However hard I try, I cannot wake up at six.",
+"exJa": "どんなにがんばっても、私は6時に起きられない。",
+"q": "However hard の意味は？",
+"o": [
+"どんなに一生懸命でも",
+"しかし難しい",
+"どうやっても難しい",
+"もっと難しく"
+],
+"a": "どんなに一生懸命でも",
+"w": "however＋形容詞／副詞＝no matter how ～。"
+},
+{
+"id": "s066",
+"t": "仮定法過去（現在の事実の反対）",
+"rule": "If S 過去形, S would＋原形。「もし～なら…だろうに」。",
+"ex": "If I were you, I would not eat that.",
+"exJa": "もし私が君なら、それは食べない。",
+"q": "この文が表すのは？",
+"o": [
+"現在の事実の反対",
+"過去の事実の反対",
+"未来の確実な予定",
+"習慣"
+],
+"a": "現在の事実の反対",
+"w": "If I were you ～ は仮定法過去。be 動詞は主語に関係なく were が基本。"
+},
+{
+"id": "s067",
+"t": "仮定法過去完了（過去の事実の反対）",
+"rule": "If S had＋過去分詞, S would have＋過去分詞。「もし～だったなら…だっただろうに」。",
+"ex": "If I had known, I would have brought a bigger bag.",
+"exJa": "もし知っていたなら、もっと大きいかばんを持ってきたのに。",
+"q": "実際はどうだった？",
+"o": [
+"知らなかったので大きいかばんを持ってこなかった",
+"知っていたので大きいかばんを持ってきた",
+"大きいかばんをもっていた",
+"知らなかったが持ってきた"
+],
+"a": "知らなかったので大きいかばんを持ってこなかった",
+"w": "仮定法過去完了＝過去の事実の反対。"
+},
+{
+"id": "s068",
+"t": "I wish ＋ 仮定法",
+"rule": "I wish S 過去形＝今そうだったらいいのに。I wish S 過去完了＝あのときそうだったらよかったのに。",
+"ex": "I wish I could talk to my cat.",
+"exJa": "ネコと話せたらいいのに。",
+"q": "I wish I could の意味は？",
+"o": [
+"話せたらいいのに（現実は話せない）",
+"話せてよかった",
+"話せるはずだ",
+"話したい（話せる）"
+],
+"a": "話せたらいいのに（現実は話せない）",
+"w": "I wish＋過去形（could）は現在の実現不可能な願望。"
+},
+{
+"id": "s069",
+"t": "as if ＋ 仮定法",
+"rule": "as if S 過去形＝まるで～であるかのように。主節と同時の内容を表す。",
+"ex": "He talks as if he were a king.",
+"exJa": "彼はまるで王様であるかのように話す。",
+"q": "実際の彼は？",
+"o": [
+"王様ではない",
+"王様である",
+"王様だった",
+"王様になる予定"
+],
+"a": "王様ではない",
+"w": "as if S were ～ ＝ 事実に反する想定。"
+},
+{
+"id": "s070",
+"t": "Without／But for ～（もし～がなければ）",
+"rule": "But for／Without＋名詞＝If it were not for ～／If it had not been for ～。",
+"ex": "But for your help, I would have failed.",
+"exJa": "君の助けがなかったら、失敗していただろう。",
+"q": "この文の仮定法は？",
+"o": [
+"仮定法過去完了",
+"仮定法過去",
+"仮定法現在",
+"直説法"
+],
+"a": "仮定法過去完了",
+"w": "would have failed から仮定法過去完了。But for ～＝If it had not been for ～。"
+},
+{
+"id": "s071",
+"t": "同格の that",
+"rule": "名詞＋that 節。fact／idea／news／belief など、その名詞の内容を説明する。",
+"ex": "The fact that he lied surprised us.",
+"exJa": "彼がうそをついた事実が、私たちを驚かせた。",
+"q": "that he lied の働きは？",
+"o": [
+"fact の内容を説明",
+"fact を修飾する関係詞節",
+"主語",
+"目的語"
+],
+"a": "fact の内容を説明",
+"w": "同格の that 節。The fact (which) ～ とはちがい、that のあとの文は完全。"
+},
+{
+"id": "s072",
+"t": "同格の of／コンマ",
+"rule": "the city of Kyoto＝京都という都市。my friend, Ken ＝ 友人のケン。",
+"ex": "The city of Kyoto is famous for temples and tiny sleepy cats.",
+"exJa": "京都という街は、お寺と小さな眠そうなネコで有名だ。",
+"q": "of の意味は？",
+"o": [
+"同格（～という）",
+"所有（～の）",
+"起点（～から）",
+"材料（～でできた）"
+],
+"a": "同格（～という）",
+"w": "the city of Kyoto＝Kyoto という都市。"
+},
+{
+"id": "s073",
+"t": "挿入句 I think／I hear",
+"rule": "文の途中に I think／I hear／it seems などが挿入されることがある。",
+"ex": "He is, I think, the best player in the school.",
+"exJa": "彼は、私の考えでは、学校で最高の選手だ。",
+"q": "I think の働きは？",
+"o": [
+"挿入（文全体の意見）",
+"主節",
+"条件節",
+"目的語"
+],
+"a": "挿入（文全体の意見）",
+"w": "コンマで挟まれた I think は挿入。取り除いても文が成り立つ。"
+},
+{
+"id": "s074",
+"t": "if any／if ever／if anything",
+"rule": "「あったとしても」「あるとすれば」。few／little／seldom と一緒に使う。",
+"ex": "There are few, if any, mistakes in this essay.",
+"exJa": "この作文にまちがいは、あったとしても、ほとんどない。",
+"q": "if any の意味は？",
+"o": [
+"あるとしても",
+"もし何かあれば",
+"もし誰か",
+"いくつでも"
+],
+"a": "あるとしても",
+"w": "few, if any ＝ ほとんどない（あったとしても）。"
+},
+{
+"id": "s075",
+"t": "as ～ as ever／as ～ as any",
+"rule": "as ～ as ever＝相変わらず～。as ～ as any＝誰（何）にも劣らず～。",
+"ex": "She is as kind as ever, even to the goose.",
+"exJa": "彼女は相変わらず親切で、ガチョウにまでそうだ。",
+"q": "as kind as ever の意味は？",
+"o": [
+"相変わらず親切",
+"今までで最も親切",
+"親切になりつつある",
+"以前ほど親切でない"
+],
+"a": "相変わらず親切",
+"w": "as ～ as ever＝いつもと変わらず～。"
+},
+{
+"id": "s076",
+"t": "not ～ until ...",
+"rule": "…するまでは～しない→…してはじめて～する。",
+"ex": "I did not realize the truth until he left.",
+"exJa": "彼が去ってはじめて、私は真実に気づいた。",
+"q": "正しい訳は？",
+"o": [
+"去ってはじめて気づいた",
+"去るまで気づいていた",
+"去ったので気づかなかった",
+"去らなければ気づいていた"
+],
+"a": "去ってはじめて気づいた",
+"w": "not ～ until ... ＝ …してはじめて～する。"
+},
+{
+"id": "s077",
+"t": "lest ～ should ／ for fear (that)",
+"rule": "lest S (should) 原形＝～しないように。否定の意味を含むので not は不要。",
+"ex": "He ran fast lest he should miss the bus.",
+"exJa": "彼はバスに乗り遅れないように、速く走った。",
+"q": "lest he should miss の意味は？",
+"o": [
+"乗り遅れないように",
+"乗り遅れたので",
+"乗り遅れても",
+"乗り遅れるほど"
+],
+"a": "乗り遅れないように",
+"w": "lest S should ～＝～しないように（for fear that S might ～）。"
+},
+{
+"id": "s078",
+"t": "It is not that ～ but that ...",
+"rule": "「～というわけではなく、…だからだ」。理由の否定。",
+"ex": "It is not that I dislike soup, but that I dislike hot soup.",
+"exJa": "スープが嫌いなのではなく、熱いスープが嫌いなのだ。",
+"q": "言いたいことは？",
+"o": [
+"スープが嫌いなわけではない",
+"熱いスープが好きだ",
+"スープを飲まない",
+"熱いものが好きだ"
+],
+"a": "スープが嫌いなわけではない",
+"w": "It is not that ～ but that ... ＝ ～ではなく、…なのだ。"
+},
+{
+"id": "s079",
+"t": "what is called／what we call",
+"rule": "いわゆる～。what is called / what we call は挿入的に使う。",
+"ex": "He is what is called a bookworm, and he reads at lunch.",
+"exJa": "彼はいわゆる本の虫で、昼食の間も読んでいる。",
+"q": "what is called の意味は？",
+"o": [
+"いわゆる",
+"何と呼ぶか",
+"呼ばれたこと",
+"呼ぶべきもの"
+],
+"a": "いわゆる",
+"w": "what is called＝いわゆる。so-called と同義。"
+},
+{
+"id": "s080",
+"t": "in that ～（～という点で）",
+"rule": "in that S V＝～という点で／～なので。接続詞的に使う。",
+"ex": "Humans differ from other animals in that they can use language.",
+"exJa": "人間は、言語を使えるという点でほかの動物とちがう。",
+"q": "in that の意味は？",
+"o": [
+"～という点で",
+"～の中に",
+"～ほど",
+"～でさえ"
+],
+"a": "～という点で",
+"w": "in that ～ ＝ ～という点で。because に近い場合もある。"
+}
+]
+}
