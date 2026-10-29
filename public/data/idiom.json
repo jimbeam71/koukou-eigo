@@ -28,6 +28,10 @@
 {
 "n": 7,
 "title": "動詞＋A＋前置詞＋B の型"
+},
+{
+"n": 8,
+"title": "慣用構文・重要構文イディオム"
 }
 ],
 "items": [
@@ -3180,6 +3184,456 @@
 "ex": "Everyone congratulated me on passing, even the teacher who looked surprised.",
 "exJa": "みんなが合格を祝ってくれた。驚いた顔の先生までも。",
 "batch": 7
+},
+{
+"id": "i351",
+"en": "It goes without saying that ~",
+"ja": "～は言うまでもない",
+"sf": "It goes without saying that",
+"ex": "It goes without saying that cats rule the house.",
+"exJa": "ネコが家を支配していることは、言うまでもない。",
+"batch": 8
+},
+{
+"id": "i352",
+"en": "cannot help ~ing",
+"ja": "～せずにはいられない",
+"sf": "cannot help laughing",
+"ex": "I cannot help laughing when my dog wears a hat.",
+"exJa": "犬が帽子をかぶると、笑わずにはいられない。",
+"batch": 8
+},
+{
+"id": "i353",
+"en": "cannot but ~",
+"ja": "～せざるをえない",
+"sf": "cannot but admit",
+"ex": "I cannot but admit that the soup was awful.",
+"exJa": "そのスープがひどかったことは、認めざるをえない。",
+"batch": 8
+},
+{
+"id": "i354",
+"en": "be worth ~ing",
+"ja": "～する価値がある",
+"sf": "is worth visiting",
+"ex": "This town is worth visiting just for the ducks.",
+"exJa": "この町は、アヒルを見るだけでも訪れる価値がある。",
+"batch": 8
+},
+{
+"id": "i355",
+"en": "It is no use ~ing",
+"ja": "～してもむだだ",
+"sf": "It is no use crying",
+"ex": "It is no use crying over spilled soup.",
+"exJa": "こぼれたスープのことで泣いてもむだだ。",
+"batch": 8
+},
+{
+"id": "i356",
+"en": "There is no ~ing",
+"ja": "～することはできない",
+"sf": "There is no telling",
+"ex": "There is no telling what my cat will do next.",
+"exJa": "うちのネコが次に何をするかは、わからない。",
+"batch": 8
+},
+{
+"id": "i357",
+"en": "feel like ~ing",
+"ja": "～したい気がする",
+"sf": "feel like eating",
+"ex": "I feel like eating pizza for breakfast, lunch and dinner.",
+"exJa": "朝も昼も晩もピザを食べたい気分だ。",
+"batch": 8
+},
+{
+"id": "i358",
+"en": "have difficulty ~ing",
+"ja": "～するのに骨が折れる",
+"sf": "have difficulty waking",
+"ex": "I have difficulty waking up on days that end in y.",
+"exJa": "私は、曜日名がyで終わる日はすべて、起きるのに苦労する。",
+"batch": 8
+},
+{
+"id": "i359",
+"en": "spend A ~ing",
+"ja": "Aを～して過ごす",
+"sf": "spent two hours looking",
+"ex": "He spent two hours looking for the glasses on his head.",
+"exJa": "彼は、頭の上のメガネを2時間探した。",
+"batch": 8
+},
+{
+"id": "i360",
+"en": "be busy ~ing",
+"ja": "～するのに忙しい",
+"sf": "is busy doing",
+"ex": "Mom is busy doing nothing, and she is great at it.",
+"exJa": "母は何もしないのに忙しく、それがとても上手だ。",
+"batch": 8
+},
+{
+"id": "i361",
+"en": "look forward to ~ing",
+"ja": "～を心待ちにする",
+"sf": "look forward to seeing",
+"ex": "I look forward to seeing you, and your cake.",
+"exJa": "君に会うのも、君のケーキも楽しみにしている。",
+"batch": 8
+},
+{
+"id": "i362",
+"en": "be used to ~ing",
+"ja": "～に慣れている",
+"sf": "am used to waking",
+"ex": "I am used to waking up to a cat on my face.",
+"exJa": "私は、顔にネコが乗っている状態で起きることに慣れている。",
+"batch": 8
+},
+{
+"id": "i363",
+"en": "used to ~",
+"ja": "以前は～したものだ",
+"sf": "used to be",
+"ex": "This street used to be quiet before the goose moved in.",
+"exJa": "この通りは、ガチョウが越してくる前は静かだった。",
+"batch": 8
+},
+{
+"id": "i364",
+"en": "be accustomed to ~ing",
+"ja": "～することに慣れている",
+"sf": "is accustomed to sleeping",
+"ex": "My dog is accustomed to sleeping on my homework.",
+"exJa": "うちの犬は、私の宿題の上で寝るのに慣れている。",
+"batch": 8
+},
+{
+"id": "i365",
+"en": "object to ~ing",
+"ja": "～に反対する",
+"sf": "object to eating",
+"ex": "I object to eating vegetables in the dark.",
+"exJa": "私は、暗い中で野菜を食べることに反対だ。",
+"batch": 8
+},
+{
+"id": "i366",
+"en": "when it comes to ~ing",
+"ja": "～のこととなると",
+"sf": "when it comes to cooking",
+"ex": "When it comes to cooking, my uncle is a brave man.",
+"exJa": "料理のこととなると、おじは勇気のある男だ。",
+"batch": 8
+},
+{
+"id": "i367",
+"en": "on ~ing",
+"ja": "～した途端に",
+"sf": "On arriving",
+"ex": "On arriving home, I found a duck on my sofa.",
+"exJa": "帰宅するとすぐに、ソファの上にアヒルがいるのを見つけた。",
+"batch": 8
+},
+{
+"id": "i368",
+"en": "in ~ing",
+"ja": "～するときに",
+"sf": "In choosing",
+"ex": "In choosing a pet, don't forget the size of the couch.",
+"exJa": "ペットを選ぶときは、ソファの大きさを忘れないで。",
+"batch": 8
+},
+{
+"id": "i369",
+"en": "would rather A than B",
+"ja": "BよりむしろAしたい",
+"sf": "would rather sleep",
+"ex": "I would rather sleep than do homework.",
+"exJa": "宿題をするより、むしろ寝ていたい。",
+"batch": 8
+},
+{
+"id": "i370",
+"en": "had better ~",
+"ja": "～したほうがよい",
+"sf": "had better run",
+"ex": "You had better run; the goose is back.",
+"exJa": "走ったほうがいい。ガチョウが戻ってきた。",
+"batch": 8
+},
+{
+"id": "i371",
+"en": "would like to ~",
+"ja": "～したい",
+"sf": "would like to ask",
+"ex": "I would like to ask why my cake is smaller.",
+"exJa": "私のケーキが小さい理由をうかがいたいのですが。",
+"batch": 8
+},
+{
+"id": "i372",
+"en": "may well ~",
+"ja": "～するのももっともだ",
+"sf": "may well be",
+"ex": "He may well be angry; you ate his lunch.",
+"exJa": "彼が怒るのももっともだ。君が昼食を食べたのだから。",
+"batch": 8
+},
+{
+"id": "i373",
+"en": "may as well ~",
+"ja": "～したほうがましだ",
+"sf": "may as well eat",
+"ex": "We may as well eat now; the cat already did.",
+"exJa": "もう食べたほうがましだ。ネコはもう食べたのだから。",
+"batch": 8
+},
+{
+"id": "i374",
+"en": "might as well ~",
+"ja": "～するほうがましだ",
+"sf": "might as well go",
+"ex": "We might as well go home; the ducks closed the park.",
+"exJa": "帰ったほうがましだ。アヒルたちが公園を閉めた。",
+"batch": 8
+},
+{
+"id": "i375",
+"en": "no sooner A than B",
+"ja": "AするやいなやB",
+"sf": "had no sooner sat",
+"ex": "I had no sooner sat down than the phone rang.",
+"exJa": "すわるやいなや、電話が鳴った。",
+"batch": 8
+},
+{
+"id": "i376",
+"en": "hardly A when B",
+"ja": "AしたとたんにB",
+"sf": "had hardly closed",
+"ex": "I had hardly closed my eyes when the alarm went off.",
+"exJa": "目を閉じるやいなや、目覚ましが鳴った。",
+"batch": 8
+},
+{
+"id": "i377",
+"en": "scarcely A before B",
+"ja": "AするかしないうちにB",
+"sf": "had scarcely started",
+"ex": "He had scarcely started to eat before the dog arrived.",
+"exJa": "彼が食べ始めるか始めないうちに、犬が来た。",
+"batch": 8
+},
+{
+"id": "i378",
+"en": "not only A but also B",
+"ja": "AだけでなくBも",
+"sf": "not only loud but also",
+"ex": "The goose was not only loud but also very rude.",
+"exJa": "そのガチョウはうるさいだけでなく、とても失礼だった。",
+"batch": 8
+},
+{
+"id": "i379",
+"en": "not A but B",
+"ja": "AではなくB",
+"sf": "not a cat but",
+"ex": "That is not a cat but a very fluffy pillow.",
+"exJa": "あれはネコではなく、とてもふわふわのまくらだ。",
+"batch": 8
+},
+{
+"id": "i380",
+"en": "both A and B",
+"ja": "AもBも両方",
+"sf": "both the cat and",
+"ex": "Both the cat and the dog ignored me.",
+"exJa": "ネコも犬も、両方とも私を無視した。",
+"batch": 8
+},
+{
+"id": "i381",
+"en": "either A or B",
+"ja": "AかBのどちらか",
+"sf": "either pizza or",
+"ex": "Either pizza or pasta will do, but not both on my head.",
+"exJa": "ピザかパスタのどちらかでいいが、両方を頭にのせるのはなし。",
+"batch": 8
+},
+{
+"id": "i382",
+"en": "neither A nor B",
+"ja": "AもBもどちらも～ない",
+"sf": "Neither my brother nor",
+"ex": "Neither my brother nor I remember the password.",
+"exJa": "弟も私も、パスワードを覚えていない。",
+"batch": 8
+},
+{
+"id": "i383",
+"en": "whether A or B",
+"ja": "AであろうとBであろうと",
+"sf": "whether you like it or",
+"ex": "Whether you like it or not, soup is dinner.",
+"exJa": "好きだろうと嫌いだろうと、夕食はスープだ。",
+"batch": 8
+},
+{
+"id": "i384",
+"en": "so that A can ~",
+"ja": "Aが～できるように",
+"sf": "so that I can",
+"ex": "I got up early so that I can see the sleeping panda.",
+"exJa": "眠っているパンダを見られるように、早起きした。",
+"batch": 8
+},
+{
+"id": "i385",
+"en": "so ~ that ...",
+"ja": "とても～なので…",
+"sf": "so tired that",
+"ex": "I was so tired that I fell asleep in my soup.",
+"exJa": "とても疲れていて、スープの中で寝てしまった。",
+"batch": 8
+},
+{
+"id": "i386",
+"en": "such ~ that ...",
+"ja": "あまりに～な…なので…",
+"sf": "such a loud goose that",
+"ex": "It was such a loud goose that the neighbors called a priest.",
+"exJa": "とてもうるさいガチョウだったので、近所の人が神父を呼んだ。",
+"batch": 8
+},
+{
+"id": "i387",
+"en": "too ~ to ...",
+"ja": "…するには～すぎる",
+"sf": "too sleepy to",
+"ex": "I was too sleepy to notice that I was in the wrong house.",
+"exJa": "眠すぎて、まちがった家にいることに気づかなかった。",
+"batch": 8
+},
+{
+"id": "i388",
+"en": "enough to ~",
+"ja": "～するのに十分…",
+"sf": "kind enough to",
+"ex": "The goose was kind enough to leave my shoes alone.",
+"exJa": "ガチョウは親切にも、私のくつを放っておいてくれた。",
+"batch": 8
+},
+{
+"id": "i389",
+"en": "as ~ as possible",
+"ja": "できるだけ～",
+"sf": "as quietly as possible",
+"ex": "Please eat as quietly as possible; the baby is dreaming.",
+"exJa": "赤ちゃんが夢を見ているので、できるだけ静かに食べて。",
+"batch": 8
+},
+{
+"id": "i390",
+"en": "the + 比較級, the + 比較級",
+"ja": "～すればするほど…",
+"sf": "The more I eat, the hungrier",
+"ex": "The more I eat, the hungrier I get. This is unfair.",
+"exJa": "食べれば食べるほどおなかがすく。ずるい。",
+"batch": 8
+},
+{
+"id": "i391",
+"en": "no more than ~",
+"ja": "たった～",
+"sf": "no more than five",
+"ex": "I have no more than five yen, and a lot of hope.",
+"exJa": "私はたった5円と、たくさんの希望しか持っていない。",
+"batch": 8
+},
+{
+"id": "i392",
+"en": "no less than ~",
+"ja": "～も（多く）",
+"sf": "no less than ten",
+"ex": "He ate no less than ten donuts before noon.",
+"exJa": "彼は昼前にドーナツを10個も食べた。",
+"batch": 8
+},
+{
+"id": "i393",
+"en": "not more than ~",
+"ja": "せいぜい～",
+"sf": "not more than ten",
+"ex": "We have not more than ten minutes before the goose wakes up.",
+"exJa": "ガチョウが起きるまで、せいぜい10分しかない。",
+"batch": 8
+},
+{
+"id": "i394",
+"en": "not less than ~",
+"ja": "少なくとも～",
+"sf": "not less than five",
+"ex": "You need not less than five minutes to wash that pot.",
+"exJa": "あの鍋を洗うには、少なくとも5分は必要だ。",
+"batch": 8
+},
+{
+"id": "i395",
+"en": "A is no more B than C is",
+"ja": "AがBでないのはCがBでないのと同じ",
+"sf": "is no more a singer than",
+"ex": "A goose is no more a singer than a stone is a bird.",
+"exJa": "ガチョウが歌手でないのは、石が鳥でないのと同じだ。",
+"batch": 8
+},
+{
+"id": "i396",
+"en": "It is ~ that ...",
+"ja": "…なのは～だ（強調構文）",
+"sf": "It was my cat that",
+"ex": "It was my cat that ate the homework, not the dog.",
+"exJa": "宿題を食べたのは、犬ではなく、うちのネコだった。",
+"batch": 8
+},
+{
+"id": "i397",
+"en": "What is more",
+"ja": "さらに悪いことには；そのうえ",
+"sf": "What is more",
+"ex": "What is more, the soup was cold.",
+"exJa": "そのうえ、スープは冷たかった。",
+"batch": 8
+},
+{
+"id": "i398",
+"en": "to make matters worse",
+"ja": "さらに悪いことに",
+"sf": "To make matters worse",
+"ex": "To make matters worse, it began to snow on my lunch.",
+"exJa": "さらに悪いことに、私の昼食に雪が降りはじめた。",
+"batch": 8
+},
+{
+"id": "i399",
+"en": "needless to say",
+"ja": "言うまでもなく",
+"sf": "Needless to say",
+"ex": "Needless to say, the cat won.",
+"exJa": "言うまでもなく、ネコが勝った。",
+"batch": 8
+},
+{
+"id": "i400",
+"en": "to tell the truth",
+"ja": "実を言うと",
+"sf": "To tell the truth",
+"ex": "To tell the truth, I did not read the book. I read the cover.",
+"exJa": "実を言うと、その本は読んでいない。表紙を読んだ。",
+"batch": 8
 }
 ]
 }
