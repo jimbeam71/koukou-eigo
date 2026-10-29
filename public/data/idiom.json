@@ -16,6 +16,10 @@
 {
 "n": 4,
 "title": "look・bring・carry・break・cut・fall など"
+},
+{
+"n": 5,
+"title": "be 動詞を使う熟語（形容詞＋前置詞など）"
 }
 ],
 "items": [
@@ -1818,6 +1822,456 @@
 "ex": "I stayed up all night to finish a game I will never finish.",
 "exJa": "終わらないゲームを終わらせようと、夜通し起きていた。",
 "batch": 4
+},
+{
+"id": "i201",
+"en": "be afraid of",
+"ja": "～をこわがる",
+"sf": "is afraid of",
+"ex": "My brother is afraid of spiders, but not of bills.",
+"exJa": "弟はクモはこわがるが、請求書はこわがらない。",
+"batch": 5
+},
+{
+"id": "i202",
+"en": "be proud of",
+"ja": "～を自慢に思う",
+"sf": "is proud of",
+"ex": "She is proud of her cat, who can open the fridge.",
+"exJa": "彼女は、冷蔵庫を開けられる自分のネコを誇りにしている。",
+"batch": 5
+},
+{
+"id": "i203",
+"en": "be capable of",
+"ja": "～する能力がある",
+"sf": "is capable of",
+"ex": "My dog is capable of finding food through three closed doors.",
+"exJa": "うちの犬は、3つの閉まったドアの向こうの食べ物でも見つけられる。",
+"batch": 5
+},
+{
+"id": "i204",
+"en": "be famous for",
+"ja": "～で有名だ",
+"sf": "is famous for",
+"ex": "This town is famous for its hot springs and its grumpy ducks.",
+"exJa": "この町は、温泉と不機嫌なアヒルで有名だ。",
+"batch": 5
+},
+{
+"id": "i205",
+"en": "be good at",
+"ja": "～が得意だ",
+"sf": "is good at",
+"ex": "He is good at hiding his homework from himself.",
+"exJa": "彼は、自分から宿題を隠すのが得意だ。",
+"batch": 5
+},
+{
+"id": "i206",
+"en": "be poor at",
+"ja": "～が苦手だ",
+"sf": "am poor at",
+"ex": "I am poor at cooking, but great at ordering pizza.",
+"exJa": "私は料理が苦手だが、ピザを頼むのは得意だ。",
+"batch": 5
+},
+{
+"id": "i207",
+"en": "be interested in",
+"ja": "～に興味がある",
+"sf": "is interested in",
+"ex": "My uncle is interested in everything that has wheels and cheese.",
+"exJa": "おじは、車輪とチーズがついたものなら何にでも興味がある。",
+"batch": 5
+},
+{
+"id": "i208",
+"en": "be satisfied with",
+"ja": "～に満足している",
+"sf": "is satisfied with",
+"ex": "The cat is satisfied with the box, not with the expensive bed.",
+"exJa": "ネコは高いベッドでなく、箱に満足している。",
+"batch": 5
+},
+{
+"id": "i209",
+"en": "be fond of",
+"ja": "～が好きだ",
+"sf": "is fond of",
+"ex": "Grandpa is fond of old songs and older jokes.",
+"exJa": "祖父は、古い歌と、もっと古い冗談が好きだ。",
+"batch": 5
+},
+{
+"id": "i210",
+"en": "be aware of",
+"ja": "～に気づいている",
+"sf": "are aware of",
+"ex": "I hope you are aware of the fact that your socks don't match.",
+"exJa": "くつ下がそろっていないことに気づいている？",
+"batch": 5
+},
+{
+"id": "i211",
+"en": "be absent from",
+"ja": "～を欠席している",
+"sf": "was absent from",
+"ex": "He was absent from school because his bed would not let go.",
+"exJa": "彼は、ベッドが離してくれなかったので、学校を欠席した。",
+"batch": 5
+},
+{
+"id": "i212",
+"en": "be familiar with",
+"ja": "～をよく知っている",
+"sf": "am familiar with",
+"ex": "I am familiar with the sound of my brother's snoring.",
+"exJa": "私は、弟のいびきの音をよく知っている。",
+"batch": 5
+},
+{
+"id": "i213",
+"en": "be anxious about",
+"ja": "～を心配している",
+"sf": "is anxious about",
+"ex": "She is anxious about the test and the weather and the test weather.",
+"exJa": "彼女は、テストと天気と、テストの日の天気を心配している。",
+"batch": 5
+},
+{
+"id": "i214",
+"en": "be responsible for",
+"ja": "～に責任がある",
+"sf": "are responsible for",
+"ex": "You are responsible for feeding the fish, not for eating them.",
+"exJa": "魚に餌をやるのは君の責任で、食べるのは君の責任ではない。",
+"batch": 5
+},
+{
+"id": "i215",
+"en": "be likely to",
+"ja": "～しそうだ",
+"sf": "is likely to",
+"ex": "It is likely to rain when I wash the car.",
+"exJa": "私が車を洗うと、雨が降りそうだ。",
+"batch": 5
+},
+{
+"id": "i216",
+"en": "be about to",
+"ja": "まさに～しようとしている",
+"sf": "was about to",
+"ex": "I was about to sit down when the cat took my chair.",
+"exJa": "私がすわろうとした、まさにそのとき、ネコが私の席をとった。",
+"batch": 5
+},
+{
+"id": "i217",
+"en": "be supposed to",
+"ja": "～することになっている",
+"sf": "are supposed to",
+"ex": "You are supposed to wait here, not to eat the sign.",
+"exJa": "君はここで待つことになっているのであって、看板を食べることではない。",
+"batch": 5
+},
+{
+"id": "i218",
+"en": "be willing to",
+"ja": "進んで～する",
+"sf": "is willing to",
+"ex": "She is willing to help if you bring cake.",
+"exJa": "ケーキを持ってくるなら、彼女は進んで手伝う。",
+"batch": 5
+},
+{
+"id": "i219",
+"en": "be eager to",
+"ja": "～したがっている",
+"sf": "is eager to",
+"ex": "The puppy is eager to meet every shoe in the house.",
+"exJa": "子犬は、家じゅうのくつすべてに会いたがっている。",
+"batch": 5
+},
+{
+"id": "i220",
+"en": "be sure of",
+"ja": "～を確信している",
+"sf": "am sure of",
+"ex": "I am sure of one thing: lunch is at noon.",
+"exJa": "一つだけ確信している。昼食は正午だ。",
+"batch": 5
+},
+{
+"id": "i221",
+"en": "be free from",
+"ja": "～がない；～を免れている",
+"sf": "is free from",
+"ex": "This soup is free from vegetables and from any taste.",
+"exJa": "このスープには野菜がなく、味もない。",
+"batch": 5
+},
+{
+"id": "i222",
+"en": "be tired of",
+"ja": "～に飽きている",
+"sf": "is tired of",
+"ex": "He is tired of eating the same sandwich every day.",
+"exJa": "彼は、毎日同じサンドイッチを食べるのに飽きている。",
+"batch": 5
+},
+{
+"id": "i223",
+"en": "be made up of",
+"ja": "～で構成されている",
+"sf": "is made up of",
+"ex": "Our team is made up of five players and one very loud whistle.",
+"exJa": "私たちのチームは、選手5人と、とても大きな笛で構成されている。",
+"batch": 5
+},
+{
+"id": "i224",
+"en": "be engaged in",
+"ja": "～に従事している",
+"sf": "is engaged in",
+"ex": "My aunt is engaged in the business of selling ice to penguins.",
+"exJa": "おばは、ペンギンに氷を売る事業に従事している。",
+"batch": 5
+},
+{
+"id": "i225",
+"en": "be concerned about",
+"ja": "～を気にかけている",
+"sf": "is concerned about",
+"ex": "The mayor is concerned about the noise from the duck choir.",
+"exJa": "市長は、カモの合唱団の騒音を気にかけている。",
+"batch": 5
+},
+{
+"id": "i226",
+"en": "be bound to",
+"ja": "きっと～する",
+"sf": "are bound to",
+"ex": "If you eat that much cake, you are bound to get a stomachache.",
+"exJa": "そんなにケーキを食べたら、きっとおなかが痛くなる。",
+"batch": 5
+},
+{
+"id": "i227",
+"en": "be certain to",
+"ja": "必ず～する",
+"sf": "is certain to",
+"ex": "The cat is certain to find the one clean sock.",
+"exJa": "ネコは、一足だけのきれいなくつ下を必ず見つける。",
+"batch": 5
+},
+{
+"id": "i228",
+"en": "be independent of",
+"ja": "～から独立している",
+"sf": "is independent of",
+"ex": "The cat is independent of everyone except the can opener.",
+"exJa": "ネコは、缶切り以外の誰からも独立している。",
+"batch": 5
+},
+{
+"id": "i229",
+"en": "be superior to",
+"ja": "～より優れている",
+"sf": "is superior to",
+"ex": "This pizza is superior to every other pizza, according to me.",
+"exJa": "このピザは、私に言わせれば、ほかのどのピザよりも優れている。",
+"batch": 5
+},
+{
+"id": "i230",
+"en": "be different from",
+"ja": "～とちがう",
+"sf": "is different from",
+"ex": "My handwriting is different from everyone's, even my own.",
+"exJa": "私の字は、自分の字でさえ、誰の字ともちがう。",
+"batch": 5
+},
+{
+"id": "i231",
+"en": "be similar to",
+"ja": "～に似ている",
+"sf": "is similar to",
+"ex": "This noise is similar to a cat singing in a bucket.",
+"exJa": "この音は、バケツの中で歌うネコの声に似ている。",
+"batch": 5
+},
+{
+"id": "i232",
+"en": "be equal to",
+"ja": "～に等しい",
+"sf": "are equal to",
+"ex": "Two halves of a pizza are equal to one happy dad.",
+"exJa": "ピザの半分が2つで、機嫌のいい父1人に等しい。",
+"batch": 5
+},
+{
+"id": "i233",
+"en": "be married to",
+"ja": "～と結婚している",
+"sf": "is married to",
+"ex": "My uncle is married to a woman who can talk to birds.",
+"exJa": "おじは、鳥と話せる女性と結婚している。",
+"batch": 5
+},
+{
+"id": "i234",
+"en": "be crowded with",
+"ja": "～で混んでいる",
+"sf": "was crowded with",
+"ex": "The station was crowded with people carrying very large hats.",
+"exJa": "駅は、とても大きな帽子を持った人たちで混んでいた。",
+"batch": 5
+},
+{
+"id": "i235",
+"en": "be filled with",
+"ja": "～でいっぱいだ",
+"sf": "was filled with",
+"ex": "The room was filled with balloons and one sad cat.",
+"exJa": "部屋は風船と、悲しそうなネコ1匹でいっぱいだった。",
+"batch": 5
+},
+{
+"id": "i236",
+"en": "be covered with",
+"ja": "～でおおわれている",
+"sf": "is covered with",
+"ex": "The mountain is covered with snow and tiny penguins.",
+"exJa": "その山は、雪と小さなペンギンでおおわれている。",
+"batch": 5
+},
+{
+"id": "i237",
+"en": "be surprised at",
+"ja": "～に驚く",
+"sf": "was surprised at",
+"ex": "I was surprised at how fast the cake disappeared.",
+"exJa": "私は、ケーキが消える速さに驚いた。",
+"batch": 5
+},
+{
+"id": "i238",
+"en": "be disappointed with",
+"ja": "～に失望している",
+"sf": "was disappointed with",
+"ex": "He was disappointed with the soup, which was only water.",
+"exJa": "彼は、ただのお湯だったスープに失望した。",
+"batch": 5
+},
+{
+"id": "i239",
+"en": "be excited about",
+"ja": "～に興奮している",
+"sf": "are excited about",
+"ex": "The kids are excited about the trip to the zoo and the lunch.",
+"exJa": "子どもたちは、動物園への遠足とお弁当に興奮している。",
+"batch": 5
+},
+{
+"id": "i240",
+"en": "be involved in",
+"ja": "～に関わっている",
+"sf": "be involved in",
+"ex": "Nobody wants to be involved in the cake incident.",
+"exJa": "誰もケーキ事件には関わりたくない。",
+"batch": 5
+},
+{
+"id": "i241",
+"en": "be addicted to",
+"ja": "～に夢中で抜け出せない",
+"sf": "is addicted to",
+"ex": "My sister is addicted to her phone and to cheese.",
+"exJa": "姉は、スマホとチーズから抜け出せない。",
+"batch": 5
+},
+{
+"id": "i242",
+"en": "be worried about",
+"ja": "～のことで悩んでいる",
+"sf": "am worried about",
+"ex": "I am worried about my grades and about my hair.",
+"exJa": "私は成績と髪のことで悩んでいる。",
+"batch": 5
+},
+{
+"id": "i243",
+"en": "be ready for",
+"ja": "～の準備ができている",
+"sf": "are ready for",
+"ex": "I hope you are ready for the biggest test of your life, or the second biggest.",
+"exJa": "人生でいちばん大きなテスト、あるいは2番目に大きなテストの準備はできた？",
+"batch": 5
+},
+{
+"id": "i244",
+"en": "be late for",
+"ja": "～に遅れる",
+"sf": "was late for",
+"ex": "I was late for school because my shoes had a meeting.",
+"exJa": "くつが会議をしていたので、学校に遅れた。",
+"batch": 5
+},
+{
+"id": "i245",
+"en": "be short of",
+"ja": "～が不足している",
+"sf": "are short of",
+"ex": "We are short of chairs, but not of excuses.",
+"exJa": "いすは足りないが、言いわけは足りている。",
+"batch": 5
+},
+{
+"id": "i246",
+"en": "be rich in",
+"ja": "～が豊富である",
+"sf": "is rich in",
+"ex": "This soup is rich in vitamins and in salt.",
+"exJa": "このスープは、ビタミンと塩分が豊富だ。",
+"batch": 5
+},
+{
+"id": "i247",
+"en": "be useful for",
+"ja": "～に役立つ",
+"sf": "is useful for",
+"ex": "A big umbrella is useful for rain and for hiding from teachers.",
+"exJa": "大きなかさは、雨にも、先生から隠れるのにも役立つ。",
+"batch": 5
+},
+{
+"id": "i248",
+"en": "be sick of",
+"ja": "～が嫌になっている",
+"sf": "am sick of",
+"ex": "I am sick of cleaning up after a dog who loves mud.",
+"exJa": "私は、泥が大好きな犬のあと始末が嫌になっている。",
+"batch": 5
+},
+{
+"id": "i249",
+"en": "be keen on",
+"ja": "～に熱心だ",
+"sf": "is keen on",
+"ex": "My dad is keen on fishing, especially the sitting part.",
+"exJa": "父は釣りに熱心で、特にすわっている部分に熱心だ。",
+"batch": 5
+},
+{
+"id": "i250",
+"en": "be sorry for",
+"ja": "～を気の毒に思う",
+"sf": "am sorry for",
+"ex": "I am sorry for the person who has to wash this pot.",
+"exJa": "この鍋を洗わなければならない人を気の毒に思う。",
+"batch": 5
 }
 ]
 }
