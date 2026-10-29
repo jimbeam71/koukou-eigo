@@ -20,6 +20,14 @@
 {
 "n": 5,
 "title": "be 動詞を使う熟語（形容詞＋前置詞など）"
+},
+{
+"n": 6,
+"title": "副詞句・群前置詞・つなぎの表現"
+},
+{
+"n": 7,
+"title": "動詞＋A＋前置詞＋B の型"
 }
 ],
 "items": [
@@ -2272,6 +2280,906 @@
 "ex": "I am sorry for the person who has to wash this pot.",
 "exJa": "この鍋を洗わなければならない人を気の毒に思う。",
 "batch": 5
+},
+{
+"id": "i251",
+"en": "in fact",
+"ja": "実際には；それどころか",
+"sf": "In fact",
+"ex": "In fact, the cat was not sleeping; she was planning.",
+"exJa": "実際には、ネコは寝ていたのではなく、作戦を立てていた。",
+"batch": 6
+},
+{
+"id": "i252",
+"en": "in short",
+"ja": "要するに",
+"sf": "In short",
+"ex": "In short, we need more pizza and fewer meetings.",
+"exJa": "要するに、ピザをもっと、会議をもっと少なくする必要がある。",
+"batch": 6
+},
+{
+"id": "i253",
+"en": "on the other hand",
+"ja": "その一方で",
+"sf": "on the other hand",
+"ex": "I love cake; on the other hand, I love the scale less.",
+"exJa": "ケーキは大好きだ。一方で、体重計はあまり好きではない。",
+"batch": 6
+},
+{
+"id": "i254",
+"en": "at least",
+"ja": "少なくとも",
+"sf": "at least",
+"ex": "You could at least say hello before eating my lunch.",
+"exJa": "せめて、私の昼食を食べる前にあいさつくらいしたら。",
+"batch": 6
+},
+{
+"id": "i255",
+"en": "as a result",
+"ja": "その結果",
+"sf": "As a result",
+"ex": "I ate five donuts. As a result, I needed a nap.",
+"exJa": "ドーナツを5個食べた。その結果、昼寝が必要になった。",
+"batch": 6
+},
+{
+"id": "i256",
+"en": "as far as",
+"ja": "～するかぎり",
+"sf": "as far as",
+"ex": "As far as I know, the cat has never paid rent.",
+"exJa": "私の知るかぎり、ネコは家賃を払ったことがない。",
+"batch": 6
+},
+{
+"id": "i257",
+"en": "after all",
+"ja": "結局；やはり",
+"sf": "after all",
+"ex": "The test was easy after all, except for the questions.",
+"exJa": "テストは結局やさしかった。問題以外は。",
+"batch": 6
+},
+{
+"id": "i258",
+"en": "all of a sudden",
+"ja": "突然",
+"sf": "All of a sudden",
+"ex": "All of a sudden, the lights went out and the dog screamed.",
+"exJa": "突然、電気が消えて、犬が叫んだ。",
+"batch": 6
+},
+{
+"id": "i259",
+"en": "at first",
+"ja": "最初は",
+"sf": "At first",
+"ex": "At first, I thought the noise was a ghost.",
+"exJa": "最初は、その音をおばけだと思った。",
+"batch": 6
+},
+{
+"id": "i260",
+"en": "at last",
+"ja": "ついに",
+"sf": "at last",
+"ex": "At last, the bus arrived, and it was full of ducks.",
+"exJa": "ついにバスが来たが、アヒルでいっぱいだった。",
+"batch": 6
+},
+{
+"id": "i261",
+"en": "at once",
+"ja": "すぐに；同時に",
+"sf": "at once",
+"ex": "Do not talk at once; I have only two ears.",
+"exJa": "同時にしゃべらないで。耳は2つしかない。",
+"batch": 6
+},
+{
+"id": "i262",
+"en": "for example",
+"ja": "たとえば",
+"sf": "For example",
+"ex": "Some animals are lazy. For example, my dog.",
+"exJa": "なまけ者の動物もいる。たとえば、うちの犬だ。",
+"batch": 6
+},
+{
+"id": "i263",
+"en": "for instance",
+"ja": "例を挙げれば",
+"sf": "for instance",
+"ex": "Many foods are tasty, pizza for instance.",
+"exJa": "おいしい食べ物はたくさんある。たとえばピザだ。",
+"batch": 6
+},
+{
+"id": "i264",
+"en": "in addition",
+"ja": "さらに",
+"sf": "In addition",
+"ex": "In addition, the soup was cold and the spoon was missing.",
+"exJa": "さらに、スープは冷たく、スプーンもなかった。",
+"batch": 6
+},
+{
+"id": "i265",
+"en": "in general",
+"ja": "一般に",
+"sf": "In general",
+"ex": "In general, cats do not like baths or Mondays.",
+"exJa": "一般に、ネコはお風呂も月曜日も好きではない。",
+"batch": 6
+},
+{
+"id": "i266",
+"en": "in particular",
+"ja": "特に",
+"sf": "in particular",
+"ex": "I like sweets, chocolate in particular.",
+"exJa": "私は甘い物が好きで、特にチョコレートが好きだ。",
+"batch": 6
+},
+{
+"id": "i267",
+"en": "in the end",
+"ja": "最終的に",
+"sf": "In the end",
+"ex": "In the end, we ordered pizza, as always.",
+"exJa": "最終的に、いつものようにピザを頼んだ。",
+"batch": 6
+},
+{
+"id": "i268",
+"en": "in the long run",
+"ja": "長い目で見れば",
+"sf": "in the long run",
+"ex": "Sleeping early helps in the long run, but not tonight.",
+"exJa": "早く寝るのは長い目で見れば役に立つが、今夜はちがう。",
+"batch": 6
+},
+{
+"id": "i269",
+"en": "in the meantime",
+"ja": "その間に",
+"sf": "In the meantime",
+"ex": "In the meantime, the cat ate my dinner.",
+"exJa": "その間に、ネコが私の夕食を食べた。",
+"batch": 6
+},
+{
+"id": "i270",
+"en": "by the way",
+"ja": "ところで",
+"sf": "By the way",
+"ex": "By the way, who ate the last donut?",
+"exJa": "ところで、最後のドーナツを食べたのは誰？",
+"batch": 6
+},
+{
+"id": "i271",
+"en": "by mistake",
+"ja": "まちがって",
+"sf": "by mistake",
+"ex": "I wore my brother's socks by mistake and felt very small.",
+"exJa": "まちがって弟のくつ下をはいたら、自分がとても小さく感じた。",
+"batch": 6
+},
+{
+"id": "i272",
+"en": "by accident",
+"ja": "偶然に",
+"sf": "by accident",
+"ex": "I found the missing remote by accident, inside the fridge.",
+"exJa": "なくしたリモコンを偶然、冷蔵庫の中で見つけた。",
+"batch": 6
+},
+{
+"id": "i273",
+"en": "on purpose",
+"ja": "わざと",
+"sf": "on purpose",
+"ex": "The cat knocked the glass off the table on purpose.",
+"exJa": "ネコは、わざとコップをテーブルから落とした。",
+"batch": 6
+},
+{
+"id": "i274",
+"en": "of course",
+"ja": "もちろん",
+"sf": "Of course",
+"ex": "Of course I washed my hands. I just did not use soap.",
+"exJa": "もちろん手は洗った。石けんを使わなかっただけだ。",
+"batch": 6
+},
+{
+"id": "i275",
+"en": "on time",
+"ja": "時間どおりに",
+"sf": "on time",
+"ex": "The train came on time, which scared everyone.",
+"exJa": "電車が時間どおりに来て、みんなびっくりした。",
+"batch": 6
+},
+{
+"id": "i276",
+"en": "in time",
+"ja": "間に合って",
+"sf": "in time",
+"ex": "We got there in time to see the cake disappear.",
+"exJa": "私たちは、ケーキが消えるのを見るのに間に合った。",
+"batch": 6
+},
+{
+"id": "i277",
+"en": "for the first time",
+"ja": "初めて",
+"sf": "for the first time",
+"ex": "I rode a horse for the first time, and he was not impressed.",
+"exJa": "私は初めて馬に乗ったが、馬は感心しなかった。",
+"batch": 6
+},
+{
+"id": "i278",
+"en": "for a while",
+"ja": "しばらくの間",
+"sf": "for a while",
+"ex": "Let's stay quiet for a while and listen to the fridge.",
+"exJa": "しばらく静かにして、冷蔵庫の音を聞こう。",
+"batch": 6
+},
+{
+"id": "i279",
+"en": "for good",
+"ja": "永久に",
+"sf": "for good",
+"ex": "He left the bad habit for good, then picked it up again.",
+"exJa": "彼は悪いくせを永久にやめたが、すぐ戻った。",
+"batch": 6
+},
+{
+"id": "i280",
+"en": "for sure",
+"ja": "確実に",
+"sf": "for sure",
+"ex": "I know for sure that this soup has no soup in it.",
+"exJa": "このスープにスープが入っていないことは確実にわかる。",
+"batch": 6
+},
+{
+"id": "i281",
+"en": "in advance",
+"ja": "前もって",
+"sf": "in advance",
+"ex": "Please tell me in advance if you plan to scream.",
+"exJa": "叫ぶ予定があるなら、前もって教えてください。",
+"batch": 6
+},
+{
+"id": "i282",
+"en": "in case",
+"ja": "～といけないから",
+"sf": "in case",
+"ex": "Take an umbrella in case the sky changes its mind.",
+"exJa": "空が気を変えるといけないから、かさを持っていって。",
+"batch": 6
+},
+{
+"id": "i283",
+"en": "in charge of",
+"ja": "～を担当して",
+"sf": "in charge of",
+"ex": "Who is in charge of the snacks, and where are they?",
+"exJa": "おやつの担当は誰で、おやつはどこ？",
+"batch": 6
+},
+{
+"id": "i284",
+"en": "in favor of",
+"ja": "～に賛成して",
+"sf": "in favor of",
+"ex": "I am in favor of longer lunch breaks and shorter Mondays.",
+"exJa": "私は、昼休みを長くし、月曜日を短くすることに賛成だ。",
+"batch": 6
+},
+{
+"id": "i285",
+"en": "in spite of",
+"ja": "～にもかかわらず",
+"sf": "in spite of",
+"ex": "In spite of the rain, the ducks held a party.",
+"exJa": "雨にもかかわらず、アヒルたちはパーティーを開いた。",
+"batch": 6
+},
+{
+"id": "i286",
+"en": "because of",
+"ja": "～のために",
+"sf": "because of",
+"ex": "The game was canceled because of a very angry goose.",
+"exJa": "試合は、とても怒ったガチョウのために中止になった。",
+"batch": 6
+},
+{
+"id": "i287",
+"en": "thanks to",
+"ja": "～のおかげで",
+"sf": "Thanks to",
+"ex": "Thanks to my cat, I woke up at four in the morning.",
+"exJa": "ネコのおかげで、朝4時に目が覚めた。",
+"batch": 6
+},
+{
+"id": "i288",
+"en": "due to",
+"ja": "～が原因で",
+"sf": "due to",
+"ex": "The delay was due to a sleepy driver and a loud pigeon.",
+"exJa": "遅れは、眠そうな運転手とうるさいハトが原因だった。",
+"batch": 6
+},
+{
+"id": "i289",
+"en": "according to",
+"ja": "～によると",
+"sf": "According to",
+"ex": "According to my dog, dinner is late again.",
+"exJa": "うちの犬によると、夕食がまた遅れている。",
+"batch": 6
+},
+{
+"id": "i290",
+"en": "instead of",
+"ja": "～の代わりに",
+"sf": "instead of",
+"ex": "I ate cake instead of lunch, and nobody stopped me.",
+"exJa": "私は昼食の代わりにケーキを食べたが、誰も止めなかった。",
+"batch": 6
+},
+{
+"id": "i291",
+"en": "regardless of",
+"ja": "～に関係なく",
+"sf": "regardless of",
+"ex": "The cat sleeps regardless of the noise, the light or the time.",
+"exJa": "ネコは、音も光も時間も関係なく眠る。",
+"batch": 6
+},
+{
+"id": "i292",
+"en": "apart from",
+"ja": "～は別として",
+"sf": "Apart from",
+"ex": "Apart from the smell, the cheese was perfect.",
+"exJa": "においは別として、そのチーズは完璧だった。",
+"batch": 6
+},
+{
+"id": "i293",
+"en": "such as",
+"ja": "たとえば～のような",
+"sf": "such as",
+"ex": "I like animals such as cats, dogs and sleepy pandas.",
+"exJa": "私は、ネコや犬、眠そうなパンダのような動物が好きだ。",
+"batch": 6
+},
+{
+"id": "i294",
+"en": "as well as",
+"ja": "～だけでなく…も",
+"sf": "as well as",
+"ex": "He plays the guitar as well as the drums and the spoons.",
+"exJa": "彼はギターだけでなく、ドラムもスプーンも演奏する。",
+"batch": 6
+},
+{
+"id": "i295",
+"en": "as soon as",
+"ja": "～するとすぐに",
+"sf": "As soon as",
+"ex": "As soon as I sat down, the phone rang.",
+"exJa": "私がすわるとすぐに、電話が鳴った。",
+"batch": 6
+},
+{
+"id": "i296",
+"en": "so far",
+"ja": "今までのところ",
+"sf": "So far",
+"ex": "So far, nobody has found my homework, including me.",
+"exJa": "今までのところ、誰も私の宿題を見つけていない。私も含めて。",
+"batch": 6
+},
+{
+"id": "i297",
+"en": "sooner or later",
+"ja": "遅かれ早かれ",
+"sf": "Sooner or later",
+"ex": "Sooner or later, every cat finds the warm laptop.",
+"exJa": "遅かれ早かれ、どのネコも温かいノートパソコンを見つける。",
+"batch": 6
+},
+{
+"id": "i298",
+"en": "once in a while",
+"ja": "ときどき",
+"sf": "once in a while",
+"ex": "I clean my room once in a while, mostly by accident.",
+"exJa": "私はときどき部屋を掃除するが、たいていは偶然だ。",
+"batch": 6
+},
+{
+"id": "i299",
+"en": "every other day",
+"ja": "1日おきに",
+"sf": "every other day",
+"ex": "He washes his socks every other day, whether they need it or not.",
+"exJa": "彼は1日おきにくつ下を洗う。必要でもそうでなくても。",
+"batch": 6
+},
+{
+"id": "i300",
+"en": "now and then",
+"ja": "時々；折にふれて",
+"sf": "now and then",
+"ex": "Now and then, my dog sings along with the radio.",
+"exJa": "ときどき、うちの犬はラジオに合わせて歌う。",
+"batch": 6
+},
+{
+"id": "i301",
+"en": "provide A with B",
+"ja": "AにBを提供する",
+"sf": "provided us with",
+"ex": "The hotel provided us with towels and one very small soap.",
+"exJa": "ホテルは私たちに、タオルと、とても小さな石けんを1つ提供してくれた。",
+"batch": 7
+},
+{
+"id": "i302",
+"en": "supply A with B",
+"ja": "AにBを供給する",
+"sf": "supplies the town with",
+"ex": "The farm supplies the town with eggs and loud roosters.",
+"exJa": "その農場は、町に卵と、うるさいオンドリを供給している。",
+"batch": 7
+},
+{
+"id": "i303",
+"en": "present A with B",
+"ja": "AにBを贈る",
+"sf": "presented him with",
+"ex": "The class presented him with a cake shaped like his homework.",
+"exJa": "クラスは彼に、宿題の形をしたケーキを贈った。",
+"batch": 7
+},
+{
+"id": "i304",
+"en": "remind A of B",
+"ja": "AにBを思い出させる",
+"sf": "reminds me of",
+"ex": "This soup reminds me of the bath water at my uncle's house.",
+"exJa": "このスープは、おじの家のお風呂のお湯を思い出させる。",
+"batch": 7
+},
+{
+"id": "i305",
+"en": "rob A of B",
+"ja": "AからBを奪う",
+"sf": "robbed him of",
+"ex": "The seagull robbed him of his sandwich in three seconds.",
+"exJa": "カモメは3秒で、彼からサンドイッチを奪った。",
+"batch": 7
+},
+{
+"id": "i306",
+"en": "deprive A of B",
+"ja": "AからBを奪う；Aに…を与えない",
+"sf": "deprived the kids of",
+"ex": "Homework deprived the kids of their weekend.",
+"exJa": "宿題のせいで、子どもたちは週末を奪われた。",
+"batch": 7
+},
+{
+"id": "i307",
+"en": "blame A for B",
+"ja": "BのことでAを責める",
+"sf": "blamed the cat for",
+"ex": "My brother blamed the cat for his bad grades.",
+"exJa": "弟は、悪い成績をネコのせいにした。",
+"batch": 7
+},
+{
+"id": "i308",
+"en": "thank A for B",
+"ja": "BのことでAに感謝する",
+"sf": "thanked me for",
+"ex": "She thanked me for not telling anyone about the hat.",
+"exJa": "彼女は、帽子のことを誰にも言わなかった私に感謝した。",
+"batch": 7
+},
+{
+"id": "i309",
+"en": "praise A for B",
+"ja": "BのことでAをほめる",
+"sf": "praised the dog for",
+"ex": "Dad praised the dog for finding the ball, which he had eaten.",
+"exJa": "父は、ボールを見つけた犬をほめたが、そのボールは犬が食べていた。",
+"batch": 7
+},
+{
+"id": "i310",
+"en": "forgive A for B",
+"ja": "BのことでAを許す",
+"sf": "forgave me for",
+"ex": "Mom forgave me for breaking the vase, but not for hiding it.",
+"exJa": "母は花びんを割ったことは許してくれたが、隠したことは許さなかった。",
+"batch": 7
+},
+{
+"id": "i311",
+"en": "punish A for B",
+"ja": "BのことでAを罰する",
+"sf": "punished the boy for",
+"ex": "The teacher punished the boy for drawing on the desk.",
+"exJa": "先生は、机に落書きをした少年を罰した。",
+"batch": 7
+},
+{
+"id": "i312",
+"en": "scold A for B",
+"ja": "BのことでAをしかる",
+"sf": "scolded me for",
+"ex": "Mom scolded me for putting socks in the soup.",
+"exJa": "母は、くつ下をスープに入れた私をしかった。",
+"batch": 7
+},
+{
+"id": "i313",
+"en": "criticize A for B",
+"ja": "BのことでAを批判する",
+"sf": "criticized the singer for",
+"ex": "Critics criticized the singer for singing only to his cat.",
+"exJa": "批評家たちは、ネコにしか歌わない歌手を批判した。",
+"batch": 7
+},
+{
+"id": "i314",
+"en": "accuse A of B",
+"ja": "BのことでAを非難する",
+"sf": "accused me of",
+"ex": "My sister accused me of eating her pudding, which was true.",
+"exJa": "姉は、私が彼女のプリンを食べたと責めたが、その通りだった。",
+"batch": 7
+},
+{
+"id": "i315",
+"en": "suspect A of B",
+"ja": "BのことでAを疑う",
+"sf": "suspected the cat of",
+"ex": "Mom suspected the cat of stealing the fish.",
+"exJa": "母は、ネコが魚を盗んだと疑った。",
+"batch": 7
+},
+{
+"id": "i316",
+"en": "convince A of B",
+"ja": "AにBを確信させる",
+"sf": "convinced me of",
+"ex": "The salesman convinced me of the power of his magic mop.",
+"exJa": "販売員は、魔法のモップの威力を私に確信させた。",
+"batch": 7
+},
+{
+"id": "i317",
+"en": "inform A of B",
+"ja": "AにBを知らせる",
+"sf": "informed us of",
+"ex": "The pilot informed us of a small problem: no pilot.",
+"exJa": "パイロットは、小さな問題を私たちに知らせた。パイロットがいない、と。",
+"batch": 7
+},
+{
+"id": "i318",
+"en": "warn A of B",
+"ja": "AにBを警告する",
+"sf": "warned us of",
+"ex": "The sign warned us of a dog who loves hugs.",
+"exJa": "看板は、抱きつくのが大好きな犬のことを警告していた。",
+"batch": 7
+},
+{
+"id": "i319",
+"en": "cure A of B",
+"ja": "AのBを治す",
+"sf": "cured me of",
+"ex": "A good nap cured me of my bad mood.",
+"exJa": "ぐっすり昼寝をしたら、機嫌の悪さが治った。",
+"batch": 7
+},
+{
+"id": "i320",
+"en": "regard A as B",
+"ja": "AをBとみなす",
+"sf": "regards the sofa as",
+"ex": "My dog regards the sofa as his personal property.",
+"exJa": "うちの犬は、ソファを自分の私有財産とみなしている。",
+"batch": 7
+},
+{
+"id": "i321",
+"en": "think of A as B",
+"ja": "AをBと考える",
+"sf": "think of him as",
+"ex": "Many people think of him as a genius, but he lost his keys again.",
+"exJa": "多くの人が彼を天才だと考えているが、彼はまたカギをなくした。",
+"batch": 7
+},
+{
+"id": "i322",
+"en": "see A as B",
+"ja": "AをBとして見る",
+"sf": "see homework as",
+"ex": "Some students see homework as a gift. I do not know them.",
+"exJa": "宿題を贈り物と見る生徒もいるが、私はその人たちを知らない。",
+"batch": 7
+},
+{
+"id": "i323",
+"en": "mistake A for B",
+"ja": "AをBと取りちがえる",
+"sf": "mistook the cat for",
+"ex": "He mistook the cat for a pillow and sat down.",
+"exJa": "彼はネコをクッションとまちがえてすわった。",
+"batch": 7
+},
+{
+"id": "i324",
+"en": "divide A into B",
+"ja": "AをBに分ける",
+"sf": "divided the pizza into",
+"ex": "We divided the pizza into eight pieces, then into zero.",
+"exJa": "私たちはピザを8切れに分け、そしてゼロ切れにした。",
+"batch": 7
+},
+{
+"id": "i325",
+"en": "translate A into B",
+"ja": "AをBに翻訳する",
+"sf": "translated the joke into",
+"ex": "I translated the joke into English, and it stopped being funny.",
+"exJa": "そのジョークを英語に訳したら、おもしろくなくなった。",
+"batch": 7
+},
+{
+"id": "i326",
+"en": "turn A into B",
+"ja": "AをBに変える",
+"sf": "turned the garage into",
+"ex": "Dad turned the garage into a cinema for ten ducks.",
+"exJa": "父は車庫を、10羽のアヒルのための映画館に変えた。",
+"batch": 7
+},
+{
+"id": "i327",
+"en": "change A into B",
+"ja": "AをBに変化させる",
+"sf": "changed the sofa into",
+"ex": "Magic changed the sofa into a very surprised horse.",
+"exJa": "魔法でソファが、とても驚いた馬に変わった。",
+"batch": 7
+},
+{
+"id": "i328",
+"en": "separate A from B",
+"ja": "AをBから分ける",
+"sf": "separated the cat from",
+"ex": "The teacher separated the cat from the fish.",
+"exJa": "先生は、ネコを魚から引き離した。",
+"batch": 7
+},
+{
+"id": "i329",
+"en": "distinguish A from B",
+"ja": "AとBを区別する",
+"sf": "distinguish my brother from",
+"ex": "I cannot distinguish my brother from his shadow at night.",
+"exJa": "夜は、弟と弟の影の区別がつかない。",
+"batch": 7
+},
+{
+"id": "i330",
+"en": "tell A from B",
+"ja": "AとBを見分ける",
+"sf": "tell butter from",
+"ex": "Can you tell butter from soap in the dark?",
+"exJa": "暗闇でバターと石けんを区別できる？",
+"batch": 7
+},
+{
+"id": "i331",
+"en": "prevent A from ~ing",
+"ja": "Aが～するのを妨げる",
+"sf": "prevented me from",
+"ex": "The rain prevented me from going out, so I ate snacks.",
+"exJa": "雨のせいで外出できなかったので、おやつを食べた。",
+"batch": 7
+},
+{
+"id": "i332",
+"en": "keep A from ~ing",
+"ja": "Aが～しないようにする",
+"sf": "keeps me from",
+"ex": "Loud snoring keeps me from sleeping.",
+"exJa": "大きないびきのせいで眠れない。",
+"batch": 7
+},
+{
+"id": "i333",
+"en": "stop A from ~ing",
+"ja": "Aが～するのを止める",
+"sf": "stopped the dog from",
+"ex": "Dad stopped the dog from eating the remote control.",
+"exJa": "父は、犬がリモコンを食べるのを止めた。",
+"batch": 7
+},
+{
+"id": "i334",
+"en": "prohibit A from ~ing",
+"ja": "Aが～するのを禁じる",
+"sf": "prohibit students from",
+"ex": "School rules prohibit students from riding pandas.",
+"exJa": "校則は、パンダに乗ることを生徒に禁じている。",
+"batch": 7
+},
+{
+"id": "i335",
+"en": "discourage A from ~ing",
+"ja": "Aに～する気をなくさせる",
+"sf": "discouraged me from",
+"ex": "The long line discouraged me from buying the donut.",
+"exJa": "長い行列のせいで、ドーナツを買う気がなくなった。",
+"batch": 7
+},
+{
+"id": "i336",
+"en": "force A to ~",
+"ja": "Aに無理やり～させる",
+"sf": "forced me to",
+"ex": "My sister forced me to listen to her singing for an hour.",
+"exJa": "姉は私に、1時間も歌を聞かせた。",
+"batch": 7
+},
+{
+"id": "i337",
+"en": "persuade A to ~",
+"ja": "Aを説得して～させる",
+"sf": "persuaded me to",
+"ex": "My friend persuaded me to share my last cookie.",
+"exJa": "友だちは私を説得して、最後のクッキーを分けさせた。",
+"batch": 7
+},
+{
+"id": "i338",
+"en": "urge A to ~",
+"ja": "Aに～するよう強く促す",
+"sf": "urged us to",
+"ex": "The coach urged us to run faster than the bus.",
+"exJa": "コーチは私たちに、バスより速く走るよう強く促した。",
+"batch": 7
+},
+{
+"id": "i339",
+"en": "encourage A to ~",
+"ja": "Aに～するよう励ます",
+"sf": "encouraged me to",
+"ex": "My teacher encouraged me to try again, then hid.",
+"exJa": "先生は私にもう一度やるよう励まして、そのあと隠れた。",
+"batch": 7
+},
+{
+"id": "i340",
+"en": "advise A to ~",
+"ja": "Aに～するよう助言する",
+"sf": "advised me to",
+"ex": "The doctor advised me to eat fewer donuts per breakfast.",
+"exJa": "医者は私に、朝食のドーナツを減らすよう助言した。",
+"batch": 7
+},
+{
+"id": "i341",
+"en": "allow A to ~",
+"ja": "Aが～するのを許す",
+"sf": "allowed us to",
+"ex": "Mom allowed us to stay up late, then fell asleep first.",
+"exJa": "母は私たちが夜ふかしするのを許したが、自分が先に寝た。",
+"batch": 7
+},
+{
+"id": "i342",
+"en": "enable A to ~",
+"ja": "Aが～できるようにする",
+"sf": "enabled me to",
+"ex": "This app enabled me to lose my phone more efficiently.",
+"exJa": "このアプリのおかげで、より効率的にスマホをなくせるようになった。",
+"batch": 7
+},
+{
+"id": "i343",
+"en": "expect A to ~",
+"ja": "Aが～すると期待する",
+"sf": "expected me to",
+"ex": "Everyone expected me to win, except me.",
+"exJa": "みんなが私の勝利を期待していた。私以外は。",
+"batch": 7
+},
+{
+"id": "i344",
+"en": "get A to ~",
+"ja": "Aに～してもらう",
+"sf": "got the cat to",
+"ex": "I got the cat to move by opening a can.",
+"exJa": "缶を開けて、ネコをどかせた。",
+"batch": 7
+},
+{
+"id": "i345",
+"en": "compare A with B",
+"ja": "AをBと比べる",
+"sf": "compared his joke with",
+"ex": "The judge compared his joke with a wet towel.",
+"exJa": "審査員は、彼のジョークをぬれたタオルにたとえた。",
+"batch": 7
+},
+{
+"id": "i346",
+"en": "associate A with B",
+"ja": "AからBを連想する",
+"sf": "associate winter with",
+"ex": "I associate winter with soup and sleeping.",
+"exJa": "私は冬といえば、スープと睡眠を連想する。",
+"batch": 7
+},
+{
+"id": "i347",
+"en": "exchange A for B",
+"ja": "AをBと交換する",
+"sf": "exchanged his hat for",
+"ex": "He exchanged his hat for a sandwich, and both were disappointed.",
+"exJa": "彼は帽子をサンドイッチと交換して、どちらもがっかりした。",
+"batch": 7
+},
+{
+"id": "i348",
+"en": "owe A to B",
+"ja": "AはBのおかげだ",
+"sf": "owe my success to",
+"ex": "I owe my success to coffee and fear.",
+"exJa": "私の成功はコーヒーと恐怖のおかげだ。",
+"batch": 7
+},
+{
+"id": "i349",
+"en": "attribute A to B",
+"ja": "AをBのせいにする",
+"sf": "attribute his mood to",
+"ex": "I attribute his mood to a lack of pizza.",
+"exJa": "彼の機嫌の悪さは、ピザ不足のせいだと思う。",
+"batch": 7
+},
+{
+"id": "i350",
+"en": "congratulate A on B",
+"ja": "BのことでAを祝う",
+"sf": "congratulated me on",
+"ex": "Everyone congratulated me on passing, even the teacher who looked surprised.",
+"exJa": "みんなが合格を祝ってくれた。驚いた顔の先生までも。",
+"batch": 7
 }
 ]
 }
