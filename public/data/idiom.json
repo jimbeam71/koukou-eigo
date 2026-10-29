@@ -4,6 +4,18 @@
 {
 "n": 1,
 "title": "take・make・have の熟語"
+},
+{
+"n": 2,
+"title": "get・give・keep・put・set の熟語"
+},
+{
+"n": 3,
+"title": "go・come・run・turn・pass・hold・call の熟語"
+},
+{
+"n": 4,
+"title": "look・bring・carry・break・cut・fall など"
 }
 ],
 "items": [
@@ -456,6 +468,1356 @@
 "ex": "He had difficulty finding his shoes under the pile of pizza boxes.",
 "exJa": "彼は、ピザの箱の山の下から靴を見つけるのに苦労した。",
 "batch": 1
+},
+{
+"id": "i051",
+"en": "get along with",
+"ja": "～とうまくやっていく",
+"sf": "gets along with",
+"ex": "My cat gets along with everyone except the vacuum cleaner.",
+"exJa": "うちのネコは、掃除機以外の誰とでもうまくやっている。",
+"batch": 2
+},
+{
+"id": "i052",
+"en": "get over",
+"ja": "～を乗りこえる；～から立ち直る",
+"sf": "get over",
+"ex": "It took me a week to get over the fact that my pudding was gone.",
+"exJa": "プリンがなくなった事実から立ち直るのに、1週間かかった。",
+"batch": 2
+},
+{
+"id": "i053",
+"en": "get through",
+"ja": "やり遂げる；（電話が）つながる",
+"sf": "get through",
+"ex": "I can't get through to the pizza shop; everyone is hungry tonight.",
+"exJa": "ピザ屋に電話がつながらない。今夜はみんなおなかがすいている。",
+"batch": 2
+},
+{
+"id": "i054",
+"en": "get on",
+"ja": "（乗り物に）乗る",
+"sf": "get on",
+"ex": "Get on the bus before it leaves without your lunch.",
+"exJa": "お弁当を置いて出発する前に、バスに乗って。",
+"batch": 2
+},
+{
+"id": "i055",
+"en": "get off",
+"ja": "（乗り物から）降りる",
+"sf": "got off",
+"ex": "I got off the train one stop early to enjoy a free walk.",
+"exJa": "1駅早く電車を降りて、ただの散歩を楽しんだ。",
+"batch": 2
+},
+{
+"id": "i056",
+"en": "get in",
+"ja": "（車などに）乗りこむ；入る",
+"sf": "get in",
+"ex": "Please get in the car before the rain gets in your shoes.",
+"exJa": "雨がくつに入る前に、車に乗って。",
+"batch": 2
+},
+{
+"id": "i057",
+"en": "get out of",
+"ja": "～から出る；～を免れる",
+"sf": "get out of",
+"ex": "He tried to get out of the dishes by pretending to sleep.",
+"exJa": "彼は、ねたふりをして皿洗いを免れようとした。",
+"batch": 2
+},
+{
+"id": "i058",
+"en": "get together",
+"ja": "集まる",
+"sf": "get together",
+"ex": "Let's get together on Sunday and do nothing together.",
+"exJa": "日曜日に集まって、みんなでなにもしないでいよう。",
+"batch": 2
+},
+{
+"id": "i059",
+"en": "get rid of",
+"ja": "～を取り除く",
+"sf": "get rid of",
+"ex": "I want to get rid of this old sofa, but the cat disagrees.",
+"exJa": "このソファを処分したいが、ネコは反対している。",
+"batch": 2
+},
+{
+"id": "i060",
+"en": "get used to",
+"ja": "～に慣れる",
+"sf": "got used to",
+"ex": "I finally got used to the noise of my brother's drums.",
+"exJa": "ついに弟のドラムの音に慣れた。",
+"batch": 2
+},
+{
+"id": "i061",
+"en": "get up",
+"ja": "起きる",
+"sf": "gets up",
+"ex": "My dad gets up at five, and the alarm gets up at four.",
+"exJa": "父は5時に起き、目覚ましは4時に起きる。",
+"batch": 2
+},
+{
+"id": "i062",
+"en": "get back",
+"ja": "戻る；取り戻す",
+"sf": "get back",
+"ex": "I'll get back home before the ice cream melts.",
+"exJa": "アイスがとける前に家に戻るよ。",
+"batch": 2
+},
+{
+"id": "i063",
+"en": "get across",
+"ja": "（考えを）理解させる",
+"sf": "get across",
+"ex": "It is hard to get across the idea of math to a goldfish.",
+"exJa": "金魚に数学の考えを理解させるのは難しい。",
+"batch": 2
+},
+{
+"id": "i064",
+"en": "get away",
+"ja": "逃げる；離れる",
+"sf": "get away",
+"ex": "The thief tried to get away, but he forgot his shoes.",
+"exJa": "泥棒は逃げようとしたが、くつを忘れていた。",
+"batch": 2
+},
+{
+"id": "i065",
+"en": "get by",
+"ja": "なんとかやっていく",
+"sf": "get by",
+"ex": "We can get by on one pizza if nobody is hungry.",
+"exJa": "誰もおなかがすいていなければ、ピザ1枚でなんとかなる。",
+"batch": 2
+},
+{
+"id": "i066",
+"en": "get ahead",
+"ja": "成功する；出世する",
+"sf": "get ahead",
+"ex": "To get ahead in this company, you need a good smile and a big umbrella.",
+"exJa": "この会社で出世するには、いい笑顔と大きなかさが必要だ。",
+"batch": 2
+},
+{
+"id": "i067",
+"en": "get hold of",
+"ja": "～を手に入れる；～と連絡がつく",
+"sf": "get hold of",
+"ex": "I couldn't get hold of him because his phone was in the soup.",
+"exJa": "彼の電話がスープの中にあったので、連絡がつかなかった。",
+"batch": 2
+},
+{
+"id": "i068",
+"en": "get tired of",
+"ja": "～にうんざりする",
+"sf": "got tired of",
+"ex": "He got tired of waiting and ate the sign that said \"Wait.\"",
+"exJa": "彼は待つのにうんざりして、「待て」と書かれた看板をかじった。",
+"batch": 2
+},
+{
+"id": "i069",
+"en": "get in touch with",
+"ja": "～と連絡を取る",
+"sf": "get in touch with",
+"ex": "Please get in touch with me before you buy a dragon.",
+"exJa": "ドラゴンを買う前に、私に連絡して。",
+"batch": 2
+},
+{
+"id": "i070",
+"en": "give up",
+"ja": "あきらめる",
+"sf": "gave up",
+"ex": "She gave up on the puzzle and ate the pieces.",
+"exJa": "彼女はパズルをあきらめて、ピースを食べた。",
+"batch": 2
+},
+{
+"id": "i071",
+"en": "give in",
+"ja": "降参する；負けを認める",
+"sf": "give in",
+"ex": "I'll give in; you can have the last piece of cake.",
+"exJa": "降参するよ。最後のケーキはあげる。",
+"batch": 2
+},
+{
+"id": "i072",
+"en": "give way to",
+"ja": "～に屈する；～に取って代わられる",
+"sf": "gave way to",
+"ex": "Summer gave way to autumn, and ice cream gave way to soup.",
+"exJa": "夏は秋に変わり、アイスはスープに取って代わられた。",
+"batch": 2
+},
+{
+"id": "i073",
+"en": "give off",
+"ja": "（光・においなど）を出す",
+"sf": "gives off",
+"ex": "This cheese gives off a smell that could stop a train.",
+"exJa": "このチーズは、電車も止められそうなにおいを出す。",
+"batch": 2
+},
+{
+"id": "i074",
+"en": "give out",
+"ja": "配る；尽きる",
+"sf": "gave out",
+"ex": "The teacher gave out the tests, and my courage gave out.",
+"exJa": "先生がテストを配ると、私の勇気は尽きた。",
+"batch": 2
+},
+{
+"id": "i075",
+"en": "give rise to",
+"ja": "～を引き起こす",
+"sf": "gave rise to",
+"ex": "The rumor gave rise to a great deal of panic in the cafeteria.",
+"exJa": "そのうわさは、食堂に大きなパニックを引き起こした。",
+"batch": 2
+},
+{
+"id": "i076",
+"en": "give back",
+"ja": "返す",
+"sf": "give back",
+"ex": "Please give back my pen; it's the only one that works.",
+"exJa": "私のペンを返して。使えるのはそれだけなんだ。",
+"batch": 2
+},
+{
+"id": "i077",
+"en": "give a hand",
+"ja": "手を貸す",
+"sf": "give me a hand",
+"ex": "Can you give me a hand with this box? It is full of books and rocks.",
+"exJa": "この箱を手伝ってくれる？ 本と石でいっぱいなんだ。",
+"batch": 2
+},
+{
+"id": "i078",
+"en": "give birth to",
+"ja": "～を産む",
+"sf": "gave birth to",
+"ex": "The cat gave birth to five kittens in my laundry basket.",
+"exJa": "ネコは、私の洗濯かごで5匹の子ネコを産んだ。",
+"batch": 2
+},
+{
+"id": "i079",
+"en": "keep up with",
+"ja": "～に遅れずについていく",
+"sf": "keep up with",
+"ex": "I can't keep up with my brother when food is involved.",
+"exJa": "食べ物がかかわると、弟についていけない。",
+"batch": 2
+},
+{
+"id": "i080",
+"en": "keep in touch with",
+"ja": "～と連絡を取り続ける",
+"sf": "keep in touch with",
+"ex": "Let's keep in touch with each other even after we move to different planets.",
+"exJa": "別々の惑星に引っ越しても、連絡を取り合おう。",
+"batch": 2
+},
+{
+"id": "i081",
+"en": "keep an eye on",
+"ja": "～から目を離さない",
+"sf": "keep an eye on",
+"ex": "Please keep an eye on the soup and don't let the cat near it.",
+"exJa": "スープを見ていて、ネコを近づけないで。",
+"batch": 2
+},
+{
+"id": "i082",
+"en": "keep off",
+"ja": "～に近づかない",
+"sf": "Keep off",
+"ex": "Keep off the grass; the grass has a bad temper.",
+"exJa": "芝生に入らないで。芝生は機嫌が悪い。",
+"batch": 2
+},
+{
+"id": "i083",
+"en": "keep in mind",
+"ja": "～を覚えておく",
+"sf": "keep in mind",
+"ex": "Keep in mind that the shop closes when the owner gets sleepy.",
+"exJa": "店は、主人が眠くなると閉まることを覚えておいて。",
+"batch": 2
+},
+{
+"id": "i084",
+"en": "keep one's word",
+"ja": "約束を守る",
+"sf": "kept his word",
+"ex": "He kept his word and brought me one piece of cake, as promised.",
+"exJa": "彼は約束を守って、言った通りケーキを1つ持ってきた。",
+"batch": 2
+},
+{
+"id": "i085",
+"en": "keep company with",
+"ja": "～と付き合う；～の相手をする",
+"sf": "keep company with",
+"ex": "I keep company with a goldfish that never interrupts.",
+"exJa": "私は、決して話をさえぎらない金魚の相手をしている。",
+"batch": 2
+},
+{
+"id": "i086",
+"en": "keep on ～ing",
+"ja": "～し続ける",
+"sf": "kept on",
+"ex": "He kept on laughing even after the joke had ended.",
+"exJa": "彼は、冗談が終わってからも笑い続けた。",
+"batch": 2
+},
+{
+"id": "i087",
+"en": "put off",
+"ja": "延期する",
+"sf": "put off",
+"ex": "Don't put off your homework until the cat takes the notebook.",
+"exJa": "ネコがノートを持っていく前に、宿題を先延ばしにしないで。",
+"batch": 2
+},
+{
+"id": "i088",
+"en": "put on",
+"ja": "身につける；（劇などを）上演する",
+"sf": "put on",
+"ex": "Put on your coat; the penguins are laughing at you.",
+"exJa": "コートを着て。ペンギンが笑っているよ。",
+"batch": 2
+},
+{
+"id": "i089",
+"en": "put out",
+"ja": "（火を）消す",
+"sf": "put out",
+"ex": "The firefighters put out the fire in five minutes and ate our cake.",
+"exJa": "消防士は5分で火を消し、私たちのケーキを食べた。",
+"batch": 2
+},
+{
+"id": "i090",
+"en": "put up with",
+"ja": "～に耐える",
+"sf": "put up with",
+"ex": "I can't put up with the noise of that drum any longer.",
+"exJa": "あのドラムの音には、もう耐えられない。",
+"batch": 2
+},
+{
+"id": "i091",
+"en": "put away",
+"ja": "片づける",
+"sf": "put away",
+"ex": "Put away your toys before the cat counts them.",
+"exJa": "ネコが数える前に、おもちゃを片づけなさい。",
+"batch": 2
+},
+{
+"id": "i092",
+"en": "put down",
+"ja": "下に置く；鎮める",
+"sf": "put down",
+"ex": "The police put down the riot with a big blanket.",
+"exJa": "警察は大きな毛布で暴動を鎮めた。",
+"batch": 2
+},
+{
+"id": "i093",
+"en": "put together",
+"ja": "組み立てる",
+"sf": "put together",
+"ex": "It took us an hour to put together a chair that has three legs.",
+"exJa": "3本足のいすを組み立てるのに、1時間かかった。",
+"batch": 2
+},
+{
+"id": "i094",
+"en": "put into practice",
+"ja": "実行に移す",
+"sf": "put into practice",
+"ex": "He wants to put into practice everything he learned from cooking shows.",
+"exJa": "彼は、料理番組で学んだことをすべて実行に移したがっている。",
+"batch": 2
+},
+{
+"id": "i095",
+"en": "put aside",
+"ja": "脇へ置く；（お金・時間を）取っておく",
+"sf": "put aside",
+"ex": "I put aside some money every month to buy a very small boat.",
+"exJa": "私は、とても小さな船を買うために、毎月お金を取っておく。",
+"batch": 2
+},
+{
+"id": "i096",
+"en": "put forward",
+"ja": "提案する；（時計を）進める",
+"sf": "put forward",
+"ex": "She put forward an idea so good that the room fell silent.",
+"exJa": "彼女が出した提案があまりによくて、部屋が静まりかえった。",
+"batch": 2
+},
+{
+"id": "i097",
+"en": "set out",
+"ja": "出発する；着手する",
+"sf": "set out",
+"ex": "We set out at dawn to find the world's best sandwich.",
+"exJa": "私たちは、世界一のサンドイッチを探しに、夜明けに出発した。",
+"batch": 2
+},
+{
+"id": "i098",
+"en": "set up",
+"ja": "設立する；準備する",
+"sf": "set up",
+"ex": "They set up a school for dogs who want to learn tricks.",
+"exJa": "彼らは、芸を覚えたい犬のための学校を設立した。",
+"batch": 2
+},
+{
+"id": "i099",
+"en": "set off",
+"ja": "（警報などを）作動させる",
+"sf": "set off",
+"ex": "The toast set off the fire alarm, and the family ate in the garden.",
+"exJa": "トーストが火災報知器を鳴らし、家族は庭で食べた。",
+"batch": 2
+},
+{
+"id": "i100",
+"en": "set about",
+"ja": "～に取りかかる",
+"sf": "set about",
+"ex": "He set about cleaning his room and found a sandwich from last year.",
+"exJa": "彼は部屋の掃除に取りかかり、去年のサンドイッチを見つけた。",
+"batch": 2
+},
+{
+"id": "i101",
+"en": "go on",
+"ja": "続ける；続いて行われる",
+"sf": "go on",
+"ex": "Please go on with your story; the part about the dragon was getting good.",
+"exJa": "話を続けて。ドラゴンの部分がおもしろくなってきたところだよ。",
+"batch": 3
+},
+{
+"id": "i102",
+"en": "go through",
+"ja": "（苦難を）経験する；通り抜ける",
+"sf": "went through",
+"ex": "He went through a lot of trouble to hide one cookie.",
+"exJa": "彼は、クッキー1枚を隠すために、たくさんの苦労をした。",
+"batch": 3
+},
+{
+"id": "i103",
+"en": "go off",
+"ja": "鳴り出す；爆発する",
+"sf": "went off",
+"ex": "My alarm went off at six, and I went off to sleep again.",
+"exJa": "目覚ましが6時に鳴ったが、私はまた眠りに入った。",
+"batch": 3
+},
+{
+"id": "i104",
+"en": "go with",
+"ja": "～に合う；～に付随する",
+"sf": "go with",
+"ex": "Does this hat go with my pajamas?",
+"exJa": "この帽子は私のパジャマに合うかな。",
+"batch": 3
+},
+{
+"id": "i105",
+"en": "go over",
+"ja": "～を見直す；調べる",
+"sf": "go over",
+"ex": "Let's go over the plan once more before the monkey sees it.",
+"exJa": "サルに見られる前に、計画をもう一度見直そう。",
+"batch": 3
+},
+{
+"id": "i106",
+"en": "go ahead",
+"ja": "先に進む；どうぞ",
+"sf": "Go ahead",
+"ex": "Go ahead and eat; I will wait for the cake.",
+"exJa": "先に食べて。私はケーキを待つから。",
+"batch": 3
+},
+{
+"id": "i107",
+"en": "go by",
+"ja": "（時が）過ぎる；通り過ぎる",
+"sf": "goes by",
+"ex": "Time goes by so fast when you are asleep in class.",
+"exJa": "授業中に寝ていると、時間がとても速く過ぎる。",
+"batch": 3
+},
+{
+"id": "i108",
+"en": "go out",
+"ja": "外出する；（火・明かりが）消える",
+"sf": "went out",
+"ex": "The lights went out, and the cat went out to look for the sun.",
+"exJa": "明かりが消え、ネコは太陽を探しに外出した。",
+"batch": 3
+},
+{
+"id": "i109",
+"en": "go back",
+"ja": "戻る；さかのぼる",
+"sf": "go back",
+"ex": "Let's go back to the shop; I forgot my wallet and my dignity.",
+"exJa": "店に戻ろう。財布とプライドを忘れた。",
+"batch": 3
+},
+{
+"id": "i110",
+"en": "go without",
+"ja": "～なしで済ませる",
+"sf": "go without",
+"ex": "I can go without sleep, but not without snacks.",
+"exJa": "睡眠なしでも済ませられるが、おやつなしは無理だ。",
+"batch": 3
+},
+{
+"id": "i111",
+"en": "go for",
+"ja": "～を選ぶ；～を目指す",
+"sf": "went for",
+"ex": "I went for the soup, and my brother went for the entire menu.",
+"exJa": "私はスープを選び、弟はメニュー全部を選んだ。",
+"batch": 3
+},
+{
+"id": "i112",
+"en": "go along with",
+"ja": "～に賛成する；同調する",
+"sf": "go along with",
+"ex": "I'll go along with your plan if it includes pizza.",
+"exJa": "ピザがふくまれているなら、あなたの計画に賛成するよ。",
+"batch": 3
+},
+{
+"id": "i113",
+"en": "come across",
+"ja": "～に偶然出会う；～を偶然見つける",
+"sf": "came across",
+"ex": "I came across my old diary, and I wished I hadn't.",
+"exJa": "古い日記を偶然見つけて、見なければよかったと思った。",
+"batch": 3
+},
+{
+"id": "i114",
+"en": "come about",
+"ja": "生じる；起こる",
+"sf": "come about",
+"ex": "How did this mess come about? Please ask the cat first.",
+"exJa": "このちらかりはどうして生じたの？ まずネコに聞いて。",
+"batch": 3
+},
+{
+"id": "i115",
+"en": "come up with",
+"ja": "～を思いつく",
+"sf": "came up with",
+"ex": "She came up with a plan to wash the dog with the dishes.",
+"exJa": "彼女は、犬を食器といっしょに洗う計画を思いついた。",
+"batch": 3
+},
+{
+"id": "i116",
+"en": "come true",
+"ja": "実現する",
+"sf": "came true",
+"ex": "My dream came true; I finally own a hat for my fish.",
+"exJa": "私の夢が実現した。ついに魚用の帽子を手に入れた。",
+"batch": 3
+},
+{
+"id": "i117",
+"en": "come out",
+"ja": "現れる；出版される",
+"sf": "came out",
+"ex": "The sun came out, and so did the umbrellas, just in case.",
+"exJa": "太陽が出てきて、念のためにかさも出てきた。",
+"batch": 3
+},
+{
+"id": "i118",
+"en": "come back",
+"ja": "戻ってくる",
+"sf": "come back",
+"ex": "Please come back before dinner gets cold or I eat it.",
+"exJa": "夕食がさめるか、私が食べてしまう前に戻ってきて。",
+"batch": 3
+},
+{
+"id": "i119",
+"en": "come to",
+"ja": "（合計が）～になる；意識を取り戻す",
+"sf": "comes to",
+"ex": "The bill comes to 3,000 yen, mostly for the soup.",
+"exJa": "お会計は3,000円で、ほとんどスープ代だ。",
+"batch": 3
+},
+{
+"id": "i120",
+"en": "come from",
+"ja": "～の出身である；～に由来する",
+"sf": "comes from",
+"ex": "This word comes from Latin, and so does my headache.",
+"exJa": "この単語はラテン語に由来し、私の頭痛もそうだ。",
+"batch": 3
+},
+{
+"id": "i121",
+"en": "come up",
+"ja": "近づく；話題に上る",
+"sf": "came up",
+"ex": "The topic of homework came up, and everyone suddenly left.",
+"exJa": "宿題の話が出ると、みんなが急にいなくなった。",
+"batch": 3
+},
+{
+"id": "i122",
+"en": "come down with",
+"ja": "（病気）にかかる",
+"sf": "come down with",
+"ex": "I always come down with a cold on the day of the test.",
+"exJa": "テストの日は、いつもかぜをひく。",
+"batch": 3
+},
+{
+"id": "i123",
+"en": "run out of",
+"ja": "～を使い果たす",
+"sf": "ran out of",
+"ex": "We ran out of milk, so the cat ran out of patience.",
+"exJa": "牛乳がなくなり、ネコは我慢の限界になった。",
+"batch": 3
+},
+{
+"id": "i124",
+"en": "run into",
+"ja": "～にばったり会う；～にぶつかる",
+"sf": "ran into",
+"ex": "I ran into my teacher at the supermarket, and we both hid behind the cabbage.",
+"exJa": "スーパーで先生にばったり会って、2人ともキャベツの陰に隠れた。",
+"batch": 3
+},
+{
+"id": "i125",
+"en": "run away",
+"ja": "逃げ出す",
+"sf": "ran away",
+"ex": "The cat ran away when she saw the bath.",
+"exJa": "ネコはおふろを見ると、逃げ出した。",
+"batch": 3
+},
+{
+"id": "i126",
+"en": "run over",
+"ja": "（車が）ひく；あふれる",
+"sf": "run over",
+"ex": "Be careful not to run over a snail on your bike.",
+"exJa": "自転車でカタツムリをひかないよう気をつけて。",
+"batch": 3
+},
+{
+"id": "i127",
+"en": "run after",
+"ja": "～を追いかける",
+"sf": "ran after",
+"ex": "He ran after the bus and the bus ran after the train.",
+"exJa": "彼はバスを追いかけ、バスは電車を追いかけた。",
+"batch": 3
+},
+{
+"id": "i128",
+"en": "run down",
+"ja": "衰える；けなす",
+"sf": "run down",
+"ex": "Don't run down your team; they are doing their best.",
+"exJa": "チームをけなさないで。みんな精いっぱいやっている。",
+"batch": 3
+},
+{
+"id": "i129",
+"en": "turn on",
+"ja": "（スイッチ）をつける",
+"sf": "turn on",
+"ex": "Please turn on the light; the cat is eating my homework.",
+"exJa": "電気をつけて。ネコが私の宿題を食べている。",
+"batch": 3
+},
+{
+"id": "i130",
+"en": "turn off",
+"ja": "（スイッチ）を消す",
+"sf": "turn off",
+"ex": "Turn off the TV, or the TV will turn off your brain.",
+"exJa": "テレビを消しなさい。さもないと、テレビがあなたの頭を消すよ。",
+"batch": 3
+},
+{
+"id": "i131",
+"en": "turn up",
+"ja": "現れる；（音量）を上げる",
+"sf": "turned up",
+"ex": "He turned up late with a pizza and no explanation.",
+"exJa": "彼はピザを持って、説明なしで遅れて現れた。",
+"batch": 3
+},
+{
+"id": "i132",
+"en": "turn down",
+"ja": "断る；（音量）を下げる",
+"sf": "turned down",
+"ex": "She turned down the invitation because the party had no snacks.",
+"exJa": "彼女は、パーティーにおやつがないので誘いを断った。",
+"batch": 3
+},
+{
+"id": "i133",
+"en": "turn out",
+"ja": "結局～になる；生産する",
+"sf": "turned out",
+"ex": "The mysterious package turned out to be a very large sock.",
+"exJa": "謎の荷物は、結局とても大きなくつ下だった。",
+"batch": 3
+},
+{
+"id": "i134",
+"en": "turn into",
+"ja": "～に変わる",
+"sf": "turned into",
+"ex": "The little puppy turned into a very large sofa.",
+"exJa": "小さな子犬は、とても大きなソファのようになった。",
+"batch": 3
+},
+{
+"id": "i135",
+"en": "turn in",
+"ja": "提出する；寝る",
+"sf": "turn in",
+"ex": "Please turn in your homework before the dog turns it in for you.",
+"exJa": "犬が代わりに提出する前に、宿題を出してください。",
+"batch": 3
+},
+{
+"id": "i136",
+"en": "turn away",
+"ja": "追い返す；顔をそむける",
+"sf": "turned away",
+"ex": "The guard turned away anyone without a ticket or a smile.",
+"exJa": "警備員は、チケットも笑顔もない人を追い返した。",
+"batch": 3
+},
+{
+"id": "i137",
+"en": "pass away",
+"ja": "亡くなる",
+"sf": "passed away",
+"ex": "His grandfather passed away peacefully at the age of ninety.",
+"exJa": "彼の祖父は、90歳で安らかに亡くなった。",
+"batch": 3
+},
+{
+"id": "i138",
+"en": "pass by",
+"ja": "通り過ぎる",
+"sf": "passed by",
+"ex": "The bus passed by without stopping, and my breakfast passed by in my mind.",
+"exJa": "バスは止まらず通り過ぎ、私の朝ごはんも頭の中を通り過ぎた。",
+"batch": 3
+},
+{
+"id": "i139",
+"en": "pass out",
+"ja": "気を失う；配る",
+"sf": "passed out",
+"ex": "He passed out in the heat, and the ice cream passed out with him.",
+"exJa": "彼は暑さで気を失い、アイスもいっしょにとけた。",
+"batch": 3
+},
+{
+"id": "i140",
+"en": "pass on",
+"ja": "伝える；次の人に渡す",
+"sf": "pass on",
+"ex": "Please pass on the message to your brother, and the cookie to me.",
+"exJa": "伝言は弟に、クッキーは私に渡して。",
+"batch": 3
+},
+{
+"id": "i141",
+"en": "hold on",
+"ja": "待つ；しっかりつかまる",
+"sf": "Hold on",
+"ex": "Hold on to the rope; the boat is about to meet a whale.",
+"exJa": "ロープにしっかりつかまって。船がクジラに会うところだ。",
+"batch": 3
+},
+{
+"id": "i142",
+"en": "hold back",
+"ja": "抑える；ひかえる",
+"sf": "held back",
+"ex": "She held back her laughter until the teacher left the room.",
+"exJa": "彼女は、先生が部屋を出るまで笑いを抑えた。",
+"batch": 3
+},
+{
+"id": "i143",
+"en": "hold out",
+"ja": "持ちこたえる；差し出す",
+"sf": "held out",
+"ex": "The old tent held out against the storm for exactly one minute.",
+"exJa": "古いテントは、嵐にちょうど1分間持ちこたえた。",
+"batch": 3
+},
+{
+"id": "i144",
+"en": "hold up",
+"ja": "遅らせる；強盗に入る",
+"sf": "held up",
+"ex": "An accident held up the train, and my breakfast held up my courage.",
+"exJa": "事故で電車が遅れ、朝ごはんが私の勇気を支えた。",
+"batch": 3
+},
+{
+"id": "i145",
+"en": "hold one's breath",
+"ja": "息を止める",
+"sf": "hold your breath",
+"ex": "Hold your breath, and count to ten before you open the fridge.",
+"exJa": "息を止めて、冷蔵庫を開ける前に10まで数えて。",
+"batch": 3
+},
+{
+"id": "i146",
+"en": "call on",
+"ja": "（人）を訪問する；求める",
+"sf": "called on",
+"ex": "The teacher called on me just when I was dreaming of lunch.",
+"exJa": "お昼の夢を見ていたちょうどそのとき、先生が私を指名した。",
+"batch": 3
+},
+{
+"id": "i147",
+"en": "call off",
+"ja": "中止する",
+"sf": "called off",
+"ex": "They called off the picnic because the ants arrived first.",
+"exJa": "アリが先に来たので、ピクニックは中止になった。",
+"batch": 3
+},
+{
+"id": "i148",
+"en": "call for",
+"ja": "要求する；迎えに行く",
+"sf": "calls for",
+"ex": "This recipe calls for three eggs and a lot of courage.",
+"exJa": "このレシピは、卵3個とたくさんの勇気を必要とする。",
+"batch": 3
+},
+{
+"id": "i149",
+"en": "call up",
+"ja": "電話する；思い出させる",
+"sf": "call up",
+"ex": "I'll call up my aunt and ask her to call off the party.",
+"exJa": "おばに電話して、パーティーを中止してもらうよう頼む。",
+"batch": 3
+},
+{
+"id": "i150",
+"en": "call back",
+"ja": "かけ直す",
+"sf": "call back",
+"ex": "Please call back after the cat finishes his dinner.",
+"exJa": "ネコが夕食を終えたら、かけ直して。",
+"batch": 3
+},
+{
+"id": "i151",
+"en": "look after",
+"ja": "～の面倒をみる",
+"sf": "looks after",
+"ex": "My grandmother looks after the garden, and the garden looks after her tea.",
+"exJa": "祖母は庭の面倒をみていて、庭は祖母のお茶の面倒をみている。",
+"batch": 4
+},
+{
+"id": "i152",
+"en": "look for",
+"ja": "～を探す",
+"sf": "looking for",
+"ex": "I'm looking for my glasses, which are on my head.",
+"exJa": "めがねを探しているが、頭の上にある。",
+"batch": 4
+},
+{
+"id": "i153",
+"en": "look into",
+"ja": "～を調査する",
+"sf": "look into",
+"ex": "The police will look into the case of the missing sandwich.",
+"exJa": "警察は、消えたサンドイッチ事件を調査する。",
+"batch": 4
+},
+{
+"id": "i154",
+"en": "look forward to",
+"ja": "～を楽しみに待つ",
+"sf": "look forward to",
+"ex": "I look forward to lunch from the moment I wake up.",
+"exJa": "起きた瞬間から、お昼を楽しみにしている。",
+"batch": 4
+},
+{
+"id": "i155",
+"en": "look out",
+"ja": "気をつける",
+"sf": "Look out",
+"ex": "Look out! The cat is carrying a plate of fish.",
+"exJa": "気をつけて！ ネコが魚のお皿を運んでいるよ。",
+"batch": 4
+},
+{
+"id": "i156",
+"en": "look up",
+"ja": "（辞書などで）調べる",
+"sf": "look it up",
+"ex": "If you don't know the word, look it up in the dictionary, not in your lunch.",
+"exJa": "知らない単語は、お弁当でなく辞書で調べなさい。",
+"batch": 4
+},
+{
+"id": "i157",
+"en": "look up to",
+"ja": "～を尊敬する",
+"sf": "looks up to",
+"ex": "My little brother looks up to me because I am taller than the fridge.",
+"exJa": "弟は、私が冷蔵庫より背が高いので、私を尊敬している。",
+"batch": 4
+},
+{
+"id": "i158",
+"en": "look down on",
+"ja": "～を見下す",
+"sf": "look down on",
+"ex": "Don't look down on someone just because he loses at chess to a cat.",
+"exJa": "ネコにチェスで負けたからといって、人を見下してはいけない。",
+"batch": 4
+},
+{
+"id": "i159",
+"en": "look over",
+"ja": "ざっと目を通す",
+"sf": "look over",
+"ex": "Please look over this report before the boss falls asleep.",
+"exJa": "上司が眠ってしまう前に、このレポートにざっと目を通して。",
+"batch": 4
+},
+{
+"id": "i160",
+"en": "look around",
+"ja": "見回す",
+"sf": "looked around",
+"ex": "She looked around the room but found only socks.",
+"exJa": "彼女は部屋を見回したが、くつ下しか見つからなかった。",
+"batch": 4
+},
+{
+"id": "i161",
+"en": "look like",
+"ja": "～に似ている；～のように見える",
+"sf": "looks like",
+"ex": "This cloud looks like a dog wearing a hat.",
+"exJa": "この雲は、帽子をかぶった犬に見える。",
+"batch": 4
+},
+{
+"id": "i162",
+"en": "look back",
+"ja": "振り返る",
+"sf": "look back",
+"ex": "When I look back, I see a lot of unfinished homework.",
+"exJa": "振り返ると、やりかけの宿題がたくさん見える。",
+"batch": 4
+},
+{
+"id": "i163",
+"en": "bring about",
+"ja": "～をもたらす",
+"sf": "bring about",
+"ex": "A single sneeze can bring about a lot of laughter in class.",
+"exJa": "1回のくしゃみが、教室に大きな笑いを引き起こすこともある。",
+"batch": 4
+},
+{
+"id": "i164",
+"en": "bring up",
+"ja": "育てる；（話題を）持ち出す",
+"sf": "brought up",
+"ex": "She was brought up by a baker, so she always smells like bread.",
+"exJa": "彼女はパン屋に育てられたので、いつもパンのにおいがする。",
+"batch": 4
+},
+{
+"id": "i165",
+"en": "bring out",
+"ja": "取り出す；引き出す",
+"sf": "bring out",
+"ex": "Good soup can bring out the best in a bad day.",
+"exJa": "おいしいスープは、悪い日のいちばんいいところを引き出せる。",
+"batch": 4
+},
+{
+"id": "i166",
+"en": "bring back",
+"ja": "持ち帰る；思い出させる",
+"sf": "brings back",
+"ex": "This smell brings back memories of my grandmother's kitchen.",
+"exJa": "このにおいは、祖母の台所の思い出を呼びもどす。",
+"batch": 4
+},
+{
+"id": "i167",
+"en": "bring in",
+"ja": "持ちこむ；稼ぐ",
+"sf": "brings in",
+"ex": "The little shop brings in more money from cats than from customers.",
+"exJa": "その小さな店は、客よりネコからのほうが多くを稼ぐ。",
+"batch": 4
+},
+{
+"id": "i168",
+"en": "bring to mind",
+"ja": "思い出させる",
+"sf": "brought to mind",
+"ex": "Your joke brought to mind a story about a very tall hat.",
+"exJa": "君の冗談で、とても背の高い帽子の話を思い出した。",
+"batch": 4
+},
+{
+"id": "i169",
+"en": "carry out",
+"ja": "実行する",
+"sf": "carry out",
+"ex": "We will carry out the experiment as soon as the cat leaves the lab.",
+"exJa": "ネコが実験室を出たらすぐ、実験を実行する。",
+"batch": 4
+},
+{
+"id": "i170",
+"en": "carry on",
+"ja": "続ける",
+"sf": "carry on",
+"ex": "Please carry on working while I take a nap.",
+"exJa": "私が昼寝している間も、仕事を続けて。",
+"batch": 4
+},
+{
+"id": "i171",
+"en": "carry away",
+"ja": "夢中にさせる；運び去る",
+"sf": "carried away",
+"ex": "I got carried away and bought forty-two balloons.",
+"exJa": "夢中になって、風船を42個買ってしまった。",
+"batch": 4
+},
+{
+"id": "i172",
+"en": "break down",
+"ja": "故障する；くじける",
+"sf": "broke down",
+"ex": "The car broke down, so we turned the trip into a walk.",
+"exJa": "車が故障したので、旅行を散歩に変えた。",
+"batch": 4
+},
+{
+"id": "i173",
+"en": "break out",
+"ja": "（戦争・火事などが）起こる",
+"sf": "broke out",
+"ex": "A fight broke out over the last slice of pizza.",
+"exJa": "最後のピザ1切れをめぐって、けんかが起こった。",
+"batch": 4
+},
+{
+"id": "i174",
+"en": "break up",
+"ja": "解散する；別れる",
+"sf": "broke up",
+"ex": "The band broke up because they all wanted to sing the same part.",
+"exJa": "全員が同じパートを歌いたがったので、バンドは解散した。",
+"batch": 4
+},
+{
+"id": "i175",
+"en": "break into",
+"ja": "～に侵入する",
+"sf": "broke into",
+"ex": "A raccoon broke into our kitchen and left a thank-you note.",
+"exJa": "アライグマが台所に侵入して、お礼の手紙を残した。",
+"batch": 4
+},
+{
+"id": "i176",
+"en": "break in",
+"ja": "話に割りこむ；押し入る",
+"sf": "broke in",
+"ex": "He broke in with a joke nobody had asked for.",
+"exJa": "彼は、誰も頼んでいない冗談で話に割りこんだ。",
+"batch": 4
+},
+{
+"id": "i177",
+"en": "break away",
+"ja": "逃れる；離れる",
+"sf": "break away",
+"ex": "The little dog tried to break away from the bath.",
+"exJa": "小さな犬は、おふろから逃れようとした。",
+"batch": 4
+},
+{
+"id": "i178",
+"en": "break the ice",
+"ja": "緊張をほぐす",
+"sf": "break the ice",
+"ex": "A joke about socks helped break the ice at the party.",
+"exJa": "くつ下の冗談が、パーティーの緊張をほぐした。",
+"batch": 4
+},
+{
+"id": "i179",
+"en": "cut down",
+"ja": "減らす；切り倒す",
+"sf": "cut down",
+"ex": "I'm trying to cut down on sweets, starting after this cake.",
+"exJa": "甘いものを減らそうとしている。このケーキのあとから。",
+"batch": 4
+},
+{
+"id": "i180",
+"en": "cut off",
+"ja": "切り離す；中断する",
+"sf": "cut off",
+"ex": "The storm cut off the town from the rest of the world.",
+"exJa": "嵐のため、町は外の世界から切り離された。",
+"batch": 4
+},
+{
+"id": "i181",
+"en": "cut in",
+"ja": "割りこむ",
+"sf": "cut in",
+"ex": "Don't cut in line; the line has feelings.",
+"exJa": "列に割りこまないで。列にも気持ちがあるんだよ。",
+"batch": 4
+},
+{
+"id": "i182",
+"en": "cut out",
+"ja": "切り抜く；やめる",
+"sf": "cut out",
+"ex": "Cut out the pictures, and cut out the noise.",
+"exJa": "絵を切り抜いて、騒ぐのをやめなさい。",
+"batch": 4
+},
+{
+"id": "i183",
+"en": "drop by",
+"ja": "立ち寄る",
+"sf": "drop by",
+"ex": "Drop by anytime; the cat will open the door, probably.",
+"exJa": "いつでも立ち寄って。ネコがドアを開けるはずだ。",
+"batch": 4
+},
+{
+"id": "i184",
+"en": "drop out",
+"ja": "退学する；脱落する",
+"sf": "dropped out",
+"ex": "He dropped out of school to become a professional napper.",
+"exJa": "彼は、プロの昼寝家になるために退学した。",
+"batch": 4
+},
+{
+"id": "i185",
+"en": "drop off",
+"ja": "眠りこむ；（人・物）を降ろす",
+"sf": "dropped off",
+"ex": "Dad dropped off during the movie, and the movie dropped off the cliff.",
+"exJa": "父は映画の途中で眠りこみ、映画は崖から落ちた。",
+"batch": 4
+},
+{
+"id": "i186",
+"en": "fall asleep",
+"ja": "眠りこむ",
+"sf": "fall asleep",
+"ex": "I always fall asleep when someone says \"Let's talk about taxes.\"",
+"exJa": "「税金の話をしよう」と言われると、いつも眠ってしまう。",
+"batch": 4
+},
+{
+"id": "i187",
+"en": "fall in love with",
+"ja": "～と恋に落ちる",
+"sf": "fell in love with",
+"ex": "He fell in love with a girl who laughed at his hat.",
+"exJa": "彼は、自分の帽子を笑った女の子と恋に落ちた。",
+"batch": 4
+},
+{
+"id": "i188",
+"en": "fall behind",
+"ja": "遅れをとる",
+"sf": "fall behind",
+"ex": "Don't fall behind on your homework, or the dog will not help.",
+"exJa": "宿題に遅れないで。犬は助けてくれないよ。",
+"batch": 4
+},
+{
+"id": "i189",
+"en": "fall apart",
+"ja": "ばらばらになる",
+"sf": "fell apart",
+"ex": "My umbrella fell apart in the first gust of wind.",
+"exJa": "私のかさは、最初の風でばらばらになった。",
+"batch": 4
+},
+{
+"id": "i190",
+"en": "pull over",
+"ja": "（車を）道端に寄せる",
+"sf": "pulled over",
+"ex": "The driver pulled over to ask the sheep for directions.",
+"exJa": "運転手は、ヒツジに道を聞くために車を道端に寄せた。",
+"batch": 4
+},
+{
+"id": "i191",
+"en": "pull down",
+"ja": "取り壊す",
+"sf": "pulled down",
+"ex": "They pulled down the old school and built a bigger gym.",
+"exJa": "彼らは古い校舎を取り壊して、もっと大きな体育館を建てた。",
+"batch": 4
+},
+{
+"id": "i192",
+"en": "pick up",
+"ja": "拾う；迎えに行く",
+"sf": "pick up",
+"ex": "I'll pick up my sister at the station if the train is on time.",
+"exJa": "電車が時間通りなら、駅に姉を迎えに行く。",
+"batch": 4
+},
+{
+"id": "i193",
+"en": "pick out",
+"ja": "選び出す",
+"sf": "pick out",
+"ex": "Please pick out a book that has more pictures than words.",
+"exJa": "文字より絵が多い本を選んで。",
+"batch": 4
+},
+{
+"id": "i194",
+"en": "send for",
+"ja": "～を呼びにやる",
+"sf": "send for",
+"ex": "Quick! Send for a doctor, the cat has eaten the plant!",
+"exJa": "急いで！ 医者を呼んで。ネコが植木を食べた！",
+"batch": 4
+},
+{
+"id": "i195",
+"en": "show up",
+"ja": "姿を見せる；顔を出す",
+"sf": "showed up",
+"ex": "He showed up two hours late and asked if the party was over.",
+"exJa": "彼は2時間遅れて顔を出して、パーティーは終わったかとたずねた。",
+"batch": 4
+},
+{
+"id": "i196",
+"en": "show off",
+"ja": "見せびらかす",
+"sf": "show off",
+"ex": "He likes to show off his new shoes to the dog.",
+"exJa": "彼は新しいくつを、犬に見せびらかすのが好きだ。",
+"batch": 4
+},
+{
+"id": "i197",
+"en": "stand for",
+"ja": "～を表す；～に耐える",
+"sf": "stand for",
+"ex": "What does \"UFO\" stand for? Unusual Flying Omelet?",
+"exJa": "UFOは何を表す？ 変わった空飛ぶオムレツ？",
+"batch": 4
+},
+{
+"id": "i198",
+"en": "stand by",
+"ja": "そばにいる；待機する",
+"sf": "stand by",
+"ex": "Please stand by; the soup will be ready in a minute.",
+"exJa": "少々お待ちください。スープはあと1分でできます。",
+"batch": 4
+},
+{
+"id": "i199",
+"en": "stand out",
+"ja": "目立つ",
+"sf": "stand out",
+"ex": "With that hat, you will stand out in any crowd.",
+"exJa": "その帽子なら、どんな人ごみでも目立つよ。",
+"batch": 4
+},
+{
+"id": "i200",
+"en": "stay up",
+"ja": "夜更かしする",
+"sf": "stayed up",
+"ex": "I stayed up all night to finish a game I will never finish.",
+"exJa": "終わらないゲームを終わらせようと、夜通し起きていた。",
+"batch": 4
 }
 ]
 }
